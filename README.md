@@ -12,4 +12,4 @@
 ## Regular Verb Completion
 - [x] **First Conjugation, No Spelling Changes**: Parlar chosen
 - [ ] **Second Conjugation, No Spelling Changes**:
-- [ ] **Third Conjugation, Pure, No Spelling Changes**: Dormir chosen
+- [x] **Third Conjugation, Pure, No Spelling Changes**: Dormir chosen
