@@ -1,58 +1,58 @@
 #separator:tab
 #html:true
 #tags column:4
+~ Mentre estava treballant... ~<br><br>jo estava {{c1::parlant::…parlar…}} amb els meus amics.			
+♂ El llibre està {{c1::parlat::…parlar…}}. ♂			
+♂ La història està {{c1::parlada::…parlar…}}. ♂			
+♂♂ Els documents estan {{c1::parlats::…parlar…}}. ♂♂			
+♀♀ Les cartes estan {{c1::parlades::…parlar…}}. ♀♀			
 ⊙ Actualment, ⊙<br><br>jo {{c1::parlo::…parlar…}} català cada dia.		<b>Parlar </b>is a regular verb in the first conjugation (-ar).	
 ⊙ En aquest moment, ⊙<br><br>tu {{c1::parles::…parlar…}} amb els teus amics sovint.		<b>Parlar </b>is a regular verb in the first conjugation (-ar).	
 ⊙ Ara mateix, ⊙<br><br>ell {{c1::parla::…parlar…}} molt bé l'anglès.		<b>Parlar </b>is a regular verb in the first conjugation (-ar).	
 ⊙ En aquest moment, ⊙<br><br>nosaltres {{c1::parlem::…parlar…}} sobre el projecte ara mateix.		<b>Parlar </b>is a regular verb in the first conjugation (-ar).	
 ⊙ Actualment, ⊙<br><br>vosaltres {{c1::parleu::…parlar…}} massa ràpid.		<b>Parlar </b>is a regular verb in the first conjugation (-ar).	
 ⊙ En aquest moment, ⊙<br><br>ells {{c1::parlen::…parlar…}} amb els seus professors.		<b>Parlar </b>is a regular verb in the first conjugation (-ar).	
-⇠ Abans, ⇠<br>jo {{c1::parlava::…parlar…}} català amb els meus avis.			
-⇠ Quan érem petits, ⇠<br>tu {{c1::parlaves::…parlar…}} més sovint amb els teus cosins.			
-⇠ Fa uns anys, ⇠<br>ella {{c1::parlava::…parlar…}} només castellà a casa seva.			
-⇠ Durant l'escola, ⇠<br>nosaltres {{c1::parlàvem::…parlar…}} en veu baixa a classe.			
-⇠ De joves, ⇠<br>vosaltres {{c1::parlàveu::…parlar…}} molt de les vostres aventures.			
-⇠ Abans, ⇠<br>ells {{c1::parlaven::…parlar…}} amb els seus veïns cada dia.			
-↧ En aquell moment, ↧<br>jo {{c1::parlé::…parlar…}} amb els meus amics.			
-↧ L'any passat, ↧<br>tu {{c1::parlares::…parlar…}} amb el professor.			
-↧ Ahir, ↧<br>ell {{c1::parló::…parlar…}} sobre el projecte.			
-↧ Fa unes setmanes, ↧<br>nosaltres {{c1::parlàrem::…parlar…}} amb els veïns.			
-↧ Fa poc, ↧<br>vosaltres {{c1::parlàreu::…parlar…}} amb els clients.			
-↧ Durant les vacances, ↧<br>ells {{c1::parlaren::…parlar…}} amb els seus parents.			
-→ Demà, →<br>jo {{c1::parlaré::…parlar…}} amb els meus amics.			
-→ La setmana que ve, →<br>tu {{c1::parlaràs::…parlar…}} amb el professor.			
-→ Més tard, →<br>ell {{c1::parlarà::…parlar…}} sobre el projecte.			
-→ En el futur, →<br>nosaltres {{c1::parlarem::…parlar…}} amb els veïns.			
-→ Aviat, →<br>vosaltres {{c1::parlareu::…parlar…}} amb els clients.			
-→ Quan arribin, →<br>ells {{c1::parlaran::…parlar…}} amb els seus parents.			
-〰 És important que 〰<br>jo {{c1::parli::…parlar…}} amb els meus amics.			
-〰 Espero que 〰<br>tu {{c1::parlis::…parlar…}} amb el professor.			
-〰 És possible que 〰<br>ell {{c1::parli::…parlar…}} sobre el projecte.			
-〰 És necessari que 〰<br>nosaltres {{c1::parlem::…parlar…}} amb els veïns.			
-〰 Dubto que 〰<br>vosaltres {{c1::parleu::…parlar…}} amb els clients.			
-〰 És probable que 〰<br>ells {{c1::parlin::…parlar…}} amb els seus parents.			
-↫ Si fos possible que ↫<br>jo {{c1::parlés::…parlar…}} amb els meus amics, ho faria.			
-↫ Desitjaria que ↫<br>tu {{c1::parlessis::…parlar…}} més amb el professor.			
-↫ Seria bo que ↫ell {{c1::parlés::…parlar…}} sobre el projecte.			
-↫ M’agradaria que ↫nosaltres {{c1::parléssim::…parlar…}} amb els veïns més sovint.			
-↫ Voldria que ↫vosaltres {{c1::parléssiu::…parlar…}} amb els clients.			
-↫ Era necessari que ↫<br>ells {{c1::parlessin::…parlar…}} amb els seus parents.			
-… Si pogués, …<br>jo {{c1::parlaria::…parlar…}} amb els meus amics més sovint.			
-… Si tinguessis temps, …<br>tu {{c1::parlaries::…parlar…}} amb el professor.			
-… Ell {{c1::parlaria::…parlar…}} sobre el projecte, …<br>si li ho demanessin.			
-… Si fos necessari, …<br>nosaltres {{c1::parlaríem::…parlar…}} amb els veïns.			
-… Vosaltres {{c1::parlaríeu::…parlar…}} amb els clients, …<br>si tinguéssiu l'oportunitat.			
-… Si ho sabessin, …<br>ells {{c1::parlarien::…parlar…}} amb els seus parents.			
-! Ara mateix, !<br>tu {{c1::parla::…parlar…}} amb els teus amics!			
-! Si us plau, !<br>vostè {{c1::parli::…parlar…}} amb el professor!			
-! Anem, !<br>nosaltres {{c1::parlem::…parlar…}} sobre aquest projecte!			
-! Ara, !<br>vosaltres {{c1::parleu::…parlar…}} amb els veïns!			
-! Immediatament, !<br>vostès {{c1::parlin::…parlar…}} amb els clients!			
-~ Mentre estava treballant... ~<br><br>jo estava {{c1::parlant::…parlar…}} amb els meus amics.			
-♂ El llibre està {{c1::parlat::…parlar…}}. ♂			
-♂ La història està {{c1::parlada::…parlar…}}. ♂			
-♂♂ Els documents estan {{c1::parlats::…parlar…}}. ♂♂			
-♀♀ Les cartes estan {{c1::parlades::…parlar…}}. ♀♀			
+↧ En aquell moment, ↧<br><br>jo {{c1::parlé::…parlar…}} amb els meus amics.
+↧ L'any passat, ↧<br><br>tu {{c1::parlares::…parlar…}} amb el professor.
+↧ Ahir, ↧<br><br>ell {{c1::parló::…parlar…}} sobre el projecte.
+↧ Fa unes setmanes, ↧<br><br>nosaltres {{c1::parlàrem::…parlar…}} amb els veïns.
+↧ Fa poc, ↧<br><br>vosaltres {{c1::parlàreu::…parlar…}} amb els clients.
+↧ Durant les vacances, ↧<br><br>ells {{c1::parlaren::…parlar…}} amb els seus parents.
+⇠ Abans, ⇠<br><br>jo {{c1::parlava::…parlar…}} català amb els meus avis.
+⇠ Quan érem petits, ⇠<br><br>tu {{c1::parlaves::…parlar…}} més sovint amb els teus cosins.
+⇠ Fa uns anys, ⇠<br><br>ella {{c1::parlava::…parlar…}} només castellà a casa seva.
+⇠ Durant l'escola, ⇠<br><br>nosaltres {{c1::parlàvem::…parlar…}} en veu baixa a classe.
+⇠ De joves, ⇠<br><br>vosaltres {{c1::parlàveu::…parlar…}} molt de les vostres aventures.
+⇠ Abans, ⇠<br><br>ells {{c1::parlaven::…parlar…}} amb els seus veïns cada dia.
+→ Demà, →<br><br>jo {{c1::parlaré::…parlar…}} amb els meus amics.
+→ La setmana que ve, →<br><br>tu {{c1::parlaràs::…parlar…}} amb el professor.
+→ Més tard, →<br><br>ell {{c1::parlarà::…parlar…}} sobre el projecte.
+→ En el futur, →<br><br>nosaltres {{c1::parlarem::…parlar…}} amb els veïns.
+→ Aviat, →<br><br>vosaltres {{c1::parlareu::…parlar…}} amb els clients.
+→ Quan arribin, →<br><br>ells {{c1::parlaran::…parlar…}} amb els seus parents.
+〰 És important que 〰<br><br>jo {{c1::parli::…parlar…}} amb els meus amics.
+〰 Espero que 〰<br><br>tu {{c1::parlis::…parlar…}} amb el professor.
+〰 És possible que 〰<br><br>ell {{c1::parli::…parlar…}} sobre el projecte.
+〰 És necessari que 〰<br><br>nosaltres {{c1::parlem::…parlar…}} amb els veïns.
+〰 Dubto que 〰<br><br>vosaltres {{c1::parleu::…parlar…}} amb els clients.
+〰 És probable que 〰<br><br>ells {{c1::parlin::…parlar…}} amb els seus parents.
+↫ Si fos possible que ↫<br><br>jo {{c1::parlés::…parlar…}} amb els meus amics, ho faria.
+↫ Desitjaria que ↫<br><br>tu {{c1::parlessis::…parlar…}} més amb el professor.
+↫ Seria bo que ↫<br><br>ell {{c1::parlés::…parlar…}} sobre el projecte.
+↫ M’agradaria que ↫<br><br>nosaltres {{c1::parléssim::…parlar…}} amb els veïns més sovint.
+↫ Voldria que ↫<br><br>vosaltres {{c1::parléssiu::…parlar…}} amb els clients.
+↫ Era necessari que ↫<br><br>ells {{c1::parlessin::…parlar…}} amb els seus parents.
+… Si pogués, …<br><br>jo {{c1::parlaria::…parlar…}} amb els meus amics més sovint.
+… Si tinguessis temps, …<br><br>tu {{c1::parlaries::…parlar…}} amb el professor.
+… Ell {{c1::parlaria::…parlar…}} sobre el projecte, …<br><br>si li ho demanessin.
+… Si fos necessari, …<br><br>nosaltres {{c1::parlaríem::…parlar…}} amb els veïns.
+… Vosaltres {{c1::parlaríeu::…parlar…}} amb els clients, …<br><br>si tinguéssiu l'oportunitat.
+… Si ho sabessin, …<br><br>ells {{c1::parlarien::…parlar…}} amb els seus parents.
+! Ara mateix, !<br><br>tu {{c1::parla::…parlar…}} amb els teus amics!
+! Si us plau, !<br><br>vostè {{c1::parli::…parlar…}} amb el professor!
+! Anem, !<br><br>nosaltres {{c1::parlem::…parlar…}} sobre aquest projecte!
+! Ara, !<br><br>vosaltres {{c1::parleu::…parlar…}} amb els veïns!
+! Immediatament, !<br><br>vostès {{c1::parlin::…parlar…}} amb els clients!
 ~ Mentre estava ~<br><br>{{c1::essent::…ser…}} professor, vaig aprendre molt.			
 ~ Jo crec que ~<br><br>està {{c1::sent::…ésser…}} honesta.			
 ♂ En Tomàs ♂<br><br>ha {{c1::estat::…ser…}} absolt.			
@@ -63,24 +63,24 @@
 ♂♂ Després de ser examinats, ♂♂<br><br>{{c1::siguts::…ésser…}} els millors estudiants de la classe.			
 ♀♀ Una vegada resoltes, ♀♀<br><br>{{c1::estades::…ser…}} molt felices de veure't.			
 ♀♀ Acabades les proves, ♀♀<br><br>{{c1::sigudes::…ésser…}} acceptades en el programa.			
-⊙ Actualment, ⊙<br><br>jo {{c1::sóc::…ser…}} metge.			
-⊙ En aquest moment, ⊙<br><br>tu {{c1::ets::…ser…}} estudiant.			
-⊙ Ara, ⊙<br><br>ell {{c1::és::…ser…}} professor.			
-⊙ I ara amb mi, ⊙<br>ja en {{c1::som::…ser…}} un més."			
-⊙ Jo sóc de dalt, ⊙<br><br>vosaltres {{c1::sou::…ser…}} d'aquest món.			
-⊙ Els rics ⊙<br><br>sovint {{c1::són::…ser…}} miserables.			
-⇠ En aquella època. ⇠<br><br>jo {{c1::era::…ser…}} un estudiant.			
+⊙ Actualment, ⊙<br><br>jo {{c1::sóc::…ser/ésser…}} metge.			
+⊙ En aquest moment, ⊙<br><br>tu {{c1::ets::…ser/ésser…}} estudiant.			
+⊙ Ara, ⊙<br><br>ell {{c1::és::…ser/ésser…}} professor.			
+⊙ I ara amb mi, ⊙<br>ja en {{c1::som::…ser/ésser…}} un més."			
+⊙ Jo sóc de dalt, ⊙<br><br>vosaltres {{c1::sou::…ser/ésser…}} d'aquest món.			
+⊙ Els rics ⊙<br><br>sovint {{c1::són::…ser/ésser…}} miserables.		
+↧ Ahir, per un moment, ↧ <br><br>jo {{c1::fui::…ser/ésser…}} un gat.			
+↧ Ahir, ↧<br><br>tu {{c1::fores::…ser/ésser…}} molt amable.			
+↧ L'any 573, ↧<br><br>la ciutat {{c1::fou::…ser/ésser…}} fundada.			
+↧ Abans-ahir, ↧<br><br>nosaltres {{c1::fórem::…ser/ésser…}} molt amables amb els visitants.			
+↧ En aquell moment, ↧<br><br>vosaltres {{c1::fóreu::…ser/ésser…}} molt amables amb els visitants.			
+↧ L'any 2010, ↧<br>Ells {{c1::foren::…ser/ésser…}} seleccionats per l'equip nacional.				
+⇠ En aquella època. ⇠<br><br>jo {{c1::era::…ser/ésser…}} un estudiant.			
 ⇠ Quan érem joves, ⇠<br><br>tu {{c1::eres::…ser/ésser…}} molt actiu.			
 ⇠ Fa uns anys, ⇠<br><br>ella {{c1::era::…ser/ésser…}} professora.			
 ⇠ En aquell temps, ⇠<br><br>nosaltres {{c1::érem::…ser/ésser…}} veïns.			
 ⇠ De joves, ⇠<br><br>vosaltres {{c1::èreu::…ser/ésser…}} amics.			
 ⇠ Molt abans, ⇠<br><br>ells {{c1::eren::…ser/ésser…}} col·legues.			
-↧ Ahir, per un moment, ↧ <br><br>jo {{c1::fui::…ser…}} un gat.			
-↧ Ahir, ↧<br><br>tu {{c1::fores::…ésser…}} molt amable.			
-↧ L'any 573, ↧<br><br>la ciutat {{c1::fou::…ser/ésser…}} fundada.			
-↧ Abans-ahir, ↧<br><br>nosaltres {{c1::fórem::…ésser…}} molt amables amb els visitants.			
-↧ En aquell moment, ↧<br><br>vosaltres {{c1::fóreu::…ésser…}} molt amables amb els visitants.			
-↧ L'any 2010, ↧<br>Ells {{c1::foren::…ésser…}} seleccionats per l'equip nacional.			
 → Demà, →<br><br>jo {{c1::seré::…ser/ésser…}} famós.			
 → L'any vinent, →<br><br>tu {{c1::seràs::…ser/ésser…}} campió.			
 → En deu anys, →<br><br>ella {{c1::serà::…ser/ésser…}} directora.			
@@ -314,7 +314,7 @@
 … En un món ideal, …<br><br> nosaltres {{c1::tindríem::…tenir…}} més recursos.
 … Si la situació fos diferent, …<br><br> vosaltres {{c1::tindríeu::…tenir…}} més opcions.
 … Si les circumstàncies ho permetessin, …<br><br> ells {{c1::tindrien::…tenir…}} una oportunitat única.
-! Ara mateix, !<br><br> tu {{c1::ten/té/tingues::…tenir…}} cura!<br>
+! Ara mateix, !<br><br> tu {{c1::ten/té/tingues::…tenir…}} cura!
 ! Si us plau, !<br><br> vostè {{c1::tingui::…tenir…}} paciència.
 ! Anem, !<br><br> nosaltres {{c1::tinguem::…tenir…}} fe en el procés.
 ! Ara, !<br><br> vosaltres {{c1::teniu/tingueu::…tenir…}} confiança en vosaltres mateixos.
