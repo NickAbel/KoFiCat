@@ -319,3 +319,55 @@
 ! Anem, !<br><br> nosaltres {{c1::tinguem::…tenir…}} fe en el procés.
 ! Ara, !<br><br> vosaltres {{c1::teniu/tingueu::…tenir…}} confiança en vosaltres mateixos.
 ! Immediatament, !<br><br> vostès {{c1::tinguin::…tenir…}} en compte els detalls.
+~ Mentre estic llegint, ~<br><br> jo {{c1::dormint::…dormir…}} em sento descansat.
+♂ Després de la nit, ♂<br><br> ell {{c1::ha dormit::…dormir…}} profundament.
+♀ Una vegada acabat el viatge, ♀<br><br> ella {{c1::ha dormida::…dormir…}} durant tot el vol.
+♂♂ Després d'un llarg dia, ♂♂<br><br> ells {{c1::han dormits::…dormir…}} fins tard.
+♀♀ Acabades les celebracions, ♀♀<br><br> elles {{c1::han dormides::…dormir…}} profundament.
+⊙ Actualment, ⊙<br><br> jo {{c1::dormo::…dormir…}} vuit hores cada nit.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::dorms::…dormir…}} com un tronc.
+⊙ Ara, ⊙<br><br> ell {{c1::dorm::…dormir…}} en una habitació fosca.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::dormim::…dormir…}} tranquil·lament.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::dormiu::…dormir…}} poc a causa de l'estrès.
+⊙ Aquesta nit, ⊙<br><br> ells {{c1::dormen::…dormir…}} amb els seus gossos.
+↧ Ahir, ↧<br><br> jo {{c1::dormí::…dormir…}} només quatre hores.
+↧ La setmana passada, ↧<br><br> tu {{c1::dormires::…dormir…}} molt poc.
+↧ El mes passat, ↧<br><br> ell {{c1::dormí::…dormir…}} com un nadó.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::dormírem::…dormir…}} en una cabana.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::dormíreu::…dormir…}} en tendes de campanya.
+↧ Hace dos días, ↧<br><br> ells {{c1::dormiren::…dormir…}} sota les estrelles.
+⇠ Abans, ⇠<br><br> jo {{c1::dormia::…dormir…}} menys quan era estudiant.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::dormies::…dormir…}} molt al cotxe.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::dormia::…dormir…}} al sofà.
+⇠ Durant l'estiu, ⇠<br><br> nosaltres {{c1::dormíem::…dormir…}} amb les finestres obertes.
+⇠ Quan éreu joves, ⇠<br><br> vosaltres {{c1::dormíeu::…dormir…}} fins tard.
+⇠ Molt abans, ⇠<br><br> ells {{c1::dormien::…dormir…}} més hores.
+→ Demà, →<br><br> jo {{c1::dormiré::…dormir…}} a la platja.
+→ La setmana vinent, →<br><br> tu {{c1::dormiràs::…dormir…}} en un hotel.
+→ En un any, →<br><br> ell {{c1::dormirà::…dormir…}} a casa seva.
+→ En cinc anys, →<br><br> nosaltres {{c1::dormirem::…dormir…}} en un vaixell.
+→ Aviat, →<br><br> vosaltres {{c1::dormireu::…dormir…}} a l'aire lliure.
+→ Quan arribin, →<br><br> ells {{c1::dormiran::…dormir…}} sense interrupcions.
+〰 Espero que 〰<br><br> jo {{c1::dormi::…dormir…}} bé aquesta nit.
+〰 Pot ser que 〰<br><br> tu {{c1::dormis::…dormir…}} durant el viatge.
+〰 És possible que 〰<br><br> ell {{c1::dormi::…dormir…}} més de vuit hores.
+〰 És necessari que 〰<br><br> nosaltres {{c1::dormim::…dormir…}} prou per descansar.
+〰 Dubto que 〰<br><br> vosaltres {{c1::dormiu::…dormir…}} aquesta nit.
+〰 És probable que 〰<br><br> ells {{c1::dormin::…dormir…}} durant tot el vol.
+↫ Si fos possible que ↫<br><br> jo {{c1::dormís::…dormir…}} més, ho faria.
+↫ Desitjaria que ↫<br><br> tu {{c1::dormissis::…dormir…}} millor.
+↫ Seria bo que ↫<br><br> ell {{c1::dormís::…dormir…}} més hores.
+↫ M’agradaria que ↫<br><br> nosaltres {{c1::dormíssim::…dormir…}} junts.
+↫ Voldria que ↫<br><br> vosaltres {{c1::dormíssiu::…dormir…}} més.
+↫ Era necessari que ↫<br><br> ells {{c1::dormissin::…dormir…}} en llits còmodes.
+… Si pogués, …<br><br> jo {{c1::dormiria::…dormir…}} tot el dia.
+… Si tinguessis temps, …<br><br> tu {{c1::dormiries::…dormir…}} més.
+… Ell {{c1::dormiria::…dormir…}} més, …<br><br>si no estigués tan ocupat.
+… Si fos necessari, …<br><br> nosaltres {{c1::dormiríem::…dormir…}} al cotxe.
+… Vosaltres {{c1::dormiríeu::…dormir…}} millor, …<br><br>si la música no fos tan forta.
+… Si ho sabessin, …<br><br> ells {{c1::dormirien::…dormir…}} amb més tranquil·litat.
+! Ara mateix, !<br><br> tu {{c1::dorm::…dormir…}} abans que sigui tard!
+! Si us plau, !<br><br> vostè {{c1::dormi::…dormir…}} fins que sigui necessari.
+! Anem, !<br><br> nosaltres {{c1::dormim::…dormir…}} abans del viatge!
+! Ara, !<br><br> vosaltres {{c1::dormiu::…dormir…}} fins tard!
+! Immediatament, !<br><br> vostès {{c1::dormin::…dormir…}} quan arribin!
