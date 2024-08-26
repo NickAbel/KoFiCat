@@ -5,9 +5,9 @@
 ## Auxiliaries
 - [x] **Ser/Ésser**
 - [x] **Estar**
-- [x] **Tenir**
 - [x] **Haver**
 - [x] **Anar**
+- [x] **Tenir**
 
 ## Regular Verb Completion
 - [x] **First Conjugation, No Spelling Changes**: Parlar chosen
