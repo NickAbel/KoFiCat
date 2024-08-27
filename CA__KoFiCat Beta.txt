@@ -1,58 +1,6 @@
 #separator:tab
 #html:true
 #tags column:4
-~ Mentre estava treballant... ~<br><br>jo estava {{c1::parlant::…parlar…}} amb els meus amics.			
-♂ El llibre està {{c1::parlat::…parlar…}}. ♂			
-♂ La història està {{c1::parlada::…parlar…}}. ♂			
-♂♂ Els documents estan {{c1::parlats::…parlar…}}. ♂♂			
-♀♀ Les cartes estan {{c1::parlades::…parlar…}}. ♀♀			
-⊙ Actualment, ⊙<br><br>jo {{c1::parlo::…parlar…}} català cada dia.		<b>Parlar </b>is a regular verb in the first conjugation (-ar).	
-⊙ En aquest moment, ⊙<br><br>tu {{c1::parles::…parlar…}} amb els teus amics sovint.		<b>Parlar </b>is a regular verb in the first conjugation (-ar).	
-⊙ Ara mateix, ⊙<br><br>ell {{c1::parla::…parlar…}} molt bé l'anglès.		<b>Parlar </b>is a regular verb in the first conjugation (-ar).	
-⊙ En aquest moment, ⊙<br><br>nosaltres {{c1::parlem::…parlar…}} sobre el projecte ara mateix.		<b>Parlar </b>is a regular verb in the first conjugation (-ar).	
-⊙ Actualment, ⊙<br><br>vosaltres {{c1::parleu::…parlar…}} massa ràpid.		<b>Parlar </b>is a regular verb in the first conjugation (-ar).	
-⊙ En aquest moment, ⊙<br><br>ells {{c1::parlen::…parlar…}} amb els seus professors.		<b>Parlar </b>is a regular verb in the first conjugation (-ar).	
-↧ En aquell moment, ↧<br><br>jo {{c1::parlé::…parlar…}} amb els meus amics.
-↧ L'any passat, ↧<br><br>tu {{c1::parlares::…parlar…}} amb el professor.
-↧ Ahir, ↧<br><br>ell {{c1::parló::…parlar…}} sobre el projecte.
-↧ Fa unes setmanes, ↧<br><br>nosaltres {{c1::parlàrem::…parlar…}} amb els veïns.
-↧ Fa poc, ↧<br><br>vosaltres {{c1::parlàreu::…parlar…}} amb els clients.
-↧ Durant les vacances, ↧<br><br>ells {{c1::parlaren::…parlar…}} amb els seus parents.
-⇠ Abans, ⇠<br><br>jo {{c1::parlava::…parlar…}} català amb els meus avis.
-⇠ Quan érem petits, ⇠<br><br>tu {{c1::parlaves::…parlar…}} més sovint amb els teus cosins.
-⇠ Fa uns anys, ⇠<br><br>ella {{c1::parlava::…parlar…}} només castellà a casa seva.
-⇠ Durant l'escola, ⇠<br><br>nosaltres {{c1::parlàvem::…parlar…}} en veu baixa a classe.
-⇠ De joves, ⇠<br><br>vosaltres {{c1::parlàveu::…parlar…}} molt de les vostres aventures.
-⇠ Abans, ⇠<br><br>ells {{c1::parlaven::…parlar…}} amb els seus veïns cada dia.
-→ Demà, →<br><br>jo {{c1::parlaré::…parlar…}} amb els meus amics.
-→ La setmana que ve, →<br><br>tu {{c1::parlaràs::…parlar…}} amb el professor.
-→ Més tard, →<br><br>ell {{c1::parlarà::…parlar…}} sobre el projecte.
-→ En el futur, →<br><br>nosaltres {{c1::parlarem::…parlar…}} amb els veïns.
-→ Aviat, →<br><br>vosaltres {{c1::parlareu::…parlar…}} amb els clients.
-→ Quan arribin, →<br><br>ells {{c1::parlaran::…parlar…}} amb els seus parents.
-〰 És important que 〰<br><br>jo {{c1::parli::…parlar…}} amb els meus amics.
-〰 Espero que 〰<br><br>tu {{c1::parlis::…parlar…}} amb el professor.
-〰 És possible que 〰<br><br>ell {{c1::parli::…parlar…}} sobre el projecte.
-〰 És necessari que 〰<br><br>nosaltres {{c1::parlem::…parlar…}} amb els veïns.
-〰 Dubto que 〰<br><br>vosaltres {{c1::parleu::…parlar…}} amb els clients.
-〰 És probable que 〰<br><br>ells {{c1::parlin::…parlar…}} amb els seus parents.
-↫ Si fos possible que ↫<br><br>jo {{c1::parlés::…parlar…}} amb els meus amics, ho faria.
-↫ Desitjaria que ↫<br><br>tu {{c1::parlessis::…parlar…}} més amb el professor.
-↫ Seria bo que ↫<br><br>ell {{c1::parlés::…parlar…}} sobre el projecte.
-↫ M’agradaria que ↫<br><br>nosaltres {{c1::parléssim::…parlar…}} amb els veïns més sovint.
-↫ Voldria que ↫<br><br>vosaltres {{c1::parléssiu::…parlar…}} amb els clients.
-↫ Era necessari que ↫<br><br>ells {{c1::parlessin::…parlar…}} amb els seus parents.
-… Si pogués, …<br><br>jo {{c1::parlaria::…parlar…}} amb els meus amics més sovint.
-… Si tinguessis temps, …<br><br>tu {{c1::parlaries::…parlar…}} amb el professor.
-… Ell {{c1::parlaria::…parlar…}} sobre el projecte, …<br><br>si li ho demanessin.
-… Si fos necessari, …<br><br>nosaltres {{c1::parlaríem::…parlar…}} amb els veïns.
-… Vosaltres {{c1::parlaríeu::…parlar…}} amb els clients, …<br><br>si tinguéssiu l'oportunitat.
-… Si ho sabessin, …<br><br>ells {{c1::parlarien::…parlar…}} amb els seus parents.
-! Ara mateix, !<br><br>tu {{c1::parla::…parlar…}} amb els teus amics!
-! Si us plau, !<br><br>vostè {{c1::parli::…parlar…}} amb el professor!
-! Anem, !<br><br>nosaltres {{c1::parlem::…parlar…}} sobre aquest projecte!
-! Ara, !<br><br>vosaltres {{c1::parleu::…parlar…}} amb els veïns!
-! Immediatament, !<br><br>vostès {{c1::parlin::…parlar…}} amb els clients!
 ~ Mentre estava ~<br><br>{{c1::essent::…ser…}} professor, vaig aprendre molt.			
 ~ Jo crec que ~<br><br>està {{c1::sent::…ésser…}} honesta.			
 ♂ En Tomàs ♂<br><br>ha {{c1::estat::…ser…}} absolt.			
@@ -319,6 +267,110 @@
 ! Anem, !<br><br> nosaltres {{c1::tinguem::…tenir…}} fe en el procés.
 ! Ara, !<br><br> vosaltres {{c1::teniu/tingueu::…tenir…}} confiança en vosaltres mateixos.
 ! Immediatament, !<br><br> vostès {{c1::tinguin::…tenir…}} en compte els detalls.
+~ Mentre estava treballant... ~<br><br>jo estava {{c1::parlant::…parlar…}} amb els meus amics.		<b>Parlar </b>is a regular verb in the first conjugation (-ar).
+♂ El llibre està {{c1::parlat::…parlar…}}. ♂		<b>Parlar </b>is a regular verb in the first conjugation (-ar).	
+♀ La història està {{c1::parlada::…parlar…}}. ♀		<b>Parlar </b>is a regular verb in the first conjugation (-ar).	
+♂♂ Els documents estan {{c1::parlats::…parlar…}}. ♂♂		<b>Parlar </b>is a regular verb in the first conjugation (-ar).	
+♀♀ Les cartes estan {{c1::parlades::…parlar…}}. ♀♀		<b>Parlar </b>is a regular verb in the first conjugation (-ar).	
+⊙ Actualment, ⊙<br><br>jo {{c1::parlo::…parlar…}} català cada dia.		<b>Parlar </b>is a regular verb in the first conjugation (-ar).	
+⊙ En aquest moment, ⊙<br><br>tu {{c1::parles::…parlar…}} amb els teus amics sovint.		<b>Parlar </b>is a regular verb in the first conjugation (-ar).	
+⊙ Ara mateix, ⊙<br><br>ell {{c1::parla::…parlar…}} molt bé l'anglès.		<b>Parlar </b>is a regular verb in the first conjugation (-ar).	
+⊙ En aquest moment, ⊙<br><br>nosaltres {{c1::parlem::…parlar…}} sobre el projecte ara mateix.		<b>Parlar </b>is a regular verb in the first conjugation (-ar).	
+⊙ Actualment, ⊙<br><br>vosaltres {{c1::parleu::…parlar…}} massa ràpid.		<b>Parlar </b>is a regular verb in the first conjugation (-ar).	
+⊙ En aquest moment, ⊙<br><br>ells {{c1::parlen::…parlar…}} amb els seus professors.		<b>Parlar </b>is a regular verb in the first conjugation (-ar).	
+↧ En aquell moment, ↧<br><br>jo {{c1::parlé::…parlar…}} amb els meus amics.
+↧ L'any passat, ↧<br><br>tu {{c1::parlares::…parlar…}} amb el professor.
+↧ Ahir, ↧<br><br>ell {{c1::parló::…parlar…}} sobre el projecte.
+↧ Fa unes setmanes, ↧<br><br>nosaltres {{c1::parlàrem::…parlar…}} amb els veïns.
+↧ Fa poc, ↧<br><br>vosaltres {{c1::parlàreu::…parlar…}} amb els clients.
+↧ Durant les vacances, ↧<br><br>ells {{c1::parlaren::…parlar…}} amb els seus parents.
+⇠ Abans, ⇠<br><br>jo {{c1::parlava::…parlar…}} català amb els meus avis.
+⇠ Quan érem petits, ⇠<br><br>tu {{c1::parlaves::…parlar…}} més sovint amb els teus cosins.
+⇠ Fa uns anys, ⇠<br><br>ella {{c1::parlava::…parlar…}} només castellà a casa seva.
+⇠ Durant l'escola, ⇠<br><br>nosaltres {{c1::parlàvem::…parlar…}} en veu baixa a classe.
+⇠ De joves, ⇠<br><br>vosaltres {{c1::parlàveu::…parlar…}} molt de les vostres aventures.
+⇠ Abans, ⇠<br><br>ells {{c1::parlaven::…parlar…}} amb els seus veïns cada dia.
+→ Demà, →<br><br>jo {{c1::parlaré::…parlar…}} amb els meus amics.
+→ La setmana que ve, →<br><br>tu {{c1::parlaràs::…parlar…}} amb el professor.
+→ Més tard, →<br><br>ell {{c1::parlarà::…parlar…}} sobre el projecte.
+→ En el futur, →<br><br>nosaltres {{c1::parlarem::…parlar…}} amb els veïns.
+→ Aviat, →<br><br>vosaltres {{c1::parlareu::…parlar…}} amb els clients.
+→ Quan arribin, →<br><br>ells {{c1::parlaran::…parlar…}} amb els seus parents.
+〰 És important que 〰<br><br>jo {{c1::parli::…parlar…}} amb els meus amics.
+〰 Espero que 〰<br><br>tu {{c1::parlis::…parlar…}} amb el professor.
+〰 És possible que 〰<br><br>ell {{c1::parli::…parlar…}} sobre el projecte.
+〰 És necessari que 〰<br><br>nosaltres {{c1::parlem::…parlar…}} amb els veïns.
+〰 Dubto que 〰<br><br>vosaltres {{c1::parleu::…parlar…}} amb els clients.
+〰 És probable que 〰<br><br>ells {{c1::parlin::…parlar…}} amb els seus parents.
+↫ Si fos possible que ↫<br><br>jo {{c1::parlés::…parlar…}} amb els meus amics, ho faria.
+↫ Desitjaria que ↫<br><br>tu {{c1::parlessis::…parlar…}} més amb el professor.
+↫ Seria bo que ↫<br><br>ell {{c1::parlés::…parlar…}} sobre el projecte.
+↫ M’agradaria que ↫<br><br>nosaltres {{c1::parléssim::…parlar…}} amb els veïns més sovint.
+↫ Voldria que ↫<br><br>vosaltres {{c1::parléssiu::…parlar…}} amb els clients.
+↫ Era necessari que ↫<br><br>ells {{c1::parlessin::…parlar…}} amb els seus parents.
+… Si pogués, …<br><br>jo {{c1::parlaria::…parlar…}} amb els meus amics més sovint.
+… Si tinguessis temps, …<br><br>tu {{c1::parlaries::…parlar…}} amb el professor.
+… Ell {{c1::parlaria::…parlar…}} sobre el projecte, …<br><br>si li ho demanessin.
+… Si fos necessari, …<br><br>nosaltres {{c1::parlaríem::…parlar…}} amb els veïns.
+… Vosaltres {{c1::parlaríeu::…parlar…}} amb els clients, …<br><br>si tinguéssiu l'oportunitat.
+… Si ho sabessin, …<br><br>ells {{c1::parlarien::…parlar…}} amb els seus parents.
+! Ara mateix, !<br><br>tu {{c1::parla::…parlar…}} amb els teus amics!
+! Si us plau, !<br><br>vostè {{c1::parli::…parlar…}} amb el professor!
+! Anem, !<br><br>nosaltres {{c1::parlem::…parlar…}} sobre aquest projecte!
+! Ara, !<br><br>vosaltres {{c1::parleu::…parlar…}} amb els veïns!
+! Immediatament, !<br><br>vostès {{c1::parlin::…parlar…}} amb els clients!
+~ Mentre estic reflexionant, ~<br><br> jo {{c1::unint::…unir…}} els punts és important.
+♂ Després de finalitzar la reunió, ♂<br><br> ell ha {{c1::unit::…unir…}} totes les parts.
+♀ Una vegada finalitzat el procés, ♀<br><br> ella ha {{c1::unida::…unir…}} totes les idees en un sol document.
+♂♂ Acabats els projectes, ♂♂<br><br> ells han {{c1::units::…unir…}} tots els equips per col·laborar.
+♀♀ Una vegada finalitzades les discussions, ♀♀<br><br> elles han {{c1::unides::…unir…}} totes les seves opinions en una conclusió.
+⊙ Actualment, ⊙<br><br> jo {{c1::uneixo::…unir…}} totes les meves forces.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::uneixes::…unir…}} les dues parts de l'acord.
+⊙ Ara, ⊙<br><br> ell {{c1::uneix::…unir…}} les idees per formar un pla.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::unim::…unir…}} esforços per aconseguir l'objectiu.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::uniu::…unir…}} les dades en un sol informe.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::uneixen::…unir…}} les seves habilitats per al projecte.
+↧ Ahir, ↧<br><br> jo {{c1::uní::…unir…}} totes les meves idees en una presentació.
+↧ La setmana passada, ↧<br><br> tu {{c1::unires::…unir…}} els informes en un document final.
+↧ El mes passat, ↧<br><br> ell {{c1::uní::…unir…}} les dades en un sol arxiu.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::unírem::…unir…}} les nostres propostes en un sol pla.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::uníreu::…unir…}} les informacions disponibles.
+↧ Hace dos días, ↧<br><br> ells {{c1::uniren::…unir…}} les seves idees en una única solució.
+⇠ Abans, ⇠<br><br> jo {{c1::unia::…unir…}} les parts sense problemes.
+⇠ Quan érem joves, ⇠<br><br> tu {{c1::unies::…unir…}} tots els elements del joc.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::unia::…unir…}} totes les idees en un projecte.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::uníem::…unir…}} les nostres idees en un treball.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::uníeu::…unir…}} les peces del trencaclosques.
+⇠ Molt abans, ⇠<br><br> ells {{c1::unien::…unir…}} les seves forces en les activitats de grup.
+→ Demà, →<br><br> jo {{c1::uniré::…unir…}} les dues parts del projecte.
+→ La setmana vinent, →<br><br> tu {{c1::uniràs::…unir…}} els esforços per a la campanya.
+→ En un any, →<br><br> ell {{c1::unirà::…unir…}} tots els seus recursos per a un objectiu comú.
+→ En cinc anys, →<br><br> nosaltres {{c1::unirem::…unir…}} les nostres forces amb altres empreses.
+→ Aviat, →<br><br> vosaltres {{c1::unireu::…unir…}} les dades en un nou sistema.
+→ En el futur, →<br><br> ells {{c1::uniran::…unir…}} les seves habilitats per a projectes més grans.
+〰 Espero que 〰<br><br> jo {{c1::uneixi::…unir…}} totes les meves idees en una presentació.
+〰 Pot ser que 〰<br><br> tu {{c1::uneixis::…unir…}} les parts en un acord.
+〰 És possible que 〰<br><br> ell {{c1::uneixi::…unir…}} tots els elements en un sol pla.
+〰 És necessari que 〰<br><br> nosaltres {{c1::unim::…unir…}} les nostres forces per assolir l'èxit.
+〰 Dubto que 〰<br><br> vosaltres {{c1::uniu::…unir…}} totes les dades correctament.
+〰 És probable que 〰<br><br> ells {{c1::uneixin::…unir…}} les seves idees en un projecte reeixit.
+↫ Si fos possible, ↫<br><br> jo {{c1::unís::…unir…}} totes les meves habilitats en aquest projecte.
+↫ Si tu ↫<br><br> {{c1::unissis::…unir…}} les teves idees amb les d'altres, tindríem èxit.
+↫ Si ell ↫<br><br> {{c1::unís::…unir…}} tots els seus esforços, aconseguiria els seus objectius.
+↫ Si nosaltres ↫<br><br> {{c1::uníssim::…unir…}} els nostres recursos, podríem arribar més lluny.
+↫ Si vosaltres ↫<br><br> {{c1::uníssiu::…unir…}} les vostres forces, seríeu imparables.
+↫ Si ells ↫<br><br> {{c1::unissin::…unir…}} totes les seves capacitats, triomfarien.
+… Si pogués, …<br><br> jo {{c1::uniria::…unir…}} totes les meves idees en un sol pla.
+… Si tinguessis temps, …<br><br> tu {{c1::uniries::…unir…}} totes les teves habilitats per aquest projecte.
+… Ell {{c1::uniria::…unir…}} tots els seus recursos, …<br><br>si fos necessari.
+… Si fos necessari, …<br><br> nosaltres {{c1::uniríem::…unir…}} totes les nostres forces per superar l'obstacle.
+… Vosaltres {{c1::uniríeu::…unir…}} les vostres idees, …<br><br>si fos la millor opció.
+… Si ho sabessin, …<br><br> ells {{c1::unirien::…unir…}} totes les seves habilitats per aconseguir l'èxit.
+! Ara mateix, !<br><br> tu {{c1::uneix::…unir…}} totes les parts d'aquest document!
+! Si us plau, !<br><br> vostè {{c1::uneixi::…unir…}} tots els esforços en aquest projecte!
+! Anem, !<br><br> nosaltres {{c1::unim::…unir…}} les nostres forces per guanyar!
+! Ara, !<br><br> vosaltres {{c1::uniu::…unir…}} totes les idees en un sol pla!
+! Immediatament, !<br><br> vostès {{c1::uneixin::…unir…}} totes les dades en un document final!
 ~ Mentre estic llegint, ~<br><br> jo {{c1::dormint::…dormir…}} em sento descansat.
 ♂ Després de la nit, ♂<br><br> ell {{c1::ha dormit::…dormir…}} profundament.
 ♀ Una vegada acabat el viatge, ♀<br><br> ella {{c1::ha dormida::…dormir…}} durant tot el vol.
