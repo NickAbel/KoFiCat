@@ -53,22 +53,52 @@ The sentences in the deck are generated with ChatGPT 4o, but are verified agains
   - [ ] **Spelling Change: -rebre/-cebre(11)**: **Rebre** is the chosen representative.
   - [ ] **Irregularity: -fendre/-fondre/prendre/tondre(12)**: **Fondre** is the chosen representative.
   - [ ] **Irregularity: -caure(13)**: **Caure** is the chosen representative.
+  - [ ] **Irregularity: -plaure(14)**: **Plaure** is the chosen representative.
+  - [ ] **Irregularity: -vendre(15)**: **Vendre** is the chosen representative.
+  - [ ] **Irregularity: -moldre(16)**: **Moldre** is the chosen representative.
+  - [ ] **Irregularity: -jeure(17)**: **Jeure** is the chosen representative.
+  - [ ] **Irregularity: Somriure(18)**
+  - [ ] **Irregularity: Heure(19)**
+  - [ ] **Irregularity: Cerndre(20)**
+  - [ ] **Irregularity: Coure(21)**
+  - [ ] **Irregularity: Romandre(22)**
+  - [ ] **Irregularity (defective): Ploure(23)**
+  - [ ] **Irregularity (defective): Lleure(24)**
+  - [ ] **Irregularity (defective): Caldre(25)**
 - [ ] (ii)  **Infinitive in unstressed -er**:
-  - [ ] **Spelling Change: -tòrcer(12)**: **Tòrcer** is the chosen representative.
+  - [ ] **Regular, No Spelling Changes**: **Témer** is the chosen representative.
+  - [ ] **Spelling Change: -tòrcer(1)**: **Tòrcer** is the chosen representative.
+  - [ ] **Irregularity in Participle Only: -strènyer(2)**: **Constrènyer** is the chosen representative.
+  - [ ] **Irregularity in Participle Only: -conèixer(3)**: **Conèixer** is the chosen representative.
+  - [ ] **Spelling Change: -vèncer(4)**: **Vèncer** is the chosen representative.
+  - [ ] **Irregularity in Participle Only: -empènyer(5)**: **Empènyer** is the chosen representative.
 - [ ] (iii) **Infinitive in -r**:
 - [ ] (iv)  **Infinitive in stressed -er**:
-  - [ ] **Irregularity: -valer/-soler(13)**: **Valer** is the chosen representative.
+  - [ ] **Irregularity: -valer/-soler(1)**: **Valer** is the chosen representative.
+  - [ ] **Irregularity: -voler(2)**: **Voler** is the chosen representative.
+  - [ ] **Irregularity: Poder(3)**
+  - [ ] **Irregularity: Saber(4)**
 
 ## Conjugation III (infinitive in -ir)
 - [x] (a) **Inchoative**
   - [x] **Regular, No Spelling Changes**: The verb **unir** is the chosen representative.
   - [ ] **Spelling Change: -uir/-eir/-air/corroir(1)**: This orthographic change covers the vast majority of verbs ending in -uir, all verbs ending in -eir/-air, and **corroir**. **Construir** is the chosen representative.
   - [ ] **Irregularity in Participles Only: -cobrir(2)**: **Cobrir** is the chosen representative.
+  - [ ] **Irregularity in Participles Only: -imprimir(3)**: **Imprimir** is the chosen representative.
 
 - [x] (b) **Pure**
   - [x] **Regular, No Spelling Changes**: The verb **dormir** is the chosen representative.
   - [ ] **Irregularity: sortir/collir(1)**: This pattern occurs in **sortir**, **collir** and its compounds. **Sortir** is the chosen representative.
   - [ ] **Irregularity: -obrir(2)**: For **obrir** and its compounds in which **obrir** means ``to open'', so **cobrir**, for instance, is not covered by this. **Obrir** is the chosen representative.
+  - [ ] **Irregularity: -fugir(3)**: **Fugir** is the chosen representative.
+  - [ ] **Irregularity: -cosir(4)**: **Cosir** is the chosen representative.
+  - [ ] **Irregularity in Participles Only: -morir(5)**: **Morir** is the chosen representative.
+  - [ ] **Irregularity: Escopir(6)**
+  - [ ] **Irregularity: Tossir(7)**
+  - [ ] **Irregularity: Pudir(8)**
+
+- [ ] **Irregularity: -eixir(1)**: **Eixir** is the chosen representative.
  
 # References Used
+[Verbs.cat](https://www.verbs.cat/)
 [Wiktionary's Catalan Frequency List](https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists/Catalan/)
