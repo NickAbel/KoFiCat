@@ -8,11 +8,11 @@ The sentences in the deck are generated with ChatGPT 4o, but are verified agains
 
 # Progress
 
-- [ ] Complete the below KOFI taxonomy of Catalan verbs, by describing the pattern and choosing a representative infinitive.
-  - [ ] Complete the taxonomy, excluding defective verbs and verbs with alternatives.
-  - [ ] Integrate defective verbs and/or verbs with alternatives if transformations in their conjugation tables are not described elsewhere.
+- [x] Complete the below KOFI taxonomy of Catalan verbs, by describing the pattern and choosing a representative infinitive.
+  - [x] Complete the taxonomy, excluding defective verbs and verbs with alternatives.
+  - [x] Integrate defective verbs and/or verbs with alternatives if transformations in their conjugation tables are not described elsewhere.
 - [ ] Choose and generate a complete sentence set for a common representative of each leaf-level tick mark of the KOFI taxonomy.
-- [ ] In the "Similar" field, list all other Catalan verbs with identical conjugation mappings to the representative.
+- [ ] In the "Similar" field, list other Catalan verbs with identical conjugation mappings to the representative.
 - [ ] Order the verbs in the deck according to a frequency dictionary. Non-auxiliary verbs are shown first due to their importance. After that, the verb representing the conjugation mapping whose verbs cumulatively appear the most in the frequency dictionary should appear first.
 - [ ] In the "Notes" field, state the type of conjugation (i.e, third-conjugation inchoative regular). Acknowledge any orthographic changes or defectiveness, and if needed, show the theoretical regular conjugation noting its incorrectness. Quantify the relative (ranked out of all verbs in deck) and total irregularity (the percentage of cards which show an irregularity) of the verb.
 - [ ] Tag cards according to their subject, tense, and categories.
@@ -57,7 +57,7 @@ The sentences in the deck are generated with ChatGPT 4o, but are verified agains
   - [ ] **Irregularity: -vendre(15)**: **Vendre** is the chosen representative.
   - [ ] **Irregularity: -moldre(16)**: **Moldre** is the chosen representative.
   - [ ] **Irregularity: -jeure(17)**: **Jeure** is the chosen representative.
-  - [ ] **Irregularity: Somriure(18)**
+  - [ ] **Irregularity: -riure(18)**: **Riure** is the chosen representative.
   - [ ] **Irregularity: Heure(19)**
   - [ ] **Irregularity: Cerndre(20)**
   - [ ] **Irregularity: Coure(21)**
@@ -65,14 +65,24 @@ The sentences in the deck are generated with ChatGPT 4o, but are verified agains
   - [ ] **Irregularity (defective): Ploure(23)**
   - [ ] **Irregularity (defective): Lleure(24)**
   - [ ] **Irregularity (defective): Caldre(25)**
+  - [ ] **Irregularity: Cabre(26)**
+  - [ ] **Irregularity: -pondre(27)**: **Pondre** is the chosen representative.
+  - [ ] **Irregularity: Raure(28)**
+  - [ ] **Irregularity: -scriure(29)**: **Escriure** is the chosen representative.
+  - [ ] **Irregularity: -veure(29)**: **Veure** is the chosen representative.
 - [ ] (ii)  **Infinitive in unstressed -er**:
   - [ ] **Regular, No Spelling Changes**: **Témer** is the chosen representative.
   - [ ] **Spelling Change: -tòrcer(1)**: **Tòrcer** is the chosen representative.
   - [ ] **Irregularity in Participle Only: -strènyer(2)**: **Constrènyer** is the chosen representative.
-  - [ ] **Irregularity in Participle Only: -conèixer(3)**: **Conèixer** is the chosen representative.
+  - [ ] **Irregularity: -conèixer(3)**: **Conèixer** is the chosen representative.
   - [ ] **Spelling Change: -vèncer(4)**: **Vèncer** is the chosen representative.
   - [ ] **Irregularity in Participle Only: -empènyer(5)**: **Empènyer** is the chosen representative.
+  - [ ] **Irregularity: Córrer(6)**
+  - [ ] **Irregularity: Néixer, péixer(7)**: **Néixer** is the chosen representative.
 - [ ] (iii) **Infinitive in -r**:
+  - [ ] **Irregularity: Dir** (with its compounds in **a-**, **contra-**, **des-**, **inter-**, **mal-**, **pre-**, **re-**)
+  - [ ] **Irregularity: Dur** (with its compound in **en-**)
+  - [ ] **Irregularity: Fer** (with its compounds in **contra-**, **des-**, **estra-**, **per-**, **re-**, **satis-**)
 - [ ] (iv)  **Infinitive in stressed -er**:
   - [ ] **Irregularity: -valer/-soler(1)**: **Valer** is the chosen representative.
   - [ ] **Irregularity: -voler(2)**: **Voler** is the chosen representative.
@@ -82,8 +92,8 @@ The sentences in the deck are generated with ChatGPT 4o, but are verified agains
 ## Conjugation III (infinitive in -ir)
 - [x] (a) **Inchoative**
   - [x] **Regular, No Spelling Changes**: The verb **unir** is the chosen representative.
-  - [ ] **Spelling Change: -uir/-eir/-air/corroir(1)**: This orthographic change covers the vast majority of verbs ending in -uir, all verbs ending in -eir/-air, and **corroir**. **Construir** is the chosen representative.
-  - [ ] **Irregularity in Participles Only: -cobrir(2)**: **Cobrir** is the chosen representative.
+  - [ ] **Spelling Change: -uir/-eir/-air/-oir(1)**: This orthographic change covers the vast majority of verbs ending in -uir, all verbs ending in -eir/-air, **oir**, and **corroir**. **Construir** is the chosen representative.
+  - [ ] **Irregularity in Participles Only: -rir(2)**: **Cobrir** is the chosen representative.
   - [ ] **Irregularity in Participles Only: -imprimir(3)**: **Imprimir** is the chosen representative.
 
 - [x] (b) **Pure**
@@ -96,9 +106,15 @@ The sentences in the deck are generated with ChatGPT 4o, but are verified agains
   - [ ] **Irregularity: Escopir(6)**
   - [ ] **Irregularity: Tossir(7)**
   - [ ] **Irregularity: Pudir(8)**
+  - [ ] **Irregularity in Participles Only: -lir(9)**: **Establir** is the chosen representative.
+  - [ ] **Irregularity: Revenir(10)**
 
 - [ ] **Irregularity: -eixir(1)**: **Eixir** is the chosen representative.
+- [ ] **Irregularity: -lluir(2)**: **Lluir** is the chosen representative.
  
 # References Used
 [Verbs.cat](https://www.verbs.cat/)
+
 [Wiktionary's Catalan Frequency List](https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists/Catalan/)
+
+[Catalan: A Comprehensive Grammar - Wheeler, Yates, Dols](https://www.amazon.com/Catalan-Comprehensive-Grammar-Routledge-Grammars/dp/0415103428)
