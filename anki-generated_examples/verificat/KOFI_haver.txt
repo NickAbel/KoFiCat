@@ -1,0 +1,47 @@
+~ Mentre estava llegint, ~<br><br>{{c1::havent::…haver…}} acabat els deures, vaig decidir fer una pausa.			
+♂ Després de completar la tasca, ♂<br><br>{{c1::hagut::…haver…}} una bona sensació de satisfacció.			
+♀ Una vegada finalitzada la lectura, ♀<br><br>{{c1::haguda::…haver…}} una profunda comprensió del tema.			
+♀♀ Després de ser analitzades les dades, ♀♀<br><br>{{c1::hagudes::…haver…}} conclusions importants.			
+♂♂ Després de ser completats els projectes, ♂♂<br><br>{{c1::haguts::…haver…}} resultats excel·lents.			
+⊙ Actualment, ⊙<br><br>jo {{c1::he/haig::…haver…}} de fer una trucada important.			
+⊙ En aquest moment, ⊙<br><br>tu {{c1::has::…haver…}} de preparar el dinar.			
+⊙ Ara, ⊙<br><br>ell {{c1::ha::…haver…}} de signar els documents.			
+⊙ En aquest instant, ⊙<br><br>nosaltres {{c1::havem/hem::…haver…}} de decidir la nostra propera acció.			
+⊙ Actualment, ⊙<br><br>vosaltres {{c1::haveu/heu::…haver…}} de confirmar la vostra assistència.			
+⊙ Aquesta tarda, ⊙<br><br>ells {{c1::han::…haver…}} de completar el projecte.			
+⇠ Abans, ⇠<br><br>jo {{c1::havia::…haver…}} de llegir molt per a la meva tesi.			
+⇠ Quan érem joves, ⇠<br><br>tu {{c1::havies::…haver…}} de cuidar els teus germans sovint.			
+⇠ Fa uns anys, ⇠<br><br>ell {{c1::havia::…haver…}} de viatjar freqüentment per feina.			
+⇠ Durant l'escola, ⇠<br><br>nosaltres {{c1::havíem::…haver…}} de estudiar junts cada vespre.			
+⇠ De joves, ⇠<br><br>vosaltres {{c1::havíeu::…haver…}} de compartir l'habitació.			
+⇠ Abans, ⇠<br><br>ells {{c1::havien::…haver…}} de treballar als caps de setmana.			
+↧ Ahir, ↧<br><br>jo {{c1::haguí::…haver…}} de solucionar uns problemes urgents.			
+↧ La setmana passada, ↧<br><br>tu {{c1::hagueres::…haver…}} de preparar la presentació.			
+↧ El mes passat, ↧<br><br>ell {{c1::hagué::…haver…}} de viatjar a Madrid.			
+↧ Fa un any, ↧<br><br>nosaltres {{c1::haguérem::…haver…}} de prendre una decisió difícil.			
+↧ Els dies antics, ↧<br><br>vosaltres {{c1::haguéreu::…haver…}} de fer front a molts reptes.			
+↧ Hace dos días, ↧<br><br>ells {{c1::hagueren::…haver…}} de completar el projecte.			
+→ Demà, →<br><br>jo {{c1::hauré::…haver…}} de completar el projecte.			
+→ La setmana vinent, →<br><br>tu {{c1::hauràs::…haver…}} de fer una presentació important.			
+→ En un any, →<br><br>ell {{c1::haurà::…haver…}} de prendre una decisió crucial.			
+→ En cinc anys, →<br><br>nosaltres {{c1::haurem::…haver…}} de renovar la nostra casa.			
+→ Aviat, →<br><br>vosaltres {{c1::haureu::…haver…}} de decidir on viatjar.			
+→ En el futur, →<br><br>ells {{c1::hauran::…haver…}} de superar molts desafiaments.			
+〰 És possible que 〰<br><br>jo {{c1::hagi::…haver…}} de treballar fins tard aquesta nit.			
+〰 Espero que 〰<br><br>tu {{c1::hagis::…haver…}} de viatjar menys el proper any.			
+〰 Pot ser que 〰<br><br>ell {{c1::hagi::…haver…}} de canviar de feina aviat.			
+〰 Volem que 〰<br><br>nosaltres {{c1::hàgim/haguem::…haver…}} de coordinar l'esdeveniment.			
+〰 És necessari que 〰<br><br>vosaltres {{c1::hàgiu/hagueu::…haver…}} de presentar els documents a temps.			
+〰 És improbable que 〰<br><br>ells {{c1::hagin::…haver…}} de mudar-se de nou tan aviat.			
+↫ Si jo ↫<br><br>{{c1::hagués::…haver…}} de prendre una decisió, l'hauria presa ahir.			
+↫ Si tu ↫<br><br>{{c1::haguessis/haguesses::…haver…}} de triar, quina opció preferiries?			
+↫ Si ell ↫<br><br>{{c1::hagués::…haver…}} de renunciar, ho hauria fet sense dubtar.			
+↫ Si nosaltres ↫<br><br>{{c1::haguéssim/haguérem::…haver…}} de començar de nou, ho faríem amb més experiència.			
+↫ Si vosaltres ↫<br><br>{{c1::haguéssiu/haguéreu::…haver…}} de decidir ara, què faríeu?			
+↫ Si ells ↫<br><br>{{c1::haguessin/haguessen::…haver…}} de mudar-se de nou tan aviat.			
+… Si pogués, …<br><br>jo {{c1::hauria/haguera::…haver…}} de solucionar aquest problema avui.			
+… Si tinguessis temps, …<br><br>tu {{c1::hauries/hagueras::…haver…}} de venir amb nosaltres al cinema.			
+… Si fos possible, …<br><br>ell {{c1::hauria/haguera::…haver…}} de fer el viatge sense demora.			
+… En un món ideal, …<br><br>nosaltres {{c1::hauríem/haguérem::…haver…}} de prendre una decisió abans de demà.			
+… Si la situació ho permetés, …<br><br>vosaltres {{c1::hauríeu/haguéreu::…haver…}} de reconsiderar la vostra estratègia.			
+… Si les circumstàncies canviessin, …<br><br>ells {{c1::haurien/hagueren::…haver…}} de repensar els seus plans immediatament.			

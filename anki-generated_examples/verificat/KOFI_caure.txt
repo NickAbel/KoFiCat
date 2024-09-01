@@ -1,0 +1,52 @@
+~ Mentre estic pensant, ~<br><br> jo {{c1::caient::…caure…}} en un dilema.
+♂ Després de l'accident, ♂<br><br> ell ha {{c1::caigut::…caure…}} al terra.
+♀ Quan va relliscar, ♀<br><br> ella ha {{c1::caiguda::…caure…}} al terra.
+♂♂ Després de la pluja, ♂♂<br><br> ells han {{c1::caiguts::…caure…}} a la piscina.
+♀♀ Després del salt, ♀♀<br><br> elles han {{c1::caigudes::…caure…}} al terra.
+⊙ Actualment, ⊙<br><br> jo {{c1::caic::…caure…}} sovint.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::caus::…caure…}} sense voler.
+⊙ Ara, ⊙<br><br> ell {{c1::cau::…caure…}} quan no para atenció.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::caiem::…caure…}} sovint en errors.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::caieu::…caure…}} amb facilitat.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::cauen::…caure…}} sense adonar-se'n.
+⇠ Abans, ⇠<br><br> jo {{c1::queia::…caure…}} més sovint.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::queies::…caure…}} sovint jugant.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::queia::…caure…}} en molts errors.
+⇠ Durant l'estiu, ⇠<br><br> nosaltres {{c1::quèiem::…caure…}} menys.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::quèieu::…caure…}} sovint.
+⇠ Molt abans, ⇠<br><br> ells {{c1::queien::…caure…}} sense parar atenció.
+↧ Ahir, ↧<br><br> jo {{c1::caiguí::…caure…}} mentre corria.
+↧ La setmana passada, ↧<br><br> tu {{c1::caigueres::…caure…}} jugant al pati.
+↧ El mes passat, ↧<br><br> ell {{c1::caigué::…caure…}} en un parany.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::caiguérem::…caure…}} en la mateixa trampa.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::caiguéreu::…caure…}} en molts errors.
+↧ Fa poc, ↧<br><br> ells {{c1::caigueren::…caure…}} en l'error comú.
+→ Demà, →<br><br> jo {{c1::cauré::…caure…}} en la mateixa situació.
+→ La setmana vinent, →<br><br> tu {{c1::cauràs::…caure…}} en un error similar.
+→ En un any, →<br><br> ell {{c1::caurà::…caure…}} en una trampa.
+→ En cinc anys, →<br><br> nosaltres {{c1::caurem::…caure…}} en menys errors.
+→ Aviat, →<br><br> vosaltres {{c1::caureu::…caure…}} en molts dilemes.
+→ En el futur, →<br><br> ells {{c1::cauran::…caure…}} en molts paranys.
+〰 Espero que 〰<br><br> jo {{c1::caigui::…caure…}} menys sovint.
+〰 Pot ser que 〰<br><br> tu {{c1::caiguis::…caure…}} en un error.
+〰 És possible que 〰<br><br> ell {{c1::caigui::…caure…}} en un parany.
+〰 És necessari que 〰<br><br> nosaltres {{c1::caiguem::…caure…}} menys.
+〰 Dubto que 〰<br><br> vosaltres {{c1::caigueu::…caure…}} en errors greus.
+〰 És probable que 〰<br><br> ells {{c1::caiguin::…caure…}} en una trampa.
+↫ Si fos possible, ↫<br><br> jo {{c1::caigués::…caure…}} menys sovint.
+↫ Si tu ↫<br><br> {{c1::caiguessis::…caure…}} amb més atenció, no cauries tant.
+↫ Si ell ↫<br><br> {{c1::caigués::…caure…}} amb més cura, evitaria els errors.
+↫ Si nosaltres ↫<br><br> {{c1::caiguéssim::…caure…}} menys, tot seria millor.
+↫ Si vosaltres ↫<br><br> {{c1::caiguéssiu::…caure…}} en menys errors, us aniria millor.
+↫ Si ells ↫<br><br> {{c1::caiguessin::…caure…}} amb precaució, no tindrien problemes.
+… Si pogués, …<br><br> jo {{c1::cauria::…caure…}} menys sovint.
+… Si tinguessis temps, …<br><br> tu {{c1::cauries::…caure…}} menys.
+… Ell {{c1::cauria::…caure…}} amb cura, …<br><br>si s'hi concentrés.
+… Si fos necessari, …<br><br> nosaltres {{c1::cauríem::…caure…}} en menys errors.
+… Vosaltres {{c1::cauríeu::…caure…}} en menys errors, …<br><br>si us hi fixéssiu.
+… Si ho sabessin, …<br><br> ells {{c1::caurien::…caure…}} menys.
+! Ara mateix, !<br><br> tu {{c1::cau::…caure…}} menys!
+! Si us plau, !<br><br> vostè {{c1::caigui::…caure…}} amb cura!
+! Anem, !<br><br> nosaltres {{c1::caiguem::…caure…}} amb precaució!
+! Ara, !<br><br> vosaltres {{c1::caieu::…caure…}} en menys errors!
+! Immediatament, !<br><br> vostès {{c1::caiguin::…caure…}} sense problemes!

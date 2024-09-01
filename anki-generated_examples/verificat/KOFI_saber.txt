@@ -1,0 +1,52 @@
+~ Mentre estic pensant, ~<br><br> jo {{c1::sabent::…saber…}} la resposta correcta.
+♂ Després de llegir, ♂<br><br> ell ha {{c1::sabut::…saber…}} la veritat.
+♀ Quan va investigar, ♀<br><br> ella ha {{c1::sabuda::…saber…}} tota la història.
+♂♂ Després de la reunió, ♂♂<br><br> ells han {{c1::sabuts::…saber…}} els fets.
+♀♀ Després de la conversa, ♀♀<br><br> elles han {{c1::sabudes::…saber…}} tot el necessari.
+⊙ Actualment, ⊙<br><br> jo {{c1::sé::…saber…}} tot el que necessito.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::saps::…saber…}} la veritat.
+⊙ Ara, ⊙<br><br> ell {{c1::sap::…saber…}} què ha de fer.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::sabem::…saber…}} tot el que cal.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::sabeu::…saber…}} la situació.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::saben::…saber…}} la notícia.
+⇠ Abans, ⇠<br><br> jo {{c1::sabia::…saber…}} molt menys del que sé ara.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::sabies::…saber…}} moltes coses.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::sabia::…saber…}} tot el que necessitava.
+⇠ Durant les vacances, ⇠<br><br> nosaltres {{c1::sabíem::…saber…}} més sobre el món.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::sabíeu::…saber…}} moltes històries.
+⇠ Molt abans, ⇠<br><br> ells {{c1::sabien::…saber…}} el que passava.
+↧ Ahir, ↧<br><br> jo {{c1::sabí::…saber…}} la veritat.
+↧ La setmana passada, ↧<br><br> tu {{c1::sabéres::…saber…}} un secret.
+↧ El mes passat, ↧<br><br> ell {{c1::sabé::…saber…}} una cosa important.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::sabérem::…saber…}} tot el necessari.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::sabéreu::…saber…}} la resposta.
+↧ Fa poc, ↧<br><br> ells {{c1::saberen::…saber…}} la notícia.
+→ Demà, →<br><br> jo {{c1::sabré::…saber…}} què fer.
+→ La setmana vinent, →<br><br> tu {{c1::sabràs::…saber…}} tota la veritat.
+→ En un any, →<br><br> ell {{c1::sabrà::…saber…}} més coses.
+→ En cinc anys, →<br><br> nosaltres {{c1::sabrem::…saber…}} el que hem de fer.
+→ Aviat, →<br><br> vosaltres {{c1::sabreu::…saber…}} tota la història.
+→ En el futur, →<br><br> ells {{c1::sabran::…saber…}} la veritat.
+〰 Espero que 〰<br><br> jo {{c1::sàpiga::…saber…}} el que he de fer.
+〰 Pot ser que 〰<br><br> tu {{c1::sàpigues::…saber…}} més demà.
+〰 És possible que 〰<br><br> ell {{c1::sàpiga::…saber…}} la resposta.
+〰 És necessari que 〰<br><br> nosaltres {{c1::sapiguem::…saber…}} tot el que cal.
+〰 Dubto que 〰<br><br> vosaltres {{c1::sapigueu::…saber…}} la veritat.
+〰 És probable que 〰<br><br> ells {{c1::sàpiguen::…saber…}} tot el que ha passat.
+↫ Si fos possible, ↫<br><br> jo {{c1::sabés::…saber…}} més coses.
+↫ Si tu ↫<br><br> {{c1::sabessis::…saber…}} la veritat, ho diries.
+↫ Si ell ↫<br><br> {{c1::sabés::…saber…}} el que fa, tot seria diferent.
+↫ Si nosaltres ↫<br><br> {{c1::sabéssim::…saber…}} la solució, ho resoldríem.
+↫ Si vosaltres ↫<br><br> {{c1::sabéssiu::…saber…}} el que passa, ho entendríeu.
+↫ Si ells ↫<br><br> {{c1::sabéssin::…saber…}} més, tot canviaria.
+… Si pogués, …<br><br> jo {{c1::sabria::…saber…}} tot el que necessito.
+… Si tinguessis temps, …<br><br> tu {{c1::sabrias::…saber…}} més sobre això.
+… Ell {{c1::sabria::…saber…}} la veritat, …<br><br>si ho investigués.
+… Si fos necessari, …<br><br> nosaltres {{c1::sabríem::…saber…}} tot el que cal.
+… Vosaltres {{c1::sabríeu::…saber…}} la solució, …<br><br>si us ho expliquéssim.
+… Si ho sabessin, …<br><br> ells {{c1::sabrien::…saber…}} què fer.
+! Ara mateix, !<br><br> tu {{c1::sàpigues::…saber…}} la resposta!
+! Si us plau, !<br><br> vostè {{c1::sàpiga::…saber…}} què fer!
+! Anem, !<br><br> nosaltres {{c1::sapiguem::…saber…}} el que hem de fer!
+! Ara, !<br><br> vosaltres {{c1::sapigueu::…saber…}} la veritat!
+! Immediatament, !<br><br> vostès {{c1::sàpiguen::…saber…}} què passa!

@@ -1,0 +1,52 @@
+~ Mentre estic pensant, ~<br><br> jo {{c1::començant::…començar…}} a veure la solució.
+♂ Després de llegir el llibre, ♂<br><br> ell ha {{c1::començat::…començar…}} a entendre-ho.
+♀ Quan va arribar, ♀<br><br> ella ha {{c1::començada::…començar…}} a treballar de seguida.
+♂♂ Després de la reunió, ♂♂<br><br> ells han {{c1::començats::…començar…}} a implementar el pla.
+♀♀ Després de la classe, ♀♀<br><br> elles han {{c1::començades::…començar…}} a practicar.
+⊙ Actualment, ⊙<br><br> jo {{c1::començo::…començar…}} cada dia amb un cafè.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::comences::…començar…}} a fer la teva feina.
+⊙ Ara, ⊙<br><br> ell {{c1::comença::…començar…}} a planificar el projecte.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::comencem::…començar…}} a preparar-nos.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::comenceu::…començar…}} cada reunió amb un resum.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::comencen::…començar…}} a treballar en el projecte.
+⇠ Abans, ⇠<br><br> jo {{c1::començava::…començar…}} cada matí amb exercici.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::començaves::…començar…}} a jugar en sortir de l'escola.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::començava::…començar…}} cada projecte amb entusiasme.
+⇠ Durant les vacances, ⇠<br><br> nosaltres {{c1::començàvem::…començar…}} a planificar els viatges.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::començàveu::…començar…}} a treballar ben d'hora.
+⇠ Molt abans, ⇠<br><br> ells {{c1::començaven::…començar…}} cada dia amb un somriure.
+↧ Ahir, ↧<br><br> jo {{c1::comencí::…començar…}} a escriure un article.
+↧ La setmana passada, ↧<br><br> tu {{c1::comencares::…començar…}} a estudiar un nou idioma.
+↧ El mes passat, ↧<br><br> ell {{c1::comencà::…començar…}} a treballar en un nou projecte.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::començàrem::…començar…}} a col·laborar amb una nova empresa.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::començàreu::…començar…}} a explorar noves idees.
+↧ Fa poc, ↧<br><br> ells {{c1::començaren::…començar…}} a desenvolupar una nova tecnologia.
+→ Demà, →<br><br> jo {{c1::començaré::…començar…}} una nova rutina.
+→ La setmana vinent, →<br><br> tu {{c1::començaràs::…començar…}} a preparar l'examen.
+→ En un any, →<br><br> ell {{c1::començarà::…començar…}} un projecte ambiciós.
+→ En cinc anys, →<br><br> nosaltres {{c1::començarem::…començar…}} a expandir el negoci.
+→ Aviat, →<br><br> vosaltres {{c1::començareu::…començar…}} a planificar les vacances.
+→ En el futur, →<br><br> ells {{c1::començaran::…començar…}} una nova etapa de la seva vida.
+〰 Espero que 〰<br><br> jo {{c1::comenci::…començar…}} amb bon peu.
+〰 Pot ser que 〰<br><br> tu {{c1::comencis::…començar…}} amb confiança.
+〰 És possible que 〰<br><br> ell {{c1::comenci::…començar…}} un nou projecte.
+〰 És necessari que 〰<br><br> nosaltres {{c1::comencem::…començar…}} junts.
+〰 Dubto que 〰<br><br> vosaltres {{c1::comenceu::…començar…}} tan d'hora.
+〰 És probable que 〰<br><br> ells {{c1::comencin::…començar…}} avui mateix.
+↫ Si fos possible, ↫<br><br> jo {{c1::comencés::…començar…}} a temps.
+↫ Si tu ↫<br><br> {{c1::comencessis::…començar…}} més aviat, acabaries abans.
+↫ Si ell ↫<br><br> {{c1::comencés::…començar…}} amb una actitud positiva, seria millor.
+↫ Si nosaltres ↫<br><br> {{c1::comencéssim::…començar…}} junts, seria més fàcil.
+↫ Si vosaltres ↫<br><br> {{c1::comencéssiu::…començar…}} amb energia, tot aniria bé.
+↫ Si ells ↫<br><br> {{c1::comencessin::…començar…}} ara, tindrien més temps.
+… Si pogués, …<br><br> jo {{c1::començaria::…començar…}} un nou projecte.
+… Si tinguessis temps, …<br><br> tu {{c1::començaries::…començar…}} a estudiar més.
+… Ell {{c1::començaria::…començar…}} avui mateix, …<br><br>si pogués.
+… Si fos necessari, …<br><br> nosaltres {{c1::començaríem::…començar…}} ara mateix.
+… Vosaltres {{c1::començaríeu::…començar…}} junts, …<br><br>si us hi poséssiu.
+… Si ho sabessin, …<br><br> ells {{c1::començarien::…començar…}} amb entusiasme.
+! Ara mateix, !<br><br> tu {{c1::comença::…començar…}} a treballar!
+! Si us plau, !<br><br> vostè {{c1::comenci::…començar…}} amb calma!
+! Anem, !<br><br> nosaltres {{c1::comencem::…començar…}} junts aquest projecte!
+! Ara, !<br><br> vosaltres {{c1::comenceu::…començar…}} a fer plans!
+! Immediatament, !<br><br> vostès {{c1::comencin::…començar…}} sense perdre temps!

@@ -1,0 +1,52 @@
+~ Mentre estic pensant, ~<br><br> jo {{c1::obrint::…obrir…}} una finestra.
+♂ Després de la trucada, ♂<br><br> ell ha {{c1::obert::…obrir…}} la porta.
+♀ Quan va arribar, ♀<br><br> ella ha {{c1::oberta::…obrir…}} la seva carta.
+♂♂ Després de l'entrevista, ♂♂<br><br> ells han {{c1::oberts::…obrir…}} moltes oportunitats.
+♀♀ Després de la reunió, ♀♀<br><br> elles han {{c1::obertes::…obrir…}} les seves ments.
+⊙ Actualment, ⊙<br><br> jo {{c1::obro::…obrir…}} la meva ment a noves idees.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::obres::…obrir…}} la finestra per aire fresc.
+⊙ Ara, ⊙<br><br> ell {{c1::obre::…obrir…}} la seva empresa.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::obrim::…obrir…}} la porta del futur.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::obriu::…obrir…}} noves possibilitats.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::obren::…obrir…}} la seva nova oficina.
+⇠ Abans, ⇠<br><br> jo {{c1::obria::…obrir…}} cada finestra cada matí.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::obries::…obrir…}} els teus regals amb alegria.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::obria::…obrir…}} la porta a noves oportunitats.
+⇠ Durant les vacances, ⇠<br><br> nosaltres {{c1::obríem::…obrir…}} les finestres per ventilar.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::obríeu::…obrir…}} més oportunitats.
+⇠ Molt abans, ⇠<br><br> ells {{c1::obrien::…obrir…}} nous camins.
+↧ Ahir, ↧<br><br> jo {{c1::obrí::…obrir…}} la finestra per l'aire fresc.
+↧ La setmana passada, ↧<br><br> tu {{c1::obrires::…obrir…}} una nova oportunitat.
+↧ El mes passat, ↧<br><br> ell {{c1::obrí::…obrir…}} la seva carta d'acceptació.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::obrírem::…obrir…}} les portes del nostre futur.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::obríreu::…obrir…}} moltes portes.
+↧ Fa poc, ↧<br><br> ells {{c1::obriren::…obrir…}} noves vies de comunicació.
+→ Demà, →<br><br> jo {{c1::obriré::…obrir…}} una nova etapa.
+→ La setmana vinent, →<br><br> tu {{c1::obriràs::…obrir…}} la porta a una nova carrera.
+→ En un any, →<br><br> ell {{c1::obrirà::…obrir…}} una nova empresa.
+→ En cinc anys, →<br><br> nosaltres {{c1::obrirem::…obrir…}} noves possibilitats.
+→ Aviat, →<br><br> vosaltres {{c1::obrireu::…obrir…}} molts camins.
+→ En el futur, →<br><br> ells {{c1::obriran::…obrir…}} més portes.
+〰 Espero que 〰<br><br> jo {{c1::obri::…obrir…}} a temps.
+〰 Pot ser que 〰<br><br> tu {{c1::obris::…obrir…}} a una nova oportunitat.
+〰 És possible que 〰<br><br> ell {{c1::obri::…obrir…}} noves portes.
+〰 És necessari que 〰<br><br> nosaltres {{c1::obrim::…obrir…}} el nostre camí.
+〰 Dubto que 〰<br><br> vosaltres {{c1::obriu::…obrir…}} tantes portes.
+〰 És probable que 〰<br><br> ells {{c1::obrin::…obrir…}} moltes possibilitats.
+↫ Si fos possible, ↫<br><br> jo {{c1::obrís::…obrir…}} més portes.
+↫ Si tu ↫<br><br> {{c1::obrissis::…obrir…}} la teva ment, tindries més opcions.
+↫ Si ell ↫<br><br> {{c1::obrís::…obrir…}} més oportunitats, guanyaria més.
+↫ Si nosaltres ↫<br><br> {{c1::obríssim::…obrir…}} noves vies, tindríem més èxit.
+↫ Si vosaltres ↫<br><br> {{c1::obríssiu::…obrir…}} més sovint, tot aniria millor.
+↫ Si ells ↫<br><br> {{c1::obrissin::…obrir…}} més portes, tindrien més oportunitats.
+… Si pogués, …<br><br> jo {{c1::obriria::…obrir…}} més portes.
+… Si tinguessis temps, …<br><br> tu {{c1::obriries::…obrir…}} a noves oportunitats.
+… Ell {{c1::obriria::…obrir…}} més sovint, …<br><br>si tingués temps.
+… Si fos necessari, …<br><br> nosaltres {{c1::obriríem::…obrir…}} totes les portes.
+… Vosaltres {{c1::obriríeu::…obrir…}} més oportunitats, …<br><br>si us ho proposéssiu.
+… Si ho sabessin, …<br><br> ells {{c1::obririen::…obrir…}} moltes més portes.
+! Ara mateix, !<br><br> tu {{c1::obre::…obrir…}} aquesta porta!
+! Si us plau, !<br><br> vostè {{c1::obri::…obrir…}} la carta!
+! Anem, !<br><br> nosaltres {{c1::obrim::…obrir…}} una nova era!
+! Ara, !<br><br> vosaltres {{c1::obriu::…obrir…}} aquesta finestra!
+! Immediatament, !<br><br> vostès {{c1::obrin::…obrir…}} totes les possibilitats!

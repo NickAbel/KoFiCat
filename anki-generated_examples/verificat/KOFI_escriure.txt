@@ -1,0 +1,52 @@
+~ Mentre estic pensant, ~<br><br> jo {{c1::escrivint::…escriure…}} una carta.
+♂ Després de la reunió, ♂<br><br> ell ha {{c1::escrit::…escriure…}} un informe.
+♀ Quan va veure el paisatge, ♀<br><br> ella ha {{c1::escrita::…escriure…}} una poesia.
+♂♂ Després del taller, ♂♂<br><br> ells han {{c1::escrits::…escriure…}} molts articles.
+♀♀ Després de la sessió, ♀♀<br><br> elles han {{c1::escrites::…escriure…}} diverses notes.
+⊙ Actualment, ⊙<br><br> jo {{c1::escric::…escriure…}} al meu diari.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::escrius::…escriure…}} una carta.
+⊙ Ara, ⊙<br><br> ell {{c1::escriu::…escriure…}} un correu electrònic.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::escrivim::…escriure…}} un projecte conjunt.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::escriviu::…escriure…}} informes cada setmana.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::escriuen::…escriure…}} sobre les seves experiències.
+⇠ Abans, ⇠<br><br> jo {{c1::escrivia::…escriure…}} més sovint.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::escrivies::…escriure…}} cartes als teus amics.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::escrivia::…escriure…}} un diari personal.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::escrivíem::…escriure…}} redaccions.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::escrivíeu::…escriure…}} poemes.
+⇠ Molt abans, ⇠<br><br> ells {{c1::escrivien::…escriure…}} cartes llargues.
+↧ Ahir, ↧<br><br> jo {{c1::escriví/escriguí::…escriure…}} una nota ràpida.
+↧ La setmana passada, ↧<br><br> tu {{c1::escrivires/escrigueres::…escriure…}} un correu electrònic.
+↧ El mes passat, ↧<br><br> ell {{c1::escriví/escrigué::…escriure…}} un article llarg.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::escrivírem/escriguérem::…escriure…}} un projecte col·laboratiu.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::escrivíreu/escriguéreu::…escriure…}} notes a mà.
+↧ Fa poc, ↧<br><br> ells {{c1::escriviren/escrigueren::…escriure…}} molts correus electrònics.
+→ Demà, →<br><br> jo {{c1::escriuré::…escriure…}} una nova entrada al blog.
+→ La setmana vinent, →<br><br> tu {{c1::escriuràs::…escriure…}} una carta a la teva família.
+→ En un any, →<br><br> ell {{c1::escriurà::…escriure…}} una novel·la.
+→ En cinc anys, →<br><br> nosaltres {{c1::escriurem::…escriure…}} un llibre junts.
+→ Aviat, →<br><br> vosaltres {{c1::escriureu::…escriure…}} molts articles.
+→ En el futur, →<br><br> ells {{c1::escriuran::…escriure…}} més informes.
+〰 Espero que 〰<br><br> jo {{c1::escrigui::…escriure…}} bé.
+〰 Pot ser que 〰<br><br> tu {{c1::escriguis::…escriure…}} amb molta atenció.
+〰 És possible que 〰<br><br> ell {{c1::escrigui::…escriure…}} sobre la seva experiència.
+〰 És necessari que 〰<br><br> nosaltres {{c1::escriguem::…escriure…}} un informe detallat.
+〰 Dubto que 〰<br><br> vosaltres {{c1::escrigueu::…escriure…}} cada dia.
+〰 És probable que 〰<br><br> ells {{c1::escriguin::…escriure…}} un article.
+↫ Si fos possible, ↫<br><br> jo {{c1::escrivís/escrigués::…escriure…}} més sovint.
+↫ Si tu ↫<br><br> {{c1::escrivissis/escriguessis::…escriure…}} més, milloraries la teva escriptura.
+↫ Si ell ↫<br><br> {{c1::escrivís/escrigués::…escriure…}} més, tindria més experiència.
+↫ Si nosaltres ↫<br><br> {{c1::escrivíssim/escriguéssim::…escriure…}} junts, seria més fàcil.
+↫ Si vosaltres ↫<br><br> {{c1::escrivíssiu/escriguéssiu::…escriure…}} més sovint, us aniria millor.
+↫ Si ells ↫<br><br> {{c1::escrivissin/escriguessin::…escriure…}} regularment, millorarien.
+… Si pogués, …<br><br> jo {{c1::escriuria::…escriure…}} una novel·la.
+… Si tinguessis temps, …<br><br> tu {{c1::escriuries::…escriure…}} més cartes.
+… Ell {{c1::escriuria::…escriure…}} més sovint, …<br><br>si tingués temps.
+… Si fos necessari, …<br><br> nosaltres {{c1::escriuríem::…escriure…}} informes detallats.
+… Vosaltres {{c1::escriuríeu::…escriure…}} més sovint, …<br><br>si us hi poséssiu.
+… Si ho sabessin, …<br><br> ells {{c1::escriurien::…escriure…}} molts més articles.
+! Ara mateix, !<br><br> tu {{c1::escriu::…escriure…}} una carta!
+! Si us plau, !<br><br> vostè {{c1::escrigui::…escriure…}} un informe!
+! Anem, !<br><br> nosaltres {{c1::escrivem::…escriure…}} aquest projecte!
+! Ara, !<br><br> vosaltres {{c1::escriviu::…escriure…}} la nota!
+! Immediatament, !<br><br> vostès {{c1::escriguin::…escriure…}} un article!

@@ -1,0 +1,52 @@
+~ Mentre estic pensant, ~<br><br> jo {{c1::corrent::…córrer…}} al parc.
+♂ Després de l'entrenament, ♂<br><br> ell ha {{c1::corregu::…córrer…}} una marató.
+♀ Quan va veure el gos, ♀<br><br> ella ha {{c1::correguda::…córrer…}} molt ràpid.
+♂♂ Després de l'exercici, ♂♂<br><br> ells han {{c1::correguts::…córrer…}} una carrera.
+♀♀ Després de la cursa, ♀♀<br><br> elles han {{c1::corregudes::…córrer…}} molt de pressa.
+⊙ Actualment, ⊙<br><br> jo {{c1::corro::…córrer…}} cada matí.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::corres::…córrer…}} al gimnàs.
+⊙ Ara, ⊙<br><br> ell {{c1::corre::…córrer…}} al voltant de la pista.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::correm::…córrer…}} junts.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::correu::…córrer…}} cada cap de setmana.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::corren::…córrer…}} una mitja marató.
+⇠ Abans, ⇠<br><br> jo {{c1::corria::…córrer…}} més sovint.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::corries::…córrer…}} sempre després de l'escola.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::corria::…córrer…}} amb l'equip de l'escola.
+⇠ Durant les vacances, ⇠<br><br> nosaltres {{c1::corríem::…córrer…}} a la platja.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::corríeu::…córrer…}} a la muntanya.
+⇠ Molt abans, ⇠<br><br> ells {{c1::corrien::…córrer…}} pel camp.
+↧ Ahir, ↧<br><br> jo {{c1::correguí::…córrer…}} una carrera curta.
+↧ La setmana passada, ↧<br><br> tu {{c1::corregueres::…córrer…}} pel parc.
+↧ El mes passat, ↧<br><br> ell {{c1::corregué::…córrer…}} una marató.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::correguérem::…córrer…}} una mitja marató.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::correguéreu::…córrer…}} a l'entrenament.
+↧ Fa poc, ↧<br><br> ells {{c1::corregueren::…córrer…}} una carrera important.
+→ Demà, →<br><br> jo {{c1::correré::…córrer…}} a primera hora.
+→ La setmana vinent, →<br><br> tu {{c1::correràs::…córrer…}} una marató.
+→ En un any, →<br><br> ell {{c1::correrà::…córrer…}} un ultramarató.
+→ En cinc anys, →<br><br> nosaltres {{c1::correrem::…córrer…}} moltes curses.
+→ Aviat, →<br><br> vosaltres {{c1::correrreu::…córrer…}} més ràpid.
+→ En el futur, →<br><br> ells {{c1::correran::…córrer…}} a nivell professional.
+〰 Espero que 〰<br><br> jo {{c1::corri::…córrer…}} ràpid.
+〰 Pot ser que 〰<br><br> tu {{c1::corris::…córrer…}} molt.
+〰 És possible que 〰<br><br> ell {{c1::corri::…córrer…}} a la carrera.
+〰 És necessari que 〰<br><br> nosaltres {{c1::correm::…córrer…}} junts.
+〰 Dubto que 〰<br><br> vosaltres {{c1::correu::…córrer…}} sovint.
+〰 És probable que 〰<br><br> ells {{c1::corrin::…córrer…}} demà.
+↫ Si fos possible, ↫<br><br> jo {{c1::corregués::…córrer…}} més ràpid.
+↫ Si tu ↫<br><br> {{c1::correguessis::…córrer…}} més, guanyaries la cursa.
+↫ Si ell ↫<br><br> {{c1::corregués::…córrer…}} més sovint, estaria en millor forma.
+↫ Si nosaltres ↫<br><br> {{c1::correguéssim::…córrer…}} junts, ho passaríem bé.
+↫ Si vosaltres ↫<br><br> {{c1::correguéssiu::…córrer…}} sovint, estaríeu en forma.
+↫ Si ells ↫<br><br> {{c1::correguessin::…córrer…}} més, estarien preparats.
+… Si pogués, …<br><br> jo {{c1::correria::…córrer…}} una marató.
+… Si tinguessis temps, …<br><br> tu {{c1::correries::…córrer…}} cada dia.
+… Ell {{c1::correria::…córrer…}} més sovint, …<br><br>si fos necessari.
+… Si fos necessari, …<br><br> nosaltres {{c1::correríem::…córrer…}} més curses.
+… Vosaltres {{c1::correríeu::…córrer…}} més sovint, …<br><br>si us hi fixéssiu.
+… Si ho sabessin, …<br><br> ells {{c1::correrien::…córrer…}} una cursa.
+! Ara mateix, !<br><br> tu {{c1::corre::…córrer…}} una mica!
+! Si us plau, !<br><br> vostè {{c1::corri::…córrer…}} més!
+! Anem, !<br><br> nosaltres {{c1::correm::…córrer…}} junts!
+! Ara, !<br><br> vosaltres {{c1::correu::…córrer…}} a la pista!
+! Immediatament, !<br><br> vostès {{c1::corrin::…córrer…}} amb rapidesa!

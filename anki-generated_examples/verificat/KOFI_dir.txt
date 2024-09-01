@@ -1,9 +1,8 @@
-
 ~ Mentre estic pensant, ~<br><br> jo {{c1::dient::…dir…}} alguna cosa interessant.
 ♂ Després de pensar-ho, ♂<br><br> ell ha {{c1::dit::…dir…}} la veritat.
-♀ Quan va decidir, ♀<br><br> ella ha {{c1::dida::…dir…}} la seva opinió.
+♀ Quan va decidir, ♀<br><br> ella ha {{c1::dita::…dir…}} la seva opinió.
 ♂♂ Després de parlar, ♂♂<br><br> ells han {{c1::dits::…dir…}} el que pensen.
-♀♀ Després de la reunió, ♀♀<br><br> elles han {{c1::dides::…dir…}} les seves preocupacions.
+♀♀ Després de la reunió, ♀♀<br><br> elles han {{c1::dites::…dir…}} les seves preocupacions.
 ⊙ Actualment, ⊙<br><br> jo {{c1::dic::…dir…}} la meva opinió sense por.
 ⊙ En aquest moment, ⊙<br><br> tu {{c1::dius::…dir…}} sempre la veritat.
 ⊙ Ara, ⊙<br><br> ell {{c1::diu::…dir…}} el que pensa.
@@ -13,20 +12,20 @@
 ⇠ Abans, ⇠<br><br> jo {{c1::deia::…dir…}} alguna cosa diferent.
 ⇠ Quan érem petits, ⇠<br><br> tu {{c1::deies::…dir…}} sempre el que pensaves.
 ⇠ Fa uns anys, ⇠<br><br> ell {{c1::deia::…dir…}} coses interessants.
-⇠ Durant les vacances, ⇠<br><br> nosaltres {{c1::deiém::…dir…}} junts el que volíem.
-⇠ De joves, ⇠<br><br> vosaltres {{c1::deieu::…dir…}} la vostra opinió sense por.
-⇠ Molt abans, ⇠<br><br> ells {{c1::deien::…dir…}} les seves preocupacions.
+⇠ Durant les vacances, ⇠<br><br> nosaltres {{c1::déiem::…dir…}} junts el que volíem.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::déieu::…dir…}} la vostra opinió sense por.
+⇠ Molt abans, ⇠<br><br> ells {{c1::déien::…dir…}} les seves preocupacions.
 ↧ Ahir, ↧<br><br> jo {{c1::diguí::…dir…}} la veritat.
-↧ La setmana passada, ↧<br><br> tu {{c1::diguéres::…dir…}} una cosa interessant.
+↧ La setmana passada, ↧<br><br> tu {{c1::digueres::…dir…}} una cosa interessant.
 ↧ El mes passat, ↧<br><br> ell {{c1::digué::…dir…}} el que pensava.
 ↧ Fa un any, ↧<br><br> nosaltres {{c1::diguérem::…dir…}} junts el que volíem.
 ↧ Els dies antics, ↧<br><br> vosaltres {{c1::diguéreu::…dir…}} la vostra opinió.
-↧ Fa poc, ↧<br><br> ells {{c1::diguéren::…dir…}} el que pensaven.
+↧ Fa poc, ↧<br><br> ells {{c1::digueren::…dir…}} el que pensaven.
 → Demà, →<br><br> jo {{c1::diré::…dir…}} el que penso.
 → La setmana vinent, →<br><br> tu {{c1::diràs::…dir…}} alguna cosa nova.
 → En un any, →<br><br> ell {{c1::dirà::…dir…}} la veritat.
-→ En cinc anys, →<br><br> nosaltres {{c1::dirém::…dir…}} junts el que pensarem.
-→ Aviat, →<br><br> vosaltres {{c1::diréu::…dir…}} la vostra opinió.
+→ En cinc anys, →<br><br> nosaltres {{c1::direm::…dir…}} junts el que pensarem.
+→ Aviat, →<br><br> vosaltres {{c1::direu::…dir…}} la vostra opinió.
 → En el futur, →<br><br> ells {{c1::diran::…dir…}} el que pensaran.
 〰 Espero que 〰<br><br> jo {{c1::digui::…dir…}} alguna cosa important.
 〰 Pot ser que 〰<br><br> tu {{c1::diguis::…dir…}} la veritat.
@@ -34,20 +33,20 @@
 〰 És necessari que 〰<br><br> nosaltres {{c1::diguem::…dir…}} junts la veritat.
 〰 Dubto que 〰<br><br> vosaltres {{c1::digueu::…dir…}} sempre el que penseu.
 〰 És probable que 〰<br><br> ells {{c1::diguin::…dir…}} la veritat.
-↫ Si fos possible, ↫<br><br> jo {{c1::digues::…dir…}} el que penso.
-↫ Si tu ↫<br><br> {{c1::digues::…dir…}} la veritat, tothom ho sabria.
+↫ Si fos possible, ↫<br><br> jo {{c1::digués::…dir…}} el que penso.
+↫ Si tu ↫<br><br> {{c1::diguessis::…dir…}} la veritat, tothom ho sabria.
 ↫ Si ell ↫<br><br> {{c1::digués::…dir…}} sempre el que pensa, tot seria millor.
 ↫ Si nosaltres ↫<br><br> {{c1::diguéssim::…dir…}} junts, ens entendríem millor.
 ↫ Si vosaltres ↫<br><br> {{c1::diguéssiu::…dir…}} sempre la veritat, tothom us creuria.
-↫ Si ells ↫<br><br> {{c1::diguéssin::…dir…}} el que pensen, tot aniria millor.
+↫ Si ells ↫<br><br> {{c1::diguessin::…dir…}} el que pensen, tot aniria millor.
 … Si pogués, …<br><br> jo {{c1::diria::…dir…}} la veritat.
 … Si tinguessis temps, …<br><br> tu {{c1::diries::…dir…}} tot el que penses.
 … Ell {{c1::diria::…dir…}} la veritat, …<br><br>si ho sabés.
 … Si fos necessari, …<br><br> nosaltres {{c1::diríem::…dir…}} junts el que pensem.
 … Vosaltres {{c1::diríeu::…dir…}} la vostra opinió, …<br><br>si us ho demanessin.
 … Si ho sabessin, …<br><br> ells {{c1::dirien::…dir…}} la veritat.
-! Ara mateix, !<br><br> tu {{c1::diu::…dir…}} el que penses!
-! Si us plau, !<br><br> vostè {{c1::digué::…dir…}} el que pensa!
+! Ara mateix, !<br><br> tu {{c1::digues::…dir…}} el que penses!
+! Si us plau, !<br><br> vostè {{c1::digui::…dir…}} el que pensa!
 ! Anem, !<br><br> nosaltres {{c1::diguem::…dir…}} junts la veritat!
 ! Ara, !<br><br> vosaltres {{c1::digueu::…dir…}} la vostra opinió!
 ! Immediatament, !<br><br> vostès {{c1::diguin::…dir…}} el que pensen!

@@ -1,0 +1,52 @@
+~ Mentre estic pensant, ~<br><br> jo {{c1::venint::…venir…}} a la conclusió que necessito ajuda.
+♂ Després de rebre la notícia, ♂<br><br> ell ha {{c1::vingut::…venir…}} immediatament.
+♀ Quan va escoltar la música, ♀<br><br> ella ha {{c1::vinguda::…venir…}} a ballar.
+♂♂ Després de l'invitació, ♂♂<br><br> ells han {{c1::vinguts::…venir…}} tots junts.
+♀♀ Després de l'esdeveniment, ♀♀<br><br> elles han {{c1::vingudes::…venir…}} a casa meva.
+⊙ Actualment, ⊙<br><br> jo {{c1::vinc::…venir…}} cada dia a l'oficina.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::vens::…venir…}} a ajudar-me.
+⊙ Ara, ⊙<br><br> ell {{c1::ve::…venir…}} amb una proposta interessant.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::venim::…venir…}} a donar suport.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::veniu::…venir…}} a les reunions.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::venen::…venir…}} a veure què passa.
+⇠ Abans, ⇠<br><br> jo {{c1::venia::…venir…}} cada setmana.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::venies::…venir…}} sovint a jugar.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::venia::…venir…}} a la ciutat.
+⇠ Durant l'estiu, ⇠<br><br> nosaltres {{c1::veníem::…venir…}} a la platja.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::veníeu::…venir…}} de vacances aquí.
+⇠ Molt abans, ⇠<br><br> ells {{c1::venien::…venir…}} a visitar la família.
+↧ Ahir, ↧<br><br> jo {{c1::vinguí::…venir…}} tan de pressa com vaig poder.
+↧ La setmana passada, ↧<br><br> tu {{c1::vingueres::…venir…}} amb nosaltres.
+↧ El mes passat, ↧<br><br> ell {{c1::vingué::…venir…}} a veure l'exposició.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::vinguérem::…venir…}} a l'esdeveniment.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::vinguéreu::…venir…}} sempre junts.
+↧ Fa poc, ↧<br><br> ells {{c1::vingueren::…venir…}} sense avisar.
+→ Demà, →<br><br> jo {{c1::vindré::…venir…}} amb una sorpresa.
+→ La setmana vinent, →<br><br> tu {{c1::vindràs::…venir…}} amb bones notícies.
+→ En un any, →<br><br> ell {{c1::vindrà::…venir…}} per quedar-se.
+→ En cinc anys, →<br><br> nosaltres {{c1::vindrem::…venir…}} a viure aquí.
+→ Aviat, →<br><br> vosaltres {{c1::vindreu::…venir…}} amb noves idees.
+→ En el futur, →<br><br> ells {{c1::vindran::…venir…}} a explorar el món.
+〰 Espero que 〰<br><br> jo {{c1::vingui::…venir…}} aviat.
+〰 Pot ser que 〰<br><br> tu {{c1::vinguis::…venir…}} a ajudar-me.
+〰 És possible que 〰<br><br> ell {{c1::vingui::…venir…}} amb bones intencions.
+〰 És necessari que 〰<br><br> nosaltres {{c1::vinguem::…venir…}} a un acord.
+〰 Dubto que 〰<br><br> vosaltres {{c1::vingueu::…venir…}} a temps.
+〰 És probable que 〰<br><br> ells {{c1::vinguin::…venir…}} a fer una visita.
+↫ Si fos possible, ↫<br><br> jo {{c1::vingués::…venir…}} més sovint.
+↫ Si tu ↫<br><br> {{c1::vinguessis::…venir…}} més, ho entendries millor.
+↫ Si ell ↫<br><br> {{c1::vingués::…venir…}} a temps, tot seria diferent.
+↫ Si nosaltres ↫<br><br> {{c1::vinguéssim::…venir…}} cada any, seria fantàstic.
+↫ Si vosaltres ↫<br><br> {{c1::vinguéssiu::…venir…}} més, ens ho passaríem millor.
+↫ Si ells ↫<br><br> {{c1::vinguessin::…venir…}} ara, els rebríem amb gust.
+… Si pogués, …<br><br> jo {{c1::vindria::…venir…}} cada setmana.
+… Si tinguessis temps, …<br><br> tu {{c1::vindries::…venir…}} més sovint.
+… Ell {{c1::vindria::…venir…}} cada dia, …<br><br>si pogués.
+… Si fos necessari, …<br><br> nosaltres {{c1::vindríem::…venir…}} a ajudar.
+… Vosaltres {{c1::vindríeu::…venir…}} amb nosaltres, …<br><br>si us ho demanéssim.
+… Si ho sabessin, …<br><br> ells {{c1::vindrien::…venir…}} sense dubtar.
+! Ara mateix, !<br><br> tu {{c1::vine::…venir…}} amb nosaltres!
+! Si us plau, !<br><br> vostè {{c1::vingui::…venir…}} a l'hora!
+! Anem, !<br><br> nosaltres {{c1::vinguem::…venir…}} junts!
+! Ara, !<br><br> vosaltres {{c1::vingueu::…venir…}} a veure això!
+! Immediatament, !<br><br> vostès {{c1::vinguin::…venir…}} a la reunió!

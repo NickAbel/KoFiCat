@@ -1,0 +1,52 @@
+~ Mentre estic pensant, ~<br><br> jo {{c1::sortint::…sortir…}} a passejar.
+♂ Després de la reunió, ♂<br><br> ell ha {{c1::sortit::…sortir…}} amb una idea nova.
+♀ Quan va acabar la feina, ♀<br><br> ella ha {{c1::sortida::…sortir…}} per prendre l'aire.
+♂♂ Després de la trobada, ♂♂<br><br> ells han {{c1::sortits::…sortir…}} a celebrar.
+♀♀ Després de la conversa, ♀♀<br><br> elles han {{c1::sortides::…sortir…}} a prendre un cafè.
+⊙ Actualment, ⊙<br><br> jo {{c1::surto::…sortir…}} cada dia al matí.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::surts::…sortir…}} per comprar alguna cosa.
+⊙ Ara, ⊙<br><br> ell {{c1::surt::…sortir…}} per veure els amics.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::sortim::…sortir…}} junts a caminar.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::sortiu::…sortir…}} sovint amb els companys.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::surten::…sortir…}} per fer un tomb.
+⇠ Abans, ⇠<br><br> jo {{c1::sortia::…sortir…}} cada dia.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::sorties::…sortir…}} a jugar al parc.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::sortia::…sortir…}} amb freqüència.
+⇠ Durant l'estiu, ⇠<br><br> nosaltres {{c1::sortíem::…sortir…}} a la platja.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::sortíeu::…sortir…}} cada cap de setmana.
+⇠ Molt abans, ⇠<br><br> ells {{c1::sortien::…sortir…}} a ballar sovint.
+↧ Ahir, ↧<br><br> jo {{c1::sortí::…sortir…}} de casa a primera hora.
+↧ La setmana passada, ↧<br><br> tu {{c1::sortíres::…sortir…}} abans de dinar.
+↧ El mes passat, ↧<br><br> ell {{c1::sortí::…sortir…}} amb uns amics.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::sortírem::…sortir…}} per veure una pel·lícula.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::sortíreu::…sortir…}} més sovint.
+↧ Fa poc, ↧<br><br> ells {{c1::sortíren::…sortir…}} de la reunió molt satisfets.
+→ Demà, →<br><br> jo {{c1::sortiré::…sortir…}} a fer un tomb.
+→ La setmana vinent, →<br><br> tu {{c1::sortiràs::…sortir…}} a comprar.
+→ En un any, →<br><br> ell {{c1::sortirà::…sortir…}} a conèixer gent nova.
+→ En cinc anys, →<br><br> nosaltres {{c1::sortirem::…sortir…}} sovint junts.
+→ Aviat, →<br><br> vosaltres {{c1::sortireu::…sortir…}} més sovint.
+→ En el futur, →<br><br> ells {{c1::sortiran::…sortir…}} de viatge.
+〰 Espero que 〰<br><br> jo {{c1::surti::…sortir…}} amb èxit.
+〰 Pot ser que 〰<br><br> tu {{c1::surtis::…sortir…}} a veure món.
+〰 És possible que 〰<br><br> ell {{c1::surti::…sortir…}} amb una nova idea.
+〰 És necessari que 〰<br><br> nosaltres {{c1::sortim::…sortir…}} a conèixer gent.
+〰 Dubto que 〰<br><br> vosaltres {{c1::sortiu::…sortir…}} tant com abans.
+〰 És probable que 〰<br><br> ells {{c1::surtin::…sortir…}} a buscar noves oportunitats.
+↫ Si fos possible, ↫<br><br> jo {{c1::sortís::…sortir…}} cada dia.
+↫ Si tu ↫<br><br> {{c1::sortissis::…sortir…}} més sovint, et sentiries millor.
+↫ Si ell ↫<br><br> {{c1::sortís::…sortir…}} més, coneixeria més gent.
+↫ Si nosaltres ↫<br><br> {{c1::sortíssim::…sortir…}} a fer esport, seríem més saludables.
+↫ Si vosaltres ↫<br><br> {{c1::sortíssiu::…sortir…}} junts, gaudiríeu més.
+↫ Si ells ↫<br><br> {{c1::sortissin::…sortir…}} sovint, serien més feliços.
+… Si pogués, …<br><br> jo {{c1::sortiria::…sortir…}} més a l'aire lliure.
+… Si tinguessis temps, …<br><br> tu {{c1::sortiries::…sortir…}} cada cap de setmana.
+… Ell {{c1::sortiria::…sortir…}} a córrer, …<br><br>si pogués.
+… Si fos necessari, …<br><br> nosaltres {{c1::sortiríem::…sortir…}} a treballar fora.
+… Vosaltres {{c1::sortiríeu::…sortir…}} a ballar, …<br><br>si us hi animéssiu.
+… Si ho sabessin, …<br><br> ells {{c1::sortirien::…sortir…}} més sovint.
+! Ara mateix, !<br><br> tu {{c1::surt::…sortir…}} a gaudir del dia!
+! Si us plau, !<br><br> vostè {{c1::surti::…sortir…}} a fer un tomb!
+! Anem, !<br><br> nosaltres {{c1::sortim::…sortir…}} a prendre l'aire!
+! Ara, !<br><br> vosaltres {{c1::sortiu::…sortir…}} a fer una volta!
+! Immediatament, !<br><br> vostès {{c1::surtin::…sortir…}} a veure món!

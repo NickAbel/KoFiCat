@@ -1,0 +1,52 @@
+~ Mentre estic pensant, ~<br><br> jo {{c1::venent::…vendre…}} les meves coses antigues.
+♂ Després de l'entrevista, ♂<br><br> ell ha {{c1::venut::…vendre…}} el seu cotxe.
+♀ Quan va rebre l'oferta, ♀<br><br> ella ha {{c1::venuda::…vendre…}} la seva casa.
+♂♂ Després de l'esdeveniment, ♂♂<br><br> ells han {{c1::venuts::…vendre…}} molts productes.
+♀♀ Després de la reunió, ♀♀<br><br> elles han {{c1::venudes::…vendre…}} les seves accions.
+⊙ Actualment, ⊙<br><br> jo {{c1::venc::…vendre…}} objectes de col·leccionista.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::vens::…vendre…}} el teu telèfon.
+⊙ Ara, ⊙<br><br> ell {{c1::ven::…vendre…}} la seva bicicleta.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::venem::…vendre…}} joguines antigues.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::veneu::…vendre…}} llibres usats.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::venen::…vendre…}} els seus discos.
+⇠ Abans, ⇠<br><br> jo {{c1::venia::…vendre…}} roba a un mercat.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::venies::…vendre…}} llimonada al carrer.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::venia::…vendre…}} fruita al mercat.
+⇠ Durant l'estiu, ⇠<br><br> nosaltres {{c1::veníem::…vendre…}} llibres a la plaça.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::veníeu::…vendre…}} entrades per a concerts.
+⇠ Molt abans, ⇠<br><br> ells {{c1::venien::…vendre…}} molts productes al mercat.
+↧ Ahir, ↧<br><br> jo {{c1::	venguí::…vendre…}} el meu ordinador.
+↧ La setmana passada, ↧<br><br> tu {{c1::vengueres::…vendre…}} la teva bicicleta.
+↧ El mes passat, ↧<br><br> ell {{c1::vengué::…vendre…}} la seva càmera.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::venguérem::…vendre…}} una gran quantitat de llibres.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::venguéreu::…vendre…}} molts objectes de col·lecció.
+↧ Fa poc, ↧<br><br> ells {{c1::vengueren::…vendre…}} les seves accions.
+→ Demà, →<br><br> jo {{c1::vendré::…vendre…}} la meva moto.
+→ La setmana vinent, →<br><br> tu {{c1::vendràs::…vendre…}} el teu cotxe.
+→ En un any, →<br><br> ell {{c1::vendrà::…vendre…}} la seva casa.
+→ En cinc anys, →<br><br> nosaltres {{c1::vendrem::…vendre…}} tots els nostres mobles.
+→ Aviat, →<br><br> vosaltres {{c1::vendreu::…vendre…}} molts llibres.
+→ En el futur, →<br><br> ells {{c1::vendran::…vendre…}} les seves propietats.
+〰 Espero que 〰<br><br> jo {{c1::vengui::…vendre…}} tot ràpidament.
+〰 Pot ser que 〰<br><br> tu {{c1::venguis::…vendre…}} a bon preu.
+〰 És possible que 〰<br><br> ell {{c1::vengui::…vendre…}} la seva col·lecció.
+〰 És necessari que 〰<br><br> nosaltres {{c1::venguem::…vendre…}} amb èxit.
+〰 Dubto que 〰<br><br> vosaltres {{c1::vengueu::…vendre…}} tan ràpidament.
+〰 És probable que 〰<br><br> ells {{c1::venguin::…vendre…}} moltes coses.
+↫ Si fos possible, ↫<br><br> jo {{c1::vengués::…vendre…}} més sovint.
+↫ Si tu ↫<br><br> {{c1::venguessis::…vendre…}} a bon preu, tindries més èxit.
+↫ Si ell ↫<br><br> {{c1::vengués::…vendre…}} la seva col·lecció, guanyaria més diners.
+↫ Si nosaltres ↫<br><br> {{c1::venguéssim::…vendre…}} junts, seria més fàcil.
+↫ Si vosaltres ↫<br><br> {{c1::venguéssiu::…vendre…}} més, tindríeu més ingressos.
+↫ Si ells ↫<br><br> {{c1::venguessin::…vendre…}} regularment, serien millors venedors.
+… Si pogués, …<br><br> jo {{c1::vendria::…vendre…}} la meva col·lecció.
+… Si tinguessis temps, …<br><br> tu {{c1::vendries::…vendre…}} més articles.
+… Ell {{c1::vendria::…vendre…}} més sovint, …<br><br>si tingués oportunitats.
+… Si fos necessari, …<br><br> nosaltres {{c1::vendríem::…vendre…}} els nostres béns.
+… Vosaltres {{c1::vendríeu::…vendre…}} més productes, …<br><br>si us hi poséssiu.
+… Si ho sabessin, …<br><br> ells {{c1::vendrien::…vendre…}} molts articles.
+! Ara mateix, !<br><br> tu {{c1::ven::…vendre…}} ràpidament!
+! Si us plau, !<br><br> vostè {{c1::vengui::…vendre…}} a bon preu!
+! Anem, !<br><br> nosaltres {{c1::venguem::…vendre…}} junts!
+! Ara, !<br><br> vosaltres {{c1::vengueu::…vendre…}} els productes!
+! Immediatament, !<br><br> vostès {{c1::venguin::…vendre…}} tot el possible!

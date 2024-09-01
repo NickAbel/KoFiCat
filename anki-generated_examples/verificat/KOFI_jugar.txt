@@ -1,0 +1,52 @@
+~ Mentre estic pensant, ~<br><br> jo {{c1::jugant::…jugar…}} a un joc de taula.
+♂ Després de l'escola, ♂<br><br> ell ha {{c1::jugat::…jugar…}} a futbol.
+♀ Quan va arribar, ♀<br><br> ella ha {{c1::jugada::…jugar…}} amb els seus amics.
+♂♂ Després de l'entrenament, ♂♂<br><br> ells han {{c1::jugats::…jugar…}} a bàsquet.
+♀♀ Després de la classe, ♀♀<br><br> elles han {{c1::jugades::…jugar…}} al parc.
+⊙ Actualment, ⊙<br><br> jo {{c1::jugo::…jugar…}} al tennis.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::jugues::…jugar…}} amb el teu germà.
+⊙ Ara, ⊙<br><br> ell {{c1::juga::…jugar…}} a videojocs.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::juguem::…jugar…}} a un joc de cartes.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::jugueu::…jugar…}} sovint junts.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::juguen::…jugar…}} a la plaça.
+⇠ Abans, ⇠<br><br> jo {{c1::jugava::…jugar…}} al parc cada dia.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::jugaves::…jugar…}} a futbol.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::jugava::…jugar…}} a videojocs cada dia.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::jugàvem::…jugar…}} a bàsquet.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::jugàveu::…jugar…}} sovint a cartes.
+⇠ Molt abans, ⇠<br><br> ells {{c1::jugaven::…jugar…}} al parc cada tarda.
+↧ Ahir, ↧<br><br> jo {{c1::juguí::…jugar…}} un partit de tennis.
+↧ La setmana passada, ↧<br><br> tu {{c1::juguares::…jugar…}} a futbol.
+↧ El mes passat, ↧<br><br> ell {{c1::jugà::…jugar…}} amb els seus amics.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::jugàrem::…jugar…}} a bàsquet.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::jugàreu::…jugar…}} a un joc de cartes.
+↧ Fa poc, ↧<br><br> ells {{c1::jugaren::…jugar…}} a futbol.
+→ Demà, →<br><br> jo {{c1::jugaré::…jugar…}} un partit de tennis.
+→ La setmana vinent, →<br><br> tu {{c1::jugaràs::…jugar…}} amb el teu germà.
+→ En un any, →<br><br> ell {{c1::jugarà::…jugar…}} a bàsquet.
+→ En cinc anys, →<br><br> nosaltres {{c1::jugarem::…jugar…}} a un joc de cartes.
+→ Aviat, →<br><br> vosaltres {{c1::jugareu::…jugar…}} amb els amics.
+→ En el futur, →<br><br> ells {{c1::jugaran::…jugar…}} a molts jocs.
+〰 Espero que 〰<br><br> jo {{c1::jugui::…jugar…}} bé.
+〰 Pot ser que 〰<br><br> tu {{c1::juguis::…jugar…}} amb els amics.
+〰 És possible que 〰<br><br> ell {{c1::jugui::…jugar…}} a cartes.
+〰 És necessari que 〰<br><br> nosaltres {{c1::juguem::…jugar…}} amb atenció.
+〰 Dubto que 〰<br><br> vosaltres {{c1::jugueu::…jugar…}} sovint.
+〰 És probable que 〰<br><br> ells {{c1::juguin::…jugar…}} avui.
+↫ Si fos possible, ↫<br><br> jo {{c1::jugués::…jugar…}} més sovint.
+↫ Si tu ↫<br><br> {{c1::juguessis::…jugar…}} més, t'ho passaries bé.
+↫ Si ell ↫<br><br> {{c1::jugués::…jugar…}} amb nosaltres, ens divertiríem més.
+↫ Si nosaltres ↫<br><br> {{c1::juguéssim::…jugar…}} junts, guanyaríem.
+↫ Si vosaltres ↫<br><br> {{c1::juguéssiu::…jugar…}} a cartes, milloraríeu.
+↫ Si ells ↫<br><br> {{c1::juguessin::…jugar…}} més sovint, serien millors.
+… Si pogués, …<br><br> jo {{c1::jugaria::…jugar…}} a futbol.
+… Si tinguessis temps, …<br><br> tu {{c1::jugaries::…jugar…}} més sovint.
+… Ell {{c1::jugaria::…jugar…}} amb els seus amics, …<br><br>si tingués l'oportunitat.
+… Si fos necessari, …<br><br> nosaltres {{c1::jugaríem::…jugar…}} amb molta cura.
+… Vosaltres {{c1::jugaríeu::…jugar…}} a bàsquet, …<br><br>si us ho proposéssiu.
+… Si ho sabessin, …<br><br> ells {{c1::jugarien::…jugar…}} a molts jocs.
+! Ara mateix, !<br><br> tu {{c1::juga::…jugar…}} una estona!
+! Si us plau, !<br><br> vostè {{c1::jugui::…jugar…}} amb els nens!
+! Anem, !<br><br> nosaltres {{c1::juguem::…jugar…}} a la plaça!
+! Ara, !<br><br> vosaltres {{c1::jugueu::…jugar…}} al parc!
+! Immediatament, !<br><br> vostès {{c1::juguin::…jugar…}} junts!

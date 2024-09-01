@@ -1,0 +1,53 @@
+~ Mentre estic pensant, ~<br><br> jo {{c1::volent::…voler…}} fer una pausa.
+♂ Després de l'examen, ♂<br><br> ell ha {{c1::volgut::…voler…}} celebrar-ho.
+♀ Quan va rebre la notícia, ♀<br><br> ella ha {{c1::volguda::…voler…}} parlar amb algú.
+♂♂ Després de l'esdeveniment, ♂♂<br><br> ells han {{c1::volguts::…voler…}} marxar de seguida.
+♀♀ Després de la reunió, ♀♀<br><br> elles han {{c1::volgudes::…voler…}} explicar-ho tot.
+⊙ Actualment, ⊙<br><br> jo {{c1::vull::…voler…}} una mica de temps lliure.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::vols::…voler…}} acabar el projecte.
+⊙ Ara, ⊙<br><br> ell {{c1::vol::…voler…}} parlar amb tu.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::volem::…voler…}} veure els resultats.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::voleu::…voler…}} fer un descans.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::volen::…voler…}} anar al cinema.
+⇠ Abans, ⇠<br><br> jo {{c1::volia::…voler…}} estudiar medicina.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::volies::…voler…}} ser astronauta.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::volia::…voler…}} viatjar pel món.
+⇠ Durant l'estiu, ⇠<br><br> nosaltres {{c1::volíem::…voler…}} anar a la platja.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::volíeu::…voler…}} fer moltes coses.
+⇠ Molt abans, ⇠<br><br> ells {{c1::volien::…voler…}} ser artistes.
+↧ Ahir, ↧<br><br> jo {{c1::volguí::…voler…}} anar al concert.
+↧ La setmana passada, ↧<br><br> tu {{c1::volgueres::…voler…}} començar un nou projecte.
+↧ El mes passat, ↧<br><br> ell {{c1::volgué::…voler…}} parlar amb el director.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::volguérem::…voler…}} canviar de feina.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::volguéreu::…voler…}} viure a l'estranger.
+↧ Fa poc, ↧<br><br> ells {{c1::volgueren::…voler…}} comprar una casa nova.
+→ Demà, →<br><br> jo {{c1::voldré::…voler…}} parlar amb el meu cap.
+→ La setmana vinent, →<br><br> tu {{c1::voldràs::…voler…}} fer un viatge.
+→ En un any, →<br><br> ell {{c1::voldrà::…voler…}} començar un nou projecte.
+→ En cinc anys, →<br><br> nosaltres {{c1::voldrem::…voler…}} viure en una casa gran.
+→ Aviat, →<br><br> vosaltres {{c1::voldreu::…voler…}} estudiar a l'estranger.
+→ En el futur, →<br><br> ells {{c1::voldran::…voler…}} treballar per a una gran empresa.
+〰 Espero que 〰<br><br> jo {{c1::vulgui::…voler…}} fer un bon treball.
+〰 Pot ser que 〰<br><br> tu {{c1::vulguis::…voler…}} aconseguir el teu objectiu.
+〰 És possible que 〰<br><br> ell {{c1::vulgui::…voler…}} parlar amb el seu cap.
+〰 És necessari que 〰<br><br> nosaltres {{c1::vulguem::…voler…}} fer un bon projecte.
+〰 Dubto que 〰<br><br> vosaltres {{c1::vulgueu::…voler…}} acabar-ho avui.
+〰 És probable que 〰<br><br> ells {{c1::vulguin::…voler…}} presentar una proposta.
+↫ Si fos possible, ↫<br><br> jo {{c1::volgués::…voler…}} fer-ho avui.
+↫ Si tu ↫<br><br> {{c1::volguessis::…voler…}} parlar amb ell, ho faries.
+↫ Si ell ↫<br><br> {{c1::volgués::…voler…}} marxar, ja ho hauria fet.
+↫ Si nosaltres ↫<br><br> {{c1::volguéssim::…voler…}} canviar alguna cosa, ja ho hauríem fet.
+↫ Si vosaltres ↫<br><br> {{c1::volguéssiu::…voler…}} fer-ho, podríeu començar ara.
+↫ Si ells ↫<br><br> {{c1::volguessin::…voler…}} explicar-ho, ja ho haurien dit.
+… Si pogués, …<br><br> jo {{c1::voldria::…voler…}} fer un bon treball.
+… Si tinguessis temps, …<br><br> tu {{c1::voldries::…voler…}} estudiar més.
+… Ell {{c1::voldria::…voler…}} parlar amb el seu cap, …<br><br>si ho necessités.
+… Si fos necessari, …<br><br> nosaltres {{c1::voldríem::…voler…}} fer-ho.
+… Vosaltres {{c1::voldríeu::…voler…}} canviar de feina, …<br><br>si us ho proposéssiu.
+… Si ho sabessin, …<br><br> ells {{c1::voldrien::…voler…}} estudiar a l'estranger.
+! Ara mateix, !<br><br> tu {{c1::vulgues::…voler…}} aconseguir-ho!
+! Si us plau, !<br><br> vostè {{c1::vulgui::…voler…}} fer-ho bé!
+! Anem, !<br><br> nosaltres {{c1::vulguem::…voler…}} aconseguir els nostres objectius!
+! Ara, !<br><br> vosaltres {{c1::vulgueu::…voler…}} fer-ho bé!
+! Immediatament, !<br><br> vostès {{c1::vulguin::…voler…}} presentar la proposta!
+

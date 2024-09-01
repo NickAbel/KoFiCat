@@ -1,0 +1,52 @@
+~ Mentre estic pensant, ~<br><br> jo {{c1::coneixent::…conèixer…}} gent interessant.
+♂ Després de la reunió, ♂<br><br> ell ha {{c1::conegut::…conèixer…}} persones influents.
+♀ Quan va arribar, ♀<br><br> ella ha {{c1::coneguda::…conèixer…}} molta gent nova.
+♂♂ Després de l'esdeveniment, ♂♂<br><br> ells han {{c1::coneguts::…conèixer…}} molts contactes.
+♀♀ Després de la festa, ♀♀<br><br> elles han {{c1::conegudes::…conèixer…}} nous amics.
+⊙ Actualment, ⊙<br><br> jo {{c1::conec::…conèixer…}} moltes persones.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::coneixes::…conèixer…}} molta gent.
+⊙ Ara, ⊙<br><br> ell {{c1::coneix::…conèixer…}} algú interessant.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::coneixem::…conèixer…}} persones noves.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::coneixeu::…conèixer…}} gent influent.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::coneixen::…conèixer…}} noves idees.
+⇠ Abans, ⇠<br><br> jo {{c1::coneixia::…conèixer…}} menys gent.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::coneixies::…conèixer…}} tots els veïns.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::coneixia::…conèixer…}} molt poca gent.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::coneixíem::…conèixer…}} moltes persones.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::coneixíeu::…conèixer…}} molta gent.
+⇠ Molt abans, ⇠<br><br> ells {{c1::coneixien::…conèixer…}} tothom.
+↧ Ahir, ↧<br><br> jo {{c1::coneguí::…conèixer…}} algú molt interessant.
+↧ La setmana passada, ↧<br><br> tu {{c1::coneguéres::…conèixer…}} una persona influent.
+↧ El mes passat, ↧<br><br> ell {{c1::conegué::…conèixer…}} nous amics.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::coneguérem::…conèixer…}} gent de tot arreu.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::coneguéreu::…conèixer…}} persones influents.
+↧ Fa poc, ↧<br><br> ells {{c1::conegueren::…conèixer…}} persones noves.
+→ Demà, →<br><br> jo {{c1::coneixeré::…conèixer…}} molta gent.
+→ La setmana vinent, →<br><br> tu {{c1::coneixeràs::…conèixer…}} nous amics.
+→ En un any, →<br><br> ell {{c1::coneixerà::…conèixer…}} persones influents.
+→ En cinc anys, →<br><br> nosaltres {{c1::coneixerem::…conèixer…}} gent interessant.
+→ Aviat, →<br><br> vosaltres {{c1::coneixereu::…conèixer…}} persones de tot el món.
+→ En el futur, →<br><br> ells {{c1::coneixeran::…conèixer…}} nous contactes.
+〰 Espero que 〰<br><br> jo {{c1::conegui::…conèixer…}} molta gent.
+〰 Pot ser que 〰<br><br> tu {{c1::coneguis::…conèixer…}} algú important.
+〰 És possible que 〰<br><br> ell {{c1::conegui::…conèixer…}} persones noves.
+〰 És necessari que 〰<br><br> nosaltres {{c1::coneguem::…conèixer…}} persones influents.
+〰 Dubto que 〰<br><br> vosaltres {{c1::conegueu::…conèixer…}} moltes persones.
+〰 És probable que 〰<br><br> ells {{c1::coneguin::…conèixer…}} gent nova.
+↫ Si fos possible, ↫<br><br> jo {{c1::conegués::…conèixer…}} més gent interessant.
+↫ Si tu ↫<br><br> {{c1::coneguessis::…conèixer…}} més persones, tindries més amics.
+↫ Si ell ↫<br><br> {{c1::conegués::…conèixer…}} algú interessant, ho diria.
+↫ Si nosaltres ↫<br><br> {{c1::coneguéssim::…conèixer…}} gent nova, seria emocionant.
+↫ Si vosaltres ↫<br><br> {{c1::coneguéssiu::…conèixer…}} més persones, tindríeu més contactes.
+↫ Si ells ↫<br><br> {{c1::coneguessin::…conèixer…}} tothom, seria increïble.
+… Si pogués, …<br><br> jo {{c1::coneixeria::…conèixer…}} tothom.
+… Si tinguessis temps, …<br><br> tu {{c1::coneixeries::…conèixer…}} més gent.
+… Ell {{c1::coneixeria::…conèixer…}} moltes persones, …<br><br>si tingués l'oportunitat.
+… Si fos necessari, …<br><br> nosaltres {{c1::coneixeríem::…conèixer…}} nous contactes.
+… Vosaltres {{c1::coneixeríeu::…conèixer…}} tothom, …<br><br>si us hi poséssiu.
+… Si ho sabessin, …<br><br> ells {{c1::coneixerien::…conèixer…}} gent nova.
+! Ara mateix, !<br><br> tu {{c1::coneix::…conèixer…}} noves persones!
+! Si us plau, !<br><br> vostè {{c1::conegui::…conèixer…}} nous amics!
+! Anem, !<br><br> nosaltres {{c1::coneguem::…conèixer…}} persones interessants!
+! Ara, !<br><br> vosaltres {{c1::coneixeu::…conèixer…}} més gent!
+! Immediatament, !<br><br> vostès {{c1::coneguin::…conèixer…}} tothom possible!

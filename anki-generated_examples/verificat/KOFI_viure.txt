@@ -1,0 +1,52 @@
+~ Mentre estic pensant, ~<br><br> jo {{c1::vivint::…viure…}} una experiència única.
+♂ Després de viatjar, ♂<br><br> ell ha {{c1::viscut::…viure…}} moltes aventures.
+♀ Quan va marxar, ♀<br><br> ella ha {{c1::viscuda::…viure…}} una gran experiència.
+♂♂ Després del viatge, ♂♂<br><br> ells han {{c1::viscuts::…viure…}} moments inoblidables.
+♀♀ Després de la festa, ♀♀<br><br> elles han {{c1::viscudes::…viure…}} una nit memorable.
+⊙ Actualment, ⊙<br><br> jo {{c1::visc::…viure…}} a la ciutat.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::vius::…viure…}} amb molta alegria.
+⊙ Ara, ⊙<br><br> ell {{c1::viu::…viure…}} la seva millor vida.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::vivim::…viure…}} amb passió.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::viviu::…viure…}} a prop de la feina.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::viuen::…viure…}} a casa seva.
+⇠ Abans, ⇠<br><br> jo {{c1::vivia::…viure…}} en un altre barri.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::vivies::…viure…}} a prop dels teus avis.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::vivia::…viure…}} a l'estranger.
+⇠ Durant l'estiu, ⇠<br><br> nosaltres {{c1::vivíem::…viure…}} en una casa a la platja.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::vivíeu::…viure…}} sense preocupacions.
+⇠ Molt abans, ⇠<br><br> ells {{c1::vivien::…viure…}} amb més tranquil·litat.
+↧ Ahir, ↧<br><br> jo {{c1::visquí::…viure…}} un dia increïble.
+↧ La setmana passada, ↧<br><br> tu {{c1::visqueres::…viure…}} una aventura.
+↧ El mes passat, ↧<br><br> ell {{c1::visqué::…viure…}} una experiència única.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::visquérem::…viure…}} una temporada fantàstica.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::visquéreu::…viure…}} moments feliços.
+↧ Fa poc, ↧<br><br> ells {{c1::visqueren::…viure…}} una etapa intensa.
+→ Demà, →<br><br> jo {{c1::viuré::…viure…}} una nova aventura.
+→ La setmana vinent, →<br><br> tu {{c1::viuràs::…viure…}} un gran canvi.
+→ En un any, →<br><br> ell {{c1::viurà::…viure…}} a l'estranger.
+→ En cinc anys, →<br><br> nosaltres {{c1::viurem::…viure…}} en un lloc nou.
+→ Aviat, →<br><br> vosaltres {{c1::viureu::…viure…}} la millor etapa.
+→ En el futur, →<br><br> ells {{c1::viuran::…viure…}} una vida plena.
+〰 Espero que 〰<br><br> jo {{c1::visqui::…viure…}} en pau.
+〰 Pot ser que 〰<br><br> tu {{c1::visquis::…viure…}} una experiència única.
+〰 És possible que 〰<br><br> ell {{c1::visqui::…viure…}} amb intensitat.
+〰 És necessari que 〰<br><br> nosaltres {{c1::visquem::…viure…}} junts.
+〰 Dubto que 〰<br><br> vosaltres {{c1::visqueu::…viure…}} sempre aquí.
+〰 És probable que 〰<br><br> ells {{c1::visquin::…viure…}} feliços.
+↫ Si fos possible, ↫<br><br> jo {{c1::visqués::…viure…}} a prop del mar.
+↫ Si tu ↫<br><br> {{c1::visquessis::…viure…}} més a prop, et veuria més sovint.
+↫ Si ell ↫<br><br> {{c1::visqués::…viure…}} a la ciutat, sortiríem més.
+↫ Si nosaltres ↫<br><br> {{c1::visquéssim::…viure…}} junts, estalviaríem molt.
+↫ Si vosaltres ↫<br><br> {{c1::visquéssiu::…viure…}} aquí, seria fantàstic.
+↫ Si ells ↫<br><br> {{c1::visquessin::…viure…}} amb nosaltres, ens divertiríem més.
+… Si pogués, …<br><br> jo {{c1::viuria::…viure…}} en un lloc tranquil.
+… Si tinguessis temps, …<br><br> tu {{c1::viuries::…viure…}} amb més calma.
+… Ell {{c1::viuria::…viure…}} amb menys estrès, …<br><br>si tingués temps lliure.
+… Si fos necessari, …<br><br> nosaltres {{c1::viuríem::…viure…}} junts.
+… Vosaltres {{c1::viuríeu::…viure…}} millor, …<br><br>si us ho proposéssiu.
+… Si ho sabessin, …<br><br> ells {{c1::viurien::…viure…}} en un altre lloc.
+! Ara mateix, !<br><br> tu {{c1::viu::…viure…}} el moment!
+! Si us plau, !<br><br> vostè {{c1::visqui::…viure…}} amb intensitat!
+! Anem, !<br><br> nosaltres {{c1::visquem::…viure…}} feliços junts!
+! Ara, !<br><br> vosaltres {{c1::viviu::…viure…}} la vostra millor vida!
+! Immediatament, !<br><br> vostès {{c1::visquin::…viure…}} sense por!

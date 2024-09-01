@@ -1,0 +1,52 @@
+~ Mentre estic pensant, ~<br><br> jo {{c1::entenent::…entendre…}} millor el problema.
+♂ Després de la classe, ♂<br><br> ell ha {{c1::entès::…entendre…}} la lliçó completament.
+♀ Quan va escoltar les instruccions, ♀<br><br> ella ha {{c1::entesa::…entendre…}} tot correctament.
+♂♂ Després de la reunió, ♂♂<br><br> ells han {{c1::entesos::…entendre…}} les noves directrius.
+♀♀ Després de l'explicació, ♀♀<br><br> elles han {{c1::enteses::…entendre…}} el procediment.
+⊙ Actualment, ⊙<br><br> jo {{c1::entenc::…entendre…}} cada detall del projecte.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::entens::…entendre…}} les expectatives clarament.
+⊙ Ara, ⊙<br><br> ell {{c1::entén::…entendre…}} les noves normes.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::entenem::…entendre…}} millor les instruccions.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::enteneu::…entendre…}} tot correctament.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::entenen::…entendre…}} les normes del joc.
+⇠ Abans, ⇠<br><br> jo {{c1::entenia::…entendre…}} menys del que hauria d'haver entès.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::entenies::…entendre…}} ràpidament les matemàtiques.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::entenia::…entendre…}} més fàcilment.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::enteníem::…entendre…}} tots els conceptes.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::enteníeu::…entendre…}} millor les llengües.
+⇠ Molt abans, ⇠<br><br> ells {{c1::entenien::…entendre…}} més clarament.
+↧ Ahir, ↧<br><br> jo {{c1::entenguí::…entendre…}} tot el que calia.
+↧ La setmana passada, ↧<br><br> tu {{c1::entengueres::…entendre…}} totes les directrius.
+↧ El mes passat, ↧<br><br> ell {{c1::entengué::…entendre…}} tots els detalls.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::entenguérem::…entendre…}} millor el projecte.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::entenguéreu::…entendre…}} totes les instruccions.
+↧ Fa poc, ↧<br><br> ells {{c1::entengueren::…entendre…}} el pla.
+→ Demà, →<br><br> jo {{c1::entendré::…entendre…}} tot perfectament.
+→ La setmana vinent, →<br><br> tu {{c1::entendràs::…entendre…}} les expectatives.
+→ En un any, →<br><br> ell {{c1::entendrà::…entendre…}} les noves normes.
+→ En cinc anys, →<br><br> nosaltres {{c1::entendrem::…entendre…}} més del que creiem possible.
+→ Aviat, →<br><br> vosaltres {{c1::entendreu::…entendre…}} tot clarament.
+→ En el futur, →<br><br> ells {{c1::entendran::…entendre…}} les instruccions ràpidament.
+〰 Espero que 〰<br><br> jo {{c1::entengui::…entendre…}} tot clarament.
+〰 Pot ser que 〰<br><br> tu {{c1::entenguis::…entendre…}} més que altres.
+〰 És possible que 〰<br><br> ell {{c1::entengui::…entendre…}} les normes correctament.
+〰 És necessari que 〰<br><br> nosaltres {{c1::entenguem::…entendre…}} tot detalladament.
+〰 Dubto que 〰<br><br> vosaltres {{c1::entengueu::…entendre…}} tot a la primera.
+〰 És probable que 〰<br><br> ells {{c1::entenguin::…entendre…}} tot ràpidament.
+↫ Si fos possible, ↫<br><br> jo {{c1::entengués::…entendre…}} tot a la primera.
+↫ Si tu ↫<br><br> {{c1::entenguessis::…entendre…}} més ràpidament, ho faries millor.
+↫ Si ell ↫<br><br> {{c1::entengués::…entendre…}} les normes, les seguiria.
+↫ Si nosaltres ↫<br><br> {{c1::entenguéssim::…entendre…}} tot clarament, no hi hauria problemes.
+↫ Si vosaltres ↫<br><br> {{c1::entenguéssiu::…entendre…}} millor les instruccions, tot sortiria bé.
+↫ Si ells ↫<br><br> {{c1::entenguessin::…entendre…}} tot des del principi, no hi hauria errors.
+… Si pogués, …<br><br> jo {{c1::entendria::…entendre…}} tot perfectament.
+… Si tinguessis temps, …<br><br> tu {{c1::entendries::…entendre…}} millor el tema.
+… Ell {{c1::entendria::…entendre…}} tot a la primera, …<br><br>si s'hi concentrés.
+… Si fos necessari, …<br><br> nosaltres {{c1::entendríem::…entendre…}} totes les instruccions.
+… Vosaltres {{c1::entendríeu::…entendre…}} millor tot, …<br><br>si ho intentéssiu.
+… Si ho sabessin, …<br><br> ells {{c1::entendrien::…entendre…}} tot clarament.
+! Ara mateix, !<br><br> tu {{c1::entén::…entendre…}} tot el que necessites!
+! Si us plau, !<br><br> vostè {{c1::entengui::…entendre…}} tot clarament!
+! Anem, !<br><br> nosaltres {{c1::entenguem::…entendre…}} tot a la primera!
+! Ara, !<br><br> vosaltres {{c1::enteneu::…entendre…}} el missatge!
+! Immediatament, !<br><br> vostès {{c1::entenguin::…entendre…}} tot sense problemes!

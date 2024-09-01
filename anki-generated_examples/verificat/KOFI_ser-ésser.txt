@@ -1,0 +1,64 @@
+~ Mentre estava ~<br><br>{{c1::essent::…ser…}} professor, vaig aprendre molt.			
+~ Jo crec que ~<br><br>està {{c1::sent::…ésser…}} honesta.			
+♂ En Tomàs ♂<br><br>ha {{c1::estat::…ser…}} absolt.			
+♂ Un cop completat, ♂<br><br>{{c1::sigut::…ésser…}} un plaer conèixer-te.			
+♀ Una vegada finalitzada, ♀<br><br>{{c1::estada::…ser…}} una experiència inoblidable.			
+♀ Després de l'event, ♀<br><br>{{c1::siguda::…ésser…}} molt útil per a tots.			
+♂♂ Acabats els esdeveniments, ♂♂<br><br>{{c1::estats::…ser…}} molt atents durant la reunió.			
+♂♂ Després de ser examinats, ♂♂<br><br>{{c1::siguts::…ésser…}} els millors estudiants de la classe.			
+♀♀ Una vegada resoltes, ♀♀<br><br>{{c1::estades::…ser…}} molt felices de veure't.			
+♀♀ Acabades les proves, ♀♀<br><br>{{c1::sigudes::…ésser…}} acceptades en el programa.			
+⊙ Actualment, ⊙<br><br>jo {{c1::sóc::…ser/ésser…}} metge.			
+⊙ En aquest moment, ⊙<br><br>tu {{c1::ets::…ser/ésser…}} estudiant.			
+⊙ Ara, ⊙<br><br>ell {{c1::és::…ser/ésser…}} professor.			
+⊙ I ara amb mi, ⊙<br>ja en {{c1::som::…ser/ésser…}} un més."			
+⊙ Jo sóc de dalt, ⊙<br><br>vosaltres {{c1::sou::…ser/ésser…}} d'aquest món.			
+⊙ Els rics ⊙<br><br>sovint {{c1::són::…ser/ésser…}} miserables.		
+⇠ En aquella època. ⇠<br><br>jo {{c1::era::…ser/ésser…}} un estudiant.			
+⇠ Quan érem joves, ⇠<br><br>tu {{c1::eres::…ser/ésser…}} molt actiu.			
+⇠ Fa uns anys, ⇠<br><br>ella {{c1::era::…ser/ésser…}} professora.			
+⇠ En aquell temps, ⇠<br><br>nosaltres {{c1::érem::…ser/ésser…}} veïns.			
+⇠ De joves, ⇠<br><br>vosaltres {{c1::èreu::…ser/ésser…}} amics.			
+⇠ Molt abans, ⇠<br><br>ells {{c1::eren::…ser/ésser…}} col·legues.			
+↧ Ahir, per un moment, ↧ <br><br>jo {{c1::fui::…ser/ésser…}} un gat.			
+↧ Ahir, ↧<br><br>tu {{c1::fores::…ser/ésser…}} molt amable.			
+↧ L'any 573, ↧<br><br>la ciutat {{c1::fou::…ser/ésser…}} fundada.			
+↧ Abans-ahir, ↧<br><br>nosaltres {{c1::fórem::…ser/ésser…}} molt amables amb els visitants.			
+↧ En aquell moment, ↧<br><br>vosaltres {{c1::fóreu::…ser/ésser…}} molt amables amb els visitants.			
+↧ L'any 2010, ↧<br>Ells {{c1::foren::…ser/ésser…}} seleccionats per l'equip nacional.				
+→ Demà, →<br><br>jo {{c1::seré::…ser/ésser…}} famós.			
+→ L'any vinent, →<br><br>tu {{c1::seràs::…ser/ésser…}} campió.			
+→ En deu anys, →<br><br>ella {{c1::serà::…ser/ésser…}} directora.			
+→ Algún día, →<br><br>nosaltres {{c1::serem::…ser/ésser…}} rics.			
+→ Aviat, →<br><br>vosaltres {{c1::sereu::…ser/ésser…}} pares.			
+→ El futuro, →<br><br>ells {{c1::seran::…ser/ésser…}} famosos.			
+〰 És possible que 〰<br><br>jo {{c1::sigui::…ser/ésser…}} escollit.			
+〰 Espero que 〰<br><br>tu {{c1::siguis::…ser/ésser…}} favorit.			
+〰 Pot ser que 〰<br><br>ell {{c1::sigui::…ser/ésser…}} acadèmic.			
+〰 Volem que 〰<br><br>nosaltres {{c1::siguem::…ser/ésser…}} junts.			
+〰 És necessari que 〰<br><br>vosaltres {{c1::sigueu::…ser/ésser…}} famosos.			
+〰 És improbable que 〰<br><br>ells {{c1::siguin::…ser/ésser…}} rics.			
+↫ Si jo ↫<br><br>{{c1::fos::…ser/ésser…}} ric, viatjaria.			
+↫ Si tu ↫<br><br>{{c1::fossis::…ser/ésser…}} alt, parlaríem.			
+↫ Si ell ↫<br><br>{{c1::fos::…ser/ésser…}} meu amic, el convidaria.			
+↫ Si nosaltres ↫<br><br>{{c1::fóssim::…ser/ésser…}} estudiants, assistiríem a les classes.			
+↫ Si vosaltres ↫<br><br>{{c1::fóssiu::…ser/ésser…}} més joves, participaríeu.			
+↫ Si ells ↫<br><br>{{c1::fossin::…ser/ésser…}} rics, vindrien.			
+… Si pogués, …<br><br>jo {{c1::seria::…ser…}} més feliç.			
+… Si tinguessis temps, …<br><br>tu {{c1::series::…ser…}} més relaxat.			
+… Ell {{c1::seria::…ser…}} millor, …<br><br>si es preparés més.			
+… Si fos necessari, …<br><br>nosaltres {{c1::seríem::…ser…}} encantats de venir.			
+… Vosaltres {{c1::seríeu::…ser…}} benvinguts, …<br><br>a qualsevol hora.			
+… Si ho sabessin, …<br><br>ells {{c1::serien::…ser…}} molt útils.			
+… Si fos possible, …<br><br>jo {{c1::fora::…ésser…}} més atent als detalls.			
+… Si tinguessis oportunitat, …<br><br>tu {{c1::fores::…ésser…}} més obert a noves idees.			
+… Si es donés el cas, …<br><br>ella {{c1::fora::…ésser…}} més organitzada.			
+… En un món ideal, …<br><br>nosaltres {{c1::fórem::…ésser…}} més coherents en la nostra argumentació.			
+… Si la situació ho requerís, …<br><br>vosaltres {{c1::fóreu::…ésser…}} més respectuosos durant la discussió.			
+… Si les circumstàncies canvien, …<br><br>ells {{c1::foren::…ésser…}} més participatius.			
+! Tu, parla !<br><br>{{c1::Sigues::…ser/ésser…}} honest!			
+! Vostè, parli !<br>{{c1::Sigui::…ser/ésser…}} respectuós!			
+! Nosaltres, parlem !<br><br>{{c1::Sigam::…ser/ésser…}} valents!			
+! Vosaltres, parleu !<br><br>{{c1::Sigueu::…ser/ésser…}} amables!			
+! Vostès, parlin !<br><br>{{c1::Siguin::…ser/ésser…}} puntuals!			
+

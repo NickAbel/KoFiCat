@@ -1,0 +1,53 @@
+~ Mentre estic pensant, ~<br><br> jo {{c1::rebent::…rebre…}} notícies importants.
+♂ Després de la reunió, ♂<br><br> ell ha {{c1::rebut::…rebre…}} informació nova.
+♀ Quan va rebre el paquet, ♀<br><br> ella ha {{c1::rebuda::…rebre…}} una sorpresa.
+♂♂ Després de la classe, ♂♂<br><br> ells han {{c1::rebuts::…rebre…}} els llibres.
+♀♀ Després de la trucada, ♀♀<br><br> elles han {{c1::rebudes::…rebre…}} bones notícies.
+⊙ Actualment, ⊙<br><br> jo {{c1::rebo::…rebre…}} molts correus electrònics.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::reps::…rebre…}} un missatge important.
+⊙ Ara, ⊙<br><br> ell {{c1::rep::…rebre…}} la seva comanda.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::rebem::…rebre…}} confirmacions.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::rebeu::…rebre…}} moltes sol·licituds.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::reben::…rebre…}} informació actualitzada.
+⇠ Abans, ⇠<br><br> jo {{c1::rebia::…rebre…}} més cartes.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::rebies::…rebre…}} molts regals.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::rebia::…rebre…}} més visites.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::rebíem::…rebre…}} moltes notes.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::rebíeu::…rebre…}} més correus.
+⇠ Molt abans, ⇠<br><br> ells {{c1::rebien::…rebre…}} més informació.
+↧ Ahir, ↧<br><br> jo {{c1::rebí::…rebre…}} una sorpresa.
+↧ La setmana passada, ↧<br><br> tu {{c1::reberes::…rebre…}} bones notícies.
+↧ El mes passat, ↧<br><br> ell {{c1::rebé::…rebre…}} un regal.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::rebérem::…rebre…}} molta informació.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::rebéreu::…rebre…}} molts regals.
+↧ Fa poc, ↧<br><br> ells {{c1::reberen::…rebre…}} més informació.
+→ Demà, →<br><br> jo {{c1::rebré::…rebre…}} una carta.
+→ La setmana vinent, →<br><br> tu {{c1::rebràs::…rebre…}} una comanda.
+→ En un any, →<br><br> ell {{c1::rebrà::…rebre…}} moltes visites.
+→ En cinc anys, →<br><br> nosaltres {{c1::rebrem::…rebre…}} més sol·licituds.
+→ Aviat, →<br><br> vosaltres {{c1::rebreu::…rebre…}} molta informació.
+→ En el futur, →<br><br> ells {{c1::rebran::…rebre…}} moltes notícies.
+〰 Espero que 〰<br><br> jo {{c1::rebi::…rebre…}} una bona resposta.
+〰 Pot ser que 〰<br><br> tu {{c1::rebis::…rebre…}} bones notícies.
+〰 És possible que 〰<br><br> ell {{c1::rebi::…rebre…}} una carta.
+〰 És necessari que 〰<br><br> nosaltres {{c1::rebem::…rebre…}} molta informació.
+〰 Dubto que 〰<br><br> vosaltres {{c1::rebeu::…rebre…}} una resposta aviat.
+〰 És probable que 〰<br><br> ells {{c1::rebin::…rebre…}} la comanda.
+↫ Si fos possible, ↫<br><br> jo {{c1::rebés::…rebre…}} una bona sorpresa.
+↫ Si tu ↫<br><br> {{c1::rebessis::…rebre…}} més informació, t'aniria millor.
+↫ Si ell ↫<br><br> {{c1::rebés::…rebre…}} la carta, la llegiria.
+↫ Si nosaltres ↫<br><br> {{c1::rebéssim::…rebre…}} més correus, ens comunicaríem millor.
+↫ Si vosaltres ↫<br><br> {{c1::rebéssiu::…rebre…}} la informació a temps, podríeu preparar-vos.
+↫ Si ells ↫<br><br> {{c1::rebessin::…rebre…}} més notícies, estarien més informats.
+… Si pogués, …<br><br> jo {{c1::rebria::…rebre…}} més bones notícies.
+… Si tinguessis temps, …<br><br> tu {{c1::rebries::…rebre…}} moltes cartes.
+… Ell {{c1::rebria::…rebre…}} una bona resposta, …<br><br>si tingués temps.
+… Si fos necessari, …<br><br> nosaltres {{c1::rebríem::…rebre…}} molta informació.
+… Vosaltres {{c1::rebríeu::…rebre…}} bones notícies, …<br><br>si us hi poséssiu.
+… Si ho sabessin, …<br><br> ells {{c1::rebrien::…rebre…}} molta informació.
+! Ara mateix, !<br><br> tu {{c1::rep::…rebre…}} la carta!
+! Si us plau, !<br><br> vostè {{c1::rebi::…rebre…}} les notícies!
+! Anem, !<br><br> nosaltres {{c1::rebem::…rebre…}} la informació!
+! Ara, !<br><br> vosaltres {{c1::rebeu::…rebre…}} la resposta!
+! Immediatament, !<br><br> vostès {{c1::rebin::…rebre…}} la comanda!
+

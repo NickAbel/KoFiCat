@@ -1,0 +1,51 @@
+~ Mentre estic viatjant, ~<br><br> {{c1::anant::…anar…}} per la ciutat, descobreixo molts llocs nous.
+♂ Després de finalitzar el viatge, ♂<br><br> {{c1::anat::…anar…}} em sento renovat.
+♀ Una vegada arribada a casa, ♀<br><br> {{c1::anada::…anar…}} puc descansar.
+♂♂ Acabats els exàmens, ♂♂<br><br> {{c1::anats::…anar…}} ens sentim lliures.
+♀♀ Una vegada finalitzades les presentacions, ♀♀<br><br> {{c1::anades::…anar…}} estem totes satisfetes.⊙ Actualment, ⊙<br><br> jo {{c1::vaig::…anar…}} al mercat cada dia.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::vas::…anar…}} a la biblioteca.
+⊙ Ara, ⊙<br><br> ell {{c1::va::…anar…}} al gimnàs.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::anem::…anar…}} al cinema.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::aneu::…anar…}} a la platja.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::van::…anar…}} al parc.
+⇠ Abans, ⇠<br><br> jo {{c1::anava::…anar…}} a l'escola a peu.
+⇠ Quan érem joves, ⇠<br><br> tu {{c1::anaves::…anar…}} al camp cada estiu.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::anava::…anar…}} a treballar en bicicleta.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::anàvem::…anar…}} a la piscina junts.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::anàveu::…anar…}} a concerts freqüentment.
+⇠ Molt abans, ⇠<br><br> ells {{c1::anaven::…anar…}} a la muntanya cada cap de setmana.
+↧ Ahir, ↧<br><br> jo {{c1::aní::…anar…}} a una reunió important.
+↧ La setmana passada, ↧<br><br> tu {{c1::anares::…anar…}} a una festa sorpresa.
+↧ El mes passat, ↧<br><br> ell {{c1::anà::…anar…}} a una conferència.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::anàrem::…anar…}} de vacances a Itàlia.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::anàreu::…anar…}} a la inauguració d'un restaurant.
+↧ Hace dos días, ↧<br><br> ells {{c1::anaren::…anar…}} al teatre.
+→ Demà, →<br><br> jo {{c1::aniré::…anar…}} a comprar roba nova.
+→ La setmana vinent, →<br><br> tu {{c1::aniràs::…anar…}} a una entrevista de feina.
+→ En un any, →<br><br> ell {{c1::anirà::…anar…}} a estudiar a l'estranger.
+→ En cinc anys, →<br><br> nosaltres {{c1::anirem::…anar…}} a viure a una altra ciutat.
+→ Aviat, →<br><br> vosaltres {{c1::anireu::…anar…}} a fer un curs de cuina.
+→ En el futur, →<br><br> ells {{c1::aniran::…anar…}} a treballar a l'exterior.
+〰 Espero que 〰<br><br> jo {{c1::vagi::…anar…}} ben preparat per l'examen.
+〰 Pot ser que 〰<br><br> tu {{c1::vagis::…anar…}} a la festa demà.
+〰 És possible que 〰<br><br> ell {{c1::vagi::…anar…}} de viatge el mes que ve.
+〰 Volem que 〰<br><br> nosaltres {{c1::anem::…anar…}} junts al concert.
+〰 És necessari que 〰<br><br> vosaltres {{c1::aneu::…anar…}} a la reunió de veïns.
+〰 És improbable que 〰<br><br> ells {{c1::vagin::…anar…}} a la competició d'enguany.
+↫ Si jo ↫<br><br> {{c1::anés::…anar…}} a la universitat, estudiaria medicina.
+↫ Si tu ↫<br><br> {{c1::anessis::…anar…}} al gimnàs, trobaries més amics.
+↫ Si ell ↫<br><br> {{c1::anés::…anar…}} a la festa, podria conèixer gent nova.
+↫ Si nosaltres ↫<br><br> {{c1::anéssim::…anar…}} de vacances junts, escolliríem la platja.
+↫ Si vosaltres ↫<br><br> {{c1::anéssiu::…anar…}} a la conferència, aprendríeu molt.
+↫ Si ells ↫<br><br> {{c1::anessin::…anar…}} al mercat, comprarien fruites i verdures fresques.
+… Si pogués, …<br><br> jo {{c1::aniria::…anar…}} a viure a Nova York.
+… Si tinguessis temps, …<br><br> tu {{c1::aniries::…anar…}} a visitar més museus.
+… Si es donés el cas, …<br><br> ell {{c1::aniria::…anar…}} a fer un máster a l'estranger.
+… En un món ideal, …<br><br> nosaltres {{c1::aniríem::…anar…}} a fer un viatge pel món.
+… Si la situació ho permetés, …<br><br> vosaltres {{c1::aniríeu::…anar…}} a fer un curs de fotografia.
+… Si les circumstàncies canvien, …<br><br> ells {{c1::anirien::…anar…}} a treballar en un projecte internacional.
+! Ara, !<br><br> tu {{c1::ves::…anar…}} a estudiar per l'examen!
+! Si us plau, !<br><br> vostè {{c1::vagi::…anar…}} a parlar amb el director.
+! Anem, !<br><br> nosaltres {{c1::anem::…anar…}} a organitzar la festa.
+! Ara mateix, !<br><br> vosaltres {{c1::aneu::…anar…}} a comprar el que necessitem.
+! Immediatament, !<br><br> vostès {{c1::vagin::…anar…}} a reservar els tiquets.

@@ -1,0 +1,53 @@
+~ Mentre estava estudiant, ~<br><br>{{c1::estant::…estar…}} a la biblioteca, vaig rebre una trucada important.			
+♂ Després de completar el treball, ♂<br><br>{{c1::ha estat::…estar…}} un dia extenuant.			
+♀ Una vegada acabada la reunió, ♀<br><br>{{c1::ha estada::…estar…}} satisfeta amb els resultats.			
+♂♂ Acabats els exàmens, ♂♂<br><br>{{c1::han estats::…estar…}} molt cansats.			
+♀♀ Una vegada resoltes les incògnites, ♀♀<br><br>{{c1::han estades::…estar…}} contents amb les clarificacions.			
+⊙ Actualment, ⊙<br><br>jo {{c1::estic::…estar…}} a casa.			
+⊙ En aquest moment, ⊙<br><br>tu {{c1::estàs::…estar…}} al parc.			
+⊙ Ara, ⊙<br><br>ell {{c1::està::…estar…}} a l'oficina.			
+⊙ En aquest instant, ⊙<br><br>nosaltres {{c1::estem::…estar…}} a l'escola.			
+⊙ Actualment, ⊙<br><br>vosaltres {{c1::esteu::…estar…}} al mercat.			
+⊙ Aquesta tarda, ⊙<br><br>ells {{c1::estan::…estar…}} al cinema.			
+⇠ Abans, ⇠<br><br>jo {{c1::estava::…estar…}} molt ocupat.			
+⇠ Quan érem joves, ⇠<br><br>tu {{c1::estaves::…estar…}} sempre alegre.			
+⇠ Fa uns anys, ⇠<br><br>ella {{c1::estava::…estar…}} a Barcelona.			
+⇠ En aquell temps, ⇠<br><br>nosaltres {{c1::estàvem::…estar…}} junts.			
+⇠ De joves, ⇠<br><br>vosaltres {{c1::estàveu::…estar…}} a la universitat.			
+⇠ Molt abans, ⇠<br><br>ells {{c1::estaven::…estar…}} a l'estranger.			
+↧ Ahir, ↧<br><br>jo {{c1::estiguí::…estar…}} molt content.			
+↧ La setmana passada, ↧<br><br>tu {{c1::estigueres::…estar…}} molt preocupat.			
+↧ El mes passat, ↧<br><br>ell {{c1::estigué::…estar…}} hospitalitzat.			
+↧ Fa un any, ↧<br><br>nosaltres {{c1::estiguérem::…estar…}} de viatge.			
+↧ Els dies antics, ↧<br><br>vosaltres {{c1::estiguéreu::…estar…}} molt ocupats.			
+↧ Hace dos días, ↧<br><br>elles {{c1::estigueren::…estar…}} preocupades.			
+→ Demà, →<br><br>jo {{c1::estaré::…estar…}} aquí.			
+→ L'any vinent, →<br><br>tu {{c1::estaràs::…estar…}} a Londres.			
+→ En deu anys, →<br><br>ella {{c1::estarà::…estar…}} treballant aquí.			
+→ Algún día, →<br><br>nosaltres {{c1::estarem::…estar…}} reunint-nos.			
+→ Aviat, →<br><br>vosaltres {{c1::estareu::…estar…}} a l'espera.			
+→ En el futur, →<br><br>ells {{c1::estaran::…estar…}} retirats.			
+〰 És possible que 〰<br><br>jo {{c1::estigui::…estar…}} equivocat.			
+〰 Espero que 〰<br><br>tu {{c1::estiguis::…estar…}} d'acord.			
+〰 Pot ser que 〰<br><br>ell {{c1::estigui::…estar…}} interessat.			
+〰 Volem que 〰<br><br>nosaltres {{c1::estiguem::…estar…}} junts.			
+〰 És necessari que 〰<br><br>vosaltres {{c1::estigueu::…estar…}} preparats.			
+〰 És improbable que 〰<br><br>ells {{c1::estiguin::…estar…}} d'acord.			
+↫ Si jo ↫<br><br>{{c1::estigués::…estar…}} ric, viatjaria.			
+↫ Si tu ↫<br><br>{{c1::estiguessis::…estar…}} aquí, parlaríem.			
+↫ Si ell ↫<br><br>{{c1::estigués::…estar…}} disponible, el convidaria.			
+↫ Si nosaltres ↫<br><br>{{c1::estiguéssim::…estar…}} junts, aniríem al cinema.			
+↫ Si vosaltres ↫<br><br>{{c1::estiguéssiu::…estar…}} a temps, podríem començar.			
+↫ Si ells ↫<br><br>{{c1::estiguessin::…estar…}} preparats, podríem procedir.			
+… Si pogués, …<br><br>jo {{c1::estaria::…estar…}} més content.			
+… Si tinguessis temps, …<br><br>tu {{c1::estaries::…estar…}} aquí amb mi.			
+… Si es donés el cas, …<br><br>ella {{c1::estaria::…estar…}} disponible per a la reunió.			
+… En un món ideal, …<br><br>nosaltres {{c1::estaríem::…estar…}} més units.			
+… Si la situació ho requerís, …<br><br>vosaltres {{c1::estaríeu::…estar…}} més involucrats.			
+… Si les circumstàncies canvien, …<br><br>ells {{c1::estarien::…estar…}} més motivats.			
+! Tu, està !<br><br>{{c1::Estigues::…estar…}} atent!			
+! Vostè, estigui !<br><br>{{c1::Estigui::…estar…}} preparat!			
+! Nosaltres, estem !<br><br>{{c1::Estiguem::…estar…}} prudents!			
+! Vosaltres, puntuals !<br><br>{{c1::Estigueu::…estar…}} puntuals!			
+! Vostès, respectuosos !<br>{{c1::Estiguin::…estar…}} respectuosos!			
+

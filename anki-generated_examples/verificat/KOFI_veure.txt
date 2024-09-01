@@ -2,7 +2,7 @@
 ~ Mentre estic pensant, ~<br><br> jo {{c1::veient::…veure…}} el paisatge des de la finestra.
 ♂ Després de caminar, ♂<br><br> ell ha {{c1::vist::…veure…}} una cosa interessant.
 ♀ Quan va arribar, ♀<br><br> ella ha {{c1::vista::…veure…}} la posta de sol.
-♂♂ Després de la pel·lícula, ♂♂<br><br> ells han {{c1::vists::…veure…}} tots els crèdits.
+♂♂ Després de la pel·lícula, ♂♂<br><br> ells han {{c1::vists/vistos::…veure…}} tots els crèdits.
 ♀♀ Després del viatge, ♀♀<br><br> elles han {{c1::vistes::…veure…}} moltes coses noves.
 ⊙ Actualment, ⊙<br><br> jo {{c1::veig::…veure…}} clarament el que passa.
 ⊙ En aquest moment, ⊙<br><br> tu {{c1::veus::…veure…}} sempre el millor en la gent.
@@ -16,7 +16,7 @@
 ⇠ Durant les vacances, ⇠<br><br> nosaltres {{c1::vèiem::…veure…}} paisatges increïbles.
 ⇠ De joves, ⇠<br><br> vosaltres {{c1::vèieu::…veure…}} tot amb ulls d'il·lusió.
 ⇠ Molt abans, ⇠<br><br> ells {{c1::veien::…veure…}} un món diferent.
-↧ Ahir, ↧<br><br> jo {{c1::veií::…veure…}} un espectacle impressionant.
+↧ Ahir, ↧<br><br> jo {{c1::viu::…veure…}} un espectacle impressionant.
 ↧ La setmana passada, ↧<br><br> tu {{c1::veiéres::…veure…}} una cosa meravellosa.
 ↧ El mes passat, ↧<br><br> ell {{c1::veié::…veure…}} el que tothom ignorava.
 ↧ Fa un any, ↧<br><br> nosaltres {{c1::veiérem::…veure…}} una gran oportunitat.
@@ -39,15 +39,15 @@
 ↫ Si ell ↫<br><br> {{c1::veiés::…veure…}} una solució, tot canviaria.
 ↫ Si nosaltres ↫<br><br> {{c1::veiéssim::…veure…}} les coses amb calma, ens aniria millor.
 ↫ Si vosaltres ↫<br><br> {{c1::veiéssiu::…veure…}} més enllà de les aparences, ho entendríeu millor.
-↫ Si ells ↫<br><br> {{c1::veiéssin::…veure…}} el mateix que nosaltres, estaríem d'acord.
+↫ Si ells ↫<br><br> {{c1::veiessin::…veure…}} el mateix que nosaltres, estaríem d'acord.
 … Si pogués, …<br><br> jo {{c1::veuria::…veure…}} el futur amb optimisme.
 … Si tinguessis temps, …<br><br> tu {{c1::veuries::…veure…}} més coses.
 … Ell {{c1::veuria::…veure…}} el costat positiu, …<br><br>si ho sabés.
 … Si fos necessari, …<br><br> nosaltres {{c1::veuríem::…veure…}} una solució ràpidament.
 … Vosaltres {{c1::veuríeu::…veure…}} la veritat, …<br><br>si us hi fixéssiu.
 … Si ho sabessin, …<br><br> ells {{c1::veurien::…veure…}} el que realment passa.
-! Ara mateix, !<br><br> tu {{c1::veu::…veure…}} el que és evident!
+! Ara mateix, !<br><br> tu {{c1::veges/ves::…veure…}} el que és evident!
 ! Si us plau, !<br><br> vostè {{c1::vegi::…veure…}} amb atenció!
 ! Anem, !<br><br> nosaltres {{c1::vegem::…veure…}} tot el que podem!
-! Ara, !<br><br> vosaltres {{c1::vegeu::…veure…}} amb claredat!
+! Ara, !<br><br> vosaltres {{c1::vegeu/veieu::…veure…}} amb claredat!
 ! Immediatament, !<br><br> vostès {{c1::vegin::…veure…}} el que passa!

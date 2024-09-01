@@ -1,0 +1,52 @@
+~ Mentre estic pensant, ~<br><br> jo {{c1::podent::…poder…}} trobar una solució.
+♂ Després de practicar, ♂<br><br> ell ha {{c1::pogut::…poder…}} fer-ho tot sol.
+♀ Quan va estudiar, ♀<br><br> ella ha {{c1::poguda::…poder…}} completar l'examen.
+♂♂ Després de la reunió, ♂♂<br><br> ells han {{c1::poguts::…poder…}} entendre el tema.
+♀♀ Després de la discussió, ♀♀<br><br> elles han {{c1::pogudes::…poder…}} arribar a un acord.
+⊙ Actualment, ⊙<br><br> jo {{c1::puc::…poder…}} gestionar la situació.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::pots::…poder…}} fer-ho sense ajuda.
+⊙ Ara, ⊙<br><br> ell {{c1::pot::…poder…}} resoldre el problema.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::podem::…poder…}} treballar junts.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::podeu::…poder…}} fer-ho millor.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::poden::…poder…}} acabar la tasca.
+⇠ Abans, ⇠<br><br> jo {{c1::podia::…poder…}} fer-ho més ràpid.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::podies::…poder…}} córrer més.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::podia::…poder…}} treballar més hores.
+⇠ Durant les vacances, ⇠<br><br> nosaltres {{c1::podíem::…poder…}} viatjar sovint.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::podíeu::…poder…}} fer qualsevol cosa.
+⇠ Molt abans, ⇠<br><br> ells {{c1::podien::…poder…}} treballar més dur.
+↧ Ahir, ↧<br><br> jo {{c1::poguí::…poder…}} ajudar-te.
+↧ La setmana passada, ↧<br><br> tu {{c1::pogueres::…poder…}} resoldre el problema.
+↧ El mes passat, ↧<br><br> ell {{c1::pogué::…poder…}} fer una presentació excel·lent.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::poguérem::…poder…}} completar el projecte.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::poguéreu::…poder…}} col·laborar amb èxit.
+↧ Fa poc, ↧<br><br> ells {{c1::poguéren::…poder…}} superar els obstacles.
+→ Demà, →<br><br> jo {{c1::podré::…poder…}} fer tot el que em proposi.
+→ La setmana vinent, →<br><br> tu {{c1::podràs::…poder…}} començar un nou projecte.
+→ En un any, →<br><br> ell {{c1::podrà::…poder…}} assolir els seus objectius.
+→ En cinc anys, →<br><br> nosaltres {{c1::podrem::…poder…}} veure els resultats.
+→ Aviat, →<br><br> vosaltres {{c1::podreu::…poder…}} viatjar per tot el món.
+→ En el futur, →<br><br> ells {{c1::podran::…poder…}} fer coses extraordinàries.
+〰 Espero que 〰<br><br> jo {{c1::pugui::…poder…}} ajudar-te.
+〰 Pot ser que 〰<br><br> tu {{c1::puguis::…poder…}} trobar la resposta.
+〰 És possible que 〰<br><br> ell {{c1::pugui::…poder…}} fer-ho millor.
+〰 És necessari que 〰<br><br> nosaltres {{c1::puguem::…poder…}} completar la tasca.
+〰 Dubto que 〰<br><br> vosaltres {{c1::pugueu::…poder…}} acabar a temps.
+〰 És probable que 〰<br><br> ells {{c1::puguin::…poder…}} tenir èxit.
+↫ Si fos possible, ↫<br><br> jo {{c1::pogués::…poder…}} canviar-ho.
+↫ Si tu ↫<br><br> {{c1::poguessis::…poder…}} veure-ho, ho entendries.
+↫ Si ell ↫<br><br> {{c1::pogués::…poder…}} provar-ho, tindria èxit.
+↫ Si nosaltres ↫<br><br> {{c1::poguéssim::…poder…}} treballar junts, tot seria més fàcil.
+↫ Si vosaltres ↫<br><br> {{c1::poguéssiu::…poder…}} canviar d'opinió, tot aniria millor.
+↫ Si ells ↫<br><br> {{c1::poguessin::…poder…}} fer-ho, ho farien.
+… Si pogués, …<br><br> jo {{c1::podria::…poder…}} ajudar més.
+… Si tinguessis temps, …<br><br> tu {{c1::podries::…poder…}} aprendre més coses.
+… Ell {{c1::podria::…poder…}} arribar més lluny, …<br><br>si tingués suport.
+… Si fos necessari, …<br><br> nosaltres {{c1::podríem::…poder…}} fer-ho junts.
+… Vosaltres {{c1::podríeu::…poder…}} tenir èxit, …<br><br>si us ho proposeu.
+… Si ho sabessin, …<br><br> ells {{c1::podrien::…poder…}} canviar les coses.
+! Ara mateix, !<br><br> tu {{c1::pugues::…poder…}} fer-ho!
+! Si us plau, !<br><br> vostè {{c1::pugui::…poder…}} complir amb la seva tasca!
+! Anem, !<br><br> nosaltres {{c1::puguem::…poder…}} superar aquest repte!
+! Ara, !<br><br> vosaltres {{c1::pugueu::…poder…}} donar-ho tot!
+! Immediatament, !<br><br> vostès {{c1::puguin::…poder…}} aconseguir el seu objectiu!

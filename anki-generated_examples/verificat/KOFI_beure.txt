@@ -1,0 +1,52 @@
+~ Mentre estic pensant, ~<br><br> jo {{c1::bevent::…beure…}} un cafè tranquil·lament.
+♂ Després de l'exercici, ♂<br><br> ell ha {{c1::begut::…beure…}} molta aigua.
+♀ Quan va arribar, ♀<br><br> ella ha {{c1::beguda::…beure…}} un refresc.
+♂♂ Després de la festa, ♂♂<br><br> ells han {{c1::beguts::…beure…}} moltes begudes.
+♀♀ Després de la reunió, ♀♀<br><br> elles han {{c1::begudes::…beure…}} sucs naturals.
+⊙ Actualment, ⊙<br><br> jo {{c1::bec::…beure…}} cafè cada matí.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::beus::…beure…}} un got d'aigua.
+⊙ Ara, ⊙<br><br> ell {{c1::beu::…beure…}} una beguda energètica.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::bevem::…beure…}} te amb llimona.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::beveu::…beure…}} aigua mineral.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::beuen::…beure…}} refrescos.
+⇠ Abans, ⇠<br><br> jo {{c1::bevia::…beure…}} més cafè.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::bevies::…beure…}} llet cada dia.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::bevia::…beure…}} només aigua.
+⇠ Durant les vacances, ⇠<br><br> nosaltres {{c1::bevíem::…beure…}} sucs naturals.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::bevíeu::…beure…}} més refrescos.
+⇠ Molt abans, ⇠<br><br> ells {{c1::bevien::…beure…}} més sucs.
+↧ Ahir, ↧<br><br> jo {{c1::beguí::…beure…}} un cafè molt fort.
+↧ La setmana passada, ↧<br><br> tu {{c1::begueres::…beure…}} una ampolla de vi.
+↧ El mes passat, ↧<br><br> ell {{c1::begué::…beure…}} una beguda nova.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::beguérem::…beure…}} un te especial.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::beguéreu::…beure…}} molta aigua.
+↧ Fa poc, ↧<br><br> ells {{c1::begueren::…beure…}} sucs exòtics.
+→ Demà, →<br><br> jo {{c1::beuré::…beure…}} una llimonada.
+→ La setmana vinent, →<br><br> tu {{c1::beuràs::…beure…}} més aigua.
+→ En un any, →<br><br> ell {{c1::beurà::…beure…}} només te verd.
+→ En cinc anys, →<br><br> nosaltres {{c1::beurem::…beure…}} moltes coses noves.
+→ Aviat, →<br><br> vosaltres {{c1::beureu::…beure…}} cafè sense sucre.
+→ En el futur, →<br><br> ells {{c1::beuran::…beure…}} molta aigua.
+〰 Espero que 〰<br><br> jo {{c1::begui::…beure…}} més aigua.
+〰 Pot ser que 〰<br><br> tu {{c1::beguis::…beure…}} només te.
+〰 És possible que 〰<br><br> ell {{c1::begui::…beure…}} menys cafè.
+〰 És necessari que 〰<br><br> nosaltres {{c1::beguem::…beure…}} més aigua.
+〰 Dubto que 〰<br><br> vosaltres {{c1::begueu::…beure…}} tanta aigua.
+〰 És probable que 〰<br><br> ells {{c1::beguin::…beure…}} més sucs.
+↫ Si fos possible, ↫<br><br> jo {{c1::begués::…beure…}} menys cafè.
+↫ Si tu ↫<br><br> {{c1::beguessis::…beure…}} més aigua, et sentiries millor.
+↫ Si ell ↫<br><br> {{c1::begués::…beure…}} menys refrescos, estaria més sa.
+↫ Si nosaltres ↫<br><br> {{c1::beguéssim::…beure…}} més sucs naturals, seria millor.
+↫ Si vosaltres ↫<br><br> {{c1::beguéssiu::…beure…}} més aigua, us sentiríeu més hidratats.
+↫ Si ells ↫<br><br> {{c1::beguessin::…beure…}} menys alcohol, estarien millor.
+… Si pogués, …<br><br> jo {{c1::beuria::…beure…}} només sucs naturals.
+… Si tinguessis temps, …<br><br> tu {{c1::beuries::…beure…}} més te.
+… Ell {{c1::beuria::…beure…}} més aigua, …<br><br>si tingués temps.
+… Si fos necessari, …<br><br> nosaltres {{c1::beuríem::…beure…}} més aigua.
+… Vosaltres {{c1::beuríeu::…beure…}} més aigua, …<br><br>si us ho proposéssiu.
+… Si ho sabessin, …<br><br> ells {{c1::beurien::…beure…}} més aigua.
+! Ara mateix, !<br><br> tu {{c1::beu::…beure…}} aquest suc!
+! Si us plau, !<br><br> vostè {{c1::begui::…beure…}} aigua!
+! Anem, !<br><br> nosaltres {{c1::beguem::…beure…}} te junts!
+! Ara, !<br><br> vosaltres {{c1::beveu::…beure…}} més sucs naturals!
+! Immediatament, !<br><br> vostès {{c1::beguin::…beure…}} molta aigua!

@@ -1,0 +1,53 @@
+~ Mentre estic pensant, ~<br><br> jo {{c1::traient::…treure…}} el millor de mi.
+♂ Després de l'examen, ♂<br><br> ell ha {{c1::tret::…treure…}} bones notes.
+♀ Quan va veure el regal, ♀<br><br> ella ha {{c1::treta::…treure…}} un somriure.
+♂♂ Després de la competició, ♂♂<br><br> ells han {{c1::tret::…treure…}} els millors resultats.
+♀♀ Després de la reunió, ♀♀<br><br> elles han {{c1::tretes::…treure…}} bones conclusions.
+⊙ Actualment, ⊙<br><br> jo {{c1::trec::…treure…}} el màxim profit de cada situació.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::treus::…treure…}} les coses endavant.
+⊙ Ara, ⊙<br><br> ell {{c1::treu::…treure…}} el millor de cada situació.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::traiem::…treure…}} el millor d'aquesta oportunitat.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::traieu::…treure…}} les millors conclusions.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::treuen::…treure…}} tot el necessari.
+⇠ Abans, ⇠<br><br> jo {{c1::treia::…treure…}} conclusions precipitades.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::treies::…treure…}} les joguines de la caixa.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::treia::…treure…}} profit de tot.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::trèiem::…treure…}} bones notes.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::trèieu::…treure…}} el millor de cada moment.
+⇠ Molt abans, ⇠<br><br> ells {{c1::treien::…treure…}} conclusions equivocades.
+↧ Ahir, ↧<br><br> jo {{c1::traguí::…treure…}} una bona idea.
+↧ La setmana passada, ↧<br><br> tu {{c1::tragueres::…treure…}} profit d'una situació difícil.
+↧ El mes passat, ↧<br><br> ell {{c1::tragué::…treure…}} tot el necessari de la reunió.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::traguérem::…treure…}} el millor d'una mala situació.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::traguéreu::…treure…}} les joguines de la caixa.
+↧ Fa poc, ↧<br><br> ells {{c1::tragueren::…treure…}} bones conclusions.
+→ Demà, →<br><br> jo {{c1::trauré::…treure…}} tot el que necessito.
+→ La setmana vinent, →<br><br> tu {{c1::trauràs::…treure…}} tot el profit possible.
+→ En un any, →<br><br> ell {{c1::traurà::…treure…}} el màxim benefici.
+→ En cinc anys, →<br><br> nosaltres {{c1::traurem::…treure…}} grans resultats.
+→ Aviat, →<br><br> vosaltres {{c1::traureu::…treure…}} conclusions importants.
+→ En el futur, →<br><br> ells {{c1::trauran::…treure…}} profit de cada oportunitat.
+〰 Espero que 〰<br><br> jo {{c1::tregui::…treure…}} alguna cosa bona.
+〰 Pot ser que 〰<br><br> tu {{c1::treguis::…treure…}} profit d'aquesta situació.
+〰 És possible que 〰<br><br> ell {{c1::tregui::…treure…}} una gran conclusió.
+〰 És necessari que 〰<br><br> nosaltres {{c1::traguem::…treure…}} profit de cada oportunitat.
+〰 Dubto que 〰<br><br> vosaltres {{c1::tragueu::…treure…}} el màxim profit.
+〰 És probable que 〰<br><br> ells {{c1::traguin::…treure…}} una bona lliçó.
+↫ Si fos possible, ↫<br><br> jo {{c1::tragués::…treure…}} alguna cosa positiva.
+↫ Si tu ↫<br><br> {{c1::traguessis::…treure…}} conclusions més ràpidament, avançaries més.
+↫ Si ell ↫<br><br> {{c1::tragués::…treure…}} alguna cosa, ho compartiria amb tothom.
+↫ Si nosaltres ↫<br><br> {{c1::traguéssim::…treure…}} profit de cada moment, viuríem millor.
+↫ Si vosaltres ↫<br><br> {{c1::traguéssiu::…treure…}} conclusions més encertades, us aniria millor.
+↫ Si ells ↫<br><br> {{c1::traguessin::…treure…}} alguna cosa bona, ho dirien.
+… Si pogués, …<br><br> jo {{c1::trauria::…treure…}} profit de cada situació.
+… Si tinguessis temps, …<br><br> tu {{c1::trauries::…treure…}} alguna conclusió útil.
+… Ell {{c1::trauria::…treure…}} tot el profit possible, …<br><br>si ho sabés.
+… Si fos necessari, …<br><br> nosaltres {{c1::trauríem::…treure…}} alguna cosa positiva.
+… Vosaltres {{c1::trauríeu::…treure…}} grans idees, …<br><br>si us hi poséssiu.
+… Si ho sabessin, …<br><br> ells {{c1::traurien::…treure…}} profit de tot.
+! Ara mateix, !<br><br> tu {{c1::treu::…treure…}} el màxim profit de la situació!
+! Si us plau, !<br><br> vostè {{c1::tregui::…treure…}} una bona conclusió!
+! Anem, !<br><br> nosaltres {{c1::traguem::…treure…}} el millor d'aquesta situació!
+! Ara, !<br><br> vosaltres {{c1::traieu::…treure…}} profit de cada oportunitat!
+! Immediatament, !<br><br> vostès {{c1::treguin::…treure…}} alguna cosa positiva!
+

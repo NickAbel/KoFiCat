@@ -1,0 +1,52 @@
+~ Mentre estic pensant, ~<br><br> jo {{c1::duent::…dur…}} una càrrega pesada.
+♂ Després de la feina, ♂<br><br> ell ha {{c1::dut::…dur…}} el paquet fins aquí.
+♀ Quan va rebre la notícia, ♀<br><br> ella ha {{c1::duta::…dur…}} la carta a la seva mare.
+♂♂ Després de l'entrenament, ♂♂<br><br> ells han {{c1::duts::…dur…}} les caixes al magatzem.
+♀♀ Després de la compra, ♀♀<br><br> elles han {{c1::dutes::…dur…}} els aliments a casa.
+⊙ Actualment, ⊙<br><br> jo {{c1::duc::…dur…}} tot el que necessito.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::duus/dus::…dur…}} el teu ordinador a l'oficina.
+⊙ Ara, ⊙<br><br> ell {{c1::duu/du::…dur…}} la cartera a la butxaca.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::duem::…dur…}} tota la informació necessària.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::dueu::…dur…}} tot el que us cal.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::duen::…dur…}} tot el material per a la reunió.
+⇠ Abans, ⇠<br><br> jo {{c1::duia::…dur…}} el menjar a la feina cada dia.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::duies::…dur…}} la motxilla a l'escola.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::duia::…dur…}} les joguines al parc.
+⇠ Durant l'estiu, ⇠<br><br> nosaltres {{c1::dúiem::…dur…}} les tovalloles a la platja.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::dúieu::…dur…}} sempre alguna cosa a casa.
+⇠ Molt abans, ⇠<br><br> ells {{c1::duien::…dur…}} els llibres a la biblioteca.
+↧ Ahir, ↧<br><br> jo {{c1::duguí::…dur…}} tot el material a la reunió.
+↧ La setmana passada, ↧<br><br> tu {{c1::duguéres::…dur…}} la carta al correu.
+↧ El mes passat, ↧<br><br> ell {{c1::dugué::…dur…}} el projecte a terme.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::duguérem::…dur…}} tot el que necessitàvem.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::duguéreu::…dur…}} tot a temps.
+↧ Fa poc, ↧<br><br> ells {{c1::dugueren::…dur…}} els materials a la classe.
+→ Demà, →<br><br> jo {{c1::duré::…dur…}} tota la càrrega.
+→ La setmana vinent, →<br><br> tu {{c1::duràs::…dur…}} el teu portàtil a la feina.
+→ En un any, →<br><br> ell {{c1::durà::…dur…}} tots els documents.
+→ En cinc anys, →<br><br> nosaltres {{c1::durem::…dur…}} totes les nostres coses a la nova casa.
+→ Aviat, →<br><br> vosaltres {{c1::dureu::…dur…}} totes les idees al projecte.
+→ En el futur, →<br><br> ells {{c1::duran::…dur…}} tot a la reunió.
+〰 Espero que 〰<br><br> jo {{c1::dugui::…dur…}} tot el que necessito.
+〰 Pot ser que 〰<br><br> tu {{c1::duguis::…dur…}} el millor resultat.
+〰 És possible que 〰<br><br> ell {{c1::dugui::…dur…}} tots els documents.
+〰 És necessari que 〰<br><br> nosaltres {{c1::duguim::…dur…}} totes les nostres idees.
+〰 Dubto que 〰<br><br> vosaltres {{c1::duguim::…dur…}} la millor solució.
+〰 És probable que 〰<br><br> ells {{c1::duguin::…dur…}} tot el necessari.
+↫ Si fos possible, ↫<br><br> jo {{c1::dugués::…dur…}} més responsabilitats.
+↫ Si tu ↫<br><br> {{c1::duguessis::…dur…}} la càrrega correctament, tot aniria bé.
+↫ Si ell ↫<br><br> {{c1::dugués::…dur…}} tots els documents, estaríem preparats.
+↫ Si nosaltres ↫<br><br> {{c1::duguéssim::…dur…}} tot el material, no hi hauria problemes.
+↫ Si vosaltres ↫<br><br> {{c1::duguéssiu::…dur…}} tot el que es necessita, seria perfecte.
+↫ Si ells ↫<br><br> {{c1::duguessin::…dur…}} tot a temps, tot aniria bé.
+… Si pogués, …<br><br> jo {{c1::duria::…dur…}} més responsabilitats.
+… Si tinguessis temps, …<br><br> tu {{c1::duries::…dur…}} tota la càrrega.
+… Ell {{c1::duria::…dur…}} tots els documents, …<br><br>si fos necessari.
+… Si fos necessari, …<br><br> nosaltres {{c1::duríem::…dur…}} totes les nostres coses.
+… Vosaltres {{c1::duríeu::…dur…}} tot a temps, …<br><br>si us hi poséssiu.
+… Si ho sabessin, …<br><br> ells {{c1::durien::…dur…}} tot el necessari.
+! Ara mateix, !<br><br> tu {{c1::duu/du::…dur…}} tot a terme!
+! Si us plau, !<br><br> vostè {{c1::dugui::…dur…}} tota la càrrega!
+! Anem, !<br><br> nosaltres {{c1::duguem::…dur…}} tot el necessari!
+! Ara, !<br><br> vosaltres {{c1::dueu::…dur…}} totes les idees al projecte!
+! Immediatament, !<br><br> vostès {{c1::duguin::…dur…}} tot a temps!

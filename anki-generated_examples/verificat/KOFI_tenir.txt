@@ -9,18 +9,18 @@
 ⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::tenim::…tenir…}} molts projectes.
 ⊙ Actualment, ⊙<br><br> vosaltres {{c1::teniu::…tenir…}} molt temps.
 ⊙ Aquesta tarda, ⊙<br><br> ells {{c1::tenen::…tenir…}} moltes opcions.
-↧ Ahir, ↧<br><br> jo {{c1::tinguí::…tenir…}} una gran sorpresa.
-↧ La setmana passada, ↧<br><br> tu {{c1::tingueres::…tenir…}} una visita inesperada.
-↧ El mes passat, ↧<br><br> ell {{c1::tingué::…tenir…}} un gran èxit.
-↧ Fa un any, ↧<br><br> nosaltres {{c1::tinguérem::…tenir…}} una trobada especial.
-↧ Els dies antics, ↧<br><br> vosaltres {{c1::tinguéreu::…tenir…}} una festa memorable.
-↧ Hace dos días, ↧<br><br> ells {{c1::tingueren::…tenir…}} una reunió important.
 ⇠ Abans, ⇠<br><br> jo {{c1::tenia::…tenir…}} moltes idees.
 ⇠ Quan érem joves, ⇠<br><br> tu {{c1::tenies::…tenir…}} molta energia.
 ⇠ Fa uns anys, ⇠<br><br> ell {{c1::tenia::…tenir…}} un somni.
 ⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::teníem::…tenir…}} molts amics.
 ⇠ De joves, ⇠<br><br> vosaltres {{c1::teníeu::…tenir…}} molta llibertat.
 ⇠ Molt abans, ⇠<br><br> ells {{c1::tenien::…tenir…}} moltes aventures.
+↧ Ahir, ↧<br><br> jo {{c1::tinguí::…tenir…}} una gran sorpresa.
+↧ La setmana passada, ↧<br><br> tu {{c1::tingueres::…tenir…}} una visita inesperada.
+↧ El mes passat, ↧<br><br> ell {{c1::tingué::…tenir…}} un gran èxit.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::tinguérem::…tenir…}} una trobada especial.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::tinguéreu::…tenir…}} una festa memorable.
+↧ Hace dos días, ↧<br><br> ells {{c1::tingueren::…tenir…}} una reunió important.
 → Demà, →<br><br> jo {{c1::tindré::…tenir…}} un dia ocupat.
 → La setmana vinent, →<br><br> tu {{c1::tindràs::…tenir…}} una oportunitat única.
 → En un any, →<br><br> ell {{c1::tindrà::…tenir…}} un nou projecte.
@@ -45,7 +45,7 @@
 … En un món ideal, …<br><br> nosaltres {{c1::tindríem::…tenir…}} més recursos.
 … Si la situació fos diferent, …<br><br> vosaltres {{c1::tindríeu::…tenir…}} més opcions.
 … Si les circumstàncies ho permetessin, …<br><br> ells {{c1::tindrien::…tenir…}} una oportunitat única.
-! Ara mateix, !<br><br> tu {{c1::ten/té/tingues::…tenir…}} cura!<br>
+! Ara mateix, !<br><br> tu {{c1::ten/té/tingues::…tenir…}} cura!
 ! Si us plau, !<br><br> vostè {{c1::tingui::…tenir…}} paciència.
 ! Anem, !<br><br> nosaltres {{c1::tinguem::…tenir…}} fe en el procés.
 ! Ara, !<br><br> vosaltres {{c1::teniu/tingueu::…tenir…}} confiança en vosaltres mateixos.

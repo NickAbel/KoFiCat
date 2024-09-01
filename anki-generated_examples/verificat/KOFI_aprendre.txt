@@ -1,0 +1,52 @@
+~ Mentre estic pensant, ~<br><br> jo {{c1::aprenent::…aprendre…}} coses noves cada dia.
+♂ Després de la classe, ♂<br><br> ell ha {{c1::après::…aprendre…}} una lliçó important.
+♀ Quan va escoltar la lliçó, ♀<br><br> ella ha {{c1::apresa::…aprendre…}} moltes coses.
+♂♂ Després de la reunió, ♂♂<br><br> ells han {{c1::apresos::…aprendre…}} nous conceptes.
+♀♀ Després de l'exercici, ♀♀<br><br> elles han {{c1::apreses::…aprendre…}} tècniques noves.
+⊙ Actualment, ⊙<br><br> jo {{c1::aprenc::…aprendre…}} moltes coses interessants.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::aprens::…aprendre…}} ràpidament.
+⊙ Ara, ⊙<br><br> ell {{c1::aprèn::…aprendre…}} amb facilitat.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::aprenem::…aprendre…}} junts.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::apreneu::…aprendre…}} cada dia.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::aprenen::…aprendre…}} a treballar en equip.
+⇠ Abans, ⇠<br><br> jo {{c1::aprenia::…aprendre…}} més a poc a poc.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::aprenies::…aprendre…}} amb més facilitat.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::aprenia::…aprendre…}} coses diferents.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::apreníem::…aprendre…}} moltes coses noves.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::apreníeu::…aprendre…}} ràpidament.
+⇠ Molt abans, ⇠<br><br> ells {{c1::aprenien::…aprendre…}} tot el que els ensenyaven.
+↧ Ahir, ↧<br><br> jo {{c1::aprenguí::…aprendre…}} una nova tècnica.
+↧ La setmana passada, ↧<br><br> tu {{c1::aprengueres::…aprendre…}} una lliçó important.
+↧ El mes passat, ↧<br><br> ell {{c1::aprengué::…aprendre…}} una nova habilitat.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::aprenguérem::…aprendre…}} moltes coses.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::aprenguéreu::…aprendre…}} tècniques avançades.
+↧ Fa poc, ↧<br><br> ells {{c1::aprengueren::…aprendre…}} nous conceptes.
+→ Demà, →<br><br> jo {{c1::aprendré::…aprendre…}} una cosa nova.
+→ La setmana vinent, →<br><br> tu {{c1::aprendràs::…aprendre…}} una nova habilitat.
+→ En un any, →<br><br> ell {{c1::aprendrà::…aprendre…}} una tècnica diferent.
+→ En cinc anys, →<br><br> nosaltres {{c1::aprendrem::…aprendre…}} moltes coses noves.
+→ Aviat, →<br><br> vosaltres {{c1::aprendreu::…aprendre…}} tot el que necessiteu.
+→ En el futur, →<br><br> ells {{c1::aprendran::…aprendre…}} nous conceptes.
+〰 Espero que 〰<br><br> jo {{c1::aprengui::…aprendre…}} ràpidament.
+〰 Pot ser que 〰<br><br> tu {{c1::aprenguis::…aprendre…}} una lliçó valuosa.
+〰 És possible que 〰<br><br> ell {{c1::aprengui::…aprendre…}} a temps.
+〰 És necessari que 〰<br><br> nosaltres {{c1::aprenguem::…aprendre…}} junts.
+〰 Dubto que 〰<br><br> vosaltres {{c1::aprengueu::…aprendre…}} tot a temps.
+〰 És probable que 〰<br><br> ells {{c1::aprenguin::…aprendre…}} molt en poc temps.
+↫ Si fos possible, ↫<br><br> jo {{c1::aprengués::…aprendre…}} tot ràpidament.
+↫ Si tu ↫<br><br> {{c1::aprenguessis::…aprendre…}} amb més facilitat, milloraria.
+↫ Si ell ↫<br><br> {{c1::aprengués::…aprendre…}} més coses, tindria avantatge.
+↫ Si nosaltres ↫<br><br> {{c1::aprenguéssim::…aprendre…}} junts, seria més fàcil.
+↫ Si vosaltres ↫<br><br> {{c1::aprenguéssiu::…aprendre…}} més ràpidament, us aniria millor.
+↫ Si ells ↫<br><br> {{c1::aprenguessin::…aprendre…}} tot a temps, tindrien èxit.
+… Si pogués, …<br><br> jo {{c1::aprendria::…aprendre…}} tot ràpidament.
+… Si tinguessis temps, …<br><br> tu {{c1::aprendries::…aprendre…}} moltes coses noves.
+… Ell {{c1::aprendria::…aprendre…}} ràpidament, …<br><br>si tingués ajuda.
+… Si fos necessari, …<br><br> nosaltres {{c1::aprendríem::…aprendre…}} més coses.
+… Vosaltres {{c1::aprendríeu::…aprendre…}} tot a temps, …<br><br>si us hi fixéssiu.
+… Si ho sabessin, …<br><br> ells {{c1::aprendrien::…aprendre…}} tot ràpidament.
+! Ara mateix, !<br><br> tu {{c1::aprèn::…aprendre…}} ràpidament!
+! Si us plau, !<br><br> vostè {{c1::aprengui::…aprendre…}} més coses!
+! Anem, !<br><br> nosaltres {{c1::aprenguem::…aprendre…}} junts!
+! Ara, !<br><br> vosaltres {{c1::apreneu::…aprendre…}} ràpidament!
+! Immediatament, !<br><br> vostès {{c1::aprenguin::…aprendre…}} tot el que cal!

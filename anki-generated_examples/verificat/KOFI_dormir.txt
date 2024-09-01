@@ -1,26 +1,26 @@
 ~ Mentre estic llegint, ~<br><br> jo {{c1::dormint::…dormir…}} em sento descansat.
-♂ Després de la nit, ♂<br><br> ell {{c1::ha dormit::…dormir…}} profundament.
-♀ Una vegada acabat el viatge, ♀<br><br> ella {{c1::ha dormida::…dormir…}} durant tot el vol.
-♂♂ Després d'un llarg dia, ♂♂<br><br> ells {{c1::han dormits::…dormir…}} fins tard.
-♀♀ Acabades les celebracions, ♀♀<br><br> elles {{c1::han dormides::…dormir…}} profundament.
+♂ Després de la nit, ♂<br><br> ell ha {{c1::dormit::…dormir…}} profundament.
+♀ Una vegada acabat el viatge, ♀<br><br> ella ha {{c1::dormida::…dormir…}} durant tot el vol.
+♂♂ Després d'un llarg dia, ♂♂<br><br> ells han {{c1::dormits::…dormir…}} fins tard.
+♀♀ Acabades les celebracions, ♀♀<br><br> elles han {{c1::dormides::…dormir…}} profundament.
 ⊙ Actualment, ⊙<br><br> jo {{c1::dormo::…dormir…}} vuit hores cada nit.
 ⊙ En aquest moment, ⊙<br><br> tu {{c1::dorms::…dormir…}} com un tronc.
 ⊙ Ara, ⊙<br><br> ell {{c1::dorm::…dormir…}} en una habitació fosca.
 ⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::dormim::…dormir…}} tranquil·lament.
 ⊙ Actualment, ⊙<br><br> vosaltres {{c1::dormiu::…dormir…}} poc a causa de l'estrès.
 ⊙ Aquesta nit, ⊙<br><br> ells {{c1::dormen::…dormir…}} amb els seus gossos.
-↧ Ahir, ↧<br><br> jo {{c1::dormí::…dormir…}} només quatre hores.
-↧ La setmana passada, ↧<br><br> tu {{c1::dormires::…dormir…}} molt poc.
-↧ El mes passat, ↧<br><br> ell {{c1::dormí::…dormir…}} com un nadó.
-↧ Fa un any, ↧<br><br> nosaltres {{c1::dormírem::…dormir…}} en una cabana.
-↧ Els dies antics, ↧<br><br> vosaltres {{c1::dormíreu::…dormir…}} en tendes de campanya.
-↧ Hace dos días, ↧<br><br> ells {{c1::dormiren::…dormir…}} sota les estrelles.
 ⇠ Abans, ⇠<br><br> jo {{c1::dormia::…dormir…}} menys quan era estudiant.
 ⇠ Quan érem petits, ⇠<br><br> tu {{c1::dormies::…dormir…}} molt al cotxe.
 ⇠ Fa uns anys, ⇠<br><br> ell {{c1::dormia::…dormir…}} al sofà.
 ⇠ Durant l'estiu, ⇠<br><br> nosaltres {{c1::dormíem::…dormir…}} amb les finestres obertes.
 ⇠ Quan éreu joves, ⇠<br><br> vosaltres {{c1::dormíeu::…dormir…}} fins tard.
 ⇠ Molt abans, ⇠<br><br> ells {{c1::dormien::…dormir…}} més hores.
+↧ Ahir, ↧<br><br> jo {{c1::dormí::…dormir…}} només quatre hores.
+↧ La setmana passada, ↧<br><br> tu {{c1::dormires::…dormir…}} molt poc.
+↧ El mes passat, ↧<br><br> ell {{c1::dormí::…dormir…}} com un nadó.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::dormírem::…dormir…}} en una cabana.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::dormíreu::…dormir…}} en tendes de campanya.
+↧ Hace dos días, ↧<br><br> ells {{c1::dormiren::…dormir…}} sota les estrelles.
 → Demà, →<br><br> jo {{c1::dormiré::…dormir…}} a la platja.
 → La setmana vinent, →<br><br> tu {{c1::dormiràs::…dormir…}} en un hotel.
 → En un any, →<br><br> ell {{c1::dormirà::…dormir…}} a casa seva.

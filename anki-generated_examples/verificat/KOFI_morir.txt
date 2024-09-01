@@ -1,0 +1,5 @@
+~ Mentre estic pensant, ~<br><br> jo {{c1::morint::…morir…}} de riure amb aquesta broma.
+♂ Després d'una llarga malaltia, ♂<br><br> ell ha {{c1::mort::…morir…}} en pau.
+♀ Quan va acabar, ♀<br><br> ella ha {{c1::morta::…morir…}} amb un somriure.
+♂♂ Després de la batalla, ♂♂<br><br> ells han {{c1::morts::…morir…}} amb honor.
+♀♀ Després de la tempesta, ♀♀<br><br> elles han {{c1::mortes::…morir…}} en el seu llit.
