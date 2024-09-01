@@ -17,18 +17,18 @@
 ⊙ I ara amb mi, ⊙<br>ja en {{c1::som::…ser/ésser…}} un més."			
 ⊙ Jo sóc de dalt, ⊙<br><br>vosaltres {{c1::sou::…ser/ésser…}} d'aquest món.			
 ⊙ Els rics ⊙<br><br>sovint {{c1::són::…ser/ésser…}} miserables.		
-↧ Ahir, per un moment, ↧ <br><br>jo {{c1::fui::…ser/ésser…}} un gat.			
-↧ Ahir, ↧<br><br>tu {{c1::fores::…ser/ésser…}} molt amable.			
-↧ L'any 573, ↧<br><br>la ciutat {{c1::fou::…ser/ésser…}} fundada.			
-↧ Abans-ahir, ↧<br><br>nosaltres {{c1::fórem::…ser/ésser…}} molt amables amb els visitants.			
-↧ En aquell moment, ↧<br><br>vosaltres {{c1::fóreu::…ser/ésser…}} molt amables amb els visitants.			
-↧ L'any 2010, ↧<br>Ells {{c1::foren::…ser/ésser…}} seleccionats per l'equip nacional.				
 ⇠ En aquella època. ⇠<br><br>jo {{c1::era::…ser/ésser…}} un estudiant.			
 ⇠ Quan érem joves, ⇠<br><br>tu {{c1::eres::…ser/ésser…}} molt actiu.			
 ⇠ Fa uns anys, ⇠<br><br>ella {{c1::era::…ser/ésser…}} professora.			
 ⇠ En aquell temps, ⇠<br><br>nosaltres {{c1::érem::…ser/ésser…}} veïns.			
 ⇠ De joves, ⇠<br><br>vosaltres {{c1::èreu::…ser/ésser…}} amics.			
 ⇠ Molt abans, ⇠<br><br>ells {{c1::eren::…ser/ésser…}} col·legues.			
+↧ Ahir, per un moment, ↧ <br><br>jo {{c1::fui::…ser/ésser…}} un gat.			
+↧ Ahir, ↧<br><br>tu {{c1::fores::…ser/ésser…}} molt amable.			
+↧ L'any 573, ↧<br><br>la ciutat {{c1::fou::…ser/ésser…}} fundada.			
+↧ Abans-ahir, ↧<br><br>nosaltres {{c1::fórem::…ser/ésser…}} molt amables amb els visitants.			
+↧ En aquell moment, ↧<br><br>vosaltres {{c1::fóreu::…ser/ésser…}} molt amables amb els visitants.			
+↧ L'any 2010, ↧<br>Ells {{c1::foren::…ser/ésser…}} seleccionats per l'equip nacional.				
 → Demà, →<br><br>jo {{c1::seré::…ser/ésser…}} famós.			
 → L'any vinent, →<br><br>tu {{c1::seràs::…ser/ésser…}} campió.			
 → En deu anys, →<br><br>ella {{c1::serà::…ser/ésser…}} directora.			
@@ -75,18 +75,18 @@
 ⊙ En aquest instant, ⊙<br><br>nosaltres {{c1::estem::…estar…}} a l'escola.			
 ⊙ Actualment, ⊙<br><br>vosaltres {{c1::esteu::…estar…}} al mercat.			
 ⊙ Aquesta tarda, ⊙<br><br>ells {{c1::estan::…estar…}} al cinema.			
-↧ Ahir, ↧<br><br>jo {{c1::estiguí::…estar…}} molt content.			
-↧ La setmana passada, ↧<br><br>tu {{c1::estigueres::…estar…}} molt preocupat.			
-↧ El mes passat, ↧<br><br>ell {{c1::estigué::…estar…}} hospitalitzat.			
-↧ Fa un any, ↧<br><br>nosaltres {{c1::estiguérem::…estar…}} de viatge.			
-↧ Els dies antics, ↧<br><br>vosaltres {{c1::estiguéreu::…estar…}} molt ocupats.			
-↧ Hace dos días, ↧<br><br>elles {{c1::estigueren::…estar…}} preocupades.			
 ⇠ Abans, ⇠<br><br>jo {{c1::estava::…estar…}} molt ocupat.			
 ⇠ Quan érem joves, ⇠<br><br>tu {{c1::estaves::…estar…}} sempre alegre.			
 ⇠ Fa uns anys, ⇠<br><br>ella {{c1::estava::…estar…}} a Barcelona.			
 ⇠ En aquell temps, ⇠<br><br>nosaltres {{c1::estàvem::…estar…}} junts.			
 ⇠ De joves, ⇠<br><br>vosaltres {{c1::estàveu::…estar…}} a la universitat.			
 ⇠ Molt abans, ⇠<br><br>ells {{c1::estaven::…estar…}} a l'estranger.			
+↧ Ahir, ↧<br><br>jo {{c1::estiguí::…estar…}} molt content.			
+↧ La setmana passada, ↧<br><br>tu {{c1::estigueres::…estar…}} molt preocupat.			
+↧ El mes passat, ↧<br><br>ell {{c1::estigué::…estar…}} hospitalitzat.			
+↧ Fa un any, ↧<br><br>nosaltres {{c1::estiguérem::…estar…}} de viatge.			
+↧ Els dies antics, ↧<br><br>vosaltres {{c1::estiguéreu::…estar…}} molt ocupats.			
+↧ Hace dos días, ↧<br><br>elles {{c1::estigueren::…estar…}} preocupades.			
 → Demà, →<br><br>jo {{c1::estaré::…estar…}} aquí.			
 → L'any vinent, →<br><br>tu {{c1::estaràs::…estar…}} a Londres.			
 → En deu anys, →<br><br>ella {{c1::estarà::…estar…}} treballant aquí.			
@@ -127,18 +127,18 @@
 ⊙ En aquest instant, ⊙<br><br>nosaltres {{c1::havem/hem::…haver…}} de decidir la nostra propera acció.			
 ⊙ Actualment, ⊙<br><br>vosaltres {{c1::haveu/heu::…haver…}} de confirmar la vostra assistència.			
 ⊙ Aquesta tarda, ⊙<br><br>ells {{c1::han::…haver…}} de completar el projecte.			
-↧ Ahir, ↧<br><br>jo {{c1::haguí::…haver…}} de solucionar uns problemes urgents.			
-↧ La setmana passada, ↧<br><br>tu {{c1::hagueres::…haver…}} de preparar la presentació.			
-↧ El mes passat, ↧<br><br>ell {{c1::hagué::…haver…}} de viatjar a Madrid.			
-↧ Fa un any, ↧<br><br>nosaltres {{c1::haguérem::…haver…}} de prendre una decisió difícil.			
-↧ Els dies antics, ↧<br><br>vosaltres {{c1::haguéreu::…haver…}} de fer front a molts reptes.			
-↧ Hace dos días, ↧<br><br>ells {{c1::hagueren::…haver…}} de completar el projecte.			
 ⇠ Abans, ⇠<br><br>jo {{c1::havia::…haver…}} de llegir molt per a la meva tesi.			
 ⇠ Quan érem joves, ⇠<br><br>tu {{c1::havies::…haver…}} de cuidar els teus germans sovint.			
 ⇠ Fa uns anys, ⇠<br><br>ell {{c1::havia::…haver…}} de viatjar freqüentment per feina.			
 ⇠ Durant l'escola, ⇠<br><br>nosaltres {{c1::havíem::…haver…}} de estudiar junts cada vespre.			
 ⇠ De joves, ⇠<br><br>vosaltres {{c1::havíeu::…haver…}} de compartir l'habitació.			
 ⇠ Abans, ⇠<br><br>ells {{c1::havien::…haver…}} de treballar als caps de setmana.			
+↧ Ahir, ↧<br><br>jo {{c1::haguí::…haver…}} de solucionar uns problemes urgents.			
+↧ La setmana passada, ↧<br><br>tu {{c1::hagueres::…haver…}} de preparar la presentació.			
+↧ El mes passat, ↧<br><br>ell {{c1::hagué::…haver…}} de viatjar a Madrid.			
+↧ Fa un any, ↧<br><br>nosaltres {{c1::haguérem::…haver…}} de prendre una decisió difícil.			
+↧ Els dies antics, ↧<br><br>vosaltres {{c1::haguéreu::…haver…}} de fer front a molts reptes.			
+↧ Hace dos días, ↧<br><br>ells {{c1::hagueren::…haver…}} de completar el projecte.			
 → Demà, →<br><br>jo {{c1::hauré::…haver…}} de completar el projecte.			
 → La setmana vinent, →<br><br>tu {{c1::hauràs::…haver…}} de fer una presentació important.			
 → En un any, →<br><br>ell {{c1::haurà::…haver…}} de prendre una decisió crucial.			
@@ -174,18 +174,18 @@
 ⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::anem::…anar…}} al cinema.
 ⊙ Actualment, ⊙<br><br> vosaltres {{c1::aneu::…anar…}} a la platja.
 ⊙ Aquesta tarda, ⊙<br><br> ells {{c1::van::…anar…}} al parc.
-↧ Ahir, ↧<br><br> jo {{c1::aní::…anar…}} a una reunió important.
-↧ La setmana passada, ↧<br><br> tu {{c1::anares::…anar…}} a una festa sorpresa.
-↧ El mes passat, ↧<br><br> ell {{c1::anà::…anar…}} a una conferència.
-↧ Fa un any, ↧<br><br> nosaltres {{c1::anàrem::…anar…}} de vacances a Itàlia.
-↧ Els dies antics, ↧<br><br> vosaltres {{c1::anàreu::…anar…}} a la inauguració d'un restaurant.
-↧ Hace dos días, ↧<br><br> ells {{c1::anaren::…anar…}} al teatre.
 ⇠ Abans, ⇠<br><br> jo {{c1::anava::…anar…}} a l'escola a peu.
 ⇠ Quan érem joves, ⇠<br><br> tu {{c1::anaves::…anar…}} al camp cada estiu.
 ⇠ Fa uns anys, ⇠<br><br> ell {{c1::anava::…anar…}} a treballar en bicicleta.
 ⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::anàvem::…anar…}} a la piscina junts.
 ⇠ De joves, ⇠<br><br> vosaltres {{c1::anàveu::…anar…}} a concerts freqüentment.
 ⇠ Molt abans, ⇠<br><br> ells {{c1::anaven::…anar…}} a la muntanya cada cap de setmana.
+↧ Ahir, ↧<br><br> jo {{c1::aní::…anar…}} a una reunió important.
+↧ La setmana passada, ↧<br><br> tu {{c1::anares::…anar…}} a una festa sorpresa.
+↧ El mes passat, ↧<br><br> ell {{c1::anà::…anar…}} a una conferència.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::anàrem::…anar…}} de vacances a Itàlia.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::anàreu::…anar…}} a la inauguració d'un restaurant.
+↧ Hace dos días, ↧<br><br> ells {{c1::anaren::…anar…}} al teatre.
 → Demà, →<br><br> jo {{c1::aniré::…anar…}} a comprar roba nova.
 → La setmana vinent, →<br><br> tu {{c1::aniràs::…anar…}} a una entrevista de feina.
 → En un any, →<br><br> ell {{c1::anirà::…anar…}} a estudiar a l'estranger.
@@ -226,18 +226,18 @@
 ⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::tenim::…tenir…}} molts projectes.
 ⊙ Actualment, ⊙<br><br> vosaltres {{c1::teniu::…tenir…}} molt temps.
 ⊙ Aquesta tarda, ⊙<br><br> ells {{c1::tenen::…tenir…}} moltes opcions.
-↧ Ahir, ↧<br><br> jo {{c1::tinguí::…tenir…}} una gran sorpresa.
-↧ La setmana passada, ↧<br><br> tu {{c1::tingueres::…tenir…}} una visita inesperada.
-↧ El mes passat, ↧<br><br> ell {{c1::tingué::…tenir…}} un gran èxit.
-↧ Fa un any, ↧<br><br> nosaltres {{c1::tinguérem::…tenir…}} una trobada especial.
-↧ Els dies antics, ↧<br><br> vosaltres {{c1::tinguéreu::…tenir…}} una festa memorable.
-↧ Hace dos días, ↧<br><br> ells {{c1::tingueren::…tenir…}} una reunió important.
 ⇠ Abans, ⇠<br><br> jo {{c1::tenia::…tenir…}} moltes idees.
 ⇠ Quan érem joves, ⇠<br><br> tu {{c1::tenies::…tenir…}} molta energia.
 ⇠ Fa uns anys, ⇠<br><br> ell {{c1::tenia::…tenir…}} un somni.
 ⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::teníem::…tenir…}} molts amics.
 ⇠ De joves, ⇠<br><br> vosaltres {{c1::teníeu::…tenir…}} molta llibertat.
 ⇠ Molt abans, ⇠<br><br> ells {{c1::tenien::…tenir…}} moltes aventures.
+↧ Ahir, ↧<br><br> jo {{c1::tinguí::…tenir…}} una gran sorpresa.
+↧ La setmana passada, ↧<br><br> tu {{c1::tingueres::…tenir…}} una visita inesperada.
+↧ El mes passat, ↧<br><br> ell {{c1::tingué::…tenir…}} un gran èxit.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::tinguérem::…tenir…}} una trobada especial.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::tinguéreu::…tenir…}} una festa memorable.
+↧ Hace dos días, ↧<br><br> ells {{c1::tingueren::…tenir…}} una reunió important.
 → Demà, →<br><br> jo {{c1::tindré::…tenir…}} un dia ocupat.
 → La setmana vinent, →<br><br> tu {{c1::tindràs::…tenir…}} una oportunitat única.
 → En un any, →<br><br> ell {{c1::tindrà::…tenir…}} un nou projecte.
@@ -278,18 +278,18 @@
 ⊙ En aquest moment, ⊙<br><br>nosaltres {{c1::parlem::…parlar…}} sobre el projecte ara mateix.		<b>Parlar </b>is a regular verb in the first conjugation (-ar).	
 ⊙ Actualment, ⊙<br><br>vosaltres {{c1::parleu::…parlar…}} massa ràpid.		<b>Parlar </b>is a regular verb in the first conjugation (-ar).	
 ⊙ En aquest moment, ⊙<br><br>ells {{c1::parlen::…parlar…}} amb els seus professors.		<b>Parlar </b>is a regular verb in the first conjugation (-ar).	
-↧ En aquell moment, ↧<br><br>jo {{c1::parlé::…parlar…}} amb els meus amics.
-↧ L'any passat, ↧<br><br>tu {{c1::parlares::…parlar…}} amb el professor.
-↧ Ahir, ↧<br><br>ell {{c1::parló::…parlar…}} sobre el projecte.
-↧ Fa unes setmanes, ↧<br><br>nosaltres {{c1::parlàrem::…parlar…}} amb els veïns.
-↧ Fa poc, ↧<br><br>vosaltres {{c1::parlàreu::…parlar…}} amb els clients.
-↧ Durant les vacances, ↧<br><br>ells {{c1::parlaren::…parlar…}} amb els seus parents.
 ⇠ Abans, ⇠<br><br>jo {{c1::parlava::…parlar…}} català amb els meus avis.
 ⇠ Quan érem petits, ⇠<br><br>tu {{c1::parlaves::…parlar…}} més sovint amb els teus cosins.
 ⇠ Fa uns anys, ⇠<br><br>ella {{c1::parlava::…parlar…}} només castellà a casa seva.
 ⇠ Durant l'escola, ⇠<br><br>nosaltres {{c1::parlàvem::…parlar…}} en veu baixa a classe.
 ⇠ De joves, ⇠<br><br>vosaltres {{c1::parlàveu::…parlar…}} molt de les vostres aventures.
 ⇠ Abans, ⇠<br><br>ells {{c1::parlaven::…parlar…}} amb els seus veïns cada dia.
+↧ En aquell moment, ↧<br><br>jo {{c1::parlé::…parlar…}} amb els meus amics.
+↧ L'any passat, ↧<br><br>tu {{c1::parlares::…parlar…}} amb el professor.
+↧ Ahir, ↧<br><br>ell {{c1::parló::…parlar…}} sobre el projecte.
+↧ Fa unes setmanes, ↧<br><br>nosaltres {{c1::parlàrem::…parlar…}} amb els veïns.
+↧ Fa poc, ↧<br><br>vosaltres {{c1::parlàreu::…parlar…}} amb els clients.
+↧ Durant les vacances, ↧<br><br>ells {{c1::parlaren::…parlar…}} amb els seus parents.
 → Demà, →<br><br>jo {{c1::parlaré::…parlar…}} amb els meus amics.
 → La setmana que ve, →<br><br>tu {{c1::parlaràs::…parlar…}} amb el professor.
 → Més tard, →<br><br>ell {{c1::parlarà::…parlar…}} sobre el projecte.
@@ -330,18 +330,18 @@
 ⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::unim::…unir…}} esforços per aconseguir l'objectiu.
 ⊙ Actualment, ⊙<br><br> vosaltres {{c1::uniu::…unir…}} les dades en un sol informe.
 ⊙ Aquesta tarda, ⊙<br><br> ells {{c1::uneixen::…unir…}} les seves habilitats per al projecte.
-↧ Ahir, ↧<br><br> jo {{c1::uní::…unir…}} totes les meves idees en una presentació.
-↧ La setmana passada, ↧<br><br> tu {{c1::unires::…unir…}} els informes en un document final.
-↧ El mes passat, ↧<br><br> ell {{c1::uní::…unir…}} les dades en un sol arxiu.
-↧ Fa un any, ↧<br><br> nosaltres {{c1::unírem::…unir…}} les nostres propostes en un sol pla.
-↧ Els dies antics, ↧<br><br> vosaltres {{c1::uníreu::…unir…}} les informacions disponibles.
-↧ Hace dos días, ↧<br><br> ells {{c1::uniren::…unir…}} les seves idees en una única solució.
 ⇠ Abans, ⇠<br><br> jo {{c1::unia::…unir…}} les parts sense problemes.
 ⇠ Quan érem joves, ⇠<br><br> tu {{c1::unies::…unir…}} tots els elements del joc.
 ⇠ Fa uns anys, ⇠<br><br> ell {{c1::unia::…unir…}} totes les idees en un projecte.
 ⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::uníem::…unir…}} les nostres idees en un treball.
 ⇠ De joves, ⇠<br><br> vosaltres {{c1::uníeu::…unir…}} les peces del trencaclosques.
 ⇠ Molt abans, ⇠<br><br> ells {{c1::unien::…unir…}} les seves forces en les activitats de grup.
+↧ Ahir, ↧<br><br> jo {{c1::uní::…unir…}} totes les meves idees en una presentació.
+↧ La setmana passada, ↧<br><br> tu {{c1::unires::…unir…}} els informes en un document final.
+↧ El mes passat, ↧<br><br> ell {{c1::uní::…unir…}} les dades en un sol arxiu.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::unírem::…unir…}} les nostres propostes en un sol pla.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::uníreu::…unir…}} les informacions disponibles.
+↧ Hace dos días, ↧<br><br> ells {{c1::uniren::…unir…}} les seves idees en una única solució.
 → Demà, →<br><br> jo {{c1::uniré::…unir…}} les dues parts del projecte.
 → La setmana vinent, →<br><br> tu {{c1::uniràs::…unir…}} els esforços per a la campanya.
 → En un any, →<br><br> ell {{c1::unirà::…unir…}} tots els seus recursos per a un objectiu comú.
@@ -382,18 +382,18 @@
 ⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::dormim::…dormir…}} tranquil·lament.
 ⊙ Actualment, ⊙<br><br> vosaltres {{c1::dormiu::…dormir…}} poc a causa de l'estrès.
 ⊙ Aquesta nit, ⊙<br><br> ells {{c1::dormen::…dormir…}} amb els seus gossos.
-↧ Ahir, ↧<br><br> jo {{c1::dormí::…dormir…}} només quatre hores.
-↧ La setmana passada, ↧<br><br> tu {{c1::dormires::…dormir…}} molt poc.
-↧ El mes passat, ↧<br><br> ell {{c1::dormí::…dormir…}} com un nadó.
-↧ Fa un any, ↧<br><br> nosaltres {{c1::dormírem::…dormir…}} en una cabana.
-↧ Els dies antics, ↧<br><br> vosaltres {{c1::dormíreu::…dormir…}} en tendes de campanya.
-↧ Hace dos días, ↧<br><br> ells {{c1::dormiren::…dormir…}} sota les estrelles.
 ⇠ Abans, ⇠<br><br> jo {{c1::dormia::…dormir…}} menys quan era estudiant.
 ⇠ Quan érem petits, ⇠<br><br> tu {{c1::dormies::…dormir…}} molt al cotxe.
 ⇠ Fa uns anys, ⇠<br><br> ell {{c1::dormia::…dormir…}} al sofà.
 ⇠ Durant l'estiu, ⇠<br><br> nosaltres {{c1::dormíem::…dormir…}} amb les finestres obertes.
 ⇠ Quan éreu joves, ⇠<br><br> vosaltres {{c1::dormíeu::…dormir…}} fins tard.
 ⇠ Molt abans, ⇠<br><br> ells {{c1::dormien::…dormir…}} més hores.
+↧ Ahir, ↧<br><br> jo {{c1::dormí::…dormir…}} només quatre hores.
+↧ La setmana passada, ↧<br><br> tu {{c1::dormires::…dormir…}} molt poc.
+↧ El mes passat, ↧<br><br> ell {{c1::dormí::…dormir…}} com un nadó.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::dormírem::…dormir…}} en una cabana.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::dormíreu::…dormir…}} en tendes de campanya.
+↧ Hace dos días, ↧<br><br> ells {{c1::dormiren::…dormir…}} sota les estrelles.
 → Demà, →<br><br> jo {{c1::dormiré::…dormir…}} a la platja.
 → La setmana vinent, →<br><br> tu {{c1::dormiràs::…dormir…}} en un hotel.
 → En un any, →<br><br> ell {{c1::dormirà::…dormir…}} a casa seva.

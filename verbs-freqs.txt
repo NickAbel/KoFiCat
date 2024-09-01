@@ -1,0 +1,78 @@
+ser 10451
+fer 9824
+dir 7390
+veure 5729
+anar 3876
+parlar 2805
+estar 2695
+haver 2649
+tenir 2225
+saber 1893
+poder 1395
+morir 1395
+sortir 1285
+venir 1273
+menjar 1133
+començar 1031
+viure 730
+treure 719
+dormir 582
+conèixer 564
+dur 549
+entendre 368
+beure 335
+caure 332
+voler 328
+rebre 305
+aprendre 301
+escriure 300
+córrer 300
+jugar 298
+vendre 279
+obrir 272
+fugir 257
+néixer 199
+crear 198
+construir 197
+seure 175
+riure 160
+creuar 100
+admetre 78
+romandre 70
+unir 68
+vèncer 54
+establir 51
+témer 41
+cobrir 40
+eixir 38
+confondre 36
+empènyer 28
+ploure 24
+cosir 22
+fondre 20
+valer 17
+coure 16
+plaure 14
+jeure 13
+batre 12
+imprimir 11
+escopir 11
+tossir 7
+lluir 7
+caldre 6
+destacar 5
+pondre 3
+moldre 2
+lleure 1
+heure 1
+tòrcer
+toldre
+remeiar
+raure
+pudir
+encloure
+enaiguar
+constrènyer
+cerndre
+cabre
+adequar

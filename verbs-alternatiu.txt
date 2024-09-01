@@ -1,31 +1,6 @@
- INFINITIU: abstenir
- GERUNDI: abstenint
- PARTICIPI: abstingut, abstinguda, abstinguts, abstingudes
- INDICATIU PRESENT: abstinc, abstens, absté, abstenim, absteniu, abstenen
- INDICATIU IMPERFET: abstenia, abstenies, abstenia, absteníem, absteníeu, abstenien
- INDICATIU PASSAT: abstinguí, abstingueres, abstingué, abstinguérem, abstinguéreu, abstingueren
- INDICATIU FUTUR: abstindré, abstindràs, abstindrà, abstindrem, abstindreu, abstindran
- INDICATIU CONDICIONAL: abstindria, abstindries, abstindria, abstindríem, abstindríeu, abstindrien
- SUBJUNTIU PRESENT: abstingui, abstinguis, abstingui, abstinguem, abstingueu, abstinguin
- SUBJUNTIU IMPERFET: abstingués, abstinguessis, abstingués, abstinguéssim, abstinguéssiu, abstinguessin
- IMPERATIU: abstén, abstingui, abstinguem, absteniu, abstinguin
- IMPERATIU (alternatiu): abstingues, abstingui, abstinguem, abstingueu, abstinguin
- INFINITIU: abstindre
- GERUNDI: abstenint
- PARTICIPI: abstingut, abstinguda, abstinguts, abstingudes
- INDICATIU PRESENT: abstinc, abstens, absté, abstenim, absteniu, abstenen
- INDICATIU IMPERFET: abstenia, abstenies, abstenia, absteníem, absteníeu, abstenien
- INDICATIU PASSAT: abstinguí, abstingueres, abstingué, abstinguérem, abstinguéreu, abstingueren
- INDICATIU FUTUR: abstindré, abstindràs, abstindrà, abstindrem, abstindreu, abstindran
- INDICATIU CONDICIONAL: abstindria, abstindries, abstindria, abstindríem, abstindríeu, abstindrien
- SUBJUNTIU PRESENT: abstingui, abstinguis, abstingui, abstinguem, abstingueu, abstinguin
- SUBJUNTIU IMPERFET: abstingués, abstinguessis, abstingués, abstinguéssim, abstinguéssiu, abstinguessin
- IMPERATIU: abstén, abstingui, abstinguem, absteniu, abstinguin
- IMPERATIU (alternatiu): abstingues, abstingui, abstinguem, abstingueu, abstinguin
  INFINITIU: acomplir
  GERUNDI: acomplint
  PARTICIPI: acomplert, acomplerta, acomplerts, acomplertes
- PARTICIPI (alternatiu): acomplit, acomplida, acomplits, acomplides
  INDICATIU PRESENT: acompleixo, acompleixes, acompleix, acomplim, acompliu, acompleixen
  INDICATIU IMPERFET: acomplia, acomplies, acomplia, acomplíem, acomplíeu, acomplien
  INDICATIU PASSAT: acomplí, acomplires, acomplí, acomplírem, acomplíreu, acompliren
@@ -34,48 +9,6 @@
  SUBJUNTIU PRESENT: acompleixi, acompleixis, acompleixi, acomplim, acompliu, acompleixin
  SUBJUNTIU IMPERFET: acomplís, acomplissis, acomplís, acomplíssim, acomplíssiu, acomplissin
  IMPERATIU: acompleix, acompleixi, acomplim, acompliu, acompleixin
- INFINITIU: acórrer
- GERUNDI: acorrent
- PARTICIPI: acorregut, acorreguda, acorreguts, acorregudes
- INDICATIU PRESENT: acorro, acorres, acorre, acorrem, acorreu, acorren
- INDICATIU IMPERFET: acorria, acorries, acorria, acorríem, acorríeu, acorrien
- INDICATIU PASSAT: acorreguí, acorregueres, acorregué, acorreguérem, acorreguéreu, acorregueren
- INDICATIU FUTUR: acorreré, acorreràs, acorrerà, acorrerem, acorrereu, acorreran
- INDICATIU CONDICIONAL: acorreria, acorreries, acorreria, acorreríem, acorreríeu, acorrerien
- SUBJUNTIU PRESENT: acorri, acorris, acorri, acorrem, acorreu, acorrin
- SUBJUNTIU PRESENT (alternatiu): acorri, acorris, acorri, acorreguem, acorregueu, acorrin
- SUBJUNTIU IMPERFET: acorregués, acorreguessis, acorregués, acorreguéssim, acorreguéssiu, acorreguessin
- IMPERATIU: acorre, acorri, acorrem, acorreu, acorrin
- IMPERATIU (alternatiu): acorre, acorri, acorreguem, acorreu, acorrin
- INFINITIU: acréixer
- GERUNDI: acreixent
- PARTICIPI: acrescut, acrescuda, acrescuts, acrescudes
- INDICATIU PRESENT: acreixo, acreixes, acreix, acreixem, acreixeu, acreixen
- INDICATIU IMPERFET: acreixia, acreixies, acreixia, acreixíem, acreixíeu, acreixien
- INDICATIU PASSAT: acreixí, acreixeres, acreixé, acreixérem, acreixéreu, acreixeren
- INDICATIU PASSAT (alternatiu): acresquí, acresqueres, acresqué, acresquérem, acresquéreu, acresqueren
- INDICATIU FUTUR: acreixeré, acreixeràs, acreixerà, acreixerem, acreixereu, acreixeran
- INDICATIU CONDICIONAL: acreixeria, acreixeries, acreixeria, acreixeríem, acreixeríeu, acreixerien
- SUBJUNTIU PRESENT: acreixi, acreixis, acreixi, acreixem, acreixeu, acreixin
- SUBJUNTIU PRESENT (alternatiu): acreixi, acreixis, acreixi, acresquem, acresqueu, acreixin
- SUBJUNTIU IMPERFET: acreixés, acreixessis, acreixés, acreixéssim, acreixéssiu, acreixessin
- SUBJUNTIU IMPERFET (alternatiu): acresqués, acresquessis, acresqués, acresquéssim, acresquéssiu, acresquessin
- IMPERATIU: acreix, acreixi, acreixem, acreixeu, acreixin
- IMPERATIU (alternatiu): acreix, acreixi, acresquem, acreixeu, acreixin
- INFINITIU: acudir
- GERUNDI: acudint
- PARTICIPI: acudit, acudida, acudits, acudides
- INDICATIU PRESENT: acudeixo, acudeixes, acudeix, acudim, acudiu, acudeixen
- INDICATIU PRESENT (alternatiu): acudo, acuts, acut, acudim, acudiu, acuden
- INDICATIU IMPERFET: acudia, acudies, acudia, acudíem, acudíeu, acudien
- INDICATIU PASSAT: acudí, acudires, acudí, acudírem, acudíreu, acudiren
- INDICATIU FUTUR: acudiré, acudiràs, acudirà, acudirem, acudireu, acudiran
- INDICATIU CONDICIONAL: acudiria, acudiries, acudiria, acudiríem, acudiríeu, acudirien
- SUBJUNTIU PRESENT: acudeixi, acudeixis, acudeixi, acudim, acudiu, acudeixin
- SUBJUNTIU PRESENT (alternatiu): acudi, acudis, acudi, acudim, acudiu, acudin
- SUBJUNTIU IMPERFET: acudís, acudissis, acudís, acudíssim, acudíssiu, acudissin
- IMPERATIU: acudeix, acudeixi, acudim, acudiu, acudeixin
- IMPERATIU (alternatiu): acut, acudi, acudim, acudiu, acudin
  INFINITIU: adir
  GERUNDI: adient
  PARTICIPI: adit, adita, adits, adites
@@ -87,21 +20,7 @@
  SUBJUNTIU PRESENT: adigui, adiguis, adigui, adiguem, adigueu, adiguin
  SUBJUNTIU IMPERFET: adigués, adiguessis, adigués, adiguéssim, adiguéssiu, adiguessin
  IMPERATIU: adigues, adigui, adiguem, adigueu, adiguin
- IMPERATIU (alternatiu): adiu, adigui, adiguem, adieu, adiguin
- INFINITIU: adir
- GERUNDI: adient
- PARTICIPI: adit, adita, adits, adites
- INDICATIU PRESENT: adic, adius, adiu, adiem, adieu, adiuen
- INDICATIU IMPERFET: adeia, adeies, adeia, adèiem, adèieu, adeien
- INDICATIU PASSAT: adiguí, adigueres, adigué, adiguérem, adiguéreu, adigueren
- INDICATIU FUTUR: adiré, adiràs, adirà, adirem, adireu, adiran
- INDICATIU CONDICIONAL: adiria, adiries, adiria, adiríem, adiríeu, adirien
- SUBJUNTIU PRESENT: adigui, adiguis, adigui, adiguem, adigueu, adiguin
- SUBJUNTIU IMPERFET: adigués, adiguessis, adigués, adiguéssim, adiguéssiu, adiguessin
- IMPERATIU: adigues, adigui, adiguem, adigueu, adiguin
- IMPERATIU (alternatiu): adiu, adigui, adiguem, adieu, adiguin
  INFINITIU: cabre
- INFINITIU (alternatiu): caber
  GERUNDI: cabent
  PARTICIPI: cabut, cabuda, cabuts, cabudes
  INDICATIU PRESENT: cabo, caps, cap, cabem, cabeu, caben
@@ -113,7 +32,6 @@
  SUBJUNTIU IMPERFET: cabés, cabessis, cabés, cabéssim, cabéssiu, cabessin
  IMPERATIU: cap, càpiga, capiguem, cabeu, càpiguen
  INFINITIU: doldre
- INFINITIU (alternatiu): doler
  GERUNDI: dolent
  PARTICIPI: dolgut, dolguda, dolguts, dolgudes
  INDICATIU PRESENT: dolc, dols, dol, dolem, doleu, dolen
@@ -124,222 +42,53 @@
  SUBJUNTIU PRESENT: dolgui, dolguis, dolgui, dolguem, dolgueu, dolguin
  SUBJUNTIU IMPERFET: dolgués, dolguessis, dolgués, dolguéssim, dolguéssiu, dolguessin
  IMPERATIU: dol, dolgui, dolguem, doleu, dolguin
- INFINITIU: ésser
- INFINITIU (alternatiu): ser
- GERUNDI: essent
- GERUNDI (alternatiu): sent
- PARTICIPI: estat, estada, estats, estades
- PARTICIPI (alternatiu): sigut, siguda, siguts, sigudes
- PARTICIPI (alternatiu): set, seta, sets, setes
- INDICATIU PRESENT: sóc, ets, és, som, sou, són
- INDICATIU PRESENT (alternatiu): só, ets, és, som, sou, són
- INDICATIU IMPERFET: era, eres, era, érem, éreu, eren
- INDICATIU PASSAT: fui, fores, fou, fórem, fóreu, foren
- INDICATIU FUTUR: seré, seràs, serà, serem, sereu, seran
- INDICATIU CONDICIONAL: seria, series, seria, seríem, seríeu, serien
- INDICATIU CONDICIONAL (alternatiu): fóra, fores, fóra, fórem, fóreu, foren
- SUBJUNTIU PRESENT: sigui, siguis, sigui, siguem, sigueu, siguin
- SUBJUNTIU IMPERFET: fos, fossis, fos, fóssim, fóssiu, fossin
- IMPERATIU: sigues, sigui, siguem, sigueu, siguin
  INFINITIU: adscriure
  GERUNDI: adscrivint
  PARTICIPI: adscrit, adscrita, adscrits, adscrites
  INDICATIU PRESENT: adscric, adscrius, adscriu, adscrivim, adscriviu, adscriuen
  INDICATIU IMPERFET: adscrivia, adscrivies, adscrivia, adscrivíem, adscrivíeu, adscrivien
  INDICATIU PASSAT: adscriví, adscrivires, adscriví, adscrivírem, adscrivíreu, adscriviren
- INDICATIU PASSAT (alternatiu): adscriguí, adscrigueres, adscrigué, adscriguérem, adscriguéreu, adscrigueren
  INDICATIU FUTUR: adscriuré, adscriuràs, adscriurà, adscriurem, adscriureu, adscriuran
  INDICATIU CONDICIONAL: adscriuria, adscriuries, adscriuria, adscriuríem, adscriuríeu, adscriurien
  SUBJUNTIU PRESENT: adscrigui, adscriguis, adscrigui, adscriguem, adscrigueu, adscriguin
  SUBJUNTIU IMPERFET: adscrivís, adscrivissis, adscrivís, adscrivíssim, adscrivíssiu, adscrivissin
- SUBJUNTIU IMPERFET (alternatiu): adscrigués, adscriguessis, adscrigués, adscriguéssim, adscriguéssiu, adscriguessin
  IMPERATIU: adscriu, adscrigui, adscriguem, adscriviu, adscriguin
- INFINITIU: anar
- GERUNDI: anant
- PARTICIPI: anat, anada, anats, anades
- INDICATIU PRESENT: vaig, vas, va, anem, aneu, van
- INDICATIU IMPERFET: anava, anaves, anava, anàvem, anàveu, anaven
- INDICATIU PASSAT: aní, anares, anà, anàrem, anàreu, anaren
- INDICATIU FUTUR: aniré, aniràs, anirà, anirem, anireu, aniran
- INDICATIU FUTUR (alternatiu): iré, iràs, irà, irem, ireu, iran
- INDICATIU CONDICIONAL: aniria, aniries, aniria, aniríem, aniríeu, anirien
- INDICATIU CONDICIONAL (alternatiu): iria, iries, iria, iríem, iríeu, irien
- SUBJUNTIU PRESENT: vagi, vagis, vagi, anem, aneu, vagin
- SUBJUNTIU IMPERFET: anés, anessis, anés, anéssim, anéssiu, anessin
- IMPERATIU: vés, vagi, anem, aneu, vagin
- INFINITIU: aparèixer
- GERUNDI: apareixent
- PARTICIPI: aparegut, apareguda, apareguts, aparegudes
- INDICATIU PRESENT: aparec, apareixes, apareix, apareixem, apareixeu, apareixen
- INDICATIU PRESENT (alternatiu): apareixo, apareixes, apareix, apareixem, apareixeu, apareixen
- INDICATIU IMPERFET: apareixia, apareixies, apareixia, apareixíem, apareixíeu, apareixien
- INDICATIU PASSAT: apareguí, aparegueres, aparegué, apareguérem, apareguéreu, aparegueren
- INDICATIU FUTUR: apareixeré, apareixeràs, apareixerà, apareixerem, apareixereu, apareixeran
- INDICATIU CONDICIONAL: apareixeria, apareixeries, apareixeria, apareixeríem, apareixeríeu, apareixerien
- SUBJUNTIU PRESENT: aparegui, apareguis, aparegui, apareguem, aparegueu, apareguin
- SUBJUNTIU IMPERFET: aparegués, apareguessis, aparegués, apareguéssim, apareguéssiu, apareguessin
- IMPERATIU: apareix, aparegui, apareguem, apareixeu, apareguin
- INFINITIU: arrupir
- GERUNDI: arrupint
- PARTICIPI: arrupit, arrupida, arrupits, arrupides
- INDICATIU PRESENT: arrupeixo, arrupeixes, arrupeix, arrupim, arrupiu, arrupeixen
- INDICATIU PRESENT (alternatiu): arrupo, arrups, arrup, arrupim, arrupiu, arrupen
- INDICATIU IMPERFET: arrupia, arrupies, arrupia, arrupíem, arrupíeu, arrupien
- INDICATIU PASSAT: arrupí, arrupires, arrupí, arrupírem, arrupíreu, arrupiren
- INDICATIU FUTUR: arrupiré, arrupiràs, arrupirà, arrupirem, arrupireu, arrupiran
- INDICATIU CONDICIONAL: arrupiria, arrupiries, arrupiria, arrupiríem, arrupiríeu, arrupirien
- SUBJUNTIU PRESENT: arrupeixi, arrupeixis, arrupeixi, arrupim, arrupiu, arrupeixin
- SUBJUNTIU PRESENT (alternatiu): arrupi, arrupis, arrupi, arrupim, arrupiu, arrupin
- SUBJUNTIU IMPERFET: arrupís, arrupissis, arrupís, arrupíssim, arrupíssiu, arrupissin
- IMPERATIU: arrupeix, arrupeixi, arrupim, arrupiu, arrupeixin
- IMPERATIU (alternatiu): arrup, arrupi, arrupim, arrupiu, arrupin
- INFINITIU: atenir
- GERUNDI: atenint
- PARTICIPI: atingut, atinguda, atinguts, atingudes
- INDICATIU PRESENT: atinc, atens, até, atenim, ateniu, atenen
- INDICATIU IMPERFET: atenia, atenies, atenia, ateníem, ateníeu, atenien
- INDICATIU PASSAT: atinguí, atingueres, atingué, atinguérem, atinguéreu, atingueren
- INDICATIU FUTUR: atindré, atindràs, atindrà, atindrem, atindreu, atindran
- INDICATIU CONDICIONAL: atindria, atindries, atindria, atindríem, atindríeu, atindrien
- SUBJUNTIU PRESENT: atingui, atinguis, atingui, atinguem, atingueu, atinguin
- SUBJUNTIU IMPERFET: atingués, atinguessis, atingués, atinguéssim, atinguéssiu, atinguessin
- IMPERATIU: atén, atingui, atinguem, ateniu, atinguin
- IMPERATIU (alternatiu): atingues, atingui, atinguem, atingueu, atinguin
- INFINITIU: atindre
- GERUNDI: atenint
- PARTICIPI: atingut, atinguda, atinguts, atingudes
- INDICATIU PRESENT: atinc, atens, até, atenim, ateniu, atenen
- INDICATIU IMPERFET: atenia, atenies, atenia, ateníem, ateníeu, atenien
- INDICATIU PASSAT: atinguí, atingueres, atingué, atinguérem, atinguéreu, atingueren
- INDICATIU FUTUR: atindré, atindràs, atindrà, atindrem, atindreu, atindran
- INDICATIU CONDICIONAL: atindria, atindries, atindria, atindríem, atindríeu, atindrien
- SUBJUNTIU PRESENT: atingui, atinguis, atingui, atinguem, atingueu, atinguin
- SUBJUNTIU IMPERFET: atingués, atinguessis, atingués, atinguéssim, atinguéssiu, atinguessin
- IMPERATIU: atén, atingui, atinguem, ateniu, atinguin
- IMPERATIU (alternatiu): atingues, atingui, atinguem, atingueu, atinguin
  INFINITIU: benveure
  GERUNDI: benveient
  PARTICIPI: benvist, benvista, benvists, benvistes
- PARTICIPI (alternatiu): benvist, benvista, benvistos, benvistes
  INDICATIU PRESENT: benveig, benveus, benveu, benveiem, benveieu, benveuen
  INDICATIU IMPERFET: benveia, benveies, benveia, benvèiem, benvèieu, benveien
  INDICATIU PASSAT: benviu, benveieres, benveié, benveiérem, benveiéreu, benveieren
- INDICATIU PASSAT (alternatiu): benviu, benveres, benvéu, benvérem, benvéreu, benveren
  INDICATIU FUTUR: benveuré, benveuràs, benveurà, benveurem, benveureu, benveuran
  INDICATIU CONDICIONAL: benveuria, benveuries, benveuria, benveuríem, benveuríeu, benveurien
  SUBJUNTIU PRESENT: benvegi, benvegis, benvegi, benvegem, benvegeu, benvegin
  SUBJUNTIU IMPERFET: benveiés, benveiessis, benveiés, benveiéssim, benveiéssiu, benveiessin
  IMPERATIU: benveges, benvegi, benvegem, benvegeu, benvegin
- IMPERATIU (alternatiu): benves, benvegi, benvegem, benveieu, benvegin
- INFINITIU: brumir
- GERUNDI: brumint
- PARTICIPI: brumit, brumida, brumits, brumides
- INDICATIU PRESENT: brumeixo, brumeixes, brumeix, brumim, brumiu, brumeixen
- INDICATIU PRESENT (alternatiu): brumo, brums, brum, brumim, brumiu, brumen
- INDICATIU IMPERFET: brumia, brumies, brumia, brumíem, brumíeu, brumien
- INDICATIU PASSAT: brumí, brumires, brumí, brumírem, brumíreu, brumiren
- INDICATIU FUTUR: brumiré, brumiràs, brumirà, brumirem, brumireu, brumiran
- INDICATIU CONDICIONAL: brumiria, brumiries, brumiria, brumiríem, brumiríeu, brumirien
- SUBJUNTIU PRESENT: brumeixi, brumeixis, brumeixi, brumim, brumiu, brumeixin
- SUBJUNTIU PRESENT (alternatiu): brumi, brumis, brumi, brumim, brumiu, brumin
- SUBJUNTIU IMPERFET: brumís, brumissis, brumís, brumíssim, brumíssiu, brumissin
- IMPERATIU: brumeix, brumeixi, brumim, brumiu, brumeixin
- IMPERATIU (alternatiu): brum, brumi, brumim, brumiu, brumin
- INFINITIU: brunzir
- GERUNDI: brunzint
- PARTICIPI: brunzit, brunzida, brunzits, brunzides
- INDICATIU PRESENT: brunzo, brunzes, brunz, brunzim, brunziu, brunzen
- INDICATIU PRESENT (alternatiu): brunzeixo, brunzeixes, brunzeix, brunzim, brunziu, brunzeixen
- INDICATIU IMPERFET: brunzia, brunzies, brunzia, brunzíem, brunzíeu, brunzien
- INDICATIU PASSAT: brunzí, brunzires, brunzí, brunzírem, brunzíreu, brunziren
- INDICATIU FUTUR: brunziré, brunziràs, brunzirà, brunzirem, brunzireu, brunziran
- INDICATIU CONDICIONAL: brunziria, brunziries, brunziria, brunziríem, brunziríeu, brunzirien
- SUBJUNTIU PRESENT: brunzi, brunzis, brunzi, brunzim, brunziu, brunzin
- SUBJUNTIU PRESENT (alternatiu): brunzeixi, brunzeixis, brunzeixi, brunzim, brunziu, brunzeixin
- SUBJUNTIU IMPERFET: brunzís, brunzissis, brunzís, brunzíssim, brunzíssiu, brunzissin
- IMPERATIU: brunz, brunzi, brunzim, brunziu, brunzin
- IMPERATIU (alternatiu): brunzeix, brunzeixi, brunzim, brunziu, brunzeixin
- INFINITIU: captenir
- GERUNDI: captenint
- PARTICIPI: captingut, captinguda, captinguts, captingudes
- INDICATIU PRESENT: captinc, captens, capté, captenim, capteniu, captenen
- INDICATIU IMPERFET: captenia, captenies, captenia, capteníem, capteníeu, captenien
- INDICATIU PASSAT: captinguí, captingueres, captingué, captinguérem, captinguéreu, captingueren
- INDICATIU FUTUR: captindré, captindràs, captindrà, captindrem, captindreu, captindran
- INDICATIU CONDICIONAL: captindria, captindries, captindria, captindríem, captindríeu, captindrien
- SUBJUNTIU PRESENT: captingui, captinguis, captingui, captinguem, captingueu, captinguin
- SUBJUNTIU IMPERFET: captingués, captinguessis, captingués, captinguéssim, captinguéssiu, captinguessin
- IMPERATIU: captén, captingui, captinguem, capteniu, captinguin
- IMPERATIU (alternatiu): captingues, captingui, captinguem, captingueu, captinguin
- INFINITIU: captindre
- GERUNDI: captenint
- PARTICIPI: captingut, captinguda, captinguts, captingudes
- INDICATIU PRESENT: captinc, captens, capté, captenim, capteniu, captenen
- INDICATIU IMPERFET: captenia, captenies, captenia, capteníem, capteníeu, captenien
- INDICATIU PASSAT: captinguí, captingueres, captingué, captinguérem, captinguéreu, captingueren
- INDICATIU FUTUR: captindré, captindràs, captindrà, captindrem, captindreu, captindran
- INDICATIU CONDICIONAL: captindria, captindries, captindria, captindríem, captindríeu, captindrien
- SUBJUNTIU PRESENT: captingui, captinguis, captingui, captinguem, captingueu, captinguin
- SUBJUNTIU IMPERFET: captingués, captinguessis, captingués, captinguéssim, captinguéssiu, captinguessin
- IMPERATIU: captén, captingui, captinguem, capteniu, captinguin
- IMPERATIU (alternatiu): captingues, captingui, captinguem, captingueu, captinguin
- INFINITIU: captindre
- GERUNDI: captenint
- PARTICIPI: captingut, captinguda, captinguts, captingudes
- INDICATIU PRESENT: captinc, captens, capté, captenim, capteniu, captenen
- INDICATIU IMPERFET: captenia, captenies, captenia, capteníem, capteníeu, captenien
- INDICATIU PASSAT: captinguí, captingueres, captingué, captinguérem, captinguéreu, captingueren
- INDICATIU FUTUR: captindré, captindràs, captindrà, captindrem, captindreu, captindran
- INDICATIU CONDICIONAL: captindria, captindries, captindria, captindríem, captindríeu, captindrien
- SUBJUNTIU PRESENT: captingui, captinguis, captingui, captinguem, captingueu, captinguin
- SUBJUNTIU IMPERFET: captingués, captinguessis, captingués, captinguéssim, captinguéssiu, captinguessin
- IMPERATIU: captén, captingui, captinguem, capteniu, captinguin
- IMPERATIU (alternatiu): captingues, captingui, captinguem, captingueu, captinguin
  INFINITIU: circumscriure
  GERUNDI: circumscrivint
  PARTICIPI: circumscrit, circumscrita, circumscrits, circumscrites
  INDICATIU PRESENT: circumscric, circumscrius, circumscriu, circumscrivim, circumscriviu, circumscriuen
  INDICATIU IMPERFET: circumscrivia, circumscrivies, circumscrivia, circumscrivíem, circumscrivíeu, circumscrivien
  INDICATIU PASSAT: circumscriví, circumscrivires, circumscriví, circumscrivírem, circumscrivíreu, circumscriviren
- INDICATIU PASSAT (alternatiu): circumscriguí, circumscrigueres, circumscrigué, circumscriguérem, circumscriguéreu, circumscrigueren
  INDICATIU FUTUR: circumscriuré, circumscriuràs, circumscriurà, circumscriurem, circumscriureu, circumscriuran
  INDICATIU CONDICIONAL: circumscriuria, circumscriuries, circumscriuria, circumscriuríem, circumscriuríeu, circumscriurien
  SUBJUNTIU PRESENT: circumscrigui, circumscriguis, circumscrigui, circumscriguem, circumscrigueu, circumscriguin
  SUBJUNTIU IMPERFET: circumscrivís, circumscrivissis, circumscrivís, circumscrivíssim, circumscrivíssiu, circumscrivissin
- SUBJUNTIU IMPERFET (alternatiu): circumscrigués, circumscriguessis, circumscrigués, circumscriguéssim, circumscriguéssiu, circumscriguessin
  IMPERATIU: circumscriu, circumscrigui, circumscriguem, circumscriviu, circumscriguin
- INFINITIU: comparèixer
- GERUNDI: compareixent
- PARTICIPI: comparegut, compareguda, compareguts, comparegudes
- INDICATIU PRESENT: comparec, compareixes, compareix, compareixem, compareixeu, compareixen
- INDICATIU PRESENT (alternatiu): compareixo, compareixes, compareix, compareixem, compareixeu, compareixen
- INDICATIU IMPERFET: compareixia, compareixies, compareixia, compareixíem, compareixíeu, compareixien
- INDICATIU PASSAT: compareguí, comparegueres, comparegué, compareguérem, compareguéreu, comparegueren
- INDICATIU FUTUR: compareixeré, compareixeràs, compareixerà, compareixerem, compareixereu, compareixeran
- INDICATIU CONDICIONAL: compareixeria, compareixeries, compareixeria, compareixeríem, compareixeríeu, compareixerien
- SUBJUNTIU PRESENT: comparegui, compareguis, comparegui, compareguem, comparegueu, compareguin
- SUBJUNTIU IMPERFET: comparegués, compareguessis, comparegués, compareguéssim, compareguéssiu, compareguessin
- IMPERATIU: compareix, comparegui, compareguem, compareixeu, compareguin
  INFINITIU: complànyer
  GERUNDI: complanyent
- PARTICIPI: complangut, complanguda, complanguts, complangudes
- PARTICIPI (alternatiu): complanyut, complanyuda, complanyuts, complanyudes
+ PARTICIPI: complanyut, complanyuda, complanyuts, complanyudes
  INDICATIU PRESENT: complanyo, complanys, complany, complanyem, complanyeu, complanyen
  INDICATIU IMPERFET: complanyia, complanyies, complanyia, complanyíem, complanyíeu, complanyien
  INDICATIU PASSAT: complanyí, complanyeres, complanyé, complanyérem, complanyéreu, complanyeren
- INDICATIU PASSAT (alternatiu): complanguí, complangueres, complangué, complanguérem, complanguéreu, complangueren
  INDICATIU FUTUR: complanyeré, complanyeràs, complanyerà, complanyerem, complanyereu, complanyeran
  INDICATIU CONDICIONAL: complanyeria, complanyeries, complanyeria, complanyeríem, complanyeríeu, complanyerien
  SUBJUNTIU PRESENT: complanyi, complanyis, complanyi, complanyem, complanyeu, complanyin
- SUBJUNTIU PRESENT (alternatiu): complangui, complanguis, complangui, complanguem, complangueu, complanguin
  SUBJUNTIU IMPERFET: complanyés, complanyessis, complanyés, complanyéssim, complanyéssiu, complanyessin
- SUBJUNTIU IMPERFET (alternatiu): complangués, complanguessis, complangués, complanguéssim, complanguéssiu, complanguessin
  IMPERATIU: complany, complanyi, complanyem, complanyeu, complanyin
- IMPERATIU (alternatiu): complany, complangui, complanguem, complanyeu, complanguin
  INFINITIU: complir
  GERUNDI: complint
  PARTICIPI: complert, complerta, complerts, complertes
- PARTICIPI (alternatiu): complit, complida, complits, complides
  INDICATIU PRESENT: compleixo, compleixes, compleix, complim, compliu, compleixen
  INDICATIU IMPERFET: complia, complies, complia, complíem, complíeu, complien
  INDICATIU PASSAT: complí, complires, complí, complírem, complíreu, compliren
@@ -350,8 +99,7 @@
  IMPERATIU: compleix, compleixi, complim, compliu, compleixin
  INFINITIU: compondre
  GERUNDI: component
- PARTICIPI: compost, composta, composts, compostes
- PARTICIPI (alternatiu): compost, composta, compostos, compostes
+ PARTICIPI: compost, composta, compostos, compostes
  INDICATIU PRESENT: componc, compons, compon, componem, componeu, componen
  INDICATIU IMPERFET: componia, componies, componia, componíem, componíeu, componien
  INDICATIU PASSAT: componguí, compongueres, compongué, componguérem, componguéreu, compongueren
@@ -360,57 +108,6 @@
  SUBJUNTIU PRESENT: compongui, componguis, compongui, componguem, compongueu, componguin
  SUBJUNTIU IMPERFET: compongués, componguessis, compongués, componguéssim, componguéssiu, componguessin
  IMPERATIU: compon, compongui, componguem, componeu, componguin
- INFINITIU: concórrer
- GERUNDI: concorrent
- PARTICIPI: concorregut, concorreguda, concorreguts, concorregudes
- INDICATIU PRESENT: concorro, concorres, concorre, concorrem, concorreu, concorren
- INDICATIU IMPERFET: concorria, concorries, concorria, concorríem, concorríeu, concorrien
- INDICATIU PASSAT: concorreguí, concorregueres, concorregué, concorreguérem, concorreguéreu, concorregueren
- INDICATIU FUTUR: concorreré, concorreràs, concorrerà, concorrerem, concorrereu, concorreran
- INDICATIU CONDICIONAL: concorreria, concorreries, concorreria, concorreríem, concorreríeu, concorrerien
- SUBJUNTIU PRESENT: concorri, concorris, concorri, concorrem, concorreu, concorrin
- SUBJUNTIU PRESENT (alternatiu): concorri, concorris, concorri, concorreguem, concorregueu, concorrin
- SUBJUNTIU IMPERFET: concorregués, concorreguessis, concorregués, concorreguéssim, concorreguéssiu, concorreguessin
- IMPERATIU: concorre, concorri, concorrem, concorreu, concorrin
- IMPERATIU (alternatiu): concorre, concorri, concorreguem, concorreu, concorrin
- INFINITIU: consumir
- GERUNDI: consumint
- PARTICIPI: consumit, consumida, consumits, consumides
- INDICATIU PRESENT: consumeixo, consumeixes, consumeix, consumim, consumiu, consumeixen
- INDICATIU PRESENT (alternatiu): consumo, consums, consum, consumim, consumiu, consumen
- INDICATIU IMPERFET: consumia, consumies, consumia, consumíem, consumíeu, consumien
- INDICATIU PASSAT: consumí, consumires, consumí, consumírem, consumíreu, consumiren
- INDICATIU FUTUR: consumiré, consumiràs, consumirà, consumirem, consumireu, consumiran
- INDICATIU CONDICIONAL: consumiria, consumiries, consumiria, consumiríem, consumiríeu, consumirien
- SUBJUNTIU PRESENT: consumeixi, consumeixis, consumeixi, consumim, consumiu, consumeixin
- SUBJUNTIU PRESENT (alternatiu): consumi, consumis, consumi, consumim, consumiu, consumin
- SUBJUNTIU IMPERFET: consumís, consumissis, consumís, consumíssim, consumíssiu, consumissin
- IMPERATIU: consumeix, consumeixi, consumim, consumiu, consumeixin
- IMPERATIU (alternatiu): consum, consumi, consumim, consumiu, consumin
- INFINITIU: contenir
- GERUNDI: contenint
- PARTICIPI: contingut, continguda, continguts, contingudes
- INDICATIU PRESENT: continc, contens, conté, contenim, conteniu, contenen
- INDICATIU IMPERFET: contenia, contenies, contenia, conteníem, conteníeu, contenien
- INDICATIU PASSAT: continguí, contingueres, contingué, continguérem, continguéreu, contingueren
- INDICATIU FUTUR: contindré, contindràs, contindrà, contindrem, contindreu, contindran
- INDICATIU CONDICIONAL: contindria, contindries, contindria, contindríem, contindríeu, contindrien
- SUBJUNTIU PRESENT: contingui, continguis, contingui, continguem, contingueu, continguin
- SUBJUNTIU IMPERFET: contingués, continguessis, contingués, continguéssim, continguéssiu, continguessin
- IMPERATIU: contén, contingui, continguem, conteniu, continguin
- IMPERATIU (alternatiu): contingues, contingui, continguem, contingueu, continguin
- INFINITIU: contindre
- GERUNDI: contenint
- PARTICIPI: contingut, continguda, continguts, contingudes
- INDICATIU PRESENT: continc, contens, conté, contenim, conteniu, contenen
- INDICATIU IMPERFET: contenia, contenies, contenia, conteníem, conteníeu, contenien
- INDICATIU PASSAT: continguí, contingueres, contingué, continguérem, continguéreu, contingueren
- INDICATIU FUTUR: contindré, contindràs, contindrà, contindrem, contindreu, contindran
- INDICATIU CONDICIONAL: contindria, contindries, contindria, contindríem, contindríeu, contindrien
- SUBJUNTIU PRESENT: contingui, continguis, contingui, continguem, contingueu, continguin
- SUBJUNTIU IMPERFET: contingués, continguessis, contingués, continguéssim, continguéssiu, continguessin
- IMPERATIU: contén, contingui, continguem, conteniu, continguin
- IMPERATIU (alternatiu): contingues, contingui, continguem, contingueu, continguin
  INFINITIU: contradir
  GERUNDI: contradient
  PARTICIPI: contradit, contradita, contradits, contradites
@@ -422,7 +119,6 @@
  SUBJUNTIU PRESENT: contradigui, contradiguis, contradigui, contradiguem, contradigueu, contradiguin
  SUBJUNTIU IMPERFET: contradigués, contradiguessis, contradigués, contradiguéssim, contradiguéssiu, contradiguessin
  IMPERATIU: contradigues, contradigui, contradiguem, contradigueu, contradiguin
- IMPERATIU (alternatiu): contradiu, contradigui, contradiguem, contradieu, contradiguin
  INFINITIU: contrafer
  GERUNDI: contrafent
  PARTICIPI: contrafet, contrafeta, contrafets, contrafetes
@@ -432,10 +128,8 @@
  INDICATIU FUTUR: contrafaré, contrafaràs, contrafarà, contrafarem, contrafareu, contrafaran
  INDICATIU CONDICIONAL: contrafaria, contrafaries, contrafaria, contrafaríem, contrafaríeu, contrafarien
  SUBJUNTIU PRESENT: contrafaci, contrafacis, contrafaci, contrafem, contrafeu, contrafacin
- SUBJUNTIU PRESENT (alternatiu): contrafaci, contrafacis, contrafaci, contrafacem, contrafaceu, contrafacin
  SUBJUNTIU IMPERFET: contrafés, contrafessis, contrafés, contraféssim, contraféssiu, contrafessin
  IMPERATIU: contrafés, contrafaci, contrafem, contrafeu, contrafacin
- IMPERATIU (alternatiu): contrafés, contrafaci, contrafacem, contrafeu, contrafacin
  INFINITIU: córrer
  GERUNDI: corrent
  PARTICIPI: corregut, correguda, correguts, corregudes
@@ -445,14 +139,11 @@
  INDICATIU FUTUR: correré, correràs, correrà, correrem, correreu, correran
  INDICATIU CONDICIONAL: correria, correries, correria, correríem, correríeu, correrien
  SUBJUNTIU PRESENT: corri, corris, corri, correm, correu, corrin
- SUBJUNTIU PRESENT (alternatiu): corri, corris, corri, correguem, corregueu, corrin
  SUBJUNTIU IMPERFET: corregués, correguessis, corregués, correguéssim, correguéssiu, correguessin
  IMPERATIU: corre, corri, correm, correu, corrin
- IMPERATIU (alternatiu): corre, corri, correguem, correu, corrin
  INFINITIU: correspondre
  GERUNDI: corresponent
- PARTICIPI: correspost, corresposta, corresposts, correspostes
- PARTICIPI (alternatiu): correspost, corresposta, correspostos, correspostes
+ PARTICIPI: correspost, corresposta, correspostos, correspostes
  INDICATIU PRESENT: corresponc, correspons, correspon, corresponem, corresponeu, corresponen
  INDICATIU IMPERFET: corresponia, corresponies, corresponia, corresponíem, corresponíeu, corresponien
  INDICATIU PASSAT: corresponguí, correspongueres, correspongué, corresponguérem, corresponguéreu, correspongueren
@@ -479,59 +170,25 @@
  INDICATIU PRESENT: creixo, creixes, creix, creixem, creixeu, creixen
  INDICATIU IMPERFET: creixia, creixies, creixia, creixíem, creixíeu, creixien
  INDICATIU PASSAT: creixí, creixeres, creixé, creixérem, creixéreu, creixeren
- INDICATIU PASSAT (alternatiu): cresquí, cresqueres, cresqué, cresquérem, cresquéreu, cresqueren
  INDICATIU FUTUR: creixeré, creixeràs, creixerà, creixerem, creixereu, creixeran
  INDICATIU CONDICIONAL: creixeria, creixeries, creixeria, creixeríem, creixeríeu, creixerien
  SUBJUNTIU PRESENT: creixi, creixis, creixi, creixem, creixeu, creixin
- SUBJUNTIU PRESENT (alternatiu): creixi, creixis, creixi, cresquem, cresqueu, creixin
  SUBJUNTIU IMPERFET: creixés, creixessis, creixés, creixéssim, creixéssiu, creixessin
- SUBJUNTIU IMPERFET (alternatiu): cresqués, cresquessis, cresqués, cresquéssim, cresquéssiu, cresquessin
  IMPERATIU: creix, creixi, creixem, creixeu, creixin
- IMPERATIU (alternatiu): creix, creixi, cresquem, creixeu, creixin
- INFINITIU: decórrer
- GERUNDI: decorrent
- PARTICIPI: decorregut, decorreguda, decorreguts, decorregudes
- INDICATIU PRESENT: decorro, decorres, decorre, decorrem, decorreu, decorren
- INDICATIU IMPERFET: decorria, decorries, decorria, decorríem, decorríeu, decorrien
- INDICATIU PASSAT: decorreguí, decorregueres, decorregué, decorreguérem, decorreguéreu, decorregueren
- INDICATIU FUTUR: decorreré, decorreràs, decorrerà, decorrerem, decorrereu, decorreran
- INDICATIU CONDICIONAL: decorreria, decorreries, decorreria, decorreríem, decorreríeu, decorrerien
- SUBJUNTIU PRESENT: decorri, decorris, decorri, decorrem, decorreu, decorrin
- SUBJUNTIU PRESENT (alternatiu): decorri, decorris, decorri, decorreguem, decorregueu, decorrin
- SUBJUNTIU IMPERFET: decorregués, decorreguessis, decorregués, decorreguéssim, decorreguéssiu, decorreguessin
- IMPERATIU: decorre, decorri, decorrem, decorreu, decorrin
- IMPERATIU (alternatiu): decorre, decorri, decorreguem, decorreu, decorrin
  INFINITIU: decréixer
  GERUNDI: decreixent
  PARTICIPI: decrescut, decrescuda, decrescuts, decrescudes
  INDICATIU PRESENT: decreixo, decreixes, decreix, decreixem, decreixeu, decreixen
  INDICATIU IMPERFET: decreixia, decreixies, decreixia, decreixíem, decreixíeu, decreixien
  INDICATIU PASSAT: decreixí, decreixeres, decreixé, decreixérem, decreixéreu, decreixeren
- INDICATIU PASSAT (alternatiu): decresquí, decresqueres, decresqué, decresquérem, decresquéreu, decresqueren
  INDICATIU FUTUR: decreixeré, decreixeràs, decreixerà, decreixerem, decreixereu, decreixeran
  INDICATIU CONDICIONAL: decreixeria, decreixeries, decreixeria, decreixeríem, decreixeríeu, decreixerien
  SUBJUNTIU PRESENT: decreixi, decreixis, decreixi, decreixem, decreixeu, decreixin
- SUBJUNTIU PRESENT (alternatiu): decreixi, decreixis, decreixi, decresquem, decresqueu, decreixin
  SUBJUNTIU IMPERFET: decreixés, decreixessis, decreixés, decreixéssim, decreixéssiu, decreixessin
- SUBJUNTIU IMPERFET (alternatiu): decresqués, decresquessis, decresqués, decresquéssim, decresquéssiu, decresquessin
  IMPERATIU: decreix, decreixi, decreixem, decreixeu, decreixin
- IMPERATIU (alternatiu): decreix, decreixi, decresquem, decreixeu, decreixin
- INFINITIU: desaparèixer
- GERUNDI: desapareixent
- PARTICIPI: desaparegut, desapareguda, desapareguts, desaparegudes
- INDICATIU PRESENT: desaparec, desapareixes, desapareix, desapareixem, desapareixeu, desapareixen
- INDICATIU PRESENT (alternatiu): desapareixo, desapareixes, desapareix, desapareixem, desapareixeu, desapareixen
- INDICATIU IMPERFET: desapareixia, desapareixies, desapareixia, desapareixíem, desapareixíeu, desapareixien
- INDICATIU PASSAT: desapareguí, desaparegueres, desaparegué, desapareguérem, desapareguéreu, desaparegueren
- INDICATIU FUTUR: desapareixeré, desapareixeràs, desapareixerà, desapareixerem, desapareixereu, desapareixeran
- INDICATIU CONDICIONAL: desapareixeria, desapareixeries, desapareixeria, desapareixeríem, desapareixeríeu, desapareixerien
- SUBJUNTIU PRESENT: desaparegui, desapareguis, desaparegui, desapareguem, desaparegueu, desapareguin
- SUBJUNTIU IMPERFET: desaparegués, desapareguessis, desaparegués, desapareguéssim, desapareguéssiu, desapareguessin
- IMPERATIU: desapareix, desaparegui, desapareguem, desapareixeu, desapareguin
  INFINITIU: descompondre
  GERUNDI: descomponent
- PARTICIPI: descompost, descomposta, descomposts, descompostes
- PARTICIPI (alternatiu): descompost, descomposta, descompostos, descompostes
+ PARTICIPI: descompost, descomposta, descompostos, descompostes
  INDICATIU PRESENT: descomponc, descompons, descompon, descomponem, descomponeu, descomponen
  INDICATIU IMPERFET: descomponia, descomponies, descomponia, descomponíem, descomponíeu, descomponien
  INDICATIU PASSAT: descomponguí, descompongueres, descompongué, descomponguérem, descomponguéreu, descompongueren
@@ -540,31 +197,16 @@
  SUBJUNTIU PRESENT: descompongui, descomponguis, descompongui, descomponguem, descompongueu, descomponguin
  SUBJUNTIU IMPERFET: descompongués, descomponguessis, descompongués, descomponguéssim, descomponguéssiu, descomponguessin
  IMPERATIU: descompon, descompongui, descomponguem, descomponeu, descomponguin
- INFINITIU: descórrer
- GERUNDI: descorrent
- PARTICIPI: descorregut, descorreguda, descorreguts, descorregudes
- INDICATIU PRESENT: descorro, descorres, descorre, descorrem, descorreu, descorren
- INDICATIU IMPERFET: descorria, descorries, descorria, descorríem, descorríeu, descorrien
- INDICATIU PASSAT: descorreguí, descorregueres, descorregué, descorreguérem, descorreguéreu, descorregueren
- INDICATIU FUTUR: descorreré, descorreràs, descorrerà, descorrerem, descorrereu, descorreran
- INDICATIU CONDICIONAL: descorreria, descorreries, descorreria, descorreríem, descorreríeu, descorrerien
- SUBJUNTIU PRESENT: descorri, descorris, descorri, descorrem, descorreu, descorrin
- SUBJUNTIU PRESENT (alternatiu): descorri, descorris, descorri, descorreguem, descorregueu, descorrin
- SUBJUNTIU IMPERFET: descorregués, descorreguessis, descorregués, descorreguéssim, descorreguéssiu, descorreguessin
- IMPERATIU: descorre, descorri, descorrem, descorreu, descorrin
- IMPERATIU (alternatiu): descorre, descorri, descorreguem, descorreu, descorrin
  INFINITIU: descriure
  GERUNDI: descrivint
  PARTICIPI: descrit, descrita, descrits, descrites
  INDICATIU PRESENT: descric, descrius, descriu, descrivim, descriviu, descriuen
  INDICATIU IMPERFET: descrivia, descrivies, descrivia, descrivíem, descrivíeu, descrivien
  INDICATIU PASSAT: descriví, descrivires, descriví, descrivírem, descrivíreu, descriviren
- INDICATIU PASSAT (alternatiu): descriguí, descrigueres, descrigué, descriguérem, descriguéreu, descrigueren
  INDICATIU FUTUR: descriuré, descriuràs, descriurà, descriurem, descriureu, descriuran
  INDICATIU CONDICIONAL: descriuria, descriuries, descriuria, descriuríem, descriuríeu, descriurien
  SUBJUNTIU PRESENT: descrigui, descriguis, descrigui, descriguem, descrigueu, descriguin
  SUBJUNTIU IMPERFET: descrivís, descrivissis, descrivís, descrivíssim, descrivíssiu, descrivissin
- SUBJUNTIU IMPERFET (alternatiu): descrigués, descriguessis, descrigués, descriguéssim, descriguéssiu, descriguessin
  IMPERATIU: descriu, descrigui, descriguem, descriviu, descriguin
  INFINITIU: desdir
  GERUNDI: desdient
@@ -577,7 +219,6 @@
  SUBJUNTIU PRESENT: desdigui, desdiguis, desdigui, desdiguem, desdigueu, desdiguin
  SUBJUNTIU IMPERFET: desdigués, desdiguessis, desdigués, desdiguéssim, desdiguéssiu, desdiguessin
  IMPERATIU: desdigues, desdigui, desdiguem, desdigueu, desdiguin
- IMPERATIU (alternatiu): desdiu, desdigui, desdiguem, desdieu, desdiguin
  INFINITIU: desfer
  GERUNDI: desfent
  PARTICIPI: desfet, desfeta, desfets, desfetes
@@ -587,44 +228,23 @@
  INDICATIU FUTUR: desfaré, desfaràs, desfarà, desfarem, desfareu, desfaran
  INDICATIU CONDICIONAL: desfaria, desfaries, desfaria, desfaríem, desfaríeu, desfarien
  SUBJUNTIU PRESENT: desfaci, desfacis, desfaci, desfem, desfeu, desfacin
- SUBJUNTIU PRESENT (alternatiu): desfaci, desfacis, desfaci, desfacem, desfaceu, desfacin
  SUBJUNTIU IMPERFET: desfés, desfessis, desfés, desféssim, desféssiu, desfessin
  IMPERATIU: desfés, desfaci, desfem, desfeu, desfacin
- IMPERATIU (alternatiu): desfés, desfaci, desfacem, desfeu, desfacin
- INFINITIU: desmentir
- GERUNDI: desmentint
- PARTICIPI: desmentit, desmentida, desmentits, desmentides
- INDICATIU PRESENT: desmento, desments, desment, desmentim, desmentiu, desmenten
- INDICATIU PRESENT (alternatiu): desmenteixo, desmenteixes, desmenteix, desmentim, desmentiu, desmenteixen
- INDICATIU IMPERFET: desmentia, desmenties, desmentia, desmentíem, desmentíeu, desmentien
- INDICATIU PASSAT: desmentí, desmentires, desmentí, desmentírem, desmentíreu, desmentiren
- INDICATIU FUTUR: desmentiré, desmentiràs, desmentirà, desmentirem, desmentireu, desmentiran
- INDICATIU CONDICIONAL: desmentiria, desmentiries, desmentiria, desmentiríem, desmentiríeu, desmentirien
- SUBJUNTIU PRESENT: desmenti, desmentis, desmenti, desmentim, desmentiu, desmentin
- SUBJUNTIU PRESENT (alternatiu): desmenteixi, desmenteixis, desmenteixi, desmentim, desmentiu, desmenteixin
- SUBJUNTIU IMPERFET: desmentís, desmentissis, desmentís, desmentíssim, desmentíssiu, desmentissin
- IMPERATIU: desment, desmenti, desmentim, desmentiu, desmentin
- IMPERATIU (alternatiu): desmenteix, desmenteixi, desmentim, desmentiu, desmenteixin
  INFINITIU: desmerèixer
  GERUNDI: desmereixent
  PARTICIPI: desmerescut, desmerescuda, desmerescuts, desmerescudes
  INDICATIU PRESENT: desmereixo, desmereixes, desmereix, desmereixem, desmereixeu, desmereixen
  INDICATIU IMPERFET: desmereixia, desmereixies, desmereixia, desmereixíem, desmereixíeu, desmereixien
  INDICATIU PASSAT: desmereixí, desmereixeres, desmereixé, desmereixérem, desmereixéreu, desmereixeren
- INDICATIU PASSAT (alternatiu): desmeresquí, desmeresqueres, desmeresqué, desmeresquérem, desmeresquéreu, desmeresqueren
  INDICATIU FUTUR: desmereixeré, desmereixeràs, desmereixerà, desmereixerem, desmereixereu, desmereixeran
  INDICATIU CONDICIONAL: desmereixeria, desmereixeries, desmereixeria, desmereixeríem, desmereixeríeu, desmereixerien
  SUBJUNTIU PRESENT: desmereixi, desmereixis, desmereixi, desmereixem, desmereixeu, desmereixin
- SUBJUNTIU PRESENT (alternatiu): desmereixi, desmereixis, desmereixi, desmeresquem, desmeresqueu, desmereixin
  SUBJUNTIU IMPERFET: desmereixés, desmereixessis, desmereixés, desmereixéssim, desmereixéssiu, desmereixessin
- SUBJUNTIU IMPERFET (alternatiu): desmeresqués, desmeresquessis, desmeresqués, desmeresquéssim, desmeresquéssiu, desmeresquessin
  IMPERATIU: desmereix, desmereixi, desmereixem, desmereixeu, desmereixen
- IMPERATIU (alternatiu): desmereix, desmereixi, desmeresquem, desmereixeu, desmereixen
  INFINITIU: desoir
  GERUNDI: desoint
  PARTICIPI: desoït, desoïda, desoïts, desoïdes
  INDICATIU PRESENT: desoeixo, desoeixes, desoeix, desoïm, desoïu, desoeixen
- INDICATIU PRESENT (alternatiu): desoeixo, desous, desou, desoïm, desoïu, desouen
  INDICATIU IMPERFET: desoïa, desoïes, desoïa, desoíem, desoíeu, desoïen
  INDICATIU PASSAT: desoí, desoïres, desoí, desoírem, desoíreu, desoïren
  INDICATIU FUTUR: desoiré, desoiràs, desoirà, desoirem, desoireu, desoiran
@@ -632,11 +252,9 @@
  SUBJUNTIU PRESENT: desoeixi, desoeixis, desoeixi, desoïm, desoïu, desoeixin
  SUBJUNTIU IMPERFET: desoís, desoïssis, desoís, desoíssim, desoíssiu, desoïssin
  IMPERATIU: desoeix, desoeixi, desoïm, desoïu, desoeixin
- IMPERATIU (alternatiu): desou, desoeixi, desoïm, desoïu, desoeixin
  INFINITIU: desomplir
  GERUNDI: desomplint
  PARTICIPI: desomplert, desomplerta, desomplerts, desomplertes
- PARTICIPI (alternatiu): desomplit, desomplida, desomplits, desomplides
  INDICATIU PRESENT: desomplo, desomples, desomple, desomplim, desompliu, desomplen
  INDICATIU IMPERFET: desomplia, desomplies, desomplia, desomplíem, desomplíeu, desomplien
  INDICATIU PASSAT: desomplí, desomplires, desomplí, desomplírem, desomplíreu, desompliren
@@ -647,8 +265,7 @@
  IMPERATIU: desomple, desompli, desomplim, desompliu, desomplin
  INFINITIU: despondre
  GERUNDI: desponent
- PARTICIPI: despost, desposta, desposts, despostes
- PARTICIPI (alternatiu): despost, desposta, despostos, despostes
+ PARTICIPI: despost, desposta, despostos, despostes
  INDICATIU PRESENT: desponc, despons, despon, desponem, desponeu, desponen
  INDICATIU IMPERFET: desponia, desponies, desponia, desponíem, desponíeu, desponien
  INDICATIU PASSAT: desponguí, despongueres, despongué, desponguérem, desponguéreu, despongueren
@@ -657,48 +274,10 @@
  SUBJUNTIU PRESENT: despongui, desponguis, despongui, desponguem, despongueu, desponguin
  SUBJUNTIU IMPERFET: despongués, desponguessis, despongués, desponguéssim, desponguéssiu, desponguessin
  IMPERATIU: despon, despongui, desponguem, desponeu, desponguin
- INFINITIU: detenir
- GERUNDI: detenint
- PARTICIPI: detingut, detinguda, detinguts, detingudes
- INDICATIU PRESENT: detinc, detens, deté, detenim, deteniu, detenen
- INDICATIU IMPERFET: detenia, detenies, detenia, deteníem, deteníeu, detenien
- INDICATIU PASSAT: detinguí, detingueres, detingué, detinguérem, detinguéreu, detingueren
- INDICATIU FUTUR: detindré, detindràs, detindrà, detindrem, detindreu, detindran
- INDICATIU CONDICIONAL: detindria, detindries, detindria, detindríem, detindríeu, detindrien
- SUBJUNTIU PRESENT: detingui, detinguis, detingui, detinguem, detingueu, detinguin
- SUBJUNTIU IMPERFET: detingués, detinguessis, detingués, detinguéssim, detinguéssiu, detinguessin
- IMPERATIU: detén, detingui, detinguem, deteniu, detinguin
- IMPERATIU (alternatiu): detingues, detingui, detinguem, detingueu, detinguin
- INFINITIU: detindre
- GERUNDI: detenint
- PARTICIPI: detingut, detinguda, detinguts, detingudes
- INDICATIU PRESENT: detinc, detens, deté, detenim, deteniu, detenen
- INDICATIU IMPERFET: detenia, detenies, detenia, deteníem, deteníeu, detenien
- INDICATIU PASSAT: detinguí, detingueres, detingué, detinguérem, detinguéreu, detingueren
- INDICATIU FUTUR: detindré, detindràs, detindrà, detindrem, detindreu, detindran
- INDICATIU CONDICIONAL: detindria, detindries, detindria, detindríem, detindríeu, detindrien
- SUBJUNTIU PRESENT: detingui, detinguis, detingui, detinguem, detingueu, detinguin
- SUBJUNTIU IMPERFET: detingués, detinguessis, detingués, detinguéssim, detinguéssiu, detinguessin
- IMPERATIU: detén, detingui, detinguem, deteniu, detinguin
- IMPERATIU (alternatiu): detingues, detingui, detinguem, detingueu, detinguin
- INFINITIU: discórrer
- GERUNDI: discorrent
- PARTICIPI: discorregut, discorreguda, discorreguts, discorregudes
- INDICATIU PRESENT: discorro, discorres, discorre, discorrem, discorreu, discorren
- INDICATIU IMPERFET: discorria, discorries, discorria, discorríem, discorríeu, discorrien
- INDICATIU PASSAT: discorreguí, discorregueres, discorregué, discorreguérem, discorreguéreu, discorregueren
- INDICATIU FUTUR: discorreré, discorreràs, discorrerà, discorrerem, discorrereu, discorreran
- INDICATIU CONDICIONAL: discorreria, discorreries, discorreria, discorreríem, discorreríeu, discorrerien
- SUBJUNTIU PRESENT: discorri, discorris, discorri, discorrem, discorreu, discorrin
- SUBJUNTIU PRESENT (alternatiu): discorri, discorris, discorri, discorreguem, discorregueu, discorrin
- SUBJUNTIU IMPERFET: discorregués, discorreguessis, discorregués, discorreguéssim, discorreguéssiu, discorreguessin
- IMPERATIU: discorre, discorri, discorrem, discorreu, discorrin
- IMPERATIU (alternatiu): discorre, discorri, discorreguem, discorreu, discorrin
  INFINITIU: dur
  GERUNDI: duent
  PARTICIPI: dut, duta, duts, dutes
  INDICATIU PRESENT: duc, duus, duu, duem, dueu, duen
- INDICATIU PRESENT (alternatiu): duc, dus, du, duem, dueu, duen
  INDICATIU IMPERFET: duia, duies, duia, dúiem, dúieu, duien
  INDICATIU PASSAT: duguí, dugueres, dugué, duguérem, duguéreu, dugueren
  INDICATIU FUTUR: duré, duràs, durà, durem, dureu, duran
@@ -706,38 +285,10 @@
  SUBJUNTIU PRESENT: dugui, duguis, dugui, duguem, dugueu, duguin
  SUBJUNTIU IMPERFET: dugués, duguessis, dugués, duguéssim, duguéssiu, duguessin
  IMPERATIU: duu, dugui, duguem, dueu, duguin
- IMPERATIU (alternatiu): du, dugui, duguem, dueu, duguin
- INFINITIU: encórrer
- GERUNDI: encorrent
- PARTICIPI: encorregut, encorreguda, encorreguts, encorregudes
- INDICATIU PRESENT: encorro, encorres, encorre, encorrem, encorreu, encorren
- INDICATIU IMPERFET: encorria, encorries, encorria, encorríem, encorríeu, encorrien
- INDICATIU PASSAT: encorreguí, encorregueres, encorregué, encorreguérem, encorreguéreu, encorregueren
- INDICATIU FUTUR: encorreré, encorreràs, encorrerà, encorrerem, encorrereu, encorreran
- INDICATIU CONDICIONAL: encorreria, encorreries, encorreria, encorreríem, encorreríeu, encorrerien
- SUBJUNTIU PRESENT: encorri, encorris, encorri, encorrem, encorreu, encorrin
- SUBJUNTIU PRESENT (alternatiu): encorri, encorris, encorri, encorreguem, encorregueu, encorrin
- SUBJUNTIU IMPERFET: encorregués, encorreguessis, encorregués, encorreguéssim, encorreguéssiu, encorreguessin
- IMPERATIU: encorre, encorri, encorrem, encorreu, encorrin
- IMPERATIU (alternatiu): encorre, encorri, encorreguem, encorreu, encorrin
- INFINITIU: endur
- GERUNDI: enduent
- PARTICIPI: endut, enduta, enduts, endutes
- INDICATIU PRESENT: enduc, enduus, enduu, enduem, endueu, enduen
- INDICATIU PRESENT (alternatiu): enduc, endús, endú, enduem, endueu, enduen
- INDICATIU IMPERFET: enduia, enduies, enduia, endúiem, endúieu, enduien
- INDICATIU PASSAT: enduguí, endugueres, endugué, enduguérem, enduguéreu, endugueren
- INDICATIU FUTUR: enduré, enduràs, endurà, endurem, endureu, enduran
- INDICATIU CONDICIONAL: enduria, enduries, enduria, enduríem, enduríeu, endurien
- SUBJUNTIU PRESENT: endugui, enduguis, endugui, enduguem, endugueu, enduguin
- SUBJUNTIU IMPERFET: endugués, enduguessis, endugués, enduguéssim, enduguéssiu, enduguessin
- IMPERATIU: enduu, endugui, enduguem, endueu, enduguin
- IMPERATIU (alternatiu): endú, endugui, enduguem, endueu, enduguin
  INFINITIU: entrelluir
  GERUNDI: entrelluint
  PARTICIPI: entrelluït, entrelluïda, entrelluïts, entrelluïdes
  INDICATIU PRESENT: entrelluo, entrelluus, entrelluu, entrelluïm, entrelluïu, entrelluen
- INDICATIU PRESENT (alternatiu): entrelluu, entrellús, entrellú, entrelluïm, entrelluïu, entrelluen
  INDICATIU IMPERFET: entrelluïa, entrelluïes, entrelluïa, entrelluíem, entrelluíeu, entrelluïen
  INDICATIU PASSAT: entrelluí, entrelluïres, entrelluí, entrelluírem, entrelluíreu, entrelluïren
  INDICATIU FUTUR: entrelluiré, entrelluiràs, entrelluirà, entrelluirem, entrelluireu, entrelluiran
@@ -745,12 +296,10 @@
  SUBJUNTIU PRESENT: entrelluï, entrelluïs, entrelluï, entrelluïm, entrelluïu, entrelluïn
  SUBJUNTIU IMPERFET: entrelluís, entrelluïssis, entrelluís, entrelluíssim, entrelluíssiu, entrelluïssin
  IMPERATIU: entrelluu, entrelluï, entrelluïm, entrelluïu, entrelluïn
- IMPERATIU (alternatiu): entrellú, entrelluï, entrelluïm, entrelluïu, entrelluïn
  INFINITIU: entreoir
  GERUNDI: entreoint
  PARTICIPI: entreoït, entreoïda, entreoïts, entreoïdes
  INDICATIU PRESENT: entreoeixo, entreoeixes, entreoeix, entreoïm, entreoïu, entreoeixen
- INDICATIU PRESENT (alternatiu): entreoeixo, entreous, entreou, entreoïm, entreoïu, entreouen
  INDICATIU IMPERFET: entreoïa, entreoïes, entreoïa, entreoíem, entreoíeu, entreoïen
  INDICATIU PASSAT: entreoí, entreoïres, entreoí, entreoírem, entreoíreu, entreoïren
  INDICATIU FUTUR: entreoiré, entreoiràs, entreoirà, entreoirem, entreoireu, entreoiran
@@ -758,75 +307,31 @@
  SUBJUNTIU PRESENT: entreoeixi, entreoeixis, entreoeixi, entreoïm, entreoïu, entreoeixin
  SUBJUNTIU IMPERFET: entreoís, entreoïssis, entreoís, entreoíssim, entreoíssiu, entreoïssin
  IMPERATIU: entreoeix, entreoeixi, entreoïm, entreoïu, entreoeixin
- IMPERATIU (alternatiu): entreou, entreoeixi, entreoïm, entreoïu, entreoeixin
- INFINITIU: entretenir
- GERUNDI: entretenint
- PARTICIPI: entretingut, entretinguda, entretinguts, entretingudes
- INDICATIU PRESENT: entretinc, entretens, entreté, entretenim, entreteniu, entretenen
- INDICATIU IMPERFET: entretenia, entretenies, entretenia, entreteníem, entreteníeu, entretenien
- INDICATIU PASSAT: entretinguí, entretingueres, entretingué, entretinguérem, entretinguéreu, entretingueren
- INDICATIU FUTUR: entretindré, entretindràs, entretindrà, entretindrem, entretindreu, entretindran
- INDICATIU CONDICIONAL: entretindria, entretindries, entretindria, entretindríem, entretindríeu, entretindrien
- SUBJUNTIU PRESENT: entretingui, entretinguis, entretingui, entretinguem, entretingueu, entretinguin
- SUBJUNTIU IMPERFET: entretingués, entretinguessis, entretingués, entretinguéssim, entretinguéssiu, entretinguessin
- IMPERATIU: entretén, entretingui, entretinguem, entreteniu, entretinguin
- IMPERATIU (alternatiu): entretingues, entretingui, entretinguem, entretingueu, entretinguin
- INFINITIU: entretindre
- GERUNDI: entretenint
- PARTICIPI: entretingut, entretinguda, entretinguts, entretingudes
- INDICATIU PRESENT: entretinc, entretens, entreté, entretenim, entreteniu, entretenen
- INDICATIU IMPERFET: entretenia, entretenies, entretenia, entreteníem, entreteníeu, entretenien
- INDICATIU PASSAT: entretinguí, entretingueres, entretingué, entretinguérem, entretinguéreu, entretingueren
- INDICATIU FUTUR: entretindré, entretindràs, entretindrà, entretindrem, entretindreu, entretindran
- INDICATIU CONDICIONAL: entretindria, entretindries, entretindria, entretindríem, entretindríeu, entretindrien
- SUBJUNTIU PRESENT: entretingui, entretinguis, entretingui, entretinguem, entretingueu, entretinguin
- SUBJUNTIU IMPERFET: entretingués, entretinguessis, entretingués, entretinguéssim, entretinguéssiu, entretinguessin
- IMPERATIU: entretén, entretingui, entretinguem, entreteniu, entretinguin
- IMPERATIU (alternatiu): entretingues, entretingui, entretinguem, entretingueu, entretinguin
  INFINITIU: entreveure
  GERUNDI: entreveient
  PARTICIPI: entrevist, entrevista, entrevists, entrevistes
- PARTICIPI (alternatiu): entrevist, entrevista, entrevistos, entrevistes
  INDICATIU PRESENT: entreveig, entreveus, entreveu, entreveiem, entreveieu, entreveuen
  INDICATIU IMPERFET: entreveia, entreveies, entreveia, entrevèiem, entrevèieu, entreveien
  INDICATIU PASSAT: entreviu, entreveieres, entreveié, entreveiérem, entreveiéreu, entreveieren
- INDICATIU PASSAT (alternatiu): entreviu, entreveres, entrevéu, entrevérem, entrevéreu, entreveren
  INDICATIU FUTUR: entreveuré, entreveuràs, entreveurà, entreveurem, entreveureu, entreveuran
  INDICATIU CONDICIONAL: entreveuria, entreveuries, entreveuria, entreveuríem, entreveuríeu, entreveurien
  SUBJUNTIU PRESENT: entrevegi, entrevegis, entrevegi, entrevegem, entrevegeu, entrevegin
  SUBJUNTIU IMPERFET: entreveiés, entreveiessis, entreveiés, entreveiéssim, entreveiéssiu, entreveiessin
  IMPERATIU: entreveges, entrevegi, entrevegem, entrevegeu, entrevegin
- IMPERATIU (alternatiu): entreveu, entrevegi, entrevegem, entreveieu, entrevegin
- INFINITIU: escórrer
- GERUNDI: escorrent
- PARTICIPI: escorregut, escorreguda, escorreguts, escorregudes
- INDICATIU PRESENT: escorro, escorres, escorre, escorrem, escorreu, escorren
- INDICATIU IMPERFET: escorria, escorries, escorria, escorríem, escorríeu, escorrien
- INDICATIU PASSAT: escorreguí, escorregueres, escorregué, escorreguérem, escorreguéreu, escorregueren
- INDICATIU FUTUR: escorreré, escorreràs, escorrerà, escorrerem, escorrereu, escorreran
- INDICATIU CONDICIONAL: escorreria, escorreries, escorreria, escorreríem, escorreríeu, escorrerien
- SUBJUNTIU PRESENT: escorri, escorris, escorri, escorrem, escorreu, escorrin
- SUBJUNTIU PRESENT (alternatiu): escorri, escorris, escorri, escorreguem, escorregueu, escorrin
- SUBJUNTIU IMPERFET: escorregués, escorreguessis, escorregués, escorreguéssim, escorreguéssiu, escorreguessin
- IMPERATIU: escorre, escorri, escorrem, escorreu, escorrin
- IMPERATIU (alternatiu): escorre, escorri, escorreguem, escorreu, escorrin
  INFINITIU: escriure
  GERUNDI: escrivint
  PARTICIPI: escrit, escrita, escrits, escrites
  INDICATIU PRESENT: escric, escrius, escriu, escrivim, escriviu, escriuen
  INDICATIU IMPERFET: escrivia, escrivies, escrivia, escrivíem, escrivíeu, escrivien
  INDICATIU PASSAT: escriví, escrivires, escriví, escrivírem, escrivíreu, escriviren
- INDICATIU PASSAT (alternatiu): escriguí, escrigueres, escrigué, escriguérem, escriguéreu, escrigueren
  INDICATIU FUTUR: escriuré, escriuràs, escriurà, escriurem, escriureu, escriuran
  INDICATIU CONDICIONAL: escriuria, escriuries, escriuria, escriuríem, escriuríeu, escriurien
  SUBJUNTIU PRESENT: escrigui, escriguis, escrigui, escriguem, escrigueu, escriguin
  SUBJUNTIU IMPERFET: escrivís, escrivissis, escrivís, escrivíssim, escrivíssiu, escrivissin
- SUBJUNTIU IMPERFET (alternatiu): escrigués, escriguessis, escrigués, escriguéssim, escriguéssiu, escriguessin
  IMPERATIU: escriu, escrigui, escriguem, escriviu, escriguin
  INFINITIU: establir
  GERUNDI: establint
  PARTICIPI: establert, establerta, establerts, establertes
- PARTICIPI (alternatiu): establit, establida, establits, establides
  INDICATIU PRESENT: estableixo, estableixes, estableix, establim, establiu, estableixen
  INDICATIU IMPERFET: establia, establies, establia, establíem, establíeu, establien
  INDICATIU PASSAT: establí, establires, establí, establírem, establíreu, establiren
@@ -844,10 +349,8 @@
  INDICATIU FUTUR: estrafaré, estrafaràs, estrafarà, estrafarem, estrafareu, estrafaran
  INDICATIU CONDICIONAL: estrafaria, estrafaries, estrafaria, estrafaríem, estrafaríeu, estrafarien
  SUBJUNTIU PRESENT: estrafaci, estrafacis, estrafaci, estrafem, estrafeu, estrafacin
- SUBJUNTIU PRESENT (alternatiu): estrafaci, estrafacis, estrafaci, estrafacem, estrafaceu, estrafacin
  SUBJUNTIU IMPERFET: estrafés, estrafessis, estrafés, estraféssim, estraféssiu, estrafessin
  IMPERATIU: estrafés, estrafaci, estrafem, estrafeu, estrafacin
- IMPERATIU (alternatiu): estrafés, estrafaci, estrafacem, estrafeu, estrafacin
  INFINITIU: fer
  GERUNDI: fent
  PARTICIPI: fet, feta, fets, fetes
@@ -857,27 +360,11 @@
  INDICATIU FUTUR: faré, faràs, farà, farem, fareu, faran
  INDICATIU CONDICIONAL: faria, faries, faria, faríem, faríeu, farien
  SUBJUNTIU PRESENT: faci, facis, faci, fem, feu, facin
- SUBJUNTIU PRESENT (alternatiu): faci, facis, faci, facem, faceu, facin
  SUBJUNTIU IMPERFET: fes, fessis, fes, féssim, féssiu, fessin
  IMPERATIU: fes, faci, fem, feu, facin
- IMPERATIU (alternatiu): fes, faci, facem, feu, facin
- INFINITIU: haver
- GERUNDI: havent
- PARTICIPI: hagut, haguda, haguts, hagudes
- INDICATIU PRESENT: he, has, ha, hem, heu, han
- INDICATIU PRESENT (alternatiu): haig, has, ha, hem, heu, han
- INDICATIU IMPERFET: havia, havies, havia, havíem, havíeu, havien
- INDICATIU PASSAT: haguí, hagueres, hagué, haguérem, haguéreu, hagueren
- INDICATIU FUTUR: hauré, hauràs, haurà, haurem, haureu, hauran
- INDICATIU CONDICIONAL: hauria, hauries, hauria, hauríem, hauríeu, haurien
- INDICATIU CONDICIONAL (alternatiu): haguera, hagueres, haguera, haguérem, haguéreu, hagueren
- SUBJUNTIU PRESENT: hagi, hagis, hagi, hàgim, hàgiu, hagin
- SUBJUNTIU IMPERFET: hagués, haguessis, hagués, haguéssim, haguéssiu, haguessin
- IMPERATIU: D3F3CT
  INFINITIU: incomplir
  GERUNDI: incomplint
  PARTICIPI: incomplert, incomplerta, incomplerts, incomplertes
- PARTICIPI (alternatiu): incomplit, incomplida, incomplits, incomplides
  INDICATIU PRESENT: incompleixo, incompleixes, incompleix, incomplim, incompliu, incompleixen
  INDICATIU IMPERFET: incomplia, incomplies, incomplia, incomplíem, incomplíeu, incomplien
  INDICATIU PASSAT: incomplí, incomplires, incomplí, incomplírem, incomplíreu, incompliren
@@ -886,31 +373,16 @@
  SUBJUNTIU PRESENT: incompleixi, incompleixis, incompleixi, incomplim, incompliu, incompleixin
  SUBJUNTIU IMPERFET: incomplís, incomplissis, incomplís, incomplíssim, incomplíssiu, incomplissin
  IMPERATIU: incompleix, incompleixi, incomplim, incompliu, incompleixin
- INFINITIU: incórrer
- GERUNDI: incorrent
- PARTICIPI: incorregut, incorreguda, incorreguts, incorregudes
- INDICATIU PRESENT: incorro, incorres, incorre, incorrem, incorreu, incorren
- INDICATIU IMPERFET: incorria, incorries, incorria, incorríem, incorríeu, incorrien
- INDICATIU PASSAT: incorreguí, incorregueres, incorregué, incorreguérem, incorreguéreu, incorregueren
- INDICATIU FUTUR: incorreré, incorreràs, incorrerà, incorrerem, incorrereu, incorreran
- INDICATIU CONDICIONAL: incorreria, incorreries, incorreria, incorreríem, incorreríeu, incorrerien
- SUBJUNTIU PRESENT: incorri, incorris, incorri, incorrem, incorreu, incorrin
- SUBJUNTIU PRESENT (alternatiu): incorri, incorris, incorri, incorreguem, incorregueu, incorrin
- SUBJUNTIU IMPERFET: incorregués, incorreguessis, incorregués, incorreguéssim, incorreguéssiu, incorreguessin
- IMPERATIU: incorre, incorri, incorrem, incorreu, incorrin
- IMPERATIU (alternatiu): incorre, incorri, incorreguem, incorreu, incorrin
  INFINITIU: inscriure
  GERUNDI: inscrivint
  PARTICIPI: inscrit, inscrita, inscrits, inscrites
  INDICATIU PRESENT: inscric, inscrius, inscriu, inscrivim, inscriviu, inscriuen
  INDICATIU IMPERFET: inscrivia, inscrivies, inscrivia, inscrivíem, inscrivíeu, inscrivien
  INDICATIU PASSAT: inscriví, inscrivires, inscriví, inscrivírem, inscrivíreu, inscriviren
- INDICATIU PASSAT (alternatiu): inscriguí, inscrigueres, inscrigué, inscriguérem, inscriguéreu, inscrigueren
  INDICATIU FUTUR: inscriuré, inscriuràs, inscriurà, inscriurem, inscriureu, inscriuran
  INDICATIU CONDICIONAL: inscriuria, inscriuries, inscriuria, inscriuríem, inscriuríeu, inscriurien
  SUBJUNTIU PRESENT: inscrigui, inscriguis, inscrigui, inscriguem, inscrigueu, inscriguin
  SUBJUNTIU IMPERFET: inscrivís, inscrivissis, inscrivís, inscrivíssim, inscrivíssiu, inscrivissin
- SUBJUNTIU IMPERFET (alternatiu): inscrigués, inscriguessis, inscrigués, inscriguéssim, inscriguéssiu, inscriguessin
  IMPERATIU: inscriu, inscrigui, inscriguem, inscriviu, inscriguin
  INFINITIU: interdir
  GERUNDI: interdient
@@ -923,7 +395,6 @@
  SUBJUNTIU PRESENT: interdigui, interdiguis, interdigui, interdiguem, interdigueu, interdiguin
  SUBJUNTIU IMPERFET: interdigués, interdiguessis, interdigués, interdiguéssim, interdiguéssiu, interdiguessin
  IMPERATIU: interdigues, interdigui, interdiguem, interdigueu, interdiguin
- IMPERATIU (alternatiu): interdiu, interdigui, interdiguem, interdieu, interdiguin
  INFINITIU: intervenir
  GERUNDI: intervenint
  PARTICIPI: intervingut, intervinguda, intervinguts, intervingudes
@@ -935,19 +406,6 @@
  SUBJUNTIU PRESENT: intervingui, intervinguis, intervingui, intervinguem, intervingueu, intervinguin
  SUBJUNTIU IMPERFET: intervingués, intervinguessis, intervingués, intervinguéssim, intervinguéssiu, intervinguessin
  IMPERATIU: intervén, intervingui, intervinguem, interveniu, intervinguin
- IMPERATIU (alternatiu): intervé, intervingui, intervinguem, interveniu, intervinguin
- INFINITIU: intervindre
- GERUNDI: intervenint
- PARTICIPI: intervingut, intervinguda, intervinguts, intervingudes
- INDICATIU PRESENT: intervinc, intervens, intervé, intervenim, interveniu, intervenen
- INDICATIU IMPERFET: intervenia, intervenies, intervenia, interveníem, interveníeu, intervenien
- INDICATIU PASSAT: intervinguí, intervingueres, intervingué, intervinguérem, intervinguéreu, intervingueren
- INDICATIU FUTUR: intervindré, intervindràs, intervindrà, intervindrem, intervindreu, intervindran
- INDICATIU CONDICIONAL: intervindria, intervindries, intervindria, intervindríem, intervindríeu, intervindrien
- SUBJUNTIU PRESENT: intervingui, intervinguis, intervingui, intervinguem, intervingueu, intervinguin
- SUBJUNTIU IMPERFET: intervingués, intervinguessis, intervingués, intervinguéssim, intervinguéssiu, intervinguessin
- IMPERATIU: intervén, intervingui, intervinguem, interveniu, intervinguin
- IMPERATIU (alternatiu): intervé, intervingui, intervinguem, interveniu, intervinguin
  INFINITIU: liqüefer
  GERUNDI: liqüefent
  PARTICIPI: liqüefet, liqüefeta, liqüefets, liqüefetes
@@ -957,42 +415,19 @@
  INDICATIU FUTUR: liqüefaré, liqüefaràs, liqüefarà, liqüefarem, liqüefareu, liqüefaran
  INDICATIU CONDICIONAL: liqüefaria, liqüefaries, liqüefaria, liqüefaríem, liqüefaríeu, liqüefarien
  SUBJUNTIU PRESENT: liqüefaci, liqüefacis, liqüefaci, liqüefem, liqüefeu, liqüefacin
- SUBJUNTIU PRESENT (alternatiu): liqüefaci, liqüefacis, liqüefaci, liqüefacem, liqüefaceu, liqüefacin
  SUBJUNTIU IMPERFET: liqüefés, liqüefessis, liqüefés, liqüeféssim, liqüeféssiu, liqüefessin
  IMPERATIU: liqüefés, liqüefaci, liqüefem, liqüefeu, liqüefacin
- IMPERATIU (alternatiu): liqüefés, liqüefaci, liqüefacem, liqüefeu, liqüefacin
  INFINITIU: lluir
  GERUNDI: lluint
  PARTICIPI: lluït, lluïda, lluïts, lluïdes
  INDICATIU PRESENT: lluo, lluus, lluu, lluïm, lluïu, lluen
- INDICATIU PRESENT (alternatiu): lluu, llus, llu, lluïm, lluïu, lluen
- INDICATIU PRESENT (alternatiu): llueixo, llueixes, llueix, lluïm, lluïu, llueixen
  INDICATIU IMPERFET: lluïa, lluïes, lluïa, lluíem, lluíeu, lluïen
  INDICATIU PASSAT: lluí, lluïres, lluí, lluírem, lluíreu, lluïren
  INDICATIU FUTUR: lluiré, lluiràs, lluirà, lluirem, lluireu, lluiran
  INDICATIU CONDICIONAL: lluiria, lluiries, lluiria, lluiríem, lluiríeu, lluirien
  SUBJUNTIU PRESENT: lluï, lluïs, lluï, lluïm, lluïu, lluïn
- SUBJUNTIU PRESENT (alternatiu): llueixi, llueixis, llueixi, lluïm, lluïu, llueixin
  SUBJUNTIU IMPERFET: lluís, lluïssis, lluís, lluíssim, lluíssiu, lluïssin
  IMPERATIU: lluu, lluï, lluïm, lluïu, lluïn
- IMPERATIU (alternatiu): llu, lluï, lluïm, lluïu, lluïn
- IMPERATIU (alternatiu): llueix, llueixi, lluïm, lluïu, llueixin
- INFINITIU: lluir
- GERUNDI: lluint
- PARTICIPI: lluït, lluïda, lluïts, lluïdes
- INDICATIU PRESENT: lluo, lluus, lluu, lluïm, lluïu, lluen
- INDICATIU PRESENT (alternatiu): lluu, llus, llu, lluïm, lluïu, lluen
- INDICATIU PRESENT (alternatiu): llueixo, llueixes, llueix, lluïm, lluïu, llueixen
- INDICATIU IMPERFET: lluïa, lluïes, lluïa, lluíem, lluíeu, lluïen
- INDICATIU PASSAT: lluí, lluïres, lluí, lluírem, lluíreu, lluïren
- INDICATIU FUTUR: lluiré, lluiràs, lluirà, lluirem, lluireu, lluiran
- INDICATIU CONDICIONAL: lluiria, lluiries, lluiria, lluiríem, lluiríeu, lluirien
- SUBJUNTIU PRESENT: lluï, lluïs, lluï, lluïm, lluïu, lluïn
- SUBJUNTIU PRESENT (alternatiu): llueixi, llueixis, llueixi, lluïm, lluïu, llueixin
- SUBJUNTIU IMPERFET: lluís, lluïssis, lluís, lluíssim, lluíssiu, lluïssin
- IMPERATIU: lluu, lluï, lluïm, lluïu, lluïn
- IMPERATIU (alternatiu): llu, lluï, lluïm, lluïu, lluïn
- IMPERATIU (alternatiu): llueix, llueixi, lluïm, lluïu, llueixin
  INFINITIU: maldir
  GERUNDI: maldient
  PARTICIPI: maldit, maldita, maldits, maldites
@@ -1004,181 +439,42 @@
  SUBJUNTIU PRESENT: maldigui, maldiguis, maldigui, maldiguem, maldigueu, maldiguin
  SUBJUNTIU IMPERFET: maldigués, maldiguessis, maldigués, maldiguéssim, maldiguéssiu, maldiguessin
  IMPERATIU: maldigues, maldigui, maldiguem, maldigueu, maldiguin
- IMPERATIU (alternatiu): maldiu, maldigui, maldiguem, maldieu, maldiguin
  INFINITIU: malveure
  GERUNDI: malveient
  PARTICIPI: malvist, malvista, malvists, malvistes
- PARTICIPI (alternatiu): malvist, malvista, malvistos, malvistes
  INDICATIU PRESENT: malveig, malveus, malveu, malveiem, malveieu, malveuen
  INDICATIU IMPERFET: malveia, malveies, malveia, malvèiem, malvèieu, malveien
  INDICATIU PASSAT: malviu, malveieres, malveié, malveiérem, malveiéreu, malveieren
- INDICATIU PASSAT (alternatiu): malviu, malveres, malvéu, malvérem, malvéreu, malveren
  INDICATIU FUTUR: malveuré, malveuràs, malveurà, malveurem, malveureu, malveuran
  INDICATIU CONDICIONAL: malveuria, malveuries, malveuria, malveuríem, malveuríeu, malveurien
  SUBJUNTIU PRESENT: malvegi, malvegis, malvegi, malvegem, malvegeu, malvegin
  SUBJUNTIU IMPERFET: malveiés, malveiessis, malveiés, malveiéssim, malveiéssiu, malveiessin
  IMPERATIU: malveges, malvegi, malvegem, malvegeu, malvegin
- IMPERATIU (alternatiu): malveu, malvegi, malvegem, malveieu, malvegin
- INFINITIU: mantenir
- GERUNDI: mantenint
- PARTICIPI: mantingut, mantinguda, mantinguts, mantingudes
- INDICATIU PRESENT: mantinc, mantens, manté, mantenim, manteniu, mantenen
- INDICATIU IMPERFET: mantenia, mantenies, mantenia, manteníem, manteníeu, mantenien
- INDICATIU PASSAT: mantinguí, mantingueres, mantingué, mantinguérem, mantinguéreu, mantingueren
- INDICATIU FUTUR: mantindré, mantindràs, mantindrà, mantindrem, mantindreu, mantindran
- INDICATIU CONDICIONAL: mantindria, mantindries, mantindria, mantindríem, mantindríeu, mantindrien
- SUBJUNTIU PRESENT: mantingui, mantinguis, mantingui, mantinguem, mantingueu, mantinguin
- SUBJUNTIU IMPERFET: mantingués, mantinguessis, mantingués, mantinguéssim, mantinguéssiu, mantinguessin
- IMPERATIU: mantén, mantingui, mantinguem, manteniu, mantinguin
- IMPERATIU (alternatiu): mantingues, mantingui, mantinguem, mantingueu, mantinguin
- INFINITIU: mantindre
- GERUNDI: mantenint
- PARTICIPI: mantingut, mantinguda, mantinguts, mantingudes
- INDICATIU PRESENT: mantinc, mantens, manté, mantenim, manteniu, mantenen
- INDICATIU IMPERFET: mantenia, mantenies, mantenia, manteníem, manteníeu, mantenien
- INDICATIU PASSAT: mantinguí, mantingueres, mantingué, mantinguérem, mantinguéreu, mantingueren
- INDICATIU FUTUR: mantindré, mantindràs, mantindrà, mantindrem, mantindreu, mantindran
- INDICATIU CONDICIONAL: mantindria, mantindries, mantindria, mantindríem, mantindríeu, mantindrien
- SUBJUNTIU PRESENT: mantingui, mantinguis, mantingui, mantinguem, mantingueu, mantinguin
- SUBJUNTIU IMPERFET: mantingués, mantinguessis, mantingués, mantinguéssim, mantinguéssiu, mantinguessin
- IMPERATIU: mantén, mantingui, mantinguem, manteniu, mantinguin
- IMPERATIU (alternatiu): mantingues, mantingui, mantinguem, mantingueu, mantinguin
- INFINITIU: matar
- GERUNDI: matant
- PARTICIPI: matat, matada, matats, matades
- PARTICIPI (alternatiu): mort, morta, morts, mortes
- INDICATIU PRESENT: mato, mates, mata, matem, mateu, maten
- INDICATIU IMPERFET: matava, mataves, matava, matàvem, matàveu, mataven
- INDICATIU PASSAT: matí, matares, matà, matàrem, matàreu, mataren
- INDICATIU FUTUR: mataré, mataràs, matarà, matarem, matareu, mataran
- INDICATIU CONDICIONAL: mataria, mataries, mataria, mataríem, mataríeu, matarien
- SUBJUNTIU PRESENT: mati, matis, mati, matem, mateu, matin
- SUBJUNTIU IMPERFET: matés, matessis, matés, matéssim, matéssiu, matessin
- IMPERATIU: mata, mati, matem, mateu, matin
- INFINITIU: mentir
- GERUNDI: mentint
- PARTICIPI: mentit, mentida, mentits, mentides
- INDICATIU PRESENT: mento, ments, ment, mentim, mentiu, menten
- INDICATIU PRESENT (alternatiu): menteixo, menteixes, menteix, mentim, mentiu, menteixen
- INDICATIU IMPERFET: mentia, menties, mentia, mentíem, mentíeu, mentien
- INDICATIU PASSAT: mentí, mentires, mentí, mentírem, mentíreu, mentiren
- INDICATIU FUTUR: mentiré, mentiràs, mentirà, mentirem, mentireu, mentiran
- INDICATIU CONDICIONAL: mentiria, mentiries, mentiria, mentiríem, mentiríeu, mentirien
- SUBJUNTIU PRESENT: menti, mentis, menti, mentim, mentiu, mentin
- SUBJUNTIU PRESENT (alternatiu): menteixi, menteixis, menteixi, mentim, mentiu, menteixin
- SUBJUNTIU IMPERFET: mentís, mentissis, mentís, mentíssim, mentíssiu, mentissin
- IMPERATIU: ment, menti, mentim, mentiu, mentin
- IMPERATIU (alternatiu): menteix, menteixi, mentim, mentiu, menteixin
- INFINITIU: menystenir
- GERUNDI: menystenint
- PARTICIPI: menystingut, menystinguda, menystinguts, menystingudes
- INDICATIU PRESENT: menystinc, menystens, menysté, menystenim, menysteniu, menystenen
- INDICATIU IMPERFET: menystenia, menystenies, menystenia, menysteníem, menysteníeu, menystenien
- INDICATIU PASSAT: menystinguí, menystingueres, menystingué, menystinguérem, menystinguéreu, menystingueren
- INDICATIU FUTUR: menystindré, menystindràs, menystindrà, menystindrem, menystindreu, menystindran
- INDICATIU CONDICIONAL: menystindria, menystindries, menystindria, menystindríem, menystindríeu, menystindrien
- SUBJUNTIU PRESENT: menystingui, menystinguis, menystingui, menystinguem, menystingueu, menystinguin
- SUBJUNTIU IMPERFET: menystingués, menystinguessis, menystingués, menystinguéssim, menystinguéssiu, menystinguessin
- IMPERATIU: menystén, menystingui, menystinguem, menysteniu, menystinguin
- IMPERATIU (alternatiu): menystingues, menystingui, menystinguem, menystingueu, menystinguin
- INFINITIU: menystindre
- GERUNDI: menystenint
- PARTICIPI: menystingut, menystinguda, menystinguts, menystingudes
- INDICATIU PRESENT: menystinc, menystens, menysté, menystenim, menysteniu, menystenen
- INDICATIU IMPERFET: menystenia, menystenies, menystenia, menysteníem, menysteníeu, menystenien
- INDICATIU PASSAT: menystinguí, menystingueres, menystingué, menystinguérem, menystinguéreu, menystingueren
- INDICATIU FUTUR: menystindré, menystindràs, menystindrà, menystindrem, menystindreu, menystindran
- INDICATIU CONDICIONAL: menystindria, menystindries, menystindria, menystindríem, menystindríeu, menystindrien
- SUBJUNTIU PRESENT: menystingui, menystinguis, menystingui, menystinguem, menystingueu, menystinguin
- SUBJUNTIU IMPERFET: menystingués, menystinguessis, menystingués, menystinguéssim, menystinguéssiu, menystinguessin
- IMPERATIU: menystén, menystingui, menystinguem, menysteniu, menystinguin
- IMPERATIU (alternatiu): menystingues, menystingui, menystinguem, menystingueu, menystinguin
  INFINITIU: merèixer
  GERUNDI: mereixent
  PARTICIPI: merescut, merescuda, merescuts, merescudes
  INDICATIU PRESENT: mereixo, mereixes, mereix, mereixem, mereixeu, mereixen
  INDICATIU IMPERFET: mereixia, mereixies, mereixia, mereixíem, mereixíeu, mereixien
  INDICATIU PASSAT: mereixí, mereixeres, mereixé, mereixérem, mereixéreu, mereixeren
- INDICATIU PASSAT (alternatiu): meresquí, meresqueres, meresqué, meresquérem, meresquéreu, meresqueren
  INDICATIU FUTUR: mereixeré, mereixeràs, mereixerà, mereixerem, mereixereu, mereixeran
  INDICATIU CONDICIONAL: mereixeria, mereixeries, mereixeria, mereixeríem, mereixeríeu, mereixerien
  SUBJUNTIU PRESENT: mereixi, mereixis, mereixi, mereixem, mereixeu, mereixin
- SUBJUNTIU PRESENT (alternatiu): mereixi, mereixis, mereixi, meresquem, meresqueu, mereixin
  SUBJUNTIU IMPERFET: mereixés, mereixessis, mereixés, mereixéssim, mereixéssiu, mereixessin
- SUBJUNTIU IMPERFET (alternatiu): meresqués, meresquessis, meresqués, meresquéssim, meresquéssiu, meresquessin
  IMPERATIU: mereix, mereixi, mereixem, mereixeu, mereixen
- IMPERATIU (alternatiu): mereix, mereixi, meresquem, mereixeu, mereixen
- INFINITIU: nàixer
- GERUNDI: naixent
- PARTICIPI: nascut, nascuda, nascuts, nascudes
- INDICATIU PRESENT: naixo, naixes, naix, naixem, naixeu, naixen
- INDICATIU IMPERFET: naixia, naixies, naixia, naixíem, naixíeu, naixien
- INDICATIU PASSAT: naixí, naixeres, naixé, naixérem, naixéreu, naixeren
- INDICATIU PASSAT (alternatiu): nasquí, nasqueres, nasqué, nasquérem, nasquéreu, nasqueren
- INDICATIU FUTUR: naixeré, naixeràs, naixerà, naixerem, naixereu, naixeran
- INDICATIU CONDICIONAL: naixeria, naixeries, naixeria, naixeríem, naixeríeu, naixerien
- SUBJUNTIU PRESENT: naixi, naixis, naixi, naixem, naixeu, naixin
- SUBJUNTIU PRESENT (alternatiu): naixi, naixis, naixi, nasquem, nasqueu, naixin
- SUBJUNTIU IMPERFET: naixés, naixessis, naixés, naixéssim, naixéssiu, naixessin
- SUBJUNTIU IMPERFET (alternatiu): nasqués, nasquessis, nasqués, nasquéssim, nasquéssiu, nasquessin
- IMPERATIU: naix, naixi, naixem, naixeu, naixin
- IMPERATIU (alternatiu): naix, naixi, nasquem, naixeu, naixin
  INFINITIU: néixer
  GERUNDI: naixent
  PARTICIPI: nascut, nascuda, nascuts, nascudes
  INDICATIU PRESENT: neixo, neixes, neix, naixem, naixeu, neixen
  INDICATIU IMPERFET: naixia, naixies, naixia, naixíem, naixíeu, naixien
  INDICATIU PASSAT: naixí, naixeres, naixé, naixérem, naixéreu, naixeren
- INDICATIU PASSAT (alternatiu): nasquí, nasqueres, nasqué, nasquérem, nasquéreu, nasqueren
  INDICATIU FUTUR: naixeré, naixeràs, naixerà, naixerem, naixereu, naixeran
  INDICATIU CONDICIONAL: naixeria, naixeries, naixeria, naixeríem, naixeríeu, naixerien
  SUBJUNTIU PRESENT: neixi, neixis, neixi, naixem, naixeu, neixin
- SUBJUNTIU PRESENT (alternatiu): neixi, neixis, neixi, nasquem, nasqueu, neixin
  SUBJUNTIU IMPERFET: naixés, naixessis, naixés, naixéssim, naixéssiu, naixessin
- SUBJUNTIU IMPERFET (alternatiu): nasqués, nasquessis, nasqués, nasquéssim, nasquéssiu, nasquessin
  IMPERATIU: neix, neixi, naixem, naixeu, neixin
- IMPERATIU (alternatiu): neix, neixi, nasquem, naixeu, neixin
- INFINITIU: obtenir
- GERUNDI: obtenint
- PARTICIPI: obtingut, obtinguda, obtinguts, obtingudes
- INDICATIU PRESENT: obtinc, obtens, obté, obtenim, obteniu, obtenen
- INDICATIU IMPERFET: obtenia, obtenies, obtenia, obteníem, obteníeu, obtenien
- INDICATIU PASSAT: obtinguí, obtingueres, obtingué, obtinguérem, obtinguéreu, obtingueren
- INDICATIU FUTUR: obtindré, obtindràs, obtindrà, obtindrem, obtindreu, obtindran
- INDICATIU CONDICIONAL: obtindria, obtindries, obtindria, obtindríem, obtindríeu, obtindrien
- SUBJUNTIU PRESENT: obtingui, obtinguis, obtingui, obtinguem, obtingueu, obtinguin
- SUBJUNTIU IMPERFET: obtingués, obtinguessis, obtingués, obtinguéssim, obtinguéssiu, obtinguessin
- IMPERATIU: obtén, obtingui, obtinguem, obteniu, obtinguin
- IMPERATIU (alternatiu): obtingues, obtingui, obtinguem, obtingueu, obtinguin
- INFINITIU: obtindre
- GERUNDI: obtenint
- PARTICIPI: obtingut, obtinguda, obtinguts, obtingudes
- INDICATIU PRESENT: obtinc, obtens, obté, obtenim, obteniu, obtenen
- INDICATIU IMPERFET: obtenia, obtenies, obtenia, obteníem, obteníeu, obtenien
- INDICATIU PASSAT: obtinguí, obtingueres, obtingué, obtinguérem, obtinguéreu, obtingueren
- INDICATIU FUTUR: obtindré, obtindràs, obtindrà, obtindrem, obtindreu, obtindran
- INDICATIU CONDICIONAL: obtindria, obtindries, obtindria, obtindríem, obtindríeu, obtindrien
- SUBJUNTIU PRESENT: obtingui, obtinguis, obtingui, obtinguem, obtingueu, obtinguin
- SUBJUNTIU IMPERFET: obtingués, obtinguessis, obtingués, obtinguéssim, obtinguéssiu, obtinguessin
- IMPERATIU: obtén, obtingui, obtinguem, obteniu, obtinguin
- IMPERATIU (alternatiu): obtingues, obtingui, obtinguem, obtingueu, obtinguin
- INFINITIU: ocórrer
- GERUNDI: ocorrent
- PARTICIPI: ocorregut, ocorreguda, ocorreguts, ocorregudes
- INDICATIU PRESENT: ocorro, ocorres, ocorre, ocorrem, ocorreu, ocorren
- INDICATIU IMPERFET: ocorria, ocorries, ocorria, ocorríem, ocorríeu, ocorrien
- INDICATIU PASSAT: ocorreguí, ocorregueres, ocorregué, ocorreguérem, ocorreguéreu, ocorregueren
- INDICATIU FUTUR: ocorreré, ocorreràs, ocorrerà, ocorrerem, ocorrereu, ocorreran
- INDICATIU CONDICIONAL: ocorreria, ocorreries, ocorreria, ocorreríem, ocorreríeu, ocorrerien
- SUBJUNTIU PRESENT: ocorri, ocorris, ocorri, ocorrem, ocorreu, ocorrin
- SUBJUNTIU PRESENT (alternatiu): ocorri, ocorris, ocorri, ocorreguem, ocorregueu, ocorrin
- SUBJUNTIU IMPERFET: ocorregués, ocorreguessis, ocorregués, ocorreguéssim, ocorreguéssiu, ocorreguessin
- IMPERATIU: ocorre, ocorri, ocorrem, ocorreu, ocorrin
- IMPERATIU (alternatiu): ocorre, ocorri, ocorreguem, ocorreu, ocorrin
  INFINITIU: oferir
  GERUNDI: oferint
  PARTICIPI: ofert, oferta, oferts, ofertes
- PARTICIPI (alternatiu): oferit, oferida, oferits, oferides
  INDICATIU PRESENT: ofereixo, ofereixes, ofereix, oferim, oferiu, ofereixen
  INDICATIU IMPERFET: oferia, oferies, oferia, oferíem, oferíeu, oferien
  INDICATIU PASSAT: oferí, oferires, oferí, oferírem, oferíreu, oferiren
@@ -1191,7 +487,6 @@
  GERUNDI: oint
  PARTICIPI: oït, oïda, oïts, oïdes
  INDICATIU PRESENT: oeixo, oeixes, oeix, oïm, oïu, oeixen
- INDICATIU PRESENT (alternatiu): oeixo, ous, ou, oïm, oïu, ouen
  INDICATIU IMPERFET: oïa, oïes, oïa, oíem, oíeu, oïen
  INDICATIU PASSAT: oí, oïres, oí, oírem, oíreu, oïren
  INDICATIU FUTUR: oiré, oiràs, oirà, oirem, oireu, oiran
@@ -1199,11 +494,9 @@
  SUBJUNTIU PRESENT: oeixi, oeixis, oeixi, oïm, oïu, oeixin
  SUBJUNTIU IMPERFET: oís, oïssis, oís, oíssim, oíssiu, oïssin
  IMPERATIU: oeix, oeixi, oïm, oïu, oeixin
- IMPERATIU (alternatiu): ou, oeixi, oïm, oïu, oeixin
  INFINITIU: omplir
  GERUNDI: omplint
  PARTICIPI: omplert, omplerta, omplerts, omplertes
- PARTICIPI (alternatiu): omplit, omplida, omplits, omplides
  INDICATIU PRESENT: omplo, omples, omple, omplim, ompliu, omplen
  INDICATIU IMPERFET: omplia, omplies, omplia, omplíem, omplíeu, omplien
  INDICATIU PASSAT: omplí, omplires, omplí, omplírem, omplíreu, ompliren
@@ -1216,7 +509,6 @@
  GERUNDI: pareixent
  PARTICIPI: paregut, pareguda, pareguts, paregudes
  INDICATIU PRESENT: parec, pareixes, pareix, pareixem, pareixeu, pareixen
- INDICATIU PRESENT (alternatiu): pareixo, pareixes, pareix, pareixem, pareixeu, pareixen
  INDICATIU IMPERFET: pareixia, pareixies, pareixia, pareixíem, pareixíeu, pareixien
  INDICATIU PASSAT: pareguí, paregueres, paregué, pareguérem, pareguéreu, paregueren
  INDICATIU FUTUR: pareixeré, pareixeràs, pareixerà, pareixerem, pareixereu, pareixeran
@@ -1230,29 +522,11 @@
  INDICATIU PRESENT: peixo, peixes, peix, paixem, paixeu, peixen
  INDICATIU IMPERFET: paixia, paixies, paixia, paixíem, paixíeu, paixien
  INDICATIU PASSAT: paixí, paixeres, paixé, paixérem, paixéreu, paixeren
- INDICATIU PASSAT (alternatiu): pasquí, pasqueres, pasqué, pasquérem, pasquéreu, pasqueren
  INDICATIU FUTUR: paixeré, paixeràs, paixerà, paixerem, paixereu, paixeran
  INDICATIU CONDICIONAL: paixeria, paixeries, paixeria, paixeríem, paixeríeu, paixerien
  SUBJUNTIU PRESENT: peixi, peixis, peixi, paixem, paixeu, peixin
- SUBJUNTIU PRESENT (alternatiu): peixi, peixis, peixi, pasquem, pasqueu, peixin
  SUBJUNTIU IMPERFET: paixés, paixessis, paixés, paixéssim, paixéssiu, paixessin
- SUBJUNTIU IMPERFET (alternatiu): pasqués, pasquessis, pasqués, pasquéssim, pasquéssiu, pasquessin
  IMPERATIU: peix, peixi, paixem, paixeu, peixin
- IMPERATIU (alternatiu): peix, peixi, pasquem, paixeu, peixin
- INFINITIU: percudir
- GERUNDI: percudint
- PARTICIPI: percudit, percudida, percudits, percudides
- INDICATIU PRESENT: percudo, percuts, percut, percudim, percudiu, percuden
- INDICATIU PRESENT (alternatiu): percudeixo, percudeixes, percudeix, percudim, percudiu, percudeixen
- INDICATIU IMPERFET: percudia, percudies, percudia, percudíem, percudíeu, percudien
- INDICATIU PASSAT: percudí, percudires, percudí, percudírem, percudíreu, percudiren
- INDICATIU FUTUR: percudiré, percudiràs, percudirà, percudirem, percudireu, percudiran
- INDICATIU CONDICIONAL: percudiria, percudiries, percudiria, percudiríem, percudiríeu, percudirien
- SUBJUNTIU PRESENT: percudi, percudis, percudi, percudim, percudiu, percudin
- SUBJUNTIU PRESENT (alternatiu): percudeixi, percudeixis, percudeixi, percudim, percudiu, percudeixin
- SUBJUNTIU IMPERFET: percudís, percudissis, percudís, percudíssim, percudíssiu, percudissin
- IMPERATIU: percut, percudi, percudim, percudiu, percudin
- IMPERATIU (alternatiu): percudeix, percudeixi, percudim, percudiu, percudeixin
  INFINITIU: perfer
  GERUNDI: perfent
  PARTICIPI: perfet, perfeta, perfets, perfetes
@@ -1262,46 +536,33 @@
  INDICATIU FUTUR: perfaré, perfaràs, perfarà, perfarem, perfareu, perfaran
  INDICATIU CONDICIONAL: perfaria, perfaries, perfaria, perfaríem, perfaríeu, perfarien
  SUBJUNTIU PRESENT: perfaci, perfacis, perfaci, perfem, perfeu, perfacin
- SUBJUNTIU PRESENT (alternatiu): perfaci, perfacis, perfaci, perfacem, perfaceu, perfacin
  SUBJUNTIU IMPERFET: perfés, perfessis, perfés, perféssim, perféssiu, perfessin
  IMPERATIU: perfés, perfaci, perfem, perfeu, perfacin
- IMPERATIU (alternatiu): perfés, perfaci, perfacem, perfeu, perfacin
  INFINITIU: pertànyer
  GERUNDI: pertanyent
- PARTICIPI: pertangut, pertanguda, pertanguts, pertangudes
- PARTICIPI (alternatiu): pertanyut, pertanyuda, pertanyuts, pertanyudes
+ PARTICIPI: pertanyut, pertanyuda, pertanyuts, pertanyudes
  INDICATIU PRESENT: pertanyo, pertanys, pertany, pertanyem, pertanyeu, pertanyen
  INDICATIU IMPERFET: pertanyia, pertanyies, pertanyia, pertanyíem, pertanyíeu, pertanyien
  INDICATIU PASSAT: pertanyí, pertanyeres, pertanyé, pertanyérem, pertanyéreu, pertanyeren
- INDICATIU PASSAT (alternatiu): pertanguí, pertangueres, pertangué, pertanguérem, pertanguéreu, pertangueren
  INDICATIU FUTUR: pertanyeré, pertanyeràs, pertanyerà, pertanyerem, pertanyereu, pertanyeran
  INDICATIU CONDICIONAL: pertanyeria, pertanyeries, pertanyeria, pertanyeríem, pertanyeríeu, pertanyerien
  SUBJUNTIU PRESENT: pertanyi, pertanyis, pertanyi, pertanyem, pertanyeu, pertanyin
- SUBJUNTIU PRESENT (alternatiu): pertangui, pertanguis, pertangui, pertanguem, pertangueu, pertanguin
  SUBJUNTIU IMPERFET: pertanyés, pertanyessis, pertanyés, pertanyéssim, pertanyéssiu, pertanyessin
- SUBJUNTIU IMPERFET (alternatiu): pertangués, pertanguessis, pertangués, pertanguéssim, pertanguéssiu, pertanguessin
  IMPERATIU: pertany, pertanyi, pertanyem, pertanyeu, pertanyin
- IMPERATIU (alternatiu): pertany, pertangui, pertanguem, pertanyeu, pertanguin
  INFINITIU: plànyer
  GERUNDI: planyent
- PARTICIPI: plangut, planguda, planguts, plangudes
- PARTICIPI (alternatiu): planyut, planyuda, planyuts, planyudes
+ PARTICIPI: planyut, planyuda, planyuts, planyudes
  INDICATIU PRESENT: planyo, planys, plany, planyem, planyeu, planyen
  INDICATIU IMPERFET: planyia, planyies, planyia, planyíem, planyíeu, planyien
  INDICATIU PASSAT: planyí, planyeres, planyé, planyérem, planyéreu, planyeren
- INDICATIU PASSAT (alternatiu): planguí, plangueres, plangué, planguérem, planguéreu, plangueren
  INDICATIU FUTUR: planyeré, planyeràs, planyerà, planyerem, planyereu, planyeran
  INDICATIU CONDICIONAL: planyeria, planyeries, planyeria, planyeríem, planyeríeu, planyerien
  SUBJUNTIU PRESENT: planyi, planyis, planyi, planyem, planyeu, planyin
- SUBJUNTIU PRESENT (alternatiu): plangui, planguis, plangui, planguem, plangueu, planguin
  SUBJUNTIU IMPERFET: planyés, planyessis, planyés, planyéssim, planyéssiu, planyessin
- SUBJUNTIU IMPERFET (alternatiu): plangués, planguessis, plangués, planguéssim, planguéssiu, planguessin
  IMPERATIU: plany, planyi, planyem, planyeu, planyin
- IMPERATIU (alternatiu): plany, plangui, planguem, planyeu, planguin
  INFINITIU: pondre
  GERUNDI: ponent
- PARTICIPI: post, posta, posts, postes
- PARTICIPI (alternatiu): post, posta, postos, postes
+ PARTICIPI: post, posta, postos, postes
  INDICATIU PRESENT: ponc, pons, pon, ponem, poneu, ponen
  INDICATIU IMPERFET: ponia, ponies, ponia, poníem, poníeu, ponien
  INDICATIU PASSAT: ponguí, pongueres, pongué, ponguérem, ponguéreu, pongueren
@@ -1321,11 +582,9 @@
  SUBJUNTIU PRESENT: predigui, prediguis, predigui, prediguem, predigueu, prediguin
  SUBJUNTIU IMPERFET: predigués, prediguessis, predigués, prediguéssim, prediguéssiu, prediguessin
  IMPERATIU: predigues, predigui, prediguem, predigueu, prediguin
- IMPERATIU (alternatiu): prediu, predigui, prediguem, predieu, prediguin
  INFINITIU: preestablir
  GERUNDI: preestablint
  PARTICIPI: preestablert, preestablerta, preestablerts, preestablertes
- PARTICIPI (alternatiu): preestablit, preestablida, preestablits, preestablides
  INDICATIU PRESENT: preestableixo, preestableixes, preestableix, preestablim, preestabliu, preestableixen
  INDICATIU IMPERFET: preestablia, preestablies, preestablia, preestablíem, preestablíeu, preestablien
  INDICATIU PASSAT: preestablí, preestablires, preestablí, preestablírem, preestablíreu, preestabliren
@@ -1340,67 +599,44 @@
  INDICATIU PRESENT: prescric, prescrius, prescriu, prescrivim, prescriviu, prescriuen
  INDICATIU IMPERFET: prescrivia, prescrivies, prescrivia, prescrivíem, prescrivíeu, prescrivien
  INDICATIU PASSAT: prescriví, prescrivires, prescriví, prescrivírem, prescrivíreu, prescriviren
- INDICATIU PASSAT (alternatiu): prescriguí, prescrigueres, prescrigué, prescriguérem, prescriguéreu, prescrigueren
  INDICATIU FUTUR: prescriuré, prescriuràs, prescriurà, prescriurem, prescriureu, prescriuran
  INDICATIU CONDICIONAL: prescriuria, prescriuries, prescriuria, prescriuríem, prescriuríeu, prescriurien
  SUBJUNTIU PRESENT: prescrigui, prescriguis, prescrigui, prescriguem, prescrigueu, prescriguin
  SUBJUNTIU IMPERFET: prescrivís, prescrivissis, prescrivís, prescrivíssim, prescrivíssiu, prescrivissin
- SUBJUNTIU IMPERFET (alternatiu): prescrigués, prescriguessis, prescrigués, prescriguéssim, prescriguéssiu, prescriguessin
  IMPERATIU: prescriu, prescrigui, prescriguem, prescriviu, prescriguin
- INFINITIU: presumir
- GERUNDI: presumint
- PARTICIPI: presumit, presumida, presumits, presumides
- INDICATIU PRESENT: presumeixo, presumeixes, presumeix, presumim, presumiu, presumeixen
- INDICATIU PRESENT (alternatiu): presumo, presums, presum, presumim, presumiu, presumen
- INDICATIU IMPERFET: presumia, presumies, presumia, presumíem, presumíeu, presumien
- INDICATIU PASSAT: presumí, presumires, presumí, presumírem, presumíreu, presumiren
- INDICATIU FUTUR: presumiré, presumiràs, presumirà, presumirem, presumireu, presumiran
- INDICATIU CONDICIONAL: presumiria, presumiries, presumiria, presumiríem, presumiríeu, presumirien
- SUBJUNTIU PRESENT: presumeixi, presumeixis, presumeixi, presumim, presumiu, presumeixin
- SUBJUNTIU PRESENT (alternatiu): presumi, presumis, presumi, presumim, presumiu, presumin
- SUBJUNTIU IMPERFET: presumís, presumissis, presumís, presumíssim, presumíssiu, presumissin
- IMPERATIU: presumeix, presumeixi, presumim, presumiu, presumeixin
- IMPERATIU (alternatiu): presum, presumi, presumim, presumiu, presumin
  INFINITIU: preveure
  GERUNDI: preveient
  PARTICIPI: previst, prevista, prevists, previstes
- PARTICIPI (alternatiu): previst, prevista, previstos, previstes
  INDICATIU PRESENT: preveig, preveus, preveu, preveiem, preveieu, preveuen
  INDICATIU IMPERFET: preveia, preveies, preveia, prevèiem, prevèieu, preveien
  INDICATIU PASSAT: previu, preveieres, preveié, preveiérem, preveiéreu, preveieren
- INDICATIU PASSAT (alternatiu): previu, preveres, prevéu, prevérem, prevéreu, preveren
  INDICATIU FUTUR: preveuré, preveuràs, preveurà, preveurem, preveureu, preveuran
  INDICATIU CONDICIONAL: preveuria, preveuries, preveuria, preveuríem, preveuríeu, preveurien
  SUBJUNTIU PRESENT: prevegi, prevegis, prevegi, prevegem, prevegeu, prevegin
  SUBJUNTIU IMPERFET: preveiés, preveiessis, preveiés, preveiéssim, preveiéssiu, preveiessin
  IMPERATIU: preveges, prevegi, prevegem, prevegeu, prevegin
- IMPERATIU (alternatiu): preveges, prevegi, prevegem, preveieu, prevegin
  INFINITIU: proscriure
  GERUNDI: proscrivint
  PARTICIPI: proscrit, proscrita, proscrits, proscrites
  INDICATIU PRESENT: proscric, proscrius, proscriu, proscrivim, proscriviu, proscriuen
  INDICATIU IMPERFET: proscrivia, proscrivies, proscrivia, proscrivíem, proscrivíeu, proscrivien
  INDICATIU PASSAT: proscriví, proscrivires, proscriví, proscrivírem, proscrivíreu, proscriviren
- INDICATIU PASSAT (alternatiu): proscriguí, proscrigueres, proscrigué, proscriguérem, proscriguéreu, proscrigueren
  INDICATIU FUTUR: proscriuré, proscriuràs, proscriurà, proscriurem, proscriureu, proscriuran
  INDICATIU CONDICIONAL: proscriuria, proscriuries, proscriuria, proscriuríem, proscriuríeu, proscriurien
  SUBJUNTIU PRESENT: proscrigui, proscriguis, proscrigui, proscriguem, proscrigueu, proscriguin
  SUBJUNTIU IMPERFET: proscrivís, proscrivissis, proscrivís, proscrivíssim, proscrivíssiu, proscrivissin
- SUBJUNTIU IMPERFET (alternatiu): proscrigués, proscriguessis, proscrigués, proscriguéssim, proscriguéssiu, proscriguessin
  IMPERATIU: proscriu, proscrigui, proscriguem, proscriviu, proscriguin
  INFINITIU: pruir
  GERUNDI: pruint
  PARTICIPI: pruït, pruïda, pruïts, pruïdes
- INDICATIU PRESENT: pruo, pruus, pruu, pruïm, pruïu, pruen
- INDICATIU PRESENT (alternatiu): pruu, prus, pru, pruïm, pruïu, pruen
+ INDICATIU PRESENT: pruo, prus, pru, pruïm, pruïu, pruen
  INDICATIU IMPERFET: pruïa, pruïes, pruïa, pruíem, pruíeu, pruïen
  INDICATIU PASSAT: pruí, pruïres, pruí, pruírem, pruíreu, pruïren
  INDICATIU FUTUR: pruiré, pruiràs, pruirà, pruirem, pruireu, pruiran
  INDICATIU CONDICIONAL: pruiria, pruiries, pruiria, pruiríem, pruiríeu, pruirien
  SUBJUNTIU PRESENT: pruï, pruïs, pruï, pruïm, pruïu, pruïn
  SUBJUNTIU IMPERFET: pruís, pruïssis, pruís, pruíssim, pruíssiu, pruïssin
- IMPERATIU: pruu, pruï, pruïm, pruïu, pruïn
- IMPERATIU (alternatiu): pru, pruï, pruïm, pruïu, pruïn
+ IMPERATIU: pru, pruï, pruïm, pruïu, pruïn
  INFINITIU: rarefer
  GERUNDI: rarefent
  PARTICIPI: rarefet, rarefeta, rarefets, rarefetes
@@ -1410,14 +646,11 @@
  INDICATIU FUTUR: rarefaré, rarefaràs, rarefarà, rarefarem, rarefareu, rarefaran
  INDICATIU CONDICIONAL: rarefaria, rarefaries, rarefaria, rarefaríem, rarefaríeu, rarefarien
  SUBJUNTIU PRESENT: rarefaci, rarefacis, rarefaci, rarefem, rarefeu, rarefacin
- SUBJUNTIU PRESENT (alternatiu): rarefaci, rarefacis, rarefaci, rarefacem, rarefaceu, rarefacin
  SUBJUNTIU IMPERFET: rarefés, rarefessis, rarefés, rareféssim, rareféssiu, rarefessin
  IMPERATIU: rarefés, rarefaci, rarefem, rarefeu, rarefacin
- IMPERATIU (alternatiu): rarefés, rarefaci, rarefacem, rarefeu, rarefacin
  INFINITIU: raure
  GERUNDI: raent
  PARTICIPI: ragut, raguda, raguts, ragudes
- PARTICIPI (alternatiu): ras, rasa, rasos, rases
  INDICATIU PRESENT: rac, raus, rau, raem, raeu, rauen
  INDICATIU IMPERFET: raïa, raïes, raïa, raíem, raíeu, raïen
  INDICATIU PASSAT: raguí, ragueres, ragué, raguérem, raguéreu, ragueren
@@ -1426,22 +659,9 @@
  SUBJUNTIU PRESENT: ragui, raguis, ragui, raguem, ragueu, raguin
  SUBJUNTIU IMPERFET: ragués, raguessis, ragués, raguéssim, raguéssiu, raguessin
  IMPERATIU: rau, ragui, raguem, raeu, raguin
- INFINITIU: reaparèixer
- GERUNDI: reapareixent
- PARTICIPI: reaparegut, reapareguda, reapareguts, reaparegudes
- INDICATIU PRESENT: reaparec, reapareixes, reapareix, reapareixem, reapareixeu, reapareixen
- INDICATIU PRESENT (alternatiu): reapareixo, reapareixes, reapareix, reapareixem, reapareixeu, reapareixen
- INDICATIU IMPERFET: reapareixia, reapareixies, reapareixia, reapareixíem, reapareixíeu, reapareixien
- INDICATIU PASSAT: reapareguí, reaparegueres, reaparegué, reapareguérem, reapareguéreu, reaparegueren
- INDICATIU FUTUR: reapareixeré, reapareixeràs, reapareixerà, reapareixerem, reapareixereu, reapareixeran
- INDICATIU CONDICIONAL: reapareixeria, reapareixeries, reapareixeria, reapareixeríem, reapareixeríeu, reapareixerien
- SUBJUNTIU PRESENT: reaparegui, reapareguis, reaparegui, reapareguem, reaparegueu, reapareguin
- SUBJUNTIU IMPERFET: reaparegués, reapareguessis, reaparegués, reapareguéssim, reapareguéssiu, reapareguessin
- IMPERATIU: reapareix, reaparegui, reapareguem, reapareixeu, reapareguin
  INFINITIU: reblir
  GERUNDI: reblint
  PARTICIPI: reblert, reblerta, reblerts, reblertes
- PARTICIPI (alternatiu): reblit, reblida, reblits, reblides
  INDICATIU PRESENT: rebleixo, rebleixes, rebleix, reblim, rebliu, rebleixen
  INDICATIU IMPERFET: reblia, reblies, reblia, reblíem, reblíeu, reblien
  INDICATIU PASSAT: reblí, reblires, reblí, reblírem, reblíreu, rebliren
@@ -1453,7 +673,6 @@
  INFINITIU: recomplir
  GERUNDI: recomplint
  PARTICIPI: recomplert, recomplerta, recomplerts, recomplertes
- PARTICIPI (alternatiu): recomplit, recomplida, recomplits, recomplides
  INDICATIU PRESENT: recompleixo, recompleixes, recompleix, recomplim, recompliu, recompleixen
  INDICATIU IMPERFET: recomplia, recomplies, recomplia, recomplíem, recomplíeu, recomplien
  INDICATIU PASSAT: recomplí, recomplires, recomplí, recomplírem, recomplíreu, recompliren
@@ -1464,8 +683,7 @@
  IMPERATIU: recompleix, recompleixi, recomplim, recompliu, recompleixin
  INFINITIU: recompondre
  GERUNDI: recomponent
- PARTICIPI: recompost, recomposta, recomposts, recompostes
- PARTICIPI (alternatiu): recompost, recomposta, recompostos, recompostes
+ PARTICIPI: recompost, recomposta, recompostos, recompostes
  INDICATIU PRESENT: recomponc, recompons, recompon, recomponem, recomponeu, recomponen
  INDICATIU IMPERFET: recomponia, recomponies, recomponia, recomponíem, recomponíeu, recomponien
  INDICATIU PASSAT: recomponguí, recompongueres, recompongué, recomponguérem, recomponguéreu, recompongueren
@@ -1474,46 +692,27 @@
  SUBJUNTIU PRESENT: recompongui, recomponguis, recompongui, recomponguem, recompongueu, recomponguin
  SUBJUNTIU IMPERFET: recompongués, recomponguessis, recompongués, recomponguéssim, recomponguéssiu, recomponguessin
  IMPERATIU: recompon, recompongui, recomponguem, recomponeu, recomponguin
- INFINITIU: recórrer
- GERUNDI: recorrent
- PARTICIPI: recorregut, recorreguda, recorreguts, recorregudes
- INDICATIU PRESENT: recorro, recorres, recorre, recorrem, recorreu, recorren
- INDICATIU IMPERFET: recorria, recorries, recorria, recorríem, recorríeu, recorrien
- INDICATIU PASSAT: recorreguí, recorregueres, recorregué, recorreguérem, recorreguéreu, recorregueren
- INDICATIU FUTUR: recorreré, recorreràs, recorrerà, recorrerem, recorrereu, recorreran
- INDICATIU CONDICIONAL: recorreria, recorreries, recorreria, recorreríem, recorreríeu, recorrerien
- SUBJUNTIU PRESENT: recorri, recorris, recorri, recorrem, recorreu, recorrin
- SUBJUNTIU PRESENT (alternatiu): recorri, recorris, recorri, recorreguem, recorregueu, recorrin
- SUBJUNTIU IMPERFET: recorregués, recorreguessis, recorregués, recorreguéssim, recorreguéssiu, recorreguessin
- IMPERATIU: recorre, recorri, recorrem, recorreu, recorrin
- IMPERATIU (alternatiu): recorre, recorri, recorreguem, recorreu, recorrin
  INFINITIU: recréixer
  GERUNDI: recreixent
  PARTICIPI: recrescut, recrescuda, recrescuts, recrescudes
  INDICATIU PRESENT: recreixo, recreixes, recreix, recreixem, recreixeu, recreixen
  INDICATIU IMPERFET: recreixia, recreixies, recreixia, recreixíem, recreixíeu, recreixien
  INDICATIU PASSAT: recreixí, recreixeres, recreixé, recreixérem, recreixéreu, recreixeren
- INDICATIU PASSAT (alternatiu): recresquí, recresqueres, recresqué, recresquérem, recresquéreu, recresqueren
  INDICATIU FUTUR: recreixeré, recreixeràs, recreixerà, recreixerem, recreixereu, recreixeran
  INDICATIU CONDICIONAL: recreixeria, recreixeries, recreixeria, recreixeríem, recreixeríeu, recreixerien
  SUBJUNTIU PRESENT: recreixi, recreixis, recreixi, recreixem, recreixeu, recreixin
- SUBJUNTIU PRESENT (alternatiu): recreixi, recreixis, recreixi, recresquem, recresqueu, recreixin
  SUBJUNTIU IMPERFET: recreixés, recreixessis, recreixés, recreixéssim, recreixéssiu, recreixessin
- SUBJUNTIU IMPERFET (alternatiu): recresqués, recresquessis, recresqués, recresquéssim, recresquéssiu, recresquessin
  IMPERATIU: recreix, recreixi, recreixem, recreixeu, recreixin
- IMPERATIU (alternatiu): recreix, recreixi, recresquem, recreixeu, recreixin
  INFINITIU: reescriure
  GERUNDI: reescrivint
  PARTICIPI: reescrit, reescrita, reescrits, reescrites
  INDICATIU PRESENT: reescric, reescrius, reescriu, reescrivim, reescriviu, reescriuen
  INDICATIU IMPERFET: reescrivia, reescrivies, reescrivia, reescrivíem, reescrivíeu, reescrivien
  INDICATIU PASSAT: reescriví, reescrivires, reescriví, reescrivírem, reescrivíreu, reescriviren
- INDICATIU PASSAT (alternatiu): reescriguí, reescrigueres, reescrigué, reescriguérem, reescriguéreu, reescrigueren
  INDICATIU FUTUR: reescriuré, reescriuràs, reescriurà, reescriurem, reescriureu, reescriuran
  INDICATIU CONDICIONAL: reescriuria, reescriuries, reescriuria, reescriuríem, reescriuríeu, reescriurien
  SUBJUNTIU PRESENT: reescrigui, reescriguis, reescrigui, reescriguem, reescrigueu, reescriguin
  SUBJUNTIU IMPERFET: reescrivís, reescrivissis, reescrivís, reescrivíssim, reescrivíssiu, reescrivissin
- SUBJUNTIU IMPERFET (alternatiu): reescrigués, reescriguessis, reescrigués, reescriguéssim, reescriguéssiu, reescriguessin
  IMPERATIU: reescriu, reescrigui, reescriguem, reescriviu, reescriguin
  INFINITIU: refer
  GERUNDI: refent
@@ -1524,60 +723,22 @@
  INDICATIU FUTUR: refaré, refaràs, refarà, refarem, refareu, refaran
  INDICATIU CONDICIONAL: refaria, refaries, refaria, refaríem, refaríeu, refarien
  SUBJUNTIU PRESENT: refaci, refacis, refaci, refem, refeu, refacin
- SUBJUNTIU PRESENT (alternatiu): refaci, refacis, refaci, refacem, refaceu, refacin
  SUBJUNTIU IMPERFET: refés, refessis, refés, reféssim, reféssiu, refessin
  IMPERATIU: refés, refaci, refem, refeu, refacin
- IMPERATIU (alternatiu): refés, refaci, refacem, refeu, refacin
  INFINITIU: relluir
  GERUNDI: relluint
  PARTICIPI: relluït, relluïda, relluïts, relluïdes
  INDICATIU PRESENT: relluo, relluus, relluu, relluïm, relluïu, relluen
- INDICATIU PRESENT (alternatiu): relluu, rellús, rellú, relluïm, relluïu, relluen
- INDICATIU PRESENT (alternatiu): rellueixo, rellueixes, rellueix, relluïm, relluïu, rellueixen
  INDICATIU IMPERFET: relluïa, relluïes, relluïa, relluíem, relluíeu, relluïen
  INDICATIU PASSAT: relluí, relluïres, relluí, relluírem, relluíreu, relluïren
  INDICATIU FUTUR: relluiré, relluiràs, relluirà, relluirem, relluireu, relluiran
  INDICATIU CONDICIONAL: relluiria, relluiries, relluiria, relluiríem, relluiríeu, relluirien
  SUBJUNTIU PRESENT: relluï, relluïs, relluï, relluïm, relluïu, relluïn
- SUBJUNTIU PRESENT (alternatiu): rellueixi, rellueixis, rellueixi, relluïm, relluïu, rellueixin
  SUBJUNTIU IMPERFET: relluís, relluïssis, relluís, relluíssim, relluíssiu, relluïssin
  IMPERATIU: relluu, relluï, relluïm, relluïu, relluïn
- IMPERATIU (alternatiu): rellú, relluï, relluïm, relluïu, relluïn
- IMPERATIU (alternatiu): rellueix, rellueixi, relluïm, relluïu, rellueixin
- INFINITIU: renàixer
- GERUNDI: renaixent
- PARTICIPI: renascut, renascuda, renascuts, renascudes
- INDICATIU PRESENT: renaixo, renaixes, renaix, renaixem, renaixeu, renaixen
- INDICATIU IMPERFET: renaixia, renaixies, renaixia, renaixíem, renaixíeu, renaixien
- INDICATIU PASSAT: renaixí, renaixeres, renaixé, renaixérem, renaixéreu, renaixeren
- INDICATIU PASSAT (alternatiu): renasquí, renasqueres, renasqué, renasquérem, renasquéreu, renasqueren
- INDICATIU FUTUR: renaixeré, renaixeràs, renaixerà, renaixerem, renaixereu, renaixeran
- INDICATIU CONDICIONAL: renaixeria, renaixeries, renaixeria, renaixeríem, renaixeríeu, renaixerien
- SUBJUNTIU PRESENT: renaixi, renaixis, renaixi, renaixem, renaixeu, renaixin
- SUBJUNTIU PRESENT (alternatiu): renaixi, renaixis, renaixi, renasquem, renasqueu, renaixin
- SUBJUNTIU IMPERFET: renaixés, renaixessis, renaixés, renaixéssim, renaixéssiu, renaixessin
- SUBJUNTIU IMPERFET (alternatiu): renasqués, renasquessis, renasqués, renasquéssim, renasquéssiu, renasquessin
- IMPERATIU: renaix, renaixi, renaixem, renaixeu, renaixin
- IMPERATIU (alternatiu): renaix, renaixi, renasquem, renaixeu, renaixin
- INFINITIU: renéixer
- GERUNDI: renaixent
- PARTICIPI: renascut, renascuda, renascuts, renascudes
- INDICATIU PRESENT: reneixo, reneixes, reneix, renaixem, renaixeu, reneixen
- INDICATIU IMPERFET: renaixia, renaixies, renaixia, renaixíem, renaixíeu, renaixien
- INDICATIU PASSAT: renaixí, renaixeres, renaixé, renaixérem, renaixéreu, renaixeren
- INDICATIU PASSAT (alternatiu): renasquí, renasqueres, renasqué, renasquérem, renasquéreu, renasqueren
- INDICATIU FUTUR: renaixeré, renaixeràs, renaixerà, renaixerem, renaixereu, renaixeran
- INDICATIU CONDICIONAL: renaixeria, renaixeries, renaixeria, renaixeríem, renaixeríeu, renaixerien
- SUBJUNTIU PRESENT: reneixi, reneixis, reneixi, renaixem, renaixeu, reneixin
- SUBJUNTIU PRESENT (alternatiu): reneixi, reneixis, reneixi, renasquem, renasqueu, reneixin
- SUBJUNTIU IMPERFET: renaixés, renaixessis, renaixés, renaixéssim, renaixéssiu, renaixessin
- SUBJUNTIU IMPERFET (alternatiu): renasqués, renasquessis, renasqués, renasquéssim, renasquéssiu, renasquessin
- IMPERATIU: reneix, reneixi, renaixem, renaixeu, reneixin
- IMPERATIU (alternatiu): reneix, reneixi, renasquem, renaixeu, reneixin
  INFINITIU: reomplir
  GERUNDI: reomplint
  PARTICIPI: reomplert, reomplerta, reomplerts, reomplertes
- PARTICIPI (alternatiu): reomplit, reomplida, reomplits, reomplides
  INDICATIU PRESENT: reomplo, reomples, reomple, reomplim, reompliu, reomplen
  INDICATIU IMPERFET: reomplia, reomplies, reomplia, reomplíem, reomplíeu, reomplien
  INDICATIU PASSAT: reomplí, reomplires, reomplí, reomplírem, reomplíreu, reompliren
@@ -1588,8 +749,7 @@
  IMPERATIU: reomple, reompli, reomplim, reompliu, reomplin
  INFINITIU: respondre
  GERUNDI: responent
- PARTICIPI: respost, resposta, resposts, respostes
- PARTICIPI (alternatiu): respost, resposta, respostos, respostes
+ PARTICIPI: respost, resposta, respostos, respostes
  INDICATIU PRESENT: responc, respons, respon, responem, responeu, responen
  INDICATIU IMPERFET: responia, responies, responia, responíem, responíeu, responien
  INDICATIU PASSAT: responguí, respongueres, respongué, responguérem, responguéreu, respongueren
@@ -1601,7 +761,6 @@
  INFINITIU: restablir
  GERUNDI: restablint
  PARTICIPI: restablert, restablerta, restablerts, restablertes
- PARTICIPI (alternatiu): restablit, restablida, restablits, restablides
  INDICATIU PRESENT: restableixo, restableixes, restableix, restablim, restabliu, restableixen
  INDICATIU IMPERFET: restablia, restablies, restablia, restablíem, restablíeu, restablien
  INDICATIU PASSAT: restablí, restablires, restablí, restablírem, restablíreu, restabliren
@@ -1610,44 +769,6 @@
  SUBJUNTIU PRESENT: restableixi, restableixis, restableixi, restablim, restabliu, restableixin
  SUBJUNTIU IMPERFET: restablís, restablissis, restablís, restablíssim, restablíssiu, restablissin
  IMPERATIU: restableix, restableixi, restablim, restabliu, restableixin
- INFINITIU: resumir
- GERUNDI: resumint
- PARTICIPI: resumit, resumida, resumits, resumides
- INDICATIU PRESENT: resumeixo, resumeixes, resumeix, resumim, resumiu, resumeixen
- INDICATIU PRESENT (alternatiu): resumo, resums, resum, resumim, resumiu, resumen
- INDICATIU IMPERFET: resumia, resumies, resumia, resumíem, resumíeu, resumien
- INDICATIU PASSAT: resumí, resumires, resumí, resumírem, resumíreu, resumiren
- INDICATIU FUTUR: resumiré, resumiràs, resumirà, resumirem, resumireu, resumiran
- INDICATIU CONDICIONAL: resumiria, resumiries, resumiria, resumiríem, resumiríeu, resumirien
- SUBJUNTIU PRESENT: resumeixi, resumeixis, resumeixi, resumim, resumiu, resumeixin
- SUBJUNTIU PRESENT (alternatiu): resumi, resumis, resumi, resumim, resumiu, resumin
- SUBJUNTIU IMPERFET: resumís, resumissis, resumís, resumíssim, resumíssiu, resumissin
- IMPERATIU: resumeix, resumeixi, resumim, resumiu, resumeixin
- IMPERATIU (alternatiu): resum, resumi, resumim, resumiu, resumin
- INFINITIU: retenir
- GERUNDI: retenint
- PARTICIPI: retingut, retinguda, retinguts, retingudes
- INDICATIU PRESENT: retinc, retens, reté, retenim, reteniu, retenen
- INDICATIU IMPERFET: retenia, retenies, retenia, reteníem, reteníeu, retenien
- INDICATIU PASSAT: retinguí, retingueres, retingué, retinguérem, retinguéreu, retingueren
- INDICATIU FUTUR: retindré, retindràs, retindrà, retindrem, retindreu, retindran
- INDICATIU CONDICIONAL: retindria, retindries, retindria, retindríem, retindríeu, retindrien
- SUBJUNTIU PRESENT: retingui, retinguis, retingui, retinguem, retingueu, retinguin
- SUBJUNTIU IMPERFET: retingués, retinguessis, retingués, retinguéssim, retinguéssiu, retinguessin
- IMPERATIU: retén, retingui, retinguem, reteniu, retinguin
- IMPERATIU (alternatiu): retingues, retingui, retinguem, retingueu, retinguin
- INFINITIU: retindre
- GERUNDI: retenint
- PARTICIPI: retingut, retinguda, retinguts, retingudes
- INDICATIU PRESENT: retinc, retens, reté, retenim, reteniu, retenen
- INDICATIU IMPERFET: retenia, retenies, retenia, reteníem, reteníeu, retenien
- INDICATIU PASSAT: retinguí, retingueres, retingué, retinguérem, retinguéreu, retingueren
- INDICATIU FUTUR: retindré, retindràs, retindrà, retindrem, retindreu, retindran
- INDICATIU CONDICIONAL: retindria, retindries, retindria, retindríem, retindríeu, retindrien
- SUBJUNTIU PRESENT: retingui, retinguis, retingui, retinguem, retingueu, retinguin
- SUBJUNTIU IMPERFET: retingués, retinguessis, retingués, retinguéssim, retinguéssiu, retinguessin
- IMPERATIU: retén, retingui, retinguem, reteniu, retinguin
- IMPERATIU (alternatiu): retingues, retingui, retinguem, retingueu, retinguin
  INFINITIU: revenir
  GERUNDI: revenint
  PARTICIPI: revingut, revinguda, revinguts, revingudes
@@ -1659,21 +780,17 @@
  SUBJUNTIU PRESENT: revingui, revinguis, revingui, revinguem, revingueu, revinguin
  SUBJUNTIU IMPERFET: revingués, revinguessis, revingués, revinguéssim, revinguéssiu, revinguessin
  IMPERATIU: revén, revingui, revinguem, reveniu, revinguin
- IMPERATIU (alternatiu): revine, revingui, revinguem, reveniu, revinguin
  INFINITIU: reveure
  GERUNDI: reveient
  PARTICIPI: revist, revista, revists, revistes
- PARTICIPI (alternatiu): revist, revista, revistos, revistes
  INDICATIU PRESENT: reveig, reveus, reveu, reveiem, reveieu, reveuen
  INDICATIU IMPERFET: reveia, reveies, reveia, revèiem, revèieu, reveien
  INDICATIU PASSAT: reviu, reveieres, reveié, reveiérem, reveiéreu, reveieren
- INDICATIU PASSAT (alternatiu): reviu, reveres, revéu, revérem, revéreu, reveren
  INDICATIU FUTUR: reveuré, reveuràs, reveurà, reveurem, reveureu, reveuran
  INDICATIU CONDICIONAL: reveuria, reveuries, reveuria, reveuríem, reveuríeu, reveurien
  SUBJUNTIU PRESENT: revegi, revegis, revegi, revegem, revegeu, revegin
  SUBJUNTIU IMPERFET: reveiés, reveiessis, reveiés, reveiéssim, reveiéssiu, reveiessin
  IMPERATIU: reveges, revegi, revegem, revegeu, revegin
- IMPERATIU (alternatiu): reveges, revegi, revegem, reveieu, revegin
  INFINITIU: revindre
  GERUNDI: revenint
  PARTICIPI: revingut, revinguda, revinguts, revingudes
@@ -1685,11 +802,9 @@
  SUBJUNTIU PRESENT: revingui, revinguis, revingui, revinguem, revingueu, revinguin
  SUBJUNTIU IMPERFET: revingués, revinguessis, revingués, revinguéssim, revinguéssiu, revinguessin
  IMPERATIU: revén, revingui, revinguem, reveniu, revinguin
- IMPERATIU (alternatiu): revine, revingui, revinguem, reveniu, revinguin
  INFINITIU: riure
  GERUNDI: rient
  PARTICIPI: rigut, riguda, riguts, rigudes
- PARTICIPI (alternatiu): rist, rista, rists, ristes
  INDICATIU PRESENT: ric, rius, riu, riem, rieu, riuen
  INDICATIU IMPERFET: reia, reies, reia, rèiem, rèieu, reien
  INDICATIU PASSAT: riguí, rigueres, rigué, riguérem, riguéreu, rigueren
@@ -1707,85 +822,22 @@
  INDICATIU FUTUR: satisfaré, satisfaràs, satisfarà, satisfarem, satisfareu, satisfaran
  INDICATIU CONDICIONAL: satisfaria, satisfaries, satisfaria, satisfaríem, satisfaríeu, satisfarien
  SUBJUNTIU PRESENT: satisfaci, satisfacis, satisfaci, satisfem, satisfeu, satisfacin
- SUBJUNTIU PRESENT (alternatiu): satisfaci, satisfacis, satisfaci, satisfacem, satisfaceu, satisfacin
  SUBJUNTIU IMPERFET: satisfés, satisfessis, satisfés, satisféssim, satisféssiu, satisfessin
  IMPERATIU: satisfés, satisfaci, satisfem, satisfeu, satisfacin
- IMPERATIU (alternatiu): satisfés, satisfaci, satisfacem, satisfeu, satisfacin
- INFINITIU: sobrecréixer
- GERUNDI: sobrecreixent
- PARTICIPI: sobrecrescut, sobrecrescuda, sobrecrescuts, sobrecrescudes
- INDICATIU PRESENT: sobrecreixo, sobrecreixes, sobrecreix, sobrecreixem, sobrecreixeu, sobrecreixen
- INDICATIU IMPERFET: sobrecreixia, sobrecreixies, sobrecreixia, sobrecreixíem, sobrecreixíeu, sobrecreixien
- INDICATIU PASSAT: sobrecreixí, sobrecreixeres, sobrecreixé, sobrecreixérem, sobrecreixéreu, sobrecreixeren
- INDICATIU PASSAT (alternatiu): sobrecresquí, sobrecresqueres, sobrecresqué, sobrecresquérem, sobrecresquéreu, sobrecresqueren
- INDICATIU FUTUR: sobrecreixeré, sobrecreixeràs, sobrecreixerà, sobrecreixerem, sobrecreixereu, sobrecreixeran
- INDICATIU CONDICIONAL: sobrecreixeria, sobrecreixeries, sobrecreixeria, sobrecreixeríem, sobrecreixeríeu, sobrecreixerien
- SUBJUNTIU PRESENT: sobrecreixi, sobrecreixis, sobrecreixi, sobrecreixem, sobrecreixeu, sobrecreixin
- SUBJUNTIU PRESENT (alternatiu): sobrecreixi, sobrecreixis, sobrecreixi, sobrecresquem, sobrecresqueu, sobrecreixin
- SUBJUNTIU IMPERFET: sobrecreixés, sobrecreixessis, sobrecreixés, sobrecreixéssim, sobrecreixéssiu, sobrecreixessin
- SUBJUNTIU IMPERFET (alternatiu): sobrecresqués, sobrecresquessis, sobrecresqués, sobrecresquéssim, sobrecresquéssiu, sobrecresquessin
- IMPERATIU: sobrecreix, sobrecreixi, sobrecreixem, sobrecreixeu, sobrecreixin
- IMPERATIU (alternatiu): sobrecreix, sobrecreixi, sobrecresquem, sobrecreixeu, sobrecreixin
  INFINITIU: sobreescriure
  GERUNDI: sobreescrivint
  PARTICIPI: sobreescrit, sobreescrita, sobreescrits, sobreescrites
  INDICATIU PRESENT: sobreescric, sobreescrius, sobreescriu, sobreescrivim, sobreescriviu, sobreescriuen
  INDICATIU IMPERFET: sobreescrivia, sobreescrivies, sobreescrivia, sobreescrivíem, sobreescrivíeu, sobreescrivien
  INDICATIU PASSAT: sobreescriví, sobreescrivires, sobreescriví, sobreescrivírem, sobreescrivíreu, sobreescriviren
- INDICATIU PASSAT (alternatiu): sobreescriguí, sobreescrigueres, sobreescrigué, sobreescriguérem, sobreescriguéreu, sobreescrigueren
  INDICATIU FUTUR: sobreescriuré, sobreescriuràs, sobreescriurà, sobreescriurem, sobreescriureu, sobreescriuran
  INDICATIU CONDICIONAL: sobreescriuria, sobreescriuries, sobreescriuria, sobreescriuríem, sobreescriuríeu, sobreescriurien
  SUBJUNTIU PRESENT: sobreescrigui, sobreescriguis, sobreescrigui, sobreescriguem, sobreescrigueu, sobreescriguin
  SUBJUNTIU IMPERFET: sobreescrivís, sobreescrivissis, sobreescrivís, sobreescrivíssim, sobreescrivíssiu, sobreescrivissin
- SUBJUNTIU IMPERFET (alternatiu): sobreescrigués, sobreescriguessis, sobreescrigués, sobreescriguéssim, sobreescriguéssiu, sobreescriguessin
  IMPERATIU: sobreescriu, sobreescrigui, sobreescriguem, sobreescriviu, sobreescriguin
- INFINITIU: sobrenàixer
- GERUNDI: sobrenaixent
- PARTICIPI: sobrenascut, sobrenascuda, sobrenascuts, sobrenascudes
- INDICATIU PRESENT: sobrenaixo, sobrenaixes, sobrenaix, sobrenaixem, sobrenaixeu, sobrenaixen
- INDICATIU IMPERFET: sobrenaixia, sobrenaixies, sobrenaixia, sobrenaixíem, sobrenaixíeu, sobrenaixien
- INDICATIU PASSAT: sobrenaixí, sobrenaixeres, sobrenaixé, sobrenaixérem, sobrenaixéreu, sobrenaixeren
- INDICATIU PASSAT (alternatiu): sobrenasquí, sobrenasqueres, sobrenasqué, sobrenasquérem, sobrenasquéreu, sobrenasqueren
- INDICATIU FUTUR: sobrenaixeré, sobrenaixeràs, sobrenaixerà, sobrenaixerem, sobrenaixereu, sobrenaixeran
- INDICATIU CONDICIONAL: sobrenaixeria, sobrenaixeries, sobrenaixeria, sobrenaixeríem, sobrenaixeríeu, sobrenaixerien
- SUBJUNTIU PRESENT: sobrenaixi, sobrenaixis, sobrenaixi, sobrenaixem, sobrenaixeu, sobrenaixin
- SUBJUNTIU PRESENT (alternatiu): sobrenaixi, sobrenaixis, sobrenaixi, sobrenasquem, sobrenasqueu, sobrenaixin
- SUBJUNTIU IMPERFET: sobrenaixés, sobrenaixessis, sobrenaixés, sobrenaixéssim, sobrenaixéssiu, sobrenaixessin
- SUBJUNTIU IMPERFET (alternatiu): sobrenasqués, sobrenasquessis, sobrenasqués, sobrenasquéssim, sobrenasquéssiu, sobrenasquessin
- IMPERATIU: sobrenaix, sobrenaixi, sobrenaixem, sobrenaixeu, sobrenaixin
- IMPERATIU (alternatiu): sobrenaix, sobrenaixi, sobrenasquem, sobrenaixeu, sobrenaixin
- INFINITIU: sobrenéixer
- GERUNDI: sobrenaixent
- PARTICIPI: sobrenascut, sobrenascuda, sobrenascuts, sobrenascudes
- INDICATIU PRESENT: sobreneixo, sobreneixes, sobreneix, sobrenaixem, sobrenaixeu, sobreneixen
- INDICATIU IMPERFET: sobrenaixia, sobrenaixies, sobrenaixia, sobrenaixíem, sobrenaixíeu, sobrenaixien
- INDICATIU PASSAT: sobrenaixí, sobrenaixeres, sobrenaixé, sobrenaixérem, sobrenaixéreu, sobrenaixeren
- INDICATIU PASSAT (alternatiu): sobrenasquí, sobrenasqueres, sobrenasqué, sobrenasquérem, sobrenasquéreu, sobrenasqueren
- INDICATIU FUTUR: sobrenaixeré, sobrenaixeràs, sobrenaixerà, sobrenaixerem, sobrenaixereu, sobrenaixeran
- INDICATIU CONDICIONAL: sobrenaixeria, sobrenaixeries, sobrenaixeria, sobrenaixeríem, sobrenaixeríeu, sobrenaixerien
- SUBJUNTIU PRESENT: sobreneixi, sobreneixis, sobreneixi, sobrenaixem, sobrenaixeu, sobreneixin
- SUBJUNTIU PRESENT (alternatiu): sobreneixi, sobreneixis, sobreneixi, sobrenasquem, sobrenasqueu, sobreneixin
- SUBJUNTIU IMPERFET: sobrenaixés, sobrenaixessis, sobrenaixés, sobrenaixéssim, sobrenaixéssiu, sobrenaixessin
- SUBJUNTIU IMPERFET (alternatiu): sobrenasqués, sobrenasquessis, sobrenasqués, sobrenasquéssim, sobrenasquéssiu, sobrenasquessin
- IMPERATIU: sobreneix, sobreneixi, sobrenaixem, sobrenaixeu, sobreneixin
- IMPERATIU (alternatiu): sobreneix, sobreneixi, sobrenasquem, sobrenaixeu, sobreneixin
- INFINITIU: socórrer
- GERUNDI: socorrent
- PARTICIPI: socorregut, socorreguda, socorreguts, socorregudes
- INDICATIU PRESENT: socorro, socorres, socorre, socorrem, socorreu, socorren
- INDICATIU IMPERFET: socorria, socorries, socorria, socorríem, socorríeu, socorrien
- INDICATIU PASSAT: socorreguí, socorregueres, socorregué, socorreguérem, socorreguéreu, socorregueren
- INDICATIU FUTUR: socorreré, socorreràs, socorrerà, socorrerem, socorrereu, socorreran
- INDICATIU CONDICIONAL: socorreria, socorreries, socorreria, socorreríem, socorreríeu, socorrerien
- SUBJUNTIU PRESENT: socorri, socorris, socorri, socorrem, socorreu, socorrin
- SUBJUNTIU PRESENT (alternatiu): socorri, socorris, socorri, socorreguem, socorregueu, socorrin
- SUBJUNTIU IMPERFET: socorregués, socorreguessis, socorregués, socorreguéssim, socorreguéssiu, socorreguessin
- IMPERATIU: socorre, socorri, socorrem, socorreu, socorrin
- IMPERATIU (alternatiu): socorre, socorri, socorreguem, socorreu, socorrin
  INFINITIU: sofrir
  GERUNDI: sofrint
  PARTICIPI: sofert, soferta, soferts, sofertes
- PARTICIPI (alternatiu): sofrit, sofrida, sofrits, sofrides
  INDICATIU PRESENT: sofreixo, sofreixes, sofreix, sofrim, sofriu, sofreixen
  INDICATIU IMPERFET: sofria, sofries, sofria, sofríem, sofríeu, sofrien
  INDICATIU PASSAT: sofrí, sofrires, sofrí, sofrírem, sofríreu, sofriren
@@ -1794,42 +846,16 @@
  SUBJUNTIU PRESENT: sofreixi, sofreixis, sofreixi, sofrim, sofriu, sofreixin
  SUBJUNTIU IMPERFET: sofrís, sofrissis, sofrís, sofríssim, sofríssiu, sofrissin
  IMPERATIU: sofreix, sofreixi, sofrim, sofriu, sofreixin
- INFINITIU: sostenir
- GERUNDI: sostenint
- PARTICIPI: sostingut, sostinguda, sostinguts, sostingudes
- INDICATIU PRESENT: sostinc, sostens, sosté, sostenim, sosteniu, sostenen
- INDICATIU IMPERFET: sostenia, sostenies, sostenia, sosteníem, sosteníeu, sostenien
- INDICATIU PASSAT: sostinguí, sostingueres, sostingué, sostinguérem, sostinguéreu, sostingueren
- INDICATIU FUTUR: sostindré, sostindràs, sostindrà, sostindrem, sostindreu, sostindran
- INDICATIU CONDICIONAL: sostindria, sostindries, sostindria, sostindríem, sostindríeu, sostindrien
- SUBJUNTIU PRESENT: sostingui, sostinguis, sostingui, sostinguem, sostingueu, sostinguin
- SUBJUNTIU IMPERFET: sostingués, sostinguessis, sostingués, sostinguéssim, sostinguéssiu, sostinguessin
- IMPERATIU: sostén, sostingui, sostinguem, sosteniu, sostinguin
- IMPERATIU (alternatiu): sostingues, sostingui, sostinguem, sostingueu, sostinguin
- INFINITIU: sostindre
- GERUNDI: sostenint
- PARTICIPI: sostingut, sostinguda, sostinguts, sostingudes
- INDICATIU PRESENT: sostinc, sostens, sosté, sostenim, sosteniu, sostenen
- INDICATIU IMPERFET: sostenia, sostenies, sostenia, sosteníem, sosteníeu, sostenien
- INDICATIU PASSAT: sostinguí, sostingueres, sostingué, sostinguérem, sostinguéreu, sostingueren
- INDICATIU FUTUR: sostindré, sostindràs, sostindrà, sostindrem, sostindreu, sostindran
- INDICATIU CONDICIONAL: sostindria, sostindries, sostindria, sostindríem, sostindríeu, sostindrien
- SUBJUNTIU PRESENT: sostingui, sostinguis, sostingui, sostinguem, sostingueu, sostinguin
- SUBJUNTIU IMPERFET: sostingués, sostinguessis, sostingués, sostinguéssim, sostinguéssiu, sostinguessin
- IMPERATIU: sostén, sostingui, sostinguem, sosteniu, sostinguin
- IMPERATIU (alternatiu): sostingues, sostingui, sostinguem, sostingueu, sostinguin
  INFINITIU: sotaescriure
  GERUNDI: sotaescrivint
  PARTICIPI: sotaescrit, sotaescrita, sotaescrits, sotaescrites
  INDICATIU PRESENT: sotaescric, sotaescrius, sotaescriu, sotaescrivim, sotaescriviu, sotaescriuen
  INDICATIU IMPERFET: sotaescrivia, sotaescrivies, sotaescrivia, sotaescrivíem, sotaescrivíeu, sotaescrivien
  INDICATIU PASSAT: sotaescriví, sotaescrivires, sotaescriví, sotaescrivírem, sotaescrivíreu, sotaescriviren
- INDICATIU PASSAT (alternatiu): sotaescriguí, sotaescrigueres, sotaescrigué, sotaescriguérem, sotaescriguéreu, sotaescrigueren
  INDICATIU FUTUR: sotaescriuré, sotaescriuràs, sotaescriurà, sotaescriurem, sotaescriureu, sotaescriuran
  INDICATIU CONDICIONAL: sotaescriuria, sotaescriuries, sotaescriuria, sotaescriuríem, sotaescriuríeu, sotaescriurien
  SUBJUNTIU PRESENT: sotaescrigui, sotaescriguis, sotaescrigui, sotaescriguem, sotaescrigueu, sotaescriguin
  SUBJUNTIU IMPERFET: sotaescrivís, sotaescrivissis, sotaescrivís, sotaescrivíssim, sotaescrivíssiu, sotaescrivissin
- SUBJUNTIU IMPERFET (alternatiu): sotaescrigués, sotaescriguessis, sotaescrigués, sotaescriguéssim, sotaescriguéssiu, sotaescriguessin
  IMPERATIU: sotaescriu, sotaescrigui, sotaescriguem, sotaescriviu, sotaescriguin
  INFINITIU: subscriure
  GERUNDI: subscrivint
@@ -1837,17 +863,14 @@
  INDICATIU PRESENT: subscric, subscrius, subscriu, subscrivim, subscriviu, subscriuen
  INDICATIU IMPERFET: subscrivia, subscrivies, subscrivia, subscrivíem, subscrivíeu, subscrivien
  INDICATIU PASSAT: subscriví, subscrivires, subscriví, subscrivírem, subscrivíreu, subscriviren
- INDICATIU PASSAT (alternatiu): subscriguí, subscrigueres, subscrigué, subscriguérem, subscriguéreu, subscrigueren
  INDICATIU FUTUR: subscriuré, subscriuràs, subscriurà, subscriurem, subscriureu, subscriuran
  INDICATIU CONDICIONAL: subscriuria, subscriuries, subscriuria, subscriuríem, subscriuríeu, subscriurien
  SUBJUNTIU PRESENT: subscrigui, subscriguis, subscrigui, subscriguem, subscrigueu, subscriguin
  SUBJUNTIU IMPERFET: subscrivís, subscrivissis, subscrivís, subscrivíssim, subscrivíssiu, subscrivissin
- SUBJUNTIU IMPERFET (alternatiu): subscrigués, subscriguessis, subscrigués, subscriguéssim, subscriguéssiu, subscriguessin
  IMPERATIU: subscriu, subscrigui, subscriguem, subscriviu, subscriguin
  INFINITIU: suplir
  GERUNDI: suplint
  PARTICIPI: suplert, suplerta, suplerts, suplertes
- PARTICIPI (alternatiu): suplit, suplida, suplits, suplides
  INDICATIU PRESENT: supleixo, supleixes, supleix, suplim, supliu, supleixen
  INDICATIU IMPERFET: suplia, suplies, suplia, suplíem, suplíeu, suplien
  INDICATIU PASSAT: suplí, suplires, suplí, suplírem, suplíreu, supliren
@@ -1856,97 +879,36 @@
  SUBJUNTIU PRESENT: supleixi, supleixis, supleixi, suplim, supliu, supleixin
  SUBJUNTIU IMPERFET: suplís, suplissis, suplís, suplíssim, suplíssiu, suplissin
  IMPERATIU: supleix, supleixi, suplim, supliu, supleixin
- INFINITIU: tenir
- GERUNDI: tenint
- PARTICIPI: tingut, tinguda, tinguts, tingudes
- INDICATIU PRESENT: tinc, tens, té, tenim, teniu, tenen
- INDICATIU IMPERFET: tenia, tenies, tenia, teníem, teníeu, tenien
- INDICATIU PASSAT: tinguí, tingueres, tingué, tinguérem, tinguéreu, tingueren
- INDICATIU FUTUR: tindré, tindràs, tindrà, tindrem, tindreu, tindran
- INDICATIU CONDICIONAL: tindria, tindries, tindria, tindríem, tindríeu, tindrien
- SUBJUNTIU PRESENT: tingui, tinguis, tingui, tinguem, tingueu, tinguin
- SUBJUNTIU IMPERFET: tingués, tinguessis, tingués, tinguéssim, tinguéssiu, tinguessin
- IMPERATIU: tingues, tingui, tinguem, tingueu, tinguin
- IMPERATIU (alternatiu): ten, tingui, tinguem, teniu, tinguin
- IMPERATIU (alternatiu): té, tingui, tinguem, teniu, tinguin
- INFINITIU: tindre
- GERUNDI: tenint
- PARTICIPI: tingut, tinguda, tinguts, tingudes
- INDICATIU PRESENT: tinc, tens, té, tenim, teniu, tenen
- INDICATIU IMPERFET: tenia, tenies, tenia, teníem, teníeu, tenien
- INDICATIU PASSAT: tinguí, tingueres, tingué, tinguérem, tinguéreu, tingueren
- INDICATIU FUTUR: tindré, tindràs, tindrà, tindrem, tindreu, tindran
- INDICATIU CONDICIONAL: tindria, tindries, tindria, tindríem, tindríeu, tindrien
- SUBJUNTIU PRESENT: tingui, tinguis, tingui, tinguem, tingueu, tinguin
- SUBJUNTIU IMPERFET: tingués, tinguessis, tingués, tinguéssim, tinguéssiu, tinguessin
- IMPERATIU: tingues, tingui, tinguem, tingueu, tinguin
- IMPERATIU (alternatiu): ten, tingui, tinguem, teniu, tinguin
- IMPERATIU (alternatiu): té, tingui, tinguem, teniu, tinguin
- INFINITIU: transcórrer
- GERUNDI: transcorrent
- PARTICIPI: transcorregut, transcorreguda, transcorreguts, transcorregudes
- INDICATIU PRESENT: transcorro, transcorres, transcorre, transcorrem, transcorreu, transcorren
- INDICATIU IMPERFET: transcorria, transcorries, transcorria, transcorríem, transcorríeu, transcorrien
- INDICATIU PASSAT: transcorreguí, transcorregueres, transcorregué, transcorreguérem, transcorreguéreu, transcorregueren
- INDICATIU FUTUR: transcorreré, transcorreràs, transcorrerà, transcorrerem, transcorrereu, transcorreran
- INDICATIU CONDICIONAL: transcorreria, transcorreries, transcorreria, transcorreríem, transcorreríeu, transcorrerien
- SUBJUNTIU PRESENT: transcorri, transcorris, transcorri, transcorrem, transcorreu, transcorrin
- SUBJUNTIU PRESENT (alternatiu): transcorri, transcorris, transcorri, transcorreguem, transcorregueu, transcorrin
- SUBJUNTIU IMPERFET: transcorregués, transcorreguessis, transcorregués, transcorreguéssim, transcorreguéssiu, transcorreguessin
- IMPERATIU: transcorre, transcorri, transcorrem, transcorreu, transcorrin
- IMPERATIU (alternatiu): transcorre, transcorri, transcorreguem, transcorreu, transcorrin
  INFINITIU: transcriure
  GERUNDI: transcrivint
  PARTICIPI: transcrit, transcrita, transcrits, transcrites
  INDICATIU PRESENT: transcric, transcrius, transcriu, transcrivim, transcriviu, transcriuen
  INDICATIU IMPERFET: transcrivia, transcrivies, transcrivia, transcrivíem, transcrivíeu, transcrivien
  INDICATIU PASSAT: transcriví, transcrivires, transcriví, transcrivírem, transcrivíreu, transcriviren
- INDICATIU PASSAT (alternatiu): transcriguí, transcrigueres, transcrigué, transcriguérem, transcriguéreu, transcrigueren
  INDICATIU FUTUR: transcriuré, transcriuràs, transcriurà, transcriurem, transcriureu, transcriuran
  INDICATIU CONDICIONAL: transcriuria, transcriuries, transcriuria, transcriuríem, transcriuríeu, transcriurien
  SUBJUNTIU PRESENT: transcrigui, transcriguis, transcrigui, transcriguem, transcrigueu, transcriguin
  SUBJUNTIU IMPERFET: transcrivís, transcrivissis, transcrivís, transcrivíssim, transcrivíssiu, transcrivissin
- SUBJUNTIU IMPERFET (alternatiu): transcrigués, transcriguessis, transcrigués, transcriguéssim, transcriguéssiu, transcriguessin
  IMPERATIU: transcriu, transcrigui, transcriguem, transcriviu, transcriguin
  INFINITIU: traslluir
  GERUNDI: traslluint
  PARTICIPI: traslluït, traslluïda, traslluïts, traslluïdes
  INDICATIU PRESENT: traslluo, traslluus, traslluu, traslluïm, traslluïu, traslluen
- INDICATIU PRESENT (alternatiu): traslluu, trasllús, trasllú, traslluïm, traslluïu, traslluen
- INDICATIU PRESENT (alternatiu): trasllueixo, trasllueixes, trasllueix, traslluïm, traslluïu, trasllueixen
  INDICATIU IMPERFET: traslluïa, traslluïes, traslluïa, traslluíem, traslluíeu, traslluïen
  INDICATIU PASSAT: traslluí, traslluïres, traslluí, traslluírem, traslluíreu, traslluïren
  INDICATIU FUTUR: traslluiré, traslluiràs, traslluirà, traslluirem, traslluireu, traslluiran
  INDICATIU CONDICIONAL: traslluiria, traslluiries, traslluiria, traslluiríem, traslluiríeu, traslluirien
  SUBJUNTIU PRESENT: traslluï, traslluïs, traslluï, traslluïm, traslluïu, traslluïn
- SUBJUNTIU PRESENT (alternatiu): trasllueixi, trasllueixis, trasllueixi, traslluïm, traslluïu, trasllueixin
  SUBJUNTIU IMPERFET: traslluís, traslluïssis, traslluís, traslluíssim, traslluíssiu, traslluïssin
  IMPERATIU: traslluu, traslluï, traslluïm, traslluïu, traslluïn
- IMPERATIU (alternatiu): trasllú, traslluï, traslluïm, traslluïu, traslluïn
- IMPERATIU (alternatiu): trasllueix, trasllueixi, traslluïm, traslluïu, trasllueixin
  INFINITIU: veure
  GERUNDI: veient
  PARTICIPI: vist, vista, vists, vistes
- PARTICIPI (alternatiu): vist, vista, vistos, vistes
  INDICATIU PRESENT: veig, veus, veu, veiem, veieu, veuen
  INDICATIU IMPERFET: veia, veies, veia, vèiem, vèieu, veien
  INDICATIU PASSAT: viu, veieres, veié, veiérem, veiéreu, veieren
- INDICATIU PASSAT (alternatiu): viu, veres, véu, vérem, véreu, veren
  INDICATIU FUTUR: veuré, veuràs, veurà, veurem, veureu, veuran
  INDICATIU CONDICIONAL: veuria, veuries, veuria, veuríem, veuríeu, veurien
  SUBJUNTIU PRESENT: vegi, vegis, vegi, vegem, vegeu, vegin
  SUBJUNTIU IMPERFET: veiés, veiessis, veiés, veiéssim, veiéssiu, veiessin
  IMPERATIU: veges, vegi, vegem, vegeu, vegin
- IMPERATIU (alternatiu): ves, vegi, vegem, veieu, vegin
- INFINITIU: viltenir
- GERUNDI: viltenint
- PARTICIPI: viltingut, viltinguda, viltinguts, viltingudes
- INDICATIU PRESENT: viltinc, viltens, vilté, viltenim, vilteniu, viltenen
- INDICATIU IMPERFET: viltenia, viltenies, viltenia, vilteníem, vilteníeu, viltenien
- INDICATIU PASSAT: viltinguí, viltingueres, viltingué, viltinguérem, viltinguéreu, viltingueren
- INDICATIU FUTUR: viltindré, viltindràs, viltindrà, viltindrem, viltindreu, viltindran
- INDICATIU CONDICIONAL: viltindria, viltindries, viltindria, viltindríem, viltindríeu, viltindrien
- SUBJUNTIU PRESENT: viltingui, viltinguis, viltingui, viltinguem, viltingueu, viltinguin
- SUBJUNTIU IMPERFET: viltingués, viltinguessis, viltingués, viltinguéssim, viltinguéssiu, viltinguessin
- IMPERATIU: viltén, viltingui, viltinguem, vilteniu, viltinguin
- IMPERATIU (alternatiu): viltingues, viltingui, viltinguem, viltingueu, viltinguin

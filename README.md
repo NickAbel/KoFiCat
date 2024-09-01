@@ -27,7 +27,7 @@ The sentences in the deck are generated with ChatGPT 4o, but are verified agains
 ## Conjugation I (infinitive in -ar)
 - [x] **Regular** (In the first conjugation, all verbs except for the above-listed auxiliaries **estar** and **anar** are regular.)
   - [x] **No Spelling Changes**: The verb **parlar** is the chosen representative.
-  - [ ] **Spelling Change: -jar(1)**: This orthographic change covers the vast majority of verbs ending in -jar. **Menjar** is the chosen representative.
+  - [x] **Spelling Change: -jar(1)**: This orthographic change covers the vast majority of verbs ending in -jar. **Menjar** is the chosen representative.
   - [ ] **Spelling Change: -car(2)**: This orthographic change covers the vast majority of verbs ending in -car. **Destacar** is the chosen representative.
   - [ ] **Spelling Change: -ear/-iar/-oar/-uar(3)**: This orthographic change covers the bulk of verbs ending in -ear/-iar/-oar/-uar. **Crear** is the chosen representative.
   - [ ] **Spelling Change: -gar(4)**: This orthographic change covers the vast majority of verbs ending in -ear/-iar/-oar/-uar. **Jugar** is the chosen representative.
@@ -107,7 +107,7 @@ The sentences in the deck are generated with ChatGPT 4o, but are verified agains
   - [ ] **Irregularity: Tossir(7)**
   - [ ] **Irregularity: Pudir(8)**
   - [ ] **Irregularity in Participles Only: -lir(9)**: **Establir** is the chosen representative.
-  - [ ] **Irregularity: Revenir(10)**
+  - [ ] **Irregularity: Venir(10)**
 
 - [ ] **Irregularity: -eixir(1)**: **Eixir** is the chosen representative.
 - [ ] **Irregularity: -lluir(2)**: **Lluir** is the chosen representative.
