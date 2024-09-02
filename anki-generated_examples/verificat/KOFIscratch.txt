@@ -1,520 +1,1098 @@
-~ Mentre estic pensant, ~<br><br> jo {{c1::fugint::…fugir…}} de la situació.
-♂ Després del perill, ♂<br><br> ell ha {{c1::fugit::…fugir…}} ràpidament.
-♀ Quan va sentir el soroll, ♀<br><br> ella ha {{c1::fugida::…fugir…}} sense mirar enrere.
-♂♂ Després de la tempesta, ♂♂<br><br> ells han {{c1::fugits::…fugir…}} cap a un lloc segur.
-♀♀ Després del caos, ♀♀<br><br> elles han {{c1::fugides::…fugir…}} cap a una zona tranquil·la.
-⊙ Actualment, ⊙<br><br> jo {{c1::fujo::…fugir…}} de les meves preocupacions.
-⊙ En aquest moment, ⊙<br><br> tu {{c1::fuges::…fugir…}} de les responsabilitats.
-⊙ Ara, ⊙<br><br> ell {{c1::fuig::…fugir…}} del perill.
-⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::fugim::…fugir…}} cap a un lloc segur.
-⊙ Actualment, ⊙<br><br> vosaltres {{c1::fugiu::…fugir…}} de les discussions.
-⊙ Aquesta tarda, ⊙<br><br> ells {{c1::fugen::…fugir…}} de la responsabilitat.
-⇠ Abans, ⇠<br><br> jo {{c1::fugia::…fugir…}} de qualsevol conflicte.
-⇠ Quan érem petits, ⇠<br><br> tu {{c1::fugies::…fugir…}} dels teus deures.
-⇠ Fa uns anys, ⇠<br><br> ell {{c1::fugia::…fugir…}} de les seves responsabilitats.
-⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::fugíem::…fugir…}} de les activitats difícils.
-⇠ De joves, ⇠<br><br> vosaltres {{c1::fugíeu::…fugir…}} de les obligacions.
-⇠ Molt abans, ⇠<br><br> ells {{c1::fugien::…fugir…}} de qualsevol responsabilitat.
-↧ Ahir, ↧<br><br> jo {{c1::fugí::…fugir…}} de la situació incòmoda.
-↧ La setmana passada, ↧<br><br> tu {{c1::fugires::…fugir…}} d'un problema.
-↧ El mes passat, ↧<br><br> ell {{c1::fugí::…fugir…}} de les seves responsabilitats.
-↧ Fa un any, ↧<br><br> nosaltres {{c1::fugírem::…fugir…}} d'un lloc perillós.
-↧ Els dies antics, ↧<br><br> vosaltres {{c1::fugíreu::…fugir…}} de les vostres obligacions.
-↧ Fa poc, ↧<br><br> ells {{c1::fugiren::…fugir…}} d'una situació difícil.
-→ Demà, →<br><br> jo {{c1::fugiré::…fugir…}} de qualsevol problema.
-→ La setmana vinent, →<br><br> tu {{c1::fugiràs::…fugir…}} de les teves responsabilitats.
-→ En un any, →<br><br> ell {{c1::fugirà::…fugir…}} de qualsevol risc.
-→ En cinc anys, →<br><br> nosaltres {{c1::fugirem::…fugir…}} de situacions complicades.
-→ Aviat, →<br><br> vosaltres {{c1::fugireu::…fugir…}} de qualsevol conflicte.
-→ En el futur, →<br><br> ells {{c1::fugiran::…fugir…}} de les responsabilitats.
-〰 Espero que 〰<br><br> jo {{c1::fugi::…fugir…}} de qualsevol perill.
-〰 Pot ser que 〰<br><br> tu {{c1::fugis::…fugir…}} de les teves responsabilitats.
-〰 És possible que 〰<br><br> ell {{c1::fugi::…fugir…}} de les seves obligacions.
-〰 És necessari que 〰<br><br> nosaltres {{c1::fugim::…fugir…}} de situacions perilloses.
-〰 Dubto que 〰<br><br> vosaltres {{c1::fugiu::…fugir…}} de les vostres responsabilitats.
-〰 És probable que 〰<br><br> ells {{c1::fugin::…fugir…}} de qualsevol risc.
-↫ Si fos possible, ↫<br><br> jo {{c1::fugís::…fugir…}} de les complicacions.
-↫ Si tu ↫<br><br> {{c1::fugissis::…fugir…}} més sovint, tindries menys problemes.
-↫ Si ell ↫<br><br> {{c1::fugís::…fugir…}} de les seves responsabilitats, estaria més tranquil.
-↫ Si nosaltres ↫<br><br> {{c1::fugíssim::…fugir…}} junts, seria més fàcil.
-↫ Si vosaltres ↫<br><br> {{c1::fugíssiu::…fugir…}} més, evitaríeu molts problemes.
-↫ Si ells ↫<br><br> {{c1::fugissin::…fugir…}} de les seves obligacions, estarien més relaxats.
-… Si pogués, …<br><br> jo {{c1::fugiria::…fugir…}} de qualsevol problema.
-… Si tinguessis temps, …<br><br> tu {{c1::fugiries::…fugir…}} de les teves preocupacions.
-… Ell {{c1::fugiria::…fugir…}} més sovint, …<br><br>si tingués l'oportunitat.
-… Si fos necessari, …<br><br> nosaltres {{c1::fugiríem::…fugir…}} de qualsevol complicació.
-… Vosaltres {{c1::fugiríeu::…fugir…}} de les vostres responsabilitats, …<br><br>si us ho proposéssiu.
-… Si ho sabessin, …<br><br> ells {{c1::fugirien::…fugir…}} de qualsevol problema.
-! Ara mateix, !<br><br> tu {{c1::fuig::…fugir…}} ràpidament!
-! Si us plau, !<br><br> vostè {{c1::fugi::…fugir…}} de qualsevol risc!
-! Anem, !<br><br> nosaltres {{c1::fugim::…fugir…}} d'aquesta situació!
-! Ara, !<br><br> vosaltres {{c1::fugiu::…fugir…}} abans que sigui tard!
-! Immediatament, !<br><br> vostès {{c1::fugin::…fugir…}} de qualsevol problema!
-~ Mentre estic pensant, ~<br><br> jo estic {{c1::naixent::…néixer…}} a una nova vida.
-♂ Després de molt d'espera, ♂<br><br> ell ha {{c1::nascut::…néixer…}} amb molta salut.
-♀ Quan va arribar el moment, ♀<br><br> ella ha {{c1::nascuda::…néixer…}} sense complicacions.
-♂♂ Després de molts mesos, ♂♂<br><br> ells han {{c1::nascuts::…néixer…}} en un dia de sol.
-♀♀ Després de la nit, ♀♀<br><br> elles han {{c1::nascudes::…néixer…}} a primera hora del matí.
-⊙ Actualment, ⊙<br><br> jo {{c1::neixo/naixo::…néixer…}} amb noves idees.
-⊙ En aquest moment, ⊙<br><br> tu {{c1::neixes/naixes::…néixer…}} amb esperança.
-⊙ Ara, ⊙<br><br> ell {{c1::neix/naix::…néixer…}} amb força.
-⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::naixem::…néixer…}} amb alegria.
-⊙ Actualment, ⊙<br><br> vosaltres {{c1::naixeu::…néixer…}} amb noves possibilitats.
-⊙ Aquesta tarda, ⊙<br><br> ells {{c1::neixen/naixen::…néixer…}} amb confiança.
-⇠ Abans, ⇠<br><br> jo {{c1::naixia::…néixer…}} amb moltes esperances.
-⇠ Quan érem petits, ⇠<br><br> tu {{c1::naixies::…néixer…}} en una família gran.
-⇠ Fa uns anys, ⇠<br><br> ell {{c1::naixia::…néixer…}} amb alegria.
-⇠ Durant els primers dies, ⇠<br><br> nosaltres {{c1::naixíem::…néixer…}} amb molta força.
-⇠ De joves, ⇠<br><br> vosaltres {{c1::naixíeu::…néixer…}} amb molta energia.
-⇠ Molt abans, ⇠<br><br> ells {{c1::naixien::…néixer…}} amb moltes expectatives.
-↧ Ahir, ↧<br><br> jo {{c1::naixí/nasquí::…néixer…}} a una nova idea.
-↧ La setmana passada, ↧<br><br> tu {{c1::naixeres/nasqueres::…néixer…}} amb una nova visió.
-↧ El mes passat, ↧<br><br> ell {{c1::naixé/nasqué::…néixer…}} amb força.
-↧ Fa un any, ↧<br><br> nosaltres {{c1::naixérem/nasquérem::…néixer…}} amb moltes ganes.
-↧ Els dies antics, ↧<br><br> vosaltres {{c1::naixéreu/nasquéreu::…néixer…}} en un món diferent.
-↧ Fa poc, ↧<br><br> ells {{c1::naixeren/nasqueren::…néixer…}} amb noves oportunitats.
-→ Demà, →<br><br> jo {{c1::naixeré::…néixer…}} a una nova etapa.
-→ La setmana vinent, →<br><br> tu {{c1::naixeràs::…néixer…}} amb noves esperances.
-→ En un any, →<br><br> ell {{c1::naixerà::…néixer…}} amb molta energia.
-→ En cinc anys, →<br><br> nosaltres {{c1::naixerem::…néixer…}} amb noves idees.
-→ Aviat, →<br><br> vosaltres {{c1::naixereu::…néixer…}} en un món canviant.
-→ En el futur, →<br><br> ells {{c1::naixeran::…néixer…}} amb molta força.
-〰 Espero que 〰<br><br> jo {{c1::neixi/naixi::…néixer…}} amb esperances.
-〰 Pot ser que 〰<br><br> tu {{c1::neixis/naixis::…néixer…}} a una nova vida.
-〰 És possible que 〰<br><br> ell {{c1::neixi/naixi::…néixer…}} amb alegria.
-〰 És necessari que 〰<br><br> nosaltres {{c1::neixem/nasquem::…néixer…}} amb confiança.
-〰 Dubto que 〰<br><br> vosaltres {{c1::neixeu/nasqueu::…néixer…}} amb força.
-〰 És probable que 〰<br><br> ells {{c1::neixin/naixin::…néixer…}} amb determinació.
-↫ Si fos possible, ↫<br><br> jo {{c1::neixés/nasqués::…néixer…}} en un moment millor.
-↫ Si tu ↫<br><br> {{c1::neixessis/nasquessis::…néixer…}} amb esperança, tindries més èxit.
-↫ Si ell ↫<br><br> {{c1::neixés/nasqués::…néixer…}} amb alegria, estaria més content.
-↫ Si nosaltres ↫<br><br> {{c1::neixéssim/nasquéssim::…néixer…}} amb força, arribaríem més lluny.
-↫ Si vosaltres ↫<br><br> {{c1::neixéssiu/nasquéssiu::…néixer…}} amb ganes, tindríeu més èxit.
-↫ Si ells ↫<br><br> {{c1::neixessin/nasquessin::…néixer…}} amb determinació, aconseguirien més.
-… Si pogués, …<br><br> jo {{c1::naixeria::…néixer…}} en una altra època.
-… Si tinguessis temps, …<br><br> tu {{c1::naixeries::…néixer…}} amb força renovada.
-… Ell {{c1::naixeria::…néixer…}} en un món millor, …<br><br>si fos possible.
-… Si fos necessari, …<br><br> nosaltres {{c1::naixeríem::…néixer…}} amb energia.
-… Vosaltres {{c1::naixeríeu::…néixer…}} amb esperança, …<br><br>si tinguéssiu l'oportunitat.
-… Si ho sabessin, …<br><br> ells {{c1::naixerien::…néixer…}} amb noves perspectives.
-! Ara mateix, !<br><br> tu {{c1::neix/naix::…néixer…}} amb força!
-! Si us plau, !<br><br> vostè {{c1::neixi/naixi::…néixer…}} amb alegria!
-! Anem, !<br><br> nosaltres {{c1::neixem/nasquem::…néixer…}} junts a un futur millor!
-! Ara, !<br><br> vosaltres {{c1::naixeu::…néixer…}} amb determinació!
-! Immediatament, !<br><br> vostès {{c1::neixin/naixin::…néixer…}} a un nou començament!
-~ Mentre estic pensant, ~<br><br> jo estic {{c1::creant::…crear…}} una nova obra.
-♂ Després de molta inspiració, ♂<br><br> ell ha {{c1::creat::…crear…}} una peça única.
-♀ Quan va veure l'oportunitat, ♀<br><br> ella ha {{c1::creada::…crear…}} una obra mestra.
-♂♂ Després del treball en equip, ♂♂<br><br> ells han {{c1::creats::…crear…}} un projecte innovador.
-♀♀ Després de la col·laboració, ♀♀<br><br> elles han {{c1::creades::…crear…}} una nova col·lecció.
-⊙ Actualment, ⊙<br><br> jo {{c1::creo::…crear…}} contingut original.
-⊙ En aquest moment, ⊙<br><br> tu {{c1::crees::…crear…}} noves idees.
-⊙ Ara, ⊙<br><br> ell {{c1::crea::…crear…}} un futur millor.
-⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::creem::…crear…}} una nova empresa.
-⊙ Actualment, ⊙<br><br> vosaltres {{c1::creeu::…crear…}} un món millor.
-⊙ Aquesta tarda, ⊙<br><br> ells {{c1::creen::…crear…}} una nova era.
-⇠ Abans, ⇠<br><br> jo {{c1::creava::…crear…}} obres d'art.
-⇠ Quan érem petits, ⇠<br><br> tu {{c1::creaves::…crear…}} històries fantàstiques.
-⇠ Fa uns anys, ⇠<br><br> ell {{c1::creava::…crear…}} dissenys innovadors.
-⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::creàvem::…crear…}} projectes creatius.
-⇠ De joves, ⇠<br><br> vosaltres {{c1::creàveu::…crear…}} esbossos interessants.
-⇠ Molt abans, ⇠<br><br> ells {{c1::creaven::…crear…}} coses meravelloses.
-↧ Ahir, ↧<br><br> jo {{c1::creí::…crear…}} una nova idea.
-↧ La setmana passada, ↧<br><br> tu {{c1::creares::…crear…}} un esbós.
-↧ El mes passat, ↧<br><br> ell {{c1::creà::…crear…}} un prototip.
-↧ Fa un any, ↧<br><br> nosaltres {{c1::creàrem::…crear…}} un projecte innovador.
-↧ Els dies antics, ↧<br><br> vosaltres {{c1::creàreu::…crear…}} una obra única.
-↧ Fa poc, ↧<br><br> ells {{c1::crearen::…crear…}} una col·lecció nova.
-→ Demà, →<br><br> jo {{c1::crearé::…crear…}} una nova pintura.
-→ La setmana vinent, →<br><br> tu {{c1::crearàs::…crear…}} un disseny únic.
-→ En un any, →<br><br> ell {{c1::crearà::…crear…}} una obra mestra.
-→ En cinc anys, →<br><br> nosaltres {{c1::crearem::…crear…}} una empresa d'èxit.
-→ Aviat, →<br><br> vosaltres {{c1::creareu::…crear…}} una comunitat forta.
-→ En el futur, →<br><br> ells {{c1::crearan::…crear…}} un món millor.
-〰 Espero que 〰<br><br> jo {{c1::creï::…crear…}} una cosa única.
-〰 Pot ser que 〰<br><br> tu {{c1::creïs::…crear…}} una obra d'art.
-〰 És possible que 〰<br><br> ell {{c1::creï::…crear…}} un nou concepte.
-〰 És necessari que 〰<br><br> nosaltres {{c1::creem::…crear…}} alguna cosa nova.
-〰 Dubto que 〰<br><br> vosaltres {{c1::creeu::…crear…}} tan ràpidament.
-〰 És probable que 〰<br><br> ells {{c1::creïn::…crear…}} alguna cosa increïble.
-↫ Si fos possible, ↫<br><br> jo {{c1::creés::…crear…}} una obra d'art.
-↫ Si tu ↫<br><br> {{c1::creessis::…crear…}} més sovint, milloraries.
-↫ Si ell ↫<br><br> {{c1::creés::…crear…}} amb més inspiració, tindria èxit.
-↫ Si nosaltres ↫<br><br> {{c1::creéssim::…crear…}} junts, seria més fàcil.
-↫ Si vosaltres ↫<br><br> {{c1::creéssiu::…crear…}} més sovint, aconseguiríeu més coses.
-↫ Si ells ↫<br><br> {{c1::creessin::…crear…}} amb més passió, serien imbatibles.
-… Si pogués, …<br><br> jo {{c1::crearia::…crear…}} una nova obra.
-… Si tinguessis temps, …<br><br> tu {{c1::crearies::…crear…}} més projectes.
-… Ell {{c1::crearia::…crear…}} més sovint, …<br><br>si tingués inspiració.
-… Si fos necessari, …<br><br> nosaltres {{c1::crearíem::…crear…}} un futur millor.
-… Vosaltres {{c1::crearíeu::…crear…}} més obres, …<br><br>si us hi poséssiu.
-… Si ho sabessin, …<br><br> ells {{c1::crearien::…crear…}} coses meravelloses.
-! Ara mateix, !<br><br> tu {{c1::crea::…crear…}} alguna cosa nova!
-! Si us plau, !<br><br> vostè {{c1::creï::…crear…}} alguna cosa única!
-! Anem, !<br><br> nosaltres {{c1::creem::…crear…}} alguna cosa junts!
-! Ara, !<br><br> vosaltres {{c1::creeu::…crear…}} una obra d'art!
-! Immediatament, !<br><br> vostès {{c1::creïn::…crear…}} alguna cosa increïble!
-~ Mentre estic pensant, ~<br><br> jo estic {{c1::construint::…construir…}} un nou projecte.
-♂ Després de molta feina, ♂<br><br> ell ha {{c1::construït::…construir…}} una casa moderna.
-♀ Quan va veure l'oportunitat, ♀<br><br> ella ha {{c1::construïda::…construir…}} una empresa d'èxit.
-♂♂ Després del treball en equip, ♂♂<br><br> ells han {{c1::construïts::…construir…}} una infraestructura sòlida.
-♀♀ Després de la col·laboració, ♀♀<br><br> elles han {{c1::construïdes::…construir…}} una comunitat forta.
-⊙ Actualment, ⊙<br><br> jo {{c1::construeixo::…construir…}} una nova idea.
-⊙ En aquest moment, ⊙<br><br> tu {{c1::construeixes::…construir…}} un nou pla.
-⊙ Ara, ⊙<br><br> ell {{c1::construeix::…construir…}} una nova estructura.
-⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::construïm::…construir…}} un futur millor.
-⊙ Actualment, ⊙<br><br> vosaltres {{c1::construïu::…construir…}} una xarxa forta.
-⊙ Aquesta tarda, ⊙<br><br> ells {{c1::construeixen::…construir…}} una nova societat.
-⇠ Abans, ⇠<br><br> jo {{c1::construïa::…construir…}} amb molta cura.
-⇠ Quan érem petits, ⇠<br><br> tu {{c1::construïes::…construir…}} castells de sorra.
-⇠ Fa uns anys, ⇠<br><br> ell {{c1::construïa::…construir…}} una empresa petita.
-⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::construíem::…construir…}} maquetes.
-⇠ De joves, ⇠<br><br> vosaltres {{c1::construíeu::…construir…}} projectes innovadors.
-⇠ Molt abans, ⇠<br><br> ells {{c1::construïen::…construir…}} ambiciosos plans.
-↧ Ahir, ↧<br><br> jo {{c1::construí::…construir…}} una petita estructura.
-↧ La setmana passada, ↧<br><br> tu {{c1::construïres::…construir…}} una maqueta.
-↧ El mes passat, ↧<br><br> ell {{c1::construí::…construir…}} una empresa.
-↧ Fa un any, ↧<br><br> nosaltres {{c1::construírem::…construir…}} una xarxa forta.
-↧ Els dies antics, ↧<br><br> vosaltres {{c1::construíreu::…construir…}} molts projectes.
-↧ Fa poc, ↧<br><br> ells {{c1::construïren::…construir…}} una infraestructura sòlida.
-→ Demà, →<br><br> jo {{c1::construiré::…construir…}} una nova idea.
-→ La setmana vinent, →<br><br> tu {{c1::construiràs::…construir…}} una nova casa.
-→ En un any, →<br><br> ell {{c1::construirà::…construir…}} una empresa sòlida.
-→ En cinc anys, →<br><br> nosaltres {{c1::construirem::…construir…}} una nova societat.
-→ Aviat, →<br><br> vosaltres {{c1::construireu::…construir…}} un futur millor.
-→ En el futur, →<br><br> ells {{c1::construiran::…construir…}} una xarxa global.
-〰 Espero que 〰<br><br> jo {{c1::construeixi::…construir…}} una bona estructura.
-〰 Pot ser que 〰<br><br> tu {{c1::construeixis::…construir…}} amb molta cura.
-〰 És possible que 〰<br><br> ell {{c1::construeixi::…construir…}} una nova empresa.
-〰 És necessari que 〰<br><br> nosaltres {{c1::construïm::…construir…}} junts.
-〰 Dubto que 〰<br><br> vosaltres {{c1::construïu::…construir…}} tan ràpidament.
-〰 És probable que 〰<br><br> ells {{c1::construeixin::…construir…}} amb èxit.
-↫ Si fos possible, ↫<br><br> jo {{c1::construís::…construir…}} més sovint.
-↫ Si tu ↫<br><br> {{c1::construïssis::…construir…}} amb més atenció, aconseguiries més.
-↫ Si ell ↫<br><br> {{c1::construís::…construir…}} amb més dedicació, tindria més èxit.
-↫ Si nosaltres ↫<br><br> {{c1::construíssim::…construir…}} junts, seria més fàcil.
-↫ Si vosaltres ↫<br><br> {{c1::construíssiu::…construir…}} amb paciència, aconseguiríeu més.
-↫ Si ells ↫<br><br> {{c1::construïssin::…construir…}} amb passió, serien imbatibles.
-… Si pogués, …<br><br> jo {{c1::construiria::…construir…}} una nova estructura.
-… Si tinguessis temps, …<br><br> tu {{c1::construiries::…construir…}} més projectes.
-… Ell {{c1::construiria::…construir…}} més sovint, …<br><br>si tingués inspiració.
-… Si fos necessari, …<br><br> nosaltres {{c1::construiríem::…construir…}} una societat millor.
-… Vosaltres {{c1::construiríeu::…construir…}} més obres, …<br><br>si us hi poséssiu.
-… Si ho sabessin, …<br><br> ells {{c1::construirien::…construir…}} coses meravelloses.
-! Ara mateix, !<br><br> tu {{c1::construeix::…construir…}} alguna cosa nova!
-! Si us plau, !<br><br> vostè {{c1::construeixi::…construir…}} alguna cosa única!
-! Anem, !<br><br> nosaltres {{c1::construïm::…construir…}} alguna cosa junts!
-! Ara, !<br><br> vosaltres {{c1::construïu::…construir…}} una obra d'art!
-! Immediatament, !<br><br> vostès {{c1::construeixin::…construir…}} alguna cosa increïble!
-~ Mentre estic pensant, ~<br><br> jo estic {{c1::seient::…seure…}} en una cadira còmoda.
-♂ Després d'un llarg dia, ♂<br><br> ell ha {{c1::segut::…seure…}} a descansar.
-♀ Quan va arribar, ♀<br><br> ella ha {{c1::seguda::…seure…}} al sofà.
-♂♂ Després de la reunió, ♂♂<br><br> ells han {{c1::seguts::…seure…}} a parlar.
-♀♀ Després de la classe, ♀♀<br><br> elles han {{c1::segudes::…seure…}} al parc.
-⊙ Actualment, ⊙<br><br> jo {{c1::sec::…seure…}} a la meva oficina.
-⊙ En aquest moment, ⊙<br><br> tu {{c1::seus::…seure…}} al costat meu.
-⊙ Ara, ⊙<br><br> ell {{c1::seu::…seure…}} a la taula.
-⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::seiem::…seure…}} junts a la cafeteria.
-⊙ Actualment, ⊙<br><br> vosaltres {{c1::seieu::…seure…}} a la sala d'espera.
-⊙ Aquesta tarda, ⊙<br><br> ells {{c1::seuen::…seure…}} a la biblioteca.
-⇠ Abans, ⇠<br><br> jo {{c1::seia::…seure…}} a la vora del llac.
-⇠ Quan érem petits, ⇠<br><br> tu {{c1::seies::…seure…}} a la gespa.
-⇠ Fa uns anys, ⇠<br><br> ell {{c1::seia::…seure…}} a la seva cadira preferida.
-⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::sèiem::…seure…}} a les taules del pati.
-⇠ De joves, ⇠<br><br> vosaltres {{c1::sèieu::…seure…}} a les escales.
-⇠ Molt abans, ⇠<br><br> ells {{c1::seien::…seure…}} a la platja.
-↧ Ahir, ↧<br><br> jo {{c1::seguí::…seure…}} al parc.
-↧ La setmana passada, ↧<br><br> tu {{c1::segueres::…seure…}} al banc del jardí.
-↧ El mes passat, ↧<br><br> ell {{c1::seguè::…seure…}} a la seva oficina.
-↧ Fa un any, ↧<br><br> nosaltres {{c1::seguèrem::…seure…}} al voltant d'una taula.
-↧ Els dies antics, ↧<br><br> vosaltres {{c1::seguèreu::…seure…}} a la vora del camí.
-↧ Fa poc, ↧<br><br> ells {{c1::segueren::…seure…}} a la sala de conferències.
-→ Demà, →<br><br> jo {{c1::seuré::…seure…}} a la meva cadira preferida.
-→ La setmana vinent, →<br><br> tu {{c1::seuràs::…seure…}} a la vora del llac.
-→ En un any, →<br><br> ell {{c1::seurà::…seure…}} a la seva nova oficina.
-→ En cinc anys, →<br><br> nosaltres {{c1::seurem::…seure…}} junts en una gran taula.
-→ Aviat, →<br><br> vosaltres {{c1::seureu::…seure…}} a la cafeteria.
-→ En el futur, →<br><br> ells {{c1::seuran::…seure…}} en una sala de reunions.
-〰 Espero que 〰<br><br> jo {{c1::segui::…seure…}} còmodament.
-〰 Pot ser que 〰<br><br> tu {{c1::seguis::…seure…}} al meu costat.
-〰 És possible que 〰<br><br> ell {{c1::segui::…seure…}} a la taula.
-〰 És necessari que 〰<br><br> nosaltres {{c1::seguem::…seure…}} junts.
-〰 Dubto que 〰<br><br> vosaltres {{c1::segeu::…seure…}} amb calma.
-〰 És probable que 〰<br><br> ells {{c1::seguin::…seure…}} a la reunió.
-↫ Si fos possible, ↫<br><br> jo {{c1::segués::…seure…}} amb més comoditat.
-↫ Si tu ↫<br><br> {{c1::seguessis::…seure…}} amb calma, et relaxaries més.
-↫ Si ell ↫<br><br> {{c1::segués::…seure…}} més sovint, estaria més tranquil.
-↫ Si nosaltres ↫<br><br> {{c1::seguéssim::…seure…}} junts, parlaríem més.
-↫ Si vosaltres ↫<br><br> {{c1::seguéssiu::…seure…}} amb tranquil·litat, us sentiríeu millor.
-↫ Si ells ↫<br><br> {{c1::seguessin::…seure…}} a la reunió, serien més productius.
-… Si pogués, …<br><br> jo {{c1::seuria::…seure…}} a la meva cadira preferida.
-… Si tinguessis temps, …<br><br> tu {{c1::seuries::…seure…}} al costat meu.
-… Ell {{c1::seuria::…seure…}} més sovint, …<br><br>si tingués l'oportunitat.
-… Si fos necessari, …<br><br> nosaltres {{c1::seuríem::…seure…}} junts a la taula.
-… Vosaltres {{c1::seuríeu::…seure…}} a la sala de conferències, …<br><br>si us ho proposéssiu.
-… Si ho sabessin, …<br><br> ells {{c1::seurien::…seure…}} més còmodes.
-! Ara mateix, !<br><br> tu {{c1::seu::…seure…}} al meu costat!
-! Si us plau, !<br><br> vostè {{c1::segui::…seure…}} còmodament!
-! Anem, !<br><br> nosaltres {{c1::seguem::…seure…}} junts a parlar!
-! Ara, !<br><br> vosaltres {{c1::seieu::…seure…}} a la taula!
-! Immediatament, !<br><br> vostès {{c1::seguin::…seure…}} a la reunió!
-~ Mentre estic pensant, ~<br><br> jo estic {{c1::rient::…riure…}} de la broma.
-♂ Després del xiste, ♂<br><br> ell ha {{c1::rigut::…riure…}} molt.
-♀ Quan va escoltar la història, ♀<br><br> ella ha {{c1::riguda::…riure…}} amb força.
-♂♂ Després de la festa, ♂♂<br><br> ells han {{c1::riguts::…riure…}} sense parar.
-♀♀ Després de l'acudit, ♀♀<br><br> elles han {{c1::rigudes::…riure…}} de bon grat.
-⊙ Actualment, ⊙<br><br> jo {{c1::ric::…riure…}} sovint.
-⊙ En aquest moment, ⊙<br><br> tu {{c1::rius::…riure…}} de la situació.
-⊙ Ara, ⊙<br><br> ell {{c1::riu::…riure…}} amb els amics.
-⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::riem::…riure…}} junts.
-⊙ Actualment, ⊙<br><br> vosaltres {{c1::rieu::…riure…}} amb facilitat.
-⊙ Aquesta tarda, ⊙<br><br> ells {{c1::riuen::…riure…}} de tot cor.
-⇠ Abans, ⇠<br><br> jo {{c1::reia::…riure…}} més sovint.
-⇠ Quan érem petits, ⇠<br><br> tu {{c1::reies::…riure…}} a les bromes dels adults.
-⇠ Fa uns anys, ⇠<br><br> ell {{c1::reia::…riure…}} amb els seus amics.
-⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::reíem::…riure…}} sovint a classe.
-⇠ De joves, ⇠<br><br> vosaltres {{c1::reíeu::…riure…}} de les nostres aventures.
-⇠ Molt abans, ⇠<br><br> ells {{c1::reien::…riure…}} de les bromes que feien.
-↧ Ahir, ↧<br><br> jo {{c1::riguí::…riure…}} molt amb els amics.
-↧ La setmana passada, ↧<br><br> tu {{c1::rigueres::…riure…}} a una bona broma.
-↧ El mes passat, ↧<br><br> ell {{c1::rigué::…riure…}} molt fort.
-↧ Fa un any, ↧<br><br> nosaltres {{c1::riguérem::…riure…}} de les nostres aventures.
-↧ Els dies antics, ↧<br><br> vosaltres {{c1::riguéreu::…riure…}} amb molta energia.
-↧ Fa poc, ↧<br><br> ells {{c1::rigueren::…riure…}} sense parar.
-→ Demà, →<br><br> jo {{c1::riuré::…riure…}} amb els meus amics.
-→ La setmana vinent, →<br><br> tu {{c1::riuràs::…riure…}} a una broma.
-→ En un any, →<br><br> ell {{c1::riurà::…riure…}} molt més sovint.
-→ En cinc anys, →<br><br> nosaltres {{c1::riurem::…riure…}} amb més ganes.
-→ Aviat, →<br><br> vosaltres {{c1::riureu::…riure…}} de tot el que passi.
-→ En el futur, →<br><br> ells {{c1::riuran::…riure…}} de tot cor.
-〰 Espero que 〰<br><br> jo {{c1::rigui::…riure…}} sovint.
-〰 Pot ser que 〰<br><br> tu {{c1::riguis::…riure…}} a les meves bromes.
-〰 És possible que 〰<br><br> ell {{c1::rigui::…riure…}} sense parar.
-〰 És necessari que 〰<br><br> nosaltres {{c1::riguem::…riure…}} junts.
-〰 Dubto que 〰<br><br> vosaltres {{c1::rigueu::…riure…}} de la situació.
-〰 És probable que 〰<br><br> ells {{c1::riguin::…riure…}} molt.
-↫ Si fos possible, ↫<br><br> jo {{c1::rigués::…riure…}} més sovint.
-↫ Si tu ↫<br><br> {{c1::riguessis::…riure…}} més, series més feliç.
-↫ Si ell ↫<br><br> {{c1::rigués::…riure…}} més, estaria més content.
-↫ Si nosaltres ↫<br><br> {{c1::riguéssim::…riure…}} junts, ens divertiríem més.
-↫ Si vosaltres ↫<br><br> {{c1::riguéssiu::…riure…}} més sovint, tindríeu menys estrès.
-↫ Si ells ↫<br><br> {{c1::riguessin::…riure…}} més, estarien més tranquils.
-… Si pogués, …<br><br> jo {{c1::riuria::…riure…}} molt més.
-… Si tinguessis temps, …<br><br> tu {{c1::riuries::…riure…}} més sovint.
-… Ell {{c1::riuria::…riure…}} més, …<br><br>si tingués motius.
-… Si fos necessari, …<br><br> nosaltres {{c1::riuríem::…riure…}} per alegrar-nos.
-… Vosaltres {{c1::riuríeu::…riure…}} més, …<br><br>si tinguéssiu més temps.
-… Si ho sabessin, …<br><br> ells {{c1::riurien::…riure…}} més sovint.
-! Ara mateix, !<br><br> tu {{c1::riu::…riure…}} de la situació!
-! Si us plau, !<br><br> vostè {{c1::rigui::…riure…}} més!
-! Anem, !<br><br> nosaltres {{c1::riguem::…riure…}} junts!
-! Ara, !<br><br> vosaltres {{c1::rieu::…riure…}} amb nosaltres!
-! Immediatament, !<br><br> vostès {{c1::riguin::…riure…}} de la situació!
-~ Mentre estic pensant, ~<br><br> jo estic {{c1::creuant::…creuar…}} el carrer.
-♂ Després de mirar, ♂<br><br> ell ha {{c1::creuat::…creuar…}} el riu.
-♀ Quan va veure la llum verda, ♀<br><br> ella ha {{c1::creuada::…creuar…}} l'avinguda.
-♂♂ Després de la pluja, ♂♂<br><br> ells han {{c1::creuats::…creuar…}} la carretera.
-♀♀ Després del temporal, ♀♀<br><br> elles han {{c1::creuades::…creuar…}} el pont.
-⊙ Actualment, ⊙<br><br> jo {{c1::creuo::…creuar…}} cada dia.
-⊙ En aquest moment, ⊙<br><br> tu {{c1::creues::…creuar…}} el carrer principal.
-⊙ Ara, ⊙<br><br> ell {{c1::creua::…creuar…}} amb precaució.
-⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::creuem::…creuar…}} junts.
-⊙ Actualment, ⊙<br><br> vosaltres {{c1::creueu::…creuar…}} el mateix pont.
-⊙ Aquesta tarda, ⊙<br><br> ells {{c1::creuen::…creuar…}} el pas de zebra.
-⇠ Abans, ⇠<br><br> jo {{c1::creuava::…creuar…}} sense mirar.
-⇠ Quan érem petits, ⇠<br><br> tu {{c1::creuaves::…creuar…}} el carrer corrent.
-⇠ Fa uns anys, ⇠<br><br> ell {{c1::creuava::…creuar…}} el pont cada dia.
-⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::creuàvem::…creuar…}} junts els carrers.
-⇠ De joves, ⇠<br><br> vosaltres {{c1::creuàveu::…creuar…}} sempre el mateix camí.
-⇠ Molt abans, ⇠<br><br> ells {{c1::creuaven::…creuar…}} el parc jugant.
-↧ Ahir, ↧<br><br> jo {{c1::creuí::…creuar…}} un pont vell.
-↧ La setmana passada, ↧<br><br> tu {{c1::creuares::…creuar…}} una avinguda ampla.
-↧ El mes passat, ↧<br><br> ell {{c1::creuà::…creuar…}} el riu amb precaució.
-↧ Fa un any, ↧<br><br> nosaltres {{c1::creuàrem::…creuar…}} molts carrers junts.
-↧ Els dies antics, ↧<br><br> vosaltres {{c1::creuàreu::…creuar…}} sempre el mateix camí.
-↧ Fa poc, ↧<br><br> ells {{c1::creuaren::…creuar…}} una carretera perillosa.
-→ Demà, →<br><br> jo {{c1::creuaré::…creuar…}} un nou pont.
-→ La setmana vinent, →<br><br> tu {{c1::creuaràs::…creuar…}} el carrer amb precaució.
-→ En un any, →<br><br> ell {{c1::creuarà::…creuar…}} moltes fronteres.
-→ En cinc anys, →<br><br> nosaltres {{c1::creuarem::…creuar…}} molts camins junts.
-→ Aviat, →<br><br> vosaltres {{c1::creuareu::…creuar…}} altres carrers.
-→ En el futur, →<br><br> ells {{c1::creuaran::…creuar…}} molts camins perillosos.
-〰 Espero que 〰<br><br> jo {{c1::creuï::…creuar…}} sempre amb precaució.
-〰 Pot ser que 〰<br><br> tu {{c1::creuïs::…creuar…}} el carrer amb cura.
-〰 És possible que 〰<br><br> ell {{c1::creuï::…creuar…}} una carretera ampla.
-〰 És necessari que 〰<br><br> nosaltres {{c1::creuem::…creuar…}} junts els ponts.
-〰 Dubto que 〰<br><br> vosaltres {{c1::creueu::…creuar…}} tan ràpidament.
-〰 És probable que 〰<br><br> ells {{c1::creuïn::…creuar…}} moltes fronteres.
-↫ Si fos possible, ↫<br><br> jo {{c1::creués::…creuar…}} un nou pont.
-↫ Si tu ↫<br><br> {{c1::creuessis::…creuar…}} amb més cura, evitaries accidents.
-↫ Si ell ↫<br><br> {{c1::creués::…creuar…}} més lentament, seria més segur.
-↫ Si nosaltres ↫<br><br> {{c1::creuéssim::…creuar…}} junts, estaríem més segurs.
-↫ Si vosaltres ↫<br><br> {{c1::creuéssiu::…creuar…}} amb atenció, us estalviaríeu problemes.
-↫ Si ells ↫<br><br> {{c1::creuessin::…creuar…}} amb calma, estarien més tranquils.
-… Si pogués, …<br><br> jo {{c1::creuaria::…creuar…}} molts ponts.
-… Si tinguessis temps, …<br><br> tu {{c1::creuaries::…creuar…}} amb més atenció.
-… Ell {{c1::creuaria::…creuar…}} moltes fronteres, …<br><br>si tingués l'oportunitat.
-… Si fos necessari, …<br><br> nosaltres {{c1::creuaríem::…creuar…}} junts molts camins.
-… Vosaltres {{c1::creuaríeu::…creuar…}} el carrer amb més precaució, …<br><br>si us hi fixéssiu.
-… Si ho sabessin, …<br><br> ells {{c1::creuarien::…creuar…}} molts camins perillosos.
-! Ara mateix, !<br><br> tu {{c1::creua::…creuar…}} el carrer ràpidament!
-! Si us plau, !<br><br> vostè {{c1::creuï::…creuar…}} el pont amb cura!
-! Anem, !<br><br> nosaltres {{c1::creuem::…creuar…}} junts aquest camí!
-! Ara, !<br><br> vosaltres {{c1::creueu::…creuar…}} el carrer amb precaució!
-! Immediatament, !<br><br> vostès {{c1::creuïn::…creuar…}} el pont!
-~ Mentre estic pensant, ~<br><br> jo estic {{c1::admetent::…admetre…}} els meus errors.
-♂ Després de la discussió, ♂<br><br> ell ha {{c1::admès::…admetre…}} la seva part de culpa.
-♀ Quan va reflexionar, ♀<br><br> ella ha {{c1::admesa::…admetre…}} que s'havia equivocat.
-♂♂ Després de la reunió, ♂♂<br><br> ells han {{c1::admesos::…admetre…}} els errors comesos.
-♀♀ Després de parlar-ho, ♀♀<br><br> elles han {{c1::admeses::…admetre…}} les seves faltes.
-⊙ Actualment, ⊙<br><br> jo {{c1::admeto::…admetre…}} que no ho sé tot.
-⊙ En aquest moment, ⊙<br><br> tu {{c1::admets::…admetre…}} els teus errors.
-⊙ Ara, ⊙<br><br> ell {{c1::admet::…admetre…}} la seva part de culpa.
-⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::admetem::…admetre…}} que podríem haver fet millor.
-⊙ Actualment, ⊙<br><br> vosaltres {{c1::admeteu::…admetre…}} que no tot està clar.
-⊙ Aquesta tarda, ⊙<br><br> ells {{c1::admeten::…admetre…}} que han de millorar.
-⇠ Abans, ⇠<br><br> jo {{c1::admetia::…admetre…}} els meus errors més ràpidament.
-⇠ Quan érem petits, ⇠<br><br> tu {{c1::admeties::…admetre…}} sempre la veritat.
-⇠ Fa uns anys, ⇠<br><br> ell {{c1::admetia::…admetre…}} les seves faltes sense problemes.
-⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::admetíem::…admetre…}} els nostres errors junts.
-⇠ De joves, ⇠<br><br> vosaltres {{c1::admetíeu::…admetre…}} sovint els vostres errors.
-⇠ Molt abans, ⇠<br><br> ells {{c1::admetien::…admetre…}} que s'havien equivocat.
-↧ Ahir, ↧<br><br> jo {{c1::admetí::…admetre…}} que no ho sabia tot.
-↧ La setmana passada, ↧<br><br> tu {{c1::admeteres::…admetre…}} que t'havies equivocat.
-↧ El mes passat, ↧<br><br> ell {{c1::admeté::…admetre…}} la seva part de culpa.
-↧ Fa un any, ↧<br><br> nosaltres {{c1::admetérem::…admetre…}} que podríem haver fet millor.
-↧ Els dies antics, ↧<br><br> vosaltres {{c1::admetéreu::…admetre…}} que no tot era clar.
-↧ Fa poc, ↧<br><br> ells {{c1::admeteren::…admetre…}} que havien comès errors.
-→ Demà, →<br><br> jo {{c1::admetré::…admetre…}} les meves faltes.
-→ La setmana vinent, →<br><br> tu {{c1::admetràs::…admetre…}} que no ho sabies tot.
-→ En un any, →<br><br> ell {{c1::admetrà::…admetre…}} que podria haver fet millor.
-→ En cinc anys, →<br><br> nosaltres {{c1::admetrem::…admetre…}} que ens vam equivocar.
-→ Aviat, →<br><br> vosaltres {{c1::admetreu::…admetre…}} les vostres faltes.
-→ En el futur, →<br><br> ells {{c1::admetran::…admetre…}} els seus errors.
-〰 Espero que 〰<br><br> jo {{c1::admeti::…admetre…}} les meves equivocacions.
-〰 Pot ser que 〰<br><br> tu {{c1::admetis::…admetre…}} la teva part de culpa.
-〰 És possible que 〰<br><br> ell {{c1::admeti::…admetre…}} els seus errors.
-〰 És necessari que 〰<br><br> nosaltres {{c1::admetem::…admetre…}} les nostres faltes.
-〰 Dubto que 〰<br><br> vosaltres {{c1::admeteu::…admetre…}} tot el que passa.
-〰 És probable que 〰<br><br> ells {{c1::admetin::…admetre…}} els seus errors.
-↫ Si fos possible, ↫<br><br> jo {{c1::admetés::…admetre…}} els meus errors més aviat.
-↫ Si tu ↫<br><br> {{c1::admetessis::…admetre…}} que t'has equivocat, seria més fàcil.
-↫ Si ell ↫<br><br> {{c1::admetés::…admetre…}} les seves faltes, estaria més tranquil.
-↫ Si nosaltres ↫<br><br> {{c1::admetéssim::…admetre…}} que vam fallar, ho podríem arreglar.
-↫ Si vosaltres ↫<br><br> {{c1::admetéssiu::…admetre…}} la veritat, seria més senzill.
-↫ Si ells ↫<br><br> {{c1::admetessin::…admetre…}} els seus errors, aprendreien més ràpid.
-… Si pogués, …<br><br> jo {{c1::admetria::…admetre…}} que no ho sé tot.
-… Si tinguessis temps, …<br><br> tu {{c1::admetries::…admetre…}} més faltes.
-… Ell {{c1::admetria::…admetre…}} més sovint, …<br><br>si fos més sincer.
-… Si fos necessari, …<br><br> nosaltres {{c1::admetríem::…admetre…}} els nostres errors junts.
-… Vosaltres {{c1::admetríeu::…admetre…}} que us heu equivocat, …<br><br>si tinguéssiu temps per pensar-hi.
-… Si ho sabessin, …<br><br> ells {{c1::admetrien::…admetre…}} que es van equivocar.
-! Ara mateix, !<br><br> tu {{c1::admet::…admetre…}} els teus errors!
-! Si us plau, !<br><br> vostè {{c1::admeti::…admetre…}} la veritat!
-! Anem, !<br><br> nosaltres {{c1::admetem::…admetre…}} junts!
-! Ara, !<br><br> vosaltres {{c1::admeteu::…admetre…}} la realitat!
-! Immediatament, !<br><br> vostès {{c1::admetin::…admetre…}} els seus errors!
-~ Mentre estic pensant, ~<br><br> jo estic {{c1::romanent::…romandre…}} en silenci.
-♂ Després de la reunió, ♂<br><br> ell ha {{c1::romàs::…romandre…}} a l'oficina.
-♀ Quan tothom va marxar, ♀<br><br> ella ha {{c1::romasa::…romandre…}} sola a la sala.
-♂♂ Després de la classe, ♂♂<br><br> ells han {{c1::romasos::…romandre…}} per parlar més.
-♀♀ Després de la festa, ♀♀<br><br> elles han {{c1::romases::…romandre…}} a la pista de ball.
-⊙ Actualment, ⊙<br><br> jo {{c1::romanc::…romandre…}} a casa.
-⊙ En aquest moment, ⊙<br><br> tu {{c1::romans::…romandre…}} a la teva habitació.
-⊙ Ara, ⊙<br><br> ell {{c1::roman::…romandre…}} a l'oficina.
-⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::romanem::…romandre…}} junts a la sala.
-⊙ Actualment, ⊙<br><br> vosaltres {{c1::romaneu::…romandre…}} a casa vostra.
-⊙ Aquesta tarda, ⊙<br><br> ells {{c1::romanen::…romandre…}} a la ciutat.
-⇠ Abans, ⇠<br><br> jo {{c1::romania::…romandre…}} més temps amb els amics.
-⇠ Quan érem petits, ⇠<br><br> tu {{c1::romanies::…romandre…}} sempre a casa dels avis.
-⇠ Fa uns anys, ⇠<br><br> ell {{c1::romania::…romandre…}} a la seva habitació.
-⇠ Durant les vacances, ⇠<br><br> nosaltres {{c1::romaníem::…romandre…}} a la platja.
-⇠ De joves, ⇠<br><br> vosaltres {{c1::romaníeu::…romandre…}} més temps junts.
-⇠ Molt abans, ⇠<br><br> ells {{c1::romanien::…romandre…}} més a casa.
-↧ Ahir, ↧<br><br> jo {{c1::romanguí::…romandre…}} més estona a la reunió.
-↧ La setmana passada, ↧<br><br> tu {{c1::romangueres::…romandre…}} a la festa més temps.
-↧ El mes passat, ↧<br><br> ell {{c1::romangué::…romandre…}} fins tard.
-↧ Fa un any, ↧<br><br> nosaltres {{c1::romanguérem::…romandre…}} junts fins a la nit.
-↧ Els dies antics, ↧<br><br> vosaltres {{c1::romanguéreu::…romandre…}} més temps amb nosaltres.
-↧ Fa poc, ↧<br><br> ells {{c1::romangueren::…romandre…}} a la casa.
-→ Demà, →<br><br> jo {{c1::romandré::…romandre…}} més temps al lloc de feina.
-→ La setmana vinent, →<br><br> tu {{c1::romandràs::…romandre…}} més estona a la ciutat.
-→ En un any, →<br><br> ell {{c1::romandrà::…romandre…}} amb nosaltres.
-→ En cinc anys, →<br><br> nosaltres {{c1::romandrem::…romandre…}} junts en aquest lloc.
-→ Aviat, →<br><br> vosaltres {{c1::romandreu::…romandre…}} més a casa vostra.
-→ En el futur, →<br><br> ells {{c1::romandran::…romandre…}} més estona en aquest lloc.
-〰 Espero que 〰<br><br> jo {{c1::romangui::…romandre…}} més temps amb ells.
-〰 Pot ser que 〰<br><br> tu {{c1::romanguis::…romandre…}} més temps a la feina.
-〰 És possible que 〰<br><br> ell {{c1::romangui::…romandre…}} fins tard.
-〰 És necessari que 〰<br><br> nosaltres {{c1::romanguem::…romandre…}} junts en aquest lloc.
-〰 Dubto que 〰<br><br> vosaltres {{c1::romangueu::…romandre…}} més temps en aquesta ciutat.
-〰 És probable que 〰<br><br> ells {{c1::romanguin::…romandre…}} més a prop.
-↫ Si fos possible, ↫<br><br> jo {{c1::romangués::…romandre…}} més temps amb ells.
-↫ Si tu ↫<br><br> {{c1::romanguessis::…romandre…}} més temps, ho gaudiries més.
-↫ Si ell ↫<br><br> {{c1::romangués::…romandre…}} més temps, acabaria la feina.
-↫ Si nosaltres ↫<br><br> {{c1::romanguéssim::…romandre…}} junts, seria millor.
-↫ Si vosaltres ↫<br><br> {{c1::romanguéssiu::…romandre…}} més, tot aniria bé.
-↫ Si ells ↫<br><br> {{c1::romanguessin::…romandre…}} més temps, seria perfecte.
-… Si pogués, …<br><br> jo {{c1::romandria::…romandre…}} més temps.
-… Si tinguessis temps, …<br><br> tu {{c1::romandries::…romandre…}} més temps a la festa.
-… Ell {{c1::romandria::…romandre…}} més sovint, …<br><br>si fos necessari.
-… Si fos necessari, …<br><br> nosaltres {{c1::romandríem::…romandre…}} junts en aquest lloc.
-… Vosaltres {{c1::romandríeu::…romandre…}} més temps amb ells, …<br><br>si tinguéssiu temps.
-… Si ho sabessin, …<br><br> ells {{c1::romandrien::…romandre…}} més temps aquí.
-! Ara mateix, !<br><br> tu {{c1::roman::…romandre…}} més temps amb nosaltres!
-! Si us plau, !<br><br> vostè {{c1::romangui::…romandre…}} més temps a la ciutat!
-! Anem, !<br><br> nosaltres {{c1::romanguem::…romandre…}} junts fins tard!
-! Ara, !<br><br> vosaltres {{c1::romaneu::…romandre…}} més temps en aquest lloc!
-! Immediatament, !<br><br> vostès {{c1::romanguin::…romandre…}} junts fins al final!
-~ Mentre estic pensant, ~<br><br> jo estic {{c1::vencent::…vèncer…}} els meus temors.
-♂ Després del partit, ♂<br><br> ell ha {{c1::vençut::…vèncer…}} el seu rival.
-♀ Quan va veure l'oportunitat, ♀<br><br> ella ha {{c1::vençuda::…vèncer…}} els seus dubtes.
-♂♂ Després de l'entrenament, ♂♂<br><br> ells han {{c1::vençuts::…vèncer…}} l'adversitat.
-♀♀ Després de la competició, ♀♀<br><br> elles han {{c1::vençudes::…vèncer…}} les seves pors.
-⊙ Actualment, ⊙<br><br> jo {{c1::venço::…vèncer…}} cada dia.
-⊙ En aquest moment, ⊙<br><br> tu {{c1::vences::…vèncer…}} els teus reptes.
-⊙ Ara, ⊙<br><br> ell {{c1::venç::…vèncer…}} amb determinació.
-⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::vencem::…vèncer…}} junts.
-⊙ Actualment, ⊙<br><br> vosaltres {{c1::venceu::…vèncer…}} tots els obstacles.
-⊙ Aquesta tarda, ⊙<br><br> ells {{c1::vencen::…vèncer…}} amb força.
-⇠ Abans, ⇠<br><br> jo {{c1::vencia::…vèncer…}} els meus temors.
-⇠ Quan érem petits, ⇠<br><br> tu {{c1::vencies::…vèncer…}} sempre en els jocs.
-⇠ Fa uns anys, ⇠<br><br> ell {{c1::vencia::…vèncer…}} amb gran esforç.
-⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::vencíem::…vèncer…}} junts en cada competició.
-⇠ De joves, ⇠<br><br> vosaltres {{c1::vencíeu::…vèncer…}} sempre en els partits.
-⇠ Molt abans, ⇠<br><br> ells {{c1::vencien::…vèncer…}} totes les adversitats.
-↧ Ahir, ↧<br><br> jo {{c1::vencí::…vèncer…}} en una dura competició.
-↧ La setmana passada, ↧<br><br> tu {{c1::venceres::…vèncer…}} en un joc difícil.
-↧ El mes passat, ↧<br><br> ell {{c1::vencé::…vèncer…}} el seu rival més fort.
-↧ Fa un any, ↧<br><br> nosaltres {{c1::vencérem::…vèncer…}} una gran adversitat.
-↧ Els dies antics, ↧<br><br> vosaltres {{c1::vencéreu::…vèncer…}} tots els desafiaments.
-↧ Fa poc, ↧<br><br> ells {{c1::venceren::…vèncer…}} les seves pors.
-→ Demà, →<br><br> jo {{c1::venceré::…vèncer…}} un nou repte.
-→ La setmana vinent, →<br><br> tu {{c1::venceràs::…vèncer…}} tots els obstacles.
-→ En un any, →<br><br> ell {{c1::vencerà::…vèncer…}} en una gran competició.
-→ En cinc anys, →<br><br> nosaltres {{c1::vencerem::…vèncer…}} molts desafiaments junts.
-→ Aviat, →<br><br> vosaltres {{c1::vencereu::…vèncer…}} totes les dificultats.
-→ En el futur, →<br><br> ells {{c1::venceran::…vèncer…}} qualsevol adversitat.
-〰 Espero que 〰<br><br> jo {{c1::venci::…vèncer…}} totes les pors.
-〰 Pot ser que 〰<br><br> tu {{c1::vencis::…vèncer…}} els teus dubtes.
-〰 És possible que 〰<br><br> ell {{c1::venci::…vèncer…}} en la competició.
-〰 És necessari que 〰<br><br> nosaltres {{c1::vencem::…vèncer…}} junts.
-〰 Dubto que 〰<br><br> vosaltres {{c1::venceu::…vèncer…}} sempre.
-〰 És probable que 〰<br><br> ells {{c1::vencin::…vèncer…}} totes les dificultats.
-↫ Si fos possible, ↫<br><br> jo {{c1::vencés::…vèncer…}} cada dia.
-↫ Si tu ↫<br><br> {{c1::vencessis::…vèncer…}} més sovint, tindries més èxit.
-↫ Si ell ↫<br><br> {{c1::vencés::…vèncer…}} amb més determinació, guanyaria més.
-↫ Si nosaltres ↫<br><br> {{c1::vencéssim::…vèncer…}} junts, seria més fàcil.
-↫ Si vosaltres ↫<br><br> {{c1::vencéssiu::…vèncer…}} amb força, superaríeu tot.
-↫ Si ells ↫<br><br> {{c1::vencessin::…vèncer…}} totes les adversitats, serien invencibles.
-… Si pogués, …<br><br> jo {{c1::venceria::…vèncer…}} tots els reptes.
-… Si tinguessis temps, …<br><br> tu {{c1::venceries::…vèncer…}} més obstacles.
-… Ell {{c1::venceria::…vèncer…}} més sovint, …<br><br>si tingués oportunitats.
-… Si fos necessari, …<br><br> nosaltres {{c1::venceríem::…vèncer…}} qualsevol adversitat.
-… Vosaltres {{c1::venceríeu::…vèncer…}} més reptes, …<br><br>si tinguéssiu la força.
-… Si ho sabessin, …<br><br> ells {{c1::vencerien::…vèncer…}} tots els obstacles.
-! Ara mateix, !<br><br> tu {{c1::venç::…vèncer…}} els teus temors!
-! Si us plau, !<br><br> vostè {{c1::venci::…vèncer…}} tots els dubtes!
-! Anem, !<br><br> nosaltres {{c1::vencem::…vèncer…}} junts aquest repte!
-! Ara, !<br><br> vosaltres {{c1::venceu::…vèncer…}} qualsevol cosa!
-! Immediatament, !<br><br> vostès {{c1::vencin::…vèncer…}} totes les pors!
+~ Mentre estic pensant, ~<br><br> jo estic {{c1::valent::…valer…}} totes les meves decisions.
+♂ Després de la discussió, ♂<br><br> ell ha {{c1::valgut::…valer…}} el seu punt de vista.
+♀ Quan va prendre la decisió, ♀<br><br> ella ha {{c1::valguda::…valer…}} la seva paraula.
+♂♂ Després del judici, ♂♂<br><br> ells han {{c1::valguts::…valer…}} els seus drets.
+♀♀ Després del debat, ♀♀<br><br> elles han {{c1::valgudes::…valer…}} les seves opinions.
+⊙ Actualment, ⊙<br><br> jo {{c1::valc::…valer…}} cada dia.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::vals::…valer…}} molt per a la teva família.
+⊙ Ara, ⊙<br><br> ell {{c1::val::…valer…}} més que mai.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::valem::…valer…}} la pena.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::valeu::…valer…}} molt per a nosaltres.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::valen::…valer…}} pel seu treball.
+⇠ Abans, ⇠<br><br> jo {{c1::valia::…valer…}} molt més.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::valies::…valer…}} poc.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::valia::…valer…}} cada vegada més.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::valíem::…valer…}} més del que pensàvem.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::valíeu::…valer…}} molt per als vostres amics.
+⇠ Molt abans, ⇠<br><br> ells {{c1::valien::…valer…}} pel que feien.
+↧ Ahir, ↧<br><br> jo {{c1::valguí::…valer…}} més que mai.
+↧ La setmana passada, ↧<br><br> tu {{c1::valgueres::…valer…}} molt pel teu treball.
+↧ El mes passat, ↧<br><br> ell {{c1::valgué::…valer…}} pel que va aconseguir.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::valguérem::…valer…}} la pena de ser-hi.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::valguéreu::…valer…}} pel que vau fer.
+↧ Fa poc, ↧<br><br> ells {{c1::valgueren::…valer…}} molt pel que han fet.
+→ Demà, →<br><br> jo {{c1::valdré::…valer…}} més que mai.
+→ La setmana vinent, →<br><br> tu {{c1::valdràs::…valer…}} més pel que facis.
+→ En un any, →<br><br> ell {{c1::valdrà::…valer…}} molt pel seu treball.
+→ En cinc anys, →<br><br> nosaltres {{c1::valdrem::…valer…}} molt per al futur.
+→ Aviat, →<br><br> vosaltres {{c1::valdreu::…valer…}} més per al vostre treball.
+→ En el futur, →<br><br> ells {{c1::valdran::…valer…}} més que mai.
+〰 Espero que 〰<br><br> jo {{c1::valgui::…valer…}} pel que faig.
+〰 Pot ser que 〰<br><br> tu {{c1::valguis::…valer…}} molt més.
+〰 És possible que 〰<br><br> ell {{c1::valgui::…valer…}} pel seu treball.
+〰 És necessari que 〰<br><br> nosaltres {{c1::valguem::…valer…}} per a la família.
+〰 Dubto que 〰<br><br> vosaltres {{c1::valgueu::…valer…}} més del que feu.
+〰 És probable que 〰<br><br> ells {{c1::valguin::…valer…}} molt per al futur.
+↫ Si fos possible, ↫<br><br> jo {{c1::valgués::…valer…}} més per a tothom.
+↫ Si tu ↫<br><br> {{c1::valguessis::…valer…}} més, tindries més èxit.
+↫ Si ell ↫<br><br> {{c1::valgués::…valer…}} pel que fa, aconseguiria més.
+↫ Si nosaltres ↫<br><br> {{c1::valguéssem::…valer…}} pel que fem, seria més.
+↫ Si vosaltres ↫<br><br> {{c1::valguésseu::…valer…}} més, obtindríeu més.
+↫ Si ells ↫<br><br> {{c1::valguessin::…valer…}} pel que han fet, tot aniria millor.
+… Si pogués, …<br><br> jo {{c1::valdria::…valer…}} més per a tothom.
+… Si tinguessis temps, …<br><br> tu {{c1::valdries::…valer…}} més pel teu treball.
+… Ell {{c1::valdria::…valer…}} més sovint, …<br><br>si tingués més temps.
+… Si fos necessari, …<br><br> nosaltres {{c1::valdríem::…valer…}} més per al futur.
+… Vosaltres {{c1::valdríeu::…valer…}} més pel vostre treball, …<br><br>si us hi poséssiu més.
+… Si ho sabessin, …<br><br> ells {{c1::valdrien::…valer…}} més pel que han fet.
+! Ara mateix, !<br><br> tu {{c1::val::…valer…}} més que mai!
+! Si us plau, !<br><br> vostè {{c1::valgui::…valer…}} pel que faci!
+! Anem, !<br><br> nosaltres {{c1::valguem::…valer…}} pel futur!
+! Ara, !<br><br> vosaltres {{c1::valgueu::…valer…}} pel vostre treball!
+! Immediatament, !<br><br> vostès {{c1::valguin::…valer…}} pel que han fet!
+~ Mentre estic pensant, ~<br><br> jo estic {{c1::cocent::…coure…}} les verdures per al sopar.
+♂ Després de la classe de cuina, ♂<br><br> ell ha {{c1::cuit/cogut::…coure…}} el pollastre perfectament.
+♀ Quan va arribar l'hora de dinar, ♀<br><br> ella ha {{c1::cuita/coguda::…coure…}} el peix al punt.
+♂♂ Després de l'entrenament, ♂♂<br><br> ells han {{c1::cuits/coguts::…coure…}} les patates al forn.
+♀♀ Després del sopar, ♀♀<br><br> elles han {{c1::cuites/cogudes::…coure…}} les verdures al vapor.
+⊙ Actualment, ⊙<br><br> jo {{c1::coc::…coure…}} el menjar cada dia.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::cous::…coure…}} el pa per al dinar.
+⊙ Ara, ⊙<br><br> ell {{c1::cou::…coure…}} la carn a la graella.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::coem::…coure…}} junts per al sopar.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::coeu::…coure…}} el menjar tradicional.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::couen::…coure…}} les verdures a foc lent.
+⇠ Abans, ⇠<br><br> jo {{c1::coïa::…coure…}} cada dia per a la família.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::coïes::…coure…}} sempre amb la teva àvia.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::coïa::…coure…}} a la casa de camp.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::coíem::…coure…}} en les classes de cuina.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::coíeu::…coure…}} cada setmana.
+⇠ Molt abans, ⇠<br><br> ells {{c1::coïen::…coure…}} a casa seva.
+↧ Ahir, ↧<br><br> jo {{c1::coguí::…coure…}} un bon àpat.
+↧ La setmana passada, ↧<br><br> tu {{c1::cogueres::…coure…}} un pastís de xocolata.
+↧ El mes passat, ↧<br><br> ell {{c1::cogué::…coure…}} el menjar per a tota la família.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::coguérem::…coure…}} junts al càmping.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::coguéreu::…coure…}} a l'escola.
+↧ Fa poc, ↧<br><br> ells {{c1::cogueren::…coure…}} un bon sopar.
+→ Demà, →<br><br> jo {{c1::couré::…coure…}} per a una festa.
+→ La setmana vinent, →<br><br> tu {{c1::couràs::…coure…}} un gran pastís.
+→ En un any, →<br><br> ell {{c1::courà::…coure…}} per a una celebració especial.
+→ En cinc anys, →<br><br> nosaltres {{c1::courem::…coure…}} junts en un esdeveniment.
+→ Aviat, →<br><br> vosaltres {{c1::coureu::…coure…}} alguna cosa especial.
+→ En el futur, →<br><br> ells {{c1::couran::…coure…}} a la cuina d'un restaurant.
+〰 Espero que 〰<br><br> jo {{c1::cogui::…coure…}} un bon plat.
+〰 Pot ser que 〰<br><br> tu {{c1::coguis::…coure…}} alguna cosa deliciosa.
+〰 És possible que 〰<br><br> ell {{c1::cogui::…coure…}} a la perfecció.
+〰 És necessari que 〰<br><br> nosaltres {{c1::coguem::…coure…}} junts per a la família.
+〰 Dubto que 〰<br><br> vosaltres {{c1::cogueu::…coure…}} tan sovint.
+〰 És probable que 〰<br><br> ells {{c1::coguin::…coure…}} alguna cosa diferent.
+↫ Si fos possible, ↫<br><br> jo {{c1::cogués::…coure…}} cada dia.
+↫ Si tu ↫<br><br> {{c1::coguessis::…coure…}} més sovint, milloraríes en cuina.
+↫ Si ell ↫<br><br> {{c1::cogués::…coure…}} més, faria plats deliciosos.
+↫ Si nosaltres ↫<br><br> {{c1::coguéssim::…coure…}} junts, gaudiríem més del menjar.
+↫ Si vosaltres ↫<br><br> {{c1::coguéssiu::…coure…}} més sovint, sorprenríeu a tothom.
+↫ Si ells ↫<br><br> {{c1::coguessin::…coure…}} més, serien millors cuiners.
+… Si pogués, …<br><br> jo {{c1::couria::…coure…}} tots els dies.
+… Si tinguessis temps, …<br><br> tu {{c1::couries::…coure…}} més plats.
+… Ell {{c1::couria::…coure…}} més sovint, …<br><br>si tingués més temps.
+… Si fos necessari, …<br><br> nosaltres {{c1::couríem::…coure…}} junts a casa.
+… Vosaltres {{c1::couríeu::…coure…}} més sovint, …<br><br>si practiquessiu més.
+… Si ho sabessin, …<br><br> ells {{c1::courien::…coure…}} més plats exquisits.
+! Ara mateix, !<br><br> tu {{c1::cou::…coure…}} el menjar amb cura!
+! Si us plau, !<br><br> vostè {{c1::cogui::…coure…}} amb dedicació!
+! Anem, !<br><br> nosaltres {{c1::coguem::…coure…}} junts a la cuina!
+! Ara, !<br><br> vosaltres {{c1::coeu::…coure…}} amb entusiasme!
+! Immediatament, !<br><br> vostès {{c1::coguin::…coure…}} un bon plat!
+~ Mentre estic pensant, ~<br><br> jo estic {{c1::plaent::…plaure…}} a la gent amb les meves idees.
+♂ Després de la reunió, ♂<br><br> ell ha {{c1::plagut::…plaure…}} als seus col·legues amb la seva presentació.
+♀ Quan va explicar el projecte, ♀<br><br> ella ha {{c1::plaguda::…plaure…}} als seus clients.
+♂♂ Després de l'exposició, ♂♂<br><br> ells han {{c1::plaguts::…plaure…}} a tots amb les seves obres.
+♀♀ Després del debat, ♀♀<br><br> elles han {{c1::plagudes::…plaure…}} al públic amb els seus arguments.
+⊙ Actualment, ⊙<br><br> jo {{c1::plac::…plaure…}} a molta gent.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::plaus::…plaure…}} a tots els que et coneixen.
+⊙ Ara, ⊙<br><br> ell {{c1::plau::…plaure…}} més que mai.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::plaem::…plaure…}} junts en aquest projecte.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::plaeu::…plaure…}} a molta gent.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::plauen::…plaure…}} a tots els assistents.
+⇠ Abans, ⇠<br><br> jo {{c1::plaïa::…plaure…}} a la meva família amb les meves decisions.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::plaïes::…plaure…}} als teus pares.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::plaïa::…plaure…}} als seus amics.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::plaíem::…plaure…}} als nostres mestres.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::plaíeu::…plaure…}} als vostres companys.
+⇠ Molt abans, ⇠<br><br> ells {{c1::plaïen::…plaure…}} a tothom.
+↧ Ahir, ↧<br><br> jo {{c1::plaguí::…plaure…}} als meus amics amb les meves paraules.
+↧ La setmana passada, ↧<br><br> tu {{c1::plagueres::…plaure…}} als teus col·legues.
+↧ El mes passat, ↧<br><br> ell {{c1::plagué::…plaure…}} als seus familiars.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::plaguérem::…plaure…}} als nostres veïns.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::plaguéreu::…plaure…}} als vostres professors.
+↧ Fa poc, ↧<br><br> ells {{c1::plagueren::…plaure…}} a la seva audiència.
+→ Demà, →<br><br> jo {{c1::plauré::…plaure…}} a tots els meus amics.
+→ La setmana vinent, →<br><br> tu {{c1::plauràs::…plaure…}} a tothom que coneguis.
+→ En un any, →<br><br> ell {{c1::plaurà::…plaure…}} als seus col·legues.
+→ En cinc anys, →<br><br> nosaltres {{c1::plaurem::…plaure…}} als nostres seguidors.
+→ Aviat, →<br><br> vosaltres {{c1::plaureu::…plaure…}} a tots els que us coneguin.
+→ En el futur, →<br><br> ells {{c1::plauran::…plaure…}} a la seva audiència.
+〰 Espero que 〰<br><br> jo {{c1::plagui::…plaure…}} a molta gent.
+〰 Pot ser que 〰<br><br> tu {{c1::plaguis::…plaure…}} als teus col·legues.
+〰 És possible que 〰<br><br> ell {{c1::plagui::…plaure…}} a la seva audiència.
+〰 És necessari que 〰<br><br> nosaltres {{c1::plaguem::…plaure…}} als nostres amics.
+〰 Dubto que 〰<br><br> vosaltres {{c1::plagueu::…plaure…}} a tothom.
+〰 És probable que 〰<br><br> ells {{c1::plaguin::…plaure…}} a tothom que coneguin.
+↫ Si fos possible, ↫<br><br> jo {{c1::plagués::…plaure…}} més sovint.
+↫ Si tu ↫<br><br> {{c1::plaguessis::…plaure…}} a tothom, tindries molts amics.
+↫ Si ell ↫<br><br> {{c1::plagués::…plaure…}} més sovint, tothom el seguiria.
+↫ Si nosaltres ↫<br><br> {{c1::plaguéssim::…plaure…}} més, tindríem més seguidors.
+↫ Si vosaltres ↫<br><br> {{c1::plaguéssiu::…plaure…}} a més gent, us respectarien més.
+↫ Si ells ↫<br><br> {{c1::plaguessin::…plaure…}} a tothom, serien molt populars.
+… Si pogués, …<br><br> jo {{c1::plauria::…plaure…}} més sovint.
+… Si tinguessis temps, …<br><br> tu {{c1::plauries::…plaure…}} a més gent.
+… Ell {{c1::plauria::…plaure…}} més sovint, …<br><br>si tingués més temps.
+… Si fos necessari, …<br><br> nosaltres {{c1::plauríem::…plaure…}} més a tothom.
+… Vosaltres {{c1::plauríeu::…plaure…}} a més persones, …<br><br>si us hi poséssiu més.
+… Si ho sabessin, …<br><br> ells {{c1::plaurien::…plaure…}} més a tothom.
+! Ara mateix, !<br><br> tu {{c1::plau::…plaure…}} a tothom que coneguis!
+! Si us plau, !<br><br> vostè {{c1::plagui::…plaure…}} als seus clients!
+! Anem, !<br><br> nosaltres {{c1::plaguem::…plaure…}} a tots els que ens coneguin!
+! Ara, !<br><br> vosaltres {{c1::plaeu::…plaure…}} més sovint!
+! Immediatament, !<br><br> vostès {{c1::plaguin::…plaure…}} a la seva audiència!
+~ Mentre estic pensant, ~<br><br> jo estic {{c1::jaient::…jeure…}} al llit després d'un llarg dia.
+♂ Després de l'entrenament, ♂<br><br> ell ha {{c1::jagut::…jeure…}} al sofà a descansar.
+♀ Quan va arribar a casa, ♀<br><br> ella ha {{c1::jaguda::…jeure…}} al llit.
+♂♂ Després de l'excursió, ♂♂<br><br> ells han {{c1::jaguts::…jeure…}} al terra.
+♀♀ Després del passeig, ♀♀<br><br> elles han {{c1::jagudes::…jeure…}} a l'ombra.
+⊙ Actualment, ⊙<br><br> jo {{c1::jec::…jeure…}} al sofà cada nit.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::jeus::…jeure…}} després de dinar.
+⊙ Ara, ⊙<br><br> ell {{c1::jeu::…jeure…}} al llit.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::jaiem::…jeure…}} al jardí.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::jaieu::…jeure…}} després de sopar.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::jeuen::…jeure…}} sota el sol.
+⇠ Abans, ⇠<br><br> jo {{c1::jeia::…jeure…}} a la platja durant les vacances.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::jeies::…jeure…}} a la gespa a l'estiu.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::jeia::…jeure…}} al sol després de treballar.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::jèiem::…jeure…}} al pati.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::jèieu::…jeure…}} al parc cada cap de setmana.
+⇠ Molt abans, ⇠<br><br> ells {{c1::jeien::…jeure…}} a la platja tot l'estiu.
+↧ Ahir, ↧<br><br> jo {{c1::jaguí::…jeure…}} a l'herba després de caminar.
+↧ La setmana passada, ↧<br><br> tu {{c1::jagueres::…jeure…}} al sofà després de sopar.
+↧ El mes passat, ↧<br><br> ell {{c1::jagué::…jeure…}} al sol durant les vacances.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::jaguérem::…jeure…}} al parc.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::jaguéreu::…jeure…}} al pati després de classe.
+↧ Fa poc, ↧<br><br> ells {{c1::jagueren::…jeure…}} al llit després d'un llarg dia.
+→ Demà, →<br><br> jo {{c1::jauré::…jeure…}} al llit fins tard.
+→ La setmana vinent, →<br><br> tu {{c1::jauràs::…jeure…}} al sofà després de dinar.
+→ En un any, →<br><br> ell {{c1::jaurà::…jeure…}} sota el sol durant les vacances.
+→ En cinc anys, →<br><br> nosaltres {{c1::jaurem::…jeure…}} al parc cada cap de setmana.
+→ Aviat, →<br><br> vosaltres {{c1::jaureu::…jeure…}} al jardí.
+→ En el futur, →<br><br> ells {{c1::jauran::…jeure…}} sota un arbre.
+〰 Espero que 〰<br><br> jo {{c1::jegui::…jeure…}} més sovint.
+〰 Pot ser que 〰<br><br> tu {{c1::jeguis::…jeure…}} sota el sol aquest estiu.
+〰 És possible que 〰<br><br> ell {{c1::jegui::…jeure…}} al llit tot el dia.
+〰 És necessari que 〰<br><br> nosaltres {{c1::jaguem::…jeure…}} més sovint per descansar.
+〰 Dubto que 〰<br><br> vosaltres {{c1::jagueu::…jeure…}} tant com cal.
+〰 És probable que 〰<br><br> ells {{c1::jaguin::…jeure…}} a l'ombra a la tarda.
+↫ Si fos possible, ↫<br><br> jo {{c1::jagués::…jeure…}} més temps al llit.
+↫ Si tu ↫<br><br> {{c1::jaguessis::…jeure…}} més sovint, et sentiries millor.
+↫ Si ell ↫<br><br> {{c1::jagués::…jeure…}} més temps, estaria més descansat.
+↫ Si nosaltres ↫<br><br> {{c1::jaguéssim::…jeure…}} junts, gaudiríem més del temps lliure.
+↫ Si vosaltres ↫<br><br> {{c1::jaguéssiu::…jeure…}} més, estaríeu més tranquils.
+↫ Si ells ↫<br><br> {{c1::jaguessin::…jeure…}} més sovint, estarien més relaxats.
+… Si pogués, …<br><br> jo {{c1::jauria::…jeure…}} més sovint.
+… Si tinguessis temps, …<br><br> tu {{c1::jauries::…jeure…}} més temps al sofà.
+… Ell {{c1::jauria::…jeure…}} més sovint, …<br><br>si tingués més vacances.
+… Si fos necessari, …<br><br> nosaltres {{c1::jauríem::…jeure…}} junts després de treballar.
+… Vosaltres {{c1::jauríeu::…jeure…}} més sovint, …<br><br>si tinguéssiu més temps lliure.
+… Si ho sabessin, …<br><br> ells {{c1::jaurien::…jeure…}} més sota el sol.
+! Ara mateix, !<br><br> tu {{c1::jeu::…jeure…}} al llit i descansa!
+! Si us plau, !<br><br> vostè {{c1::jegui::…jeure…}} al sofà!
+! Anem, !<br><br> nosaltres {{c1::jaguem::…jeure…}} junts al jardí!
+! Ara, !<br><br> vosaltres {{c1::jaieu::…jeure…}} a l'ombra!
+! Immediatament, !<br><br> vostès {{c1::jeguin::…jeure…}} més temps per descansar!
+
+~ Mentre estic pensant, ~<br><br> jo estic {{c1::imprimint::…imprimir…}} els documents per a la reunió.
+♂ Després de l'escriptura, ♂<br><br> ell ha {{c1::imprès::…imprimir…}} el llibre.
+♀ Quan va acabar l'informe, ♀<br><br> ella ha {{c1::impresa::…imprimir…}} totes les còpies.
+♂♂ Després de la reunió, ♂♂<br><br> ells han {{c1::impresos::…imprimir…}} els informes per a la distribució.
+♀♀ Després del treball, ♀♀<br><br> elles han {{c1::impreses::…imprimir…}} les cartes per enviar.
+~ Mentre estic pensant, ~<br><br> jo estic {{c1::batet::…batre…}} els ous per a una truita.
+♂ Després de l'exercici, ♂<br><br> ell ha {{c1::batut::…batre…}} el rècord de velocitat.
+♀ Quan va fer el pastís, ♀<br><br> ella ha {{c1::batuda::…batre…}} les clares d'ou a punt de neu.
+♂♂ Després de l'entrenament, ♂♂<br><br> ells han {{c1::batuts::…batre…}} el seu millor temps.
+♀♀ Després de la competició, ♀♀<br><br> elles han {{c1::batudes::…batre…}} la marca anterior.
+⊙ Actualment, ⊙<br><br> jo {{c1::bato::…batre…}} cada matí al gimnàs.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::bats::…batre…}} els teus rècords.
+⊙ Ara, ⊙<br><br> ell {{c1::bat::…batre…}} les teves pròpies marques.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::batem::…batre…}} els rècords del grup.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::bateu::…batre…}} el vostre rècord personal.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::baten::…batre…}} el millor temps del grup.
+⇠ Abans, ⇠<br><br> jo {{c1::batia::…batre…}} els ous cada diumenge.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::baties::…batre…}} les clares per a les postres.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::batia::…batre…}} el seu millor temps.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::batíem::…batre…}} rècords en les curses.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::batíeu::…batre…}} els rècords de natació.
+⇠ Molt abans, ⇠<br><br> ells {{c1::batien::…batre…}} el millor temps del curs.
+↧ Ahir, ↧<br><br> jo {{c1::batí::…batre…}} un ou per al meu dinar.
+↧ La setmana passada, ↧<br><br> tu {{c1::bateres::…batre…}} el teu millor temps.
+↧ El mes passat, ↧<br><br> ell {{c1::baté::…batre…}} les clares d'ou per al pastís.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::batérem::…batre…}} rècords a la cursa escolar.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::batéreu::…batre…}} rècords en totes les competicions.
+↧ Fa poc, ↧<br><br> ells {{c1::bateren::…batre…}} les seves pròpies marques.
+→ Demà, →<br><br> jo {{c1::batré::…batre…}} un rècord personal.
+→ La setmana vinent, →<br><br> tu {{c1::batràs::…batre…}} el teu temps anterior.
+→ En un any, →<br><br> ell {{c1::batrà::…batre…}} el rècord mundial.
+→ En cinc anys, →<br><br> nosaltres {{c1::batrem::…batre…}} totes les marques.
+→ Aviat, →<br><br> vosaltres {{c1::batreu::…batre…}} els rècords del vostre equip.
+→ En el futur, →<br><br> ells {{c1::batran::…batre…}} els millors temps del món.
+〰 Espero que 〰<br><br> jo {{c1::bati::…batre…}} el meu propi rècord.
+〰 Pot ser que 〰<br><br> tu {{c1::batis::…batre…}} els teus objectius.
+〰 És possible que 〰<br><br> ell {{c1::bati::…batre…}} les seves pròpies marques.
+〰 És necessari que 〰<br><br> nosaltres {{c1::batem::…batre…}} junts per assolir la victòria.
+〰 Dubto que 〰<br><br> vosaltres {{c1::bateu::…batre…}} tots els rècords.
+〰 És probable que 〰<br><br> ells {{c1::batin::…batre…}} les marques anteriors.
+↫ Si fos possible, ↫<br><br> jo {{c1::batés::…batre…}} tots els dies.
+↫ Si tu ↫<br><br> {{c1::batessis::…batre…}} més sovint, milloraries molt.
+↫ Si ell ↫<br><br> {{c1::batés::…batre…}} amb més freqüència, seria imbatible.
+↫ Si nosaltres ↫<br><br> {{c1::batéssim::…batre…}} junts, seríem invencibles.
+↫ Si vosaltres ↫<br><br> {{c1::batéssiu::…batre…}} més sovint, superaríeu tots els límits.
+↫ Si ells ↫<br><br> {{c1::batessin::…batre…}} regularment, serien campions.
+… Si pogués, …<br><br> jo {{c1::batria::…batre…}} tots els rècords cada dia.
+… Si tinguessis temps, …<br><br> tu {{c1::batries::…batre…}} totes les teves marques.
+… Ell {{c1::batria::…batre…}} més sovint, …<br><br>si tingués més oportunitats.
+… Si fos necessari, …<br><br> nosaltres {{c1::batríem::…batre…}} junts per guanyar.
+… Vosaltres {{c1::batríeu::…batre…}} tots els rècords, …<br><br>si us hi poséssiu.
+… Si ho sabessin, …<br><br> ells {{c1::batrien::…batre…}} totes les marques.
+! Ara mateix, !<br><br> tu {{c1::bat::…batre…}} aquest rècord!
+! Si us plau, !<br><br> vostè {{c1::bati::…batre…}} amb tota la seva força!
+! Anem, !<br><br> nosaltres {{c1::batem::…batre…}} aquest rècord junts!
+! Ara, !<br><br> vosaltres {{c1::bateu::…batre…}} les vostres pròpies marques!
+! Immediatament, !<br><br> vostès {{c1::batin::…batre…}} totes les expectatives!
+~ Mentre estic pensant, ~<br><br> jo estic {{c1::ponent::…pondre…}} les bases per al projecte.
+♂ Després de molt treball, ♂<br><br> ell ha {{c1::post::…pondre…}} en marxa el seu pla.
+♀ Quan va arribar l'oportunitat, ♀<br><br> ella ha {{c1::posta::…pondre…}} tot en ordre.
+♂♂ Després de la discussió, ♂♂<br><br> ells han {{c1::postos::…pondre…}} en clar els seus objectius.
+♀♀ Després de la reunió, ♀♀<br><br> elles han {{c1::postes::…pondre…}} sobre la taula totes les opcions.
+~ Mentre estic pensant, ~<br><br> jo estic {{c1::constrenyent::…constrènyer…}} les idees en paraules.
+♂ Després de la discussió, ♂<br><br> ell ha {{c1::constret::…constrènyer…}} els seus pensaments en un resum.
+♀ Quan va fer l'informe, ♀<br><br> ella ha {{c1::constreta::…constrènyer…}} tota la informació en un document.
+♂♂ Després del debat, ♂♂<br><br> ells han {{c1::constrets::…constrènyer…}} els arguments en una conclusió.
+♀♀ Després de la reunió, ♀♀<br><br> elles han {{c1::constretes::…constrènyer…}} les opinions en un acord.
+~ Mentre estic preparant el menjar, ~<br><br> jo estic {{c1::cernent::…cerndre…}} la farina per al pa.
+♂ Després de collir el blat, ♂<br><br> ell ha {{c1::cernut::…cerndre…}} la farina per al pa.
+♀ Quan va fer la massa, ♀<br><br> ella ha {{c1::cernuda::…cerndre…}} la farina amb cura.
+♂♂ Després de la collita, ♂♂<br><br> ells han {{c1::cernuts::…cerndre…}} la farina per a la cocció.
+♀♀ Després del batut, ♀♀<br><br> elles han {{c1::cernudes::…cerndre…}} el sucre en pols.
+⊙ Actualment, ⊙<br><br> jo {{c1::cerno::…cerndre…}} la farina cada vegada que faig pa.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::cerns::…cerndre…}} la farina per a la cocció.
+⊙ Ara, ⊙<br><br> ell {{c1::cern::…cerndre…}} la farina per preparar la massa.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::cernem::…cerndre…}} junts la farina per a la festa.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::cerneu::…cerndre…}} la farina abans de coure-la.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::cernen::…cerndre…}} el sucre en pols per a la recepta.
+⇠ Abans, ⇠<br><br> jo {{c1::cernia::…cerndre…}} la farina cada setmana.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::cernies::…cerndre…}} sempre la farina per a la massa.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::cernia::…cerndre…}} la farina per a totes les receptes.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::cerníem::…cerndre…}} la farina junts a la cuina.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::cerníeu::…cerndre…}} la farina per a la festa.
+⇠ Molt abans, ⇠<br><br> ells {{c1::cernien::…cerndre…}} el sucre per a la rebosteria.
+↧ Ahir, ↧<br><br> jo {{c1::cerní::…cerndre…}} la farina per al sopar.
+↧ La setmana passada, ↧<br><br> tu {{c1::cerneres::…cerndre…}} la farina per a la celebració.
+↧ El mes passat, ↧<br><br> ell {{c1::cerné::…cerndre…}} la farina per a la massa de pa.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::cernérem::…cerndre…}} junts la farina per a la festa.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::cernéreu::…cerndre…}} el sucre per a les postres.
+↧ Fa poc, ↧<br><br> ells {{c1::cerneren::…cerndre…}} la farina per a la cocció.
+→ Demà, →<br><br> jo {{c1::cerndré::…cerndre…}} la farina al matí.
+→ La setmana vinent, →<br><br> tu {{c1::cerndaràs::…cerndre…}} la farina per a la festa.
+→ En un any, →<br><br> ell {{c1::cerndrà::…cerndre…}} la farina per a les postres.
+→ En cinc anys, →<br><br> nosaltres {{c1::cerndrem::…cerndre…}} junts la farina per a la cocció.
+→ Aviat, →<br><br> vosaltres {{c1::cerndreu::…cerndre…}} la farina per a la massa.
+→ En el futur, →<br><br> ells {{c1::cerndran::…cerndre…}} el sucre per a la cuina.
+〰 Espero que 〰<br><br> jo {{c1::cerni::…cerndre…}} sempre la farina per a les meves receptes.
+〰 Pot ser que 〰<br><br> tu {{c1::cernis::…cerndre…}} més sovint la farina per a la cocció.
+〰 És possible que 〰<br><br> ell {{c1::cerni::…cerndre…}} més sucre per a les postres.
+〰 És necessari que 〰<br><br> nosaltres {{c1::cernem::…cerndre…}} junts cada vegada que cuinem.
+〰 Dubto que 〰<br><br> vosaltres {{c1::cerneu::…cerndre…}} prou la farina per a la cocció.
+〰 És probable que 〰<br><br> ells {{c1::cernin::…cerndre…}} més sovint per a les seves receptes.
+↫ Si fos possible, ↫<br><br> jo {{c1::cernés::…cerndre…}} sempre la farina per a la cocció.
+↫ Si tu ↫<br><br> {{c1::cernessis::…cerndre…}} més sovint, tindries una massa millor.
+↫ Si ell ↫<br><br> {{c1::cernés::…cerndre…}} més sovint, tindria més sucre en pols.
+↫ Si nosaltres ↫<br><br> {{c1::cernéssim::…cerndre…}} junts, sempre estaríem preparats.
+↫ Si vosaltres ↫<br><br> {{c1::cernéssiu::…cerndre…}} més sovint, el menjar seria més bo.
+↫ Si ells ↫<br><br> {{c1::cernessin::…cerndre…}} sempre, tindrien millors resultats.
+… Si pogués, …<br><br> jo {{c1::cerndria::…cerndre…}} sempre la farina cada dia.
+… Si tinguessis temps, …<br><br> tu {{c1::cerndries::…cerndre…}} més sovint per a la cocció.
+… Ell {{c1::cerndria::…cerndre…}} més sovint, …<br><br>si tingués més ingredients.
+… Si fos necessari, …<br><br> nosaltres {{c1::cerndríem::…cerndre…}} junts sempre per a la festa.
+… Vosaltres {{c1::cerndríeu::…cerndre…}} més sovint, …<br><br>si us hi poséssiu.
+… Si ho sabessin, …<br><br> ells {{c1::cerndrien::…cerndre…}} sempre el sucre per a la cuina.
+! Ara mateix, !<br><br> tu {{c1::cern::…cerndre…}} la farina per al sopar!
+! Si us plau, !<br><br> vostè {{c1::cerni::…cerndre…}} el sucre per a les postres!
+! Anem, !<br><br> nosaltres {{c1::cernem::…cerndre…}} junts ara!
+! Ara, !<br><br> vosaltres {{c1::cerneu::…cerndre…}} la farina per a la cocció!
+! Immediatament, !<br><br> vostès {{c1::cernin::…cerndre…}} el sucre per a les postres!
+
+~ Mentre estic pensant, ~<br><br> jo estic {{c1::escopint::…escopir…}} la pinyola de la fruita.
+♂ Després de tastar el vi, ♂<br><br> ell ha {{c1::escopit::…escopir…}} el que no li ha agradat.
+♀ Quan va tastar el menjar, ♀<br><br> ella ha {{c1::escopida::…escopir…}} el que no li va agradar.
+♂♂ Després del tast, ♂♂<br><br> ells han {{c1::escopits::…escopir…}} el que no volien.
+♀♀ Després de la prova, ♀♀<br><br> elles han {{c1::escopides::…escopir…}} el que no els va agradar.
+⊙ Actualment, ⊙<br><br> jo {{c1::escupo::…escopir…}} el que no em sap bé.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::escups::…escopir…}} quan no t'agrada alguna cosa.
+⊙ Ara, ⊙<br><br> ell {{c1::escup::…escopir…}} el que no li agrada.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::escopim::…escopir…}} les llavors de fruita.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::escopiu::…escopir…}} després de tastar el menjar.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::escupen::…escopir…}} el que no volen menjar.
+⇠ Abans, ⇠<br><br> jo {{c1::escopia::…escopir…}} sovint quan alguna cosa no em gustava.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::escopies::…escopir…}} les llavors a la gespa.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::escopia::…escopir…}} el menjar que no li agradava.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::escopíem::…escopir…}} en el pati després de dinar.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::escopíeu::…escopir…}} sempre quan no us agradava alguna cosa.
+⇠ Molt abans, ⇠<br><br> ells {{c1::escopien::…escopir…}} després de tastar alguna cosa nova.
+↧ Ahir, ↧<br><br> jo {{c1::escopí::…escopir…}} una pinyola de cirera.
+↧ La setmana passada, ↧<br><br> tu {{c1::escopires::…escopir…}} el menjar que no et va agradar.
+↧ El mes passat, ↧<br><br> ell {{c1::escopí::…escopir…}} una pinyola mentre menjava.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::escopírem::…escopir…}} les llavors de fruita en un jardí.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::escopíreu::…escopir…}} sempre després de menjar.
+↧ Fa poc, ↧<br><br> ells {{c1::escopiren::…escopir…}} una llavor de síndria.
+→ Demà, →<br><br> jo {{c1::escopiré::…escopir…}} el que no em vol agradar.
+→ La setmana vinent, →<br><br> tu {{c1::escopiràs::…escopir…}} alguna cosa que no t’agrada.
+→ En un any, →<br><br> ell {{c1::escopirà::…escopir…}} alguna cosa estranya.
+→ En cinc anys, →<br><br> nosaltres {{c1::escopirem::…escopir…}} junts mentre mengem.
+→ Aviat, →<br><br> vosaltres {{c1::escopireu::…escopir…}} el que no voleu menjar.
+→ En el futur, →<br><br> ells {{c1::escopiran::…escopir…}} el que no els agrada.
+〰 Espero que 〰<br><br> jo {{c1::escupi::…escopir…}} només si és necessari.
+〰 Pot ser que 〰<br><br> tu {{c1::escupis::…escopir…}} en cas que no t’agradi.
+〰 És possible que 〰<br><br> ell {{c1::escupi::…escopir…}} quan tastarà alguna cosa nova.
+〰 És necessari que 〰<br><br> nosaltres {{c1::escopim::…escopir…}} les llavors quan mengem fruita.
+〰 Dubto que 〰<br><br> vosaltres {{c1::escopiu::…escopir…}} només quan és necessari.
+〰 És probable que 〰<br><br> ells {{c1::escupin::…escopir…}} alguna cosa si no els agrada.
+↫ Si fos possible, ↫<br><br> jo {{c1::escopís::…escopir…}} menys sovint.
+↫ Si tu ↫<br><br> {{c1::escopíssis::…escopir…}} més, t’hauries d’acostumar.
+↫ Si ell ↫<br><br> {{c1::escopís::…escopir…}} menys sovint, hauria après a menjar de tot.
+↫ Si nosaltres ↫<br><br> {{c1::escopíssim::…escopir…}} menys, estaríem més saludables.
+↫ Si vosaltres ↫<br><br> {{c1::escopíssiu::…escopir…}} menys sovint, no tindríeu tantes llavors al voltant.
+↫ Si ells ↫<br><br> {{c1::escopissin::…escopir…}} menys, aprendre a menjar de tot.
+… Si pogués, …<br><br> jo {{c1::escopiria::…escopir…}} menys sovint.
+… Si tinguessis temps, …<br><br> tu {{c1::escopiries::…escopir…}} menys sovint.
+… Ell {{c1::escopiria::…escopir…}} menys sovint, …<br><br>si tingués més paciència.
+… Si fos necessari, …<br><br> nosaltres {{c1::escopiríem::…escopir…}} només en ocasions necessàries.
+… Vosaltres {{c1::escopiríeu::…escopir…}} menys, …<br><br>si us hi poséssiu.
+… Si ho sabessin, …<br><br> ells {{c1::escopirien::…escopir…}} menys sovint.
+! Ara mateix, !<br><br> tu {{c1::escup::…escopir…}} si cal!
+! Si us plau, !<br><br> vostè {{c1::escupi::…escopir…}} només si no li agrada!
+! Anem, !<br><br> nosaltres {{c1::escopim::…escopir…}} junts si és necessari!
+! Ara, !<br><br> vosaltres {{c1::escopiu::…escopir…}} quan no us agradi alguna cosa!
+! Immediatament, !<br><br> vostès {{c1::escupin::…escopir…}} si ho consideren necessari!
+~ Mentre estic pensant, ~<br><br> jo estic {{c1::tossint::…tossir…}} lleugerament.
+♂ Després de la caminada, ♂<br><br> ell ha {{c1::tossit::…tossir…}} molt per la pols.
+♀ Quan va entrar a l'habitació, ♀<br><br> ella ha {{c1::tossida::…tossir…}} a causa del fum.
+♂♂ Després de l'exercici, ♂♂<br><br> ells han {{c1::tossits::…tossir…}} a causa del fred.
+♀♀ Després del passeig, ♀♀<br><br> elles han {{c1::tossides::…tossir…}} per la contaminació.
+⊙ Actualment, ⊙<br><br> jo {{c1::tusso::…tossir…}} molt sovint a l’hivern.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::tusses::…tossir…}} quan l’aire és sec.
+⊙ Ara, ⊙<br><br> ell {{c1::tus::…tossir…}} a causa de l’al·lèrgia.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::tossim::…tossir…}} tots junts després del passeig.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::tossiu::…tossir…}} més a l’hivern.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::tussen::…tossir…}} a causa del fred.
+⇠ Abans, ⇠<br><br> jo {{c1::tossia::…tossir…}} només quan feia fred.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::tossies::…tossir…}} sovint a l’escola.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::tossia::…tossir…}} molt durant l’hivern.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::tossíem::…tossir…}} a l'hivern a causa del fred.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::tossíeu::…tossir…}} sempre quan l'aire era sec.
+⇠ Molt abans, ⇠<br><br> ells {{c1::tossien::…tossir…}} cada hivern.
+↧ Ahir, ↧<br><br> jo {{c1::tossí::…tossir…}} molt durant el passeig.
+↧ La setmana passada, ↧<br><br> tu {{c1::tossires::…tossir…}} durant la caminada.
+↧ El mes passat, ↧<br><br> ell {{c1::tossí::…tossir…}} molt per la pols.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::tossírem::…tossir…}} tots junts a l'exterior.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::tossíreu::…tossir…}} sovint quan feia fred.
+↧ Fa poc, ↧<br><br> ells {{c1::tossiren::…tossir…}} durant una tempesta de neu.
+→ Demà, →<br><br> jo {{c1::tossiré::…tossir…}} si l'aire és molt sec.
+→ La setmana vinent, →<br><br> tu {{c1::tossiràs::…tossir…}} a causa de les al·lèrgies.
+→ En un any, →<br><br> ell {{c1::tossirà::…tossir…}} més sovint.
+→ En cinc anys, →<br><br> nosaltres {{c1::tossirem::…tossir…}} junts durant l’hivern.
+→ Aviat, →<br><br> vosaltres {{c1::tossireu::…tossir…}} per la contaminació.
+→ En el futur, →<br><br> ells {{c1::tossiran::…tossir…}} més sovint.
+〰 Espero que 〰<br><br> jo {{c1::tussi::…tossir…}} menys aquest any.
+〰 Pot ser que 〰<br><br> tu {{c1::tussis::…tossir…}} sovint si tens al·lèrgia.
+〰 És possible que 〰<br><br> ell {{c1::tussi::…tossir…}} molt si l’aire és sec.
+〰 És necessari que 〰<br><br> nosaltres {{c1::tossim::…tossir…}} si ens sentim malament.
+〰 Dubto que 〰<br><br> vosaltres {{c1::tossiu::…tossir…}} menys aquest hivern.
+〰 És probable que 〰<br><br> ells {{c1::tussin::…tossir…}} més sovint si fa fred.
+↫ Si fos possible, ↫<br><br> jo {{c1::tossís::…tossir…}} menys a l’hivern.
+↫ Si tu ↫<br><br> {{c1::tossíssis::…tossir…}} més, hauries d’anar al metge.
+↫ Si ell ↫<br><br> {{c1::tossís::…tossir…}} menys, es sentiria millor.
+↫ Si nosaltres ↫<br><br> {{c1::tossíssim::…tossir…}} junts, seria més fàcil de controlar.
+↫ Si vosaltres ↫<br><br> {{c1::tossíssiu::…tossir…}} menys sovint, estaríeu més saludables.
+↫ Si ells ↫<br><br> {{c1::tossissin::…tossir…}} menys sovint, estarien millor.
+… Si pogués, …<br><br> jo {{c1::tossiria::…tossir…}} menys sovint.
+… Si tinguessis temps, …<br><br> tu {{c1::tossiries::…tossir…}} menys a causa de les al·lèrgies.
+… Ell {{c1::tossiria::…tossir…}} menys sovint, …<br><br>si tingués menys al·lèrgies.
+… Si fos necessari, …<br><br> nosaltres {{c1::tossiríem::…tossir…}} menys sovint.
+… Vosaltres {{c1::tossiríeu::…tossir…}} menys, …<br><br>si prenguéssiu cura.
+… Si ho sabessin, …<br><br> ells {{c1::tossirien::…tossir…}} menys sovint.
+! Ara mateix, !<br><br> tu {{c1::tus::…tossir…}} si cal!
+! Si us plau, !<br><br> vostè {{c1::tussi::…tossir…}} menys si pot!
+! Anem, !<br><br> nosaltres {{c1::tossim::…tossir…}} junts per a millorar!
+! Ara, !<br><br> vosaltres {{c1::tossiu::…tossir…}} menys sovint!
+! Immediatament, !<br><br> vostès {{c1::tussin::…tossir…}} menys!
+
+~ Mentre estic pensant, ~<br><br> jo estic {{c1::lluint::…lluir…}} el meu nou vestit.
+♂ Després de comprar-lo, ♂<br><br> ell ha {{c1::lluït::…lluir…}} el seu nou cotxe.
+♀ Quan va arribar a la festa, ♀<br><br> ella ha {{c1::lluïda::…lluir…}} el seu vestit elegant.
+♂♂ Després del triomf, ♂♂<br><br> ells han {{c1::lluïts::…lluir…}} els seus trofeus amb orgull.
+♀♀ Després de l'actuació, ♀♀<br><br> elles han {{c1::lluïdes::…lluir…}} els seus vestits brillants.
+⊙ Actualment, ⊙<br><br> jo {{c1::llueixo/lluo/lluu::…lluir…}} la meva nova joia.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::llueixes/llus/lluus::…lluir…}} amb elegància el teu vestit.
+⊙ Ara, ⊙<br><br> ell {{c1::llueix/llu/lluu::…lluir…}} els seus nous accessoris.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::lluïm::…lluir…}} la nostra nova col·lecció.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::lluïu::…lluir…}} els vostres nous vestits.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::llueixen/lluen::…lluir…}} els seus trofeus.
+⇠ Abans, ⇠<br><br> jo {{c1::lluïa::…lluir…}} amb orgull les meves joies.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::lluïes::…lluir…}} les teves medalles a l'escola.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::lluïa::…lluir…}} el seu nou rellotge.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::lluíem::…lluir…}} les nostres noves samarretes.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::lluíeu::…lluir…}} els vostres vestits de gala.
+⇠ Molt abans, ⇠<br><br> ells {{c1::lluïen::…lluir…}} els seus premis amb orgull.
+↧ Ahir, ↧<br><br> jo {{c1::lluí::…lluir…}} la meva nova roba.
+↧ La setmana passada, ↧<br><br> tu {{c1::lluíres::…lluir…}} el teu vestit de festa.
+↧ El mes passat, ↧<br><br> ell {{c1::lluí::…lluir…}} els seus accessoris.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::lluírem::…lluir…}} els nostres trofeus.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::lluíreu::…lluir…}} els vostres vestits elegants.
+↧ Fa poc, ↧<br><br> ells {{c1::lluïren::…lluir…}} les seves medalles.
+→ Demà, →<br><br> jo {{c1::lluiré::…lluir…}} el meu nou vestit.
+→ La setmana vinent, →<br><br> tu {{c1::lluiràs::…lluir…}} el teu cotxe nou.
+→ En un any, →<br><br> ell {{c1::lluirà::…lluir…}} els seus trofeus.
+→ En cinc anys, →<br><br> nosaltres {{c1::lluirem::…lluir…}} la nostra col·lecció.
+→ Aviat, →<br><br> vosaltres {{c1::lluireu::…lluir…}} els vostres nous vestits.
+→ En el futur, →<br><br> ells {{c1::lluiran::…lluir…}} els seus accessoris amb orgull.
+〰 Espero que 〰<br><br> jo {{c1::llueixi/lluï::…lluir…}} més sovint.
+〰 Pot ser que 〰<br><br> tu {{c1::llueixis/lluïs::…lluir…}} els teus nous vestits.
+〰 És possible que 〰<br><br> ell {{c1::llueixi/lluï::…lluir…}} la seva nova col·lecció.
+〰 És necessari que 〰<br><br> nosaltres {{c1::lluïm::…lluir…}} junts en l'exposició.
+〰 Dubto que 〰<br><br> vosaltres {{c1::lluïu::…lluir…}} tant com cal.
+〰 És probable que 〰<br><br> ells {{c1::llueixin/lluïn::…lluir…}} les seves noves compres.
+↫ Si fos possible, ↫<br><br> jo {{c1::lluís::…lluir…}} tots els dies.
+↫ Si tu ↫<br><br> {{c1::lluïssis/lluïsses::…lluir…}} més, impressionaries a tothom.
+↫ Si ell ↫<br><br> {{c1::lluís::…lluir…}} amb més freqüència, seria molt admirat.
+↫ Si nosaltres ↫<br><br> {{c1::lluíssim/lluíssem::…lluir…}} junts, seríem el centre d'atenció.
+↫ Si vosaltres ↫<br><br> {{c1::lluíssiu/lluísseu::…lluir…}} més sovint, us elogiarien més.
+↫ Si ells ↫<br><br> {{c1::lluïssin/lluïssen::…lluir…}} regularment, serien molt admirats.
+… Si pogués, …<br><br> jo {{c1::lluïria::…lluir…}} sempre les meves millors robes.
+… Si tinguessis temps, …<br><br> tu {{c1::lluïries::…lluir…}} sempre el teu millor vestit.
+… Ell {{c1::lluïria::…lluir…}} més sovint, …<br><br>si tingués més oportunitats.
+… Si fos necessari, …<br><br> nosaltres {{c1::lluïríem::…lluir…}} junts per destacar.
+… Vosaltres {{c1::lluïríeu::…lluir…}} més, …<br><br>si us hi poséssiu.
+… Si ho sabessin, …<br><br> ells {{c1::lluïrien::…lluir…}} tots els dies.
+! Ara mateix, !<br><br> tu {{c1::llueix/lluu::…lluir…}} el teu millor vestit!
+! Si us plau, !<br><br> vostè {{c1::llueixi/lluï::…lluir…}} amb tot el seu orgull!
+! Anem, !<br><br> nosaltres {{c1::lluïm::…lluir…}} junts ara!
+! Ara, !<br><br> vosaltres {{c1::lluïu::…lluir…}} amb elegància!
+! Immediatament, !<br><br> vostès {{c1::llueixin/lluïn::…lluir…}} amb tot el seu esplendor!
+~ Mentre estic pensant, ~<br><br> jo {{c1::calent::…caldre…}} sobre la necessitat de la situació.
+♂ Després de la reunió, ♂<br><br> ell ha {{c1::calgut::…caldre…}} per solucionar el problema.
+⊙ Ara, ⊙<br><br> ell {{c1::cal::…caldre…}} per prendre decisions.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::calen::…caldre…}} per coordinar l'equip.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::cal::…caldre…}} per gestionar la situació.
+⇠ Molt abans, ⇠<br><br> ells {{c1::calien::…caldre…}} per liderar grups.
+↧ El mes passat, ↧<br><br> ell {{c1::calgué::…caldre…}} per prendre decisions ràpides.
+↧ Fa poc, ↧<br><br> ells {{c1::calgueren::…caldre…}} per mantenir l'equilibri.
+→ En un any, →<br><br> ell {{c1::caldrà::…caldre…}} per liderar el projecte.
+→ En el futur, →<br><br> ells {{c1::caldran::…caldre…}} per superar nous reptes.
+〰 És possible que 〰<br><br> ell {{c1::calgui::…caldre…}} per prendre decisions crítiques.
+〰 És probable que 〰<br><br> ells {{c1::calguin::…caldre…}} en moltes situacions.
+↫ Si ell ↫<br><br> {{c1::calgués::…caldre…}} més sovint, seria més competent.
+↫ Si ells ↫<br><br> {{c1::calguessin::…caldre…}} regularment, serien més forts.
+… Ell {{c1::caldria::…caldre…}} més sovint, …<br><br>si tingués més responsabilitats.
+… Si ho sabessin, …<br><br> ells {{c1::caldrien::…caldre…}} en moltes més situacions.
+! Si us plau, !<br><br> vostè {{c1::calgui::…caldre…}} per mantenir l'ordre!
+! Immediatament, !<br><br> vostès {{c1::calguin::…caldre…}} per fer front a aquest repte!
+
+~ Mentre estic pensant, ~<br><br> jo estic {{c1::destacant::…destacar…}} el que és més important.
+♂ Després de l'examen, ♂<br><br> ell ha {{c1::destacat::…destacar…}} en tots els aspectes.
+♀ Quan va fer la seva presentació, ♀<br><br> ella ha {{c1::destacada::…destacar…}} en la seva argumentació.
+♂♂ Després del projecte, ♂♂<br><br> ells han {{c1::destacats::…destacar…}} per la seva creativitat.
+♀♀ Després de l'exposició, ♀♀<br><br> elles han {{c1::destacades::…destacar…}} pel seu treball.
+⊙ Actualment, ⊙<br><br> jo {{c1::destaco::…destacar…}} en el meu camp de treball.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::destaques::…destacar…}} per la teva dedicació.
+⊙ Ara, ⊙<br><br> ell {{c1::destaca::…destacar…}} en la seva feina.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::destaquem::…destacar…}} en el nostre projecte.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::destaqueu::…destacar…}} pel vostre compromís.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::destaquen::…destacar…}} en el seu rendiment.
+⇠ Abans, ⇠<br><br> jo {{c1::destacava::…destacar…}} en diverses àrees.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::destacaves::…destacar…}} en les teves activitats.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::destacava::…destacar…}} per la seva intel·ligència.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::destacàvem::…destacar…}} en esports i estudis.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::destacàveu::…destacar…}} en el que fèieu.
+⇠ Molt abans, ⇠<br><br> ells {{c1::destacaven::…destacar…}} per la seva energia.
+↧ Ahir, ↧<br><br> jo {{c1::destaquí::…destacar…}} en la reunió.
+↧ La setmana passada, ↧<br><br> tu {{c1::destacares::…destacar…}} en el concurs.
+↧ El mes passat, ↧<br><br> ell {{c1::destacà::…destacar…}} per la seva aportació.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::destacàrem::…destacar…}} en el projecte de grup.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::destacàreu::…destacar…}} per les vostres idees.
+↧ Fa poc, ↧<br><br> ells {{c1::destacaren::…destacar…}} per la seva originalitat.
+→ Demà, →<br><br> jo {{c1::destacaré::…destacar…}} en la presentació.
+→ La setmana vinent, →<br><br> tu {{c1::destacaràs::…destacar…}} en l'examen.
+→ En un any, →<br><br> ell {{c1::destacarà::…destacar…}} en la seva carrera.
+→ En cinc anys, →<br><br> nosaltres {{c1::destacarem::…destacar…}} en el mercat.
+→ Aviat, →<br><br> vosaltres {{c1::destacareu::…destacar…}} pel vostre treball.
+→ En el futur, →<br><br> ells {{c1::destacaran::…destacar…}} per la seva innovació.
+〰 Espero que 〰<br><br> jo {{c1::destaqui::…destacar…}} en cada projecte.
+〰 Pot ser que 〰<br><br> tu {{c1::destaquis::…destacar…}} en la teva feina.
+〰 És possible que 〰<br><br> ell {{c1::destaqui::…destacar…}} en la seva àrea.
+〰 És necessari que 〰<br><br> nosaltres {{c1::destaquem::…destacar…}} per aconseguir l'èxit.
+〰 Dubto que 〰<br><br> vosaltres {{c1::destaqueu::…destacar…}} tant com cal.
+〰 És probable que 〰<br><br> ells {{c1::destaquin::…destacar…}} en les seves tasques.
+↫ Si fos possible, ↫<br><br> jo {{c1::destaqués::…destacar…}} en tot el que faig.
+↫ Si tu ↫<br><br> {{c1::destaquessis::…destacar…}} més, destacaries encara més.
+↫ Si ell ↫<br><br> {{c1::destaqués::…destacar…}} més sovint, seria reconegut.
+↫ Si nosaltres ↫<br><br> {{c1::destaquéssim::…destacar…}} junts, seríem invencibles.
+↫ Si vosaltres ↫<br><br> {{c1::destaquéssiu::…destacar…}} més, us admirarien més.
+↫ Si ells ↫<br><br> {{c1::destaquessin::…destacar…}} regularment, serien inoblidables.
+… Si pogués, …<br><br> jo {{c1::destacaria::…destacar…}} en tot el que faig.
+… Si tinguessis temps, …<br><br> tu {{c1::destacaries::…destacar…}} en cada tasca.
+… Ell {{c1::destacaria::…destacar…}} més sovint, …<br><br>si tingués més oportunitats.
+… Si fos necessari, …<br><br> nosaltres {{c1::destacaríem::…destacar…}} junts per tenir èxit.
+… Vosaltres {{c1::destacaríeu::…destacar…}} més, …<br><br>si us comprometéssiu més.
+… Si ho sabessin, …<br><br> ells {{c1::destacarien::…destacar…}} en tot el que fessin.
+! Ara mateix, !<br><br> tu {{c1::destaca::…destacar…}} per ser el millor!
+! Si us plau, !<br><br> vostè {{c1::destaqui::…destacar…}} en tot el que fa!
+! Anem, !<br><br> nosaltres {{c1::destaquem::…destacar…}} junts ara!
+! Ara, !<br><br> vosaltres {{c1::destaqueu::…destacar…}} amb determinació!
+! Immediatament, !<br><br> vostès {{c1::destaquin::…destacar…}} en tot el que fan!
+~ Mentre estic pensant, ~<br><br> jo estic {{c1::molent::…moldre…}} cafè per al matí.
+♂ Després de collir-lo, ♂<br><br> ell ha {{c1::molt::…moldre…}} el gra de blat.
+♀ Quan va preparar l'esmorzar, ♀<br><br> ella ha {{c1::molta::…moldre…}} el cafè fresc.
+♂♂ Després de la collita, ♂♂<br><br> ells han {{c1::molts::…moldre…}} els grans.
+♀♀ Després de la recol·lecció, ♀♀<br><br> elles han {{c1::moltes::…moldre…}} el blat.
+⊙ Actualment, ⊙<br><br> jo {{c1::molc::…moldre…}} el cafè cada matí.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::mols::…moldre…}} els grans de cafè.
+⊙ Ara, ⊙<br><br> ell {{c1::mol::…moldre…}} el blat per fer farina.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::molem::…moldre…}} el gra per preparar-lo.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::moleu::…moldre…}} el cafè fresc.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::molen::…moldre…}} el blat per al pa.
+⇠ Abans, ⇠<br><br> jo {{c1::molia::…moldre…}} els grans de cafè a mà.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::molies::…moldre…}} el gra amb un molí manual.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::molia::…moldre…}} el blat al molí del poble.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::molíem::…moldre…}} el cafè al laboratori.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::molíeu::…moldre…}} el gra per fer pa.
+⇠ Molt abans, ⇠<br><br> ells {{c1::molien::…moldre…}} el gra per a la farina.
+↧ Ahir, ↧<br><br> jo {{c1::molguí::…moldre…}} el cafè per al matí.
+↧ La setmana passada, ↧<br><br> tu {{c1::molgueres::…moldre…}} el gra per a la farina.
+↧ El mes passat, ↧<br><br> ell {{c1::molgué::…moldre…}} el blat per al pa.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::molguérem::…moldre…}} el cafè per a la festa.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::molguéreu::…moldre…}} el gra al molí.
+↧ Fa poc, ↧<br><br> ells {{c1::molgueren::…moldre…}} el blat per a la collita.
+→ Demà, →<br><br> jo {{c1::moldré::…moldre…}} el cafè per a l’esmorzar.
+→ La setmana vinent, →<br><br> tu {{c1::moldràs::…moldre…}} el blat per fer farina.
+→ En un any, →<br><br> ell {{c1::moldrà::…moldre…}} el gra per preparar el pa.
+→ En cinc anys, →<br><br> nosaltres {{c1::moldrem::…moldre…}} el blat per al nostre ús.
+→ Aviat, →<br><br> vosaltres {{c1::moldreu::…moldre…}} el cafè fresc per al mercat.
+→ En el futur, →<br><br> ells {{c1::moldran::…moldre…}} grans per a la farina.
+〰 Espero que 〰<br><br> jo {{c1::molgui::…moldre…}} el cafè cada matí.
+〰 Pot ser que 〰<br><br> tu {{c1::molguis::…moldre…}} el blat per a la farina.
+〰 És possible que 〰<br><br> ell {{c1::molgui::…moldre…}} el gra per a la collita.
+〰 És necessari que 〰<br><br> nosaltres {{c1::molguem::…moldre…}} el cafè fresc.
+〰 Dubto que 〰<br><br> vosaltres {{c1::molgueu::…moldre…}} tant com nosaltres.
+〰 És probable que 〰<br><br> ells {{c1::molguin::…moldre…}} el blat per a l’hivern.
+↫ Si fos possible, ↫<br><br> jo {{c1::molgués::…moldre…}} tot el cafè.
+↫ Si tu ↫<br><br> {{c1::molguessis::…moldre…}} més gra, tindries farina per a tot l’any.
+↫ Si ell ↫<br><br> {{c1::molgués::…moldre…}} més sovint, tindria farina fresca.
+↫ Si nosaltres ↫<br><br> {{c1::molguéssim::…moldre…}} més gra, tindríem pa fresc cada dia.
+↫ Si vosaltres ↫<br><br> {{c1::molguéssiu::…moldre…}} més, en faríeu molt més profit.
+↫ Si ells ↫<br><br> {{c1::molguessin::…moldre…}} més, tindrien més farina.
+… Si pogués, …<br><br> jo {{c1::moldria::…moldre…}} tot el gra per a la farina.
+… Si tinguessis temps, …<br><br> tu {{c1::moldries::…moldre…}} tot el cafè fresc.
+… Ell {{c1::moldria::…moldre…}} més sovint, …<br><br>si tingués més blat.
+… Si fos necessari, …<br><br> nosaltres {{c1::moldríem::…moldre…}} junts per tenir farina fresca.
+… Vosaltres {{c1::moldríeu::…moldre…}} més gra, …<br><br>si us hi poséssiu.
+… Si ho sabessin, …<br><br> ells {{c1::moldrien::…moldre…}} més blat.
+! Ara mateix, !<br><br> tu {{c1::mol::…moldre…}} tot el gra!
+! Si us plau, !<br><br> vostè {{c1::molgui::…moldre…}} tot el cafè!
+! Anem, !<br><br> nosaltres {{c1::molguem::…moldre…}} junts ara!
+! Ara, !<br><br> vosaltres {{c1::moleu::…moldre…}} tot el blat!
+! Immediatament, !<br><br> vostès {{c1::molguin::…moldre…}} tot el que poden!
+♂ Després de treballar, ♂<br><br> ell ha {{c1::llegut::…lleure…}} tota la tarda.
+⊙ Ara, ⊙<br><br> ell {{c1::lleu::…lleure…}} al jardí. {{c1::llesqueu::…lleure…}} cada cap de setmana.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::lleuren::…lleure…}} després de l'escola.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::llevia::…lleure…}} sempre després d’un dia llarg.
+⇠ Molt abans, ⇠<br><br> ells {{c1::llevien::…lleure…}} durant els caps de setmana.
+↧ El mes passat, ↧<br><br> ell {{c1::llegué::…lleure…}} al parc durant el cap de setmana.
+↧ Fa poc, ↧<br><br> ells {{c1::llegueren::…lleure…}} després de l’exercici.
+→ En un any, →<br><br> ell {{c1::lleurà::…lleure…}} cada tarda.
+→ En el futur, →<br><br> ells {{c1::lleuran::…lleure…}} cada cap de setmana.
+〰 És possible que 〰<br><br> ell {{c1::llegui::…lleure…}} cada dia després de treballar.
+〰 És probable que 〰<br><br> ells {{c1::lleguin::…lleure…}} més durant les vacances.
+↫ Si ell ↫<br><br> {{c1::llegués::…lleure…}} més sovint, estaria més relaxat.
+↫ Si ells ↫<br><br> {{c1::lleguessin::…lleure…}} més sovint, estarien més descansats.
+… Ell {{c1::lleuria::…lleure…}} més sovint, …<br><br>si tingués més temps lliure.
+… Si ho sabessin, …<br><br> ells {{c1::lleurien::…lleure…}} més cada any.
+
+~ Mentre estic calculant, ~<br><br> jo estic {{c1::cabent::…cabre…}} més informació en el document.
+♂ Després de recopilar dades, ♂<br><br> ell ha {{c1::cabut::…cabre…}} tot en el fitxer.
+♀ Quan va fer la presentació, ♀<br><br> ella ha {{c1::cabuda::…cabre…}} tota la informació en les diapositives.
+♂♂ Després de l'estudi, ♂♂<br><br> ells han {{c1::cabuts::…cabre…}} totes les dades en l'informe.
+♀♀ Després de la revisió, ♀♀<br><br> elles han {{c1::cabudes::…cabre…}} les notes en el resum.
+⊙ Actualment, ⊙<br><br> jo {{c1::cabo::…cabre…}} tota la informació en el document.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::caps::…cabre…}} més dades en el gràfic.
+⊙ Ara, ⊙<br><br> ell {{c1::cap::…cabre…}} tota la informació en l'informe.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::cabem::…cabre…}} junts totes les dades en el projecte.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::cabeu::…cabre…}} més informació en el gràfic.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::caben::…cabre…}} totes les dades en el resum.
+⇠ Abans, ⇠<br><br> jo {{c1::cabia::…cabre…}} més informació en el document.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::cabies::…cabre…}} sempre les dades en les diapositives.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::cabia::…cabre…}} més informació en l'informe.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::cabíem::…cabre…}} més dades en el projecte.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::cabíeu::…cabre…}} sempre més informació en el document.
+⇠ Molt abans, ⇠<br><br> ells {{c1::cabien::…cabre…}} més notes en el resum.
+↧ Ahir, ↧<br><br> jo {{c1::cabí::…cabre…}} més informació en el gràfic.
+↧ La setmana passada, ↧<br><br> tu {{c1::caberes::…cabre…}} més dades en el fitxer.
+↧ El mes passat, ↧<br><br> ell {{c1::cabé::…cabre…}} més informació en el document.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::cabérem::…cabre…}} junts més dades en l'informe.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::cabéreu::…cabre…}} més informació en el projecte.
+↧ Fa poc, ↧<br><br> ells {{c1::caberen::…cabre…}} més dades en el resum.
+→ Demà, →<br><br> jo {{c1::cabré::…cabre…}} més informació en el document.
+→ La setmana vinent, →<br><br> tu {{c1::cabràs::…cabre…}} més dades en el gràfic.
+→ En un any, →<br><br> ell {{c1::cabrà::…cabre…}} més informació en l'informe.
+→ En cinc anys, →<br><br> nosaltres {{c1::cabrem::…cabre…}} junts més dades en el projecte.
+→ Aviat, →<br><br> vosaltres {{c1::cabreu::…cabre…}} més informació en el document.
+→ En el futur, →<br><br> ells {{c1::cabran::…cabre…}} més dades en el resum.
+〰 Espero que 〰<br><br> jo {{c1::càpiga::…cabre…}} sempre més informació en el gràfic.
+〰 Pot ser que 〰<br><br> tu {{c1::càpigues::…cabre…}} més dades en el document.
+〰 És possible que 〰<br><br> ell {{c1::càpiga::…cabre…}} més informació en l'informe.
+〰 És necessari que 〰<br><br> nosaltres {{c1::capiguem::…cabre…}} junts totes les dades en el projecte.
+〰 Dubto que 〰<br><br> vosaltres {{c1::capigueu::…cabre…}} prou informació en el document.
+〰 És probable que 〰<br><br> ells {{c1::càpiguen::…cabre…}} més dades en el resum.
+↫ Si fos possible, ↫<br><br> jo {{c1::cabés::…cabre…}} sempre més informació en el document.
+↫ Si tu ↫<br><br> {{c1::cabessis::…cabre…}} més sovint, tindries un informe més complet.
+↫ Si ell ↫<br><br> {{c1::cabés::…cabre…}} més sovint, tindria més dades.
+↫ Si nosaltres ↫<br><br> {{c1::cabéssim::…cabre…}} junts, el projecte seria més complet.
+↫ Si vosaltres ↫<br><br> {{c1::cabéssiu::…cabre…}} més sovint, tindríeu un informe més complet.
+↫ Si ells ↫<br><br> {{c1::cabessin::…cabre…}} més sovint, tindrien un resum més clar.
+… Si pogués, …<br><br> jo {{c1::cabria::…cabre…}} més informació en el document.
+… Si tinguessis temps, …<br><br> tu {{c1::cabries::…cabre…}} més dades en el fitxer.
+… Ell {{c1::cabria::…cabre…}} més sovint, …<br><br>si tingués més ajuda.
+… Si fos necessari, …<br><br> nosaltres {{c1::cabríem::…cabre…}} junts més dades en el projecte.
+… Vosaltres {{c1::cabríeu::…cabre…}} més informació, …<br><br>si us hi poséssiu.
+… Si ho sabessin, …<br><br> ells {{c1::cabrien::…cabre…}} més dades en el resum.
+! Ara mateix, !<br><br> tu {{c1::cap::…cabre…}} més informació en el document!
+! Si us plau, !<br><br> vostè {{c1::càpiga::…cabre…}} les dades en el resum!
+! Anem, !<br><br> nosaltres {{c1::càpiguem::…cabre…}} junts ara!
+! Ara, !<br><br> vosaltres {{c1::cabeu::…cabre…}} més informació en el document!
+! Immediatament, !<br><br> vostès {{c1::càpiguen::…cabre…}} totes les dades en el resum!
+
+~ Mentre estic caminant, ~<br><br> jo {{c1::havent::…heure…}} un pas ferm.
+♂ Després de caminar molt, ♂<br><br> ell ha {{c1::hagut::…heure…}} en cada pas.
+♀ Quan va arribar a la meta, ♀<br><br> ella ha {{c1::haguda::…heure…}} amb constància.
+♂♂ Després del marató, ♂♂<br><br> ells han {{c1::haguts::…heure…}} en tot el recorregut.
+♀♀ Després de la cursa, ♀♀<br><br> elles han {{c1::hagudes::…heure…}} amb energia.
+⊙ Actualment, ⊙<br><br> jo {{c1::hec::…heure…}} cada dia en la meva rutina.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::heus::…heure…}} en cada pas.
+⊙ Ara, ⊙<br><br> ell {{c1::heu::…heure…}} amb determinació.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::havem::…heure…}} junts cap a la meta.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::haveu::…heure…}} amb determinació.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::heuen::…heure…}} cada vegada més ràpid.
+⇠ Abans, ⇠<br><br> jo {{c1::havia::…heure…}} sempre en la meva rutina.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::havias::…heure…}} cada dia.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::havia::…heure…}} sempre amb determinació.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::havíem::…heure…}} cap a l'èxit.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::havíeu::…heure…}} cada dia amb esforç.
+⇠ Molt abans, ⇠<br><br> ells {{c1::havien::…heure…}} amb constància.
+↧ Ahir, ↧<br><br> jo {{c1::haguí::…heure…}} cada pas amb força.
+↧ La setmana passada, ↧<br><br> tu {{c1::hagueres::…heure…}} amb determinació.
+↧ El mes passat, ↧<br><br> ell {{c1::hagué::…heure…}} amb constància.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::haguérem::…heure…}} junts cada dia.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::haguéreu::…heure…}} cada pas amb força.
+↧ Fa poc, ↧<br><br> ells {{c1::hagueren::…heure…}} cap a la meta.
+→ Demà, →<br><br> jo {{c1::hauré::…heure…}} cada dia.
+→ La setmana vinent, →<br><br> tu {{c1::hauràs::…heure…}} amb constància.
+→ En un any, →<br><br> ell {{c1::haurà::…heure…}} en cada pas.
+→ En cinc anys, →<br><br> nosaltres {{c1::haurem::…heure…}} cap a l'èxit.
+→ Aviat, →<br><br> vosaltres {{c1::haureu::…heure…}} amb determinació.
+→ En el futur, →<br><br> ells {{c1::hauran::…heure…}} cada pas amb força.
+〰 Espero que 〰<br><br> jo {{c1::hegui::…heure…}} cada dia amb energia.
+〰 Pot ser que 〰<br><br> tu {{c1::heguis::…heure…}} amb força.
+〰 És possible que 〰<br><br> ell {{c1::hegui::…heure…}} amb determinació.
+〰 És necessari que 〰<br><br> nosaltres {{c1::haguem::…heure…}} cada dia.
+〰 Dubto que 〰<br><br> vosaltres {{c1::hagueu::…heure…}} amb la mateixa força.
+〰 És probable que 〰<br><br> ells {{c1::heguin::…heure…}} cada pas amb energia.
+↫ Si fos possible, ↫<br><br> jo {{c1::hagués::…heure…}} cada dia amb més força.
+↫ Si tu ↫<br><br> {{c1::haguessis::…heure…}} més, series imparable.
+↫ Si ell ↫<br><br> {{c1::hagués::…heure…}} més sovint, arribaria més lluny.
+↫ Si nosaltres ↫<br><br> {{c1::haguéssim::…heure…}} més junts, arribaríem a tot arreu.
+↫ Si vosaltres ↫<br><br> {{c1::haguéssiu::…heure…}} més, arribaríeu més lluny.
+↫ Si ells ↫<br><br> {{c1::haguessin::…heure…}} més, serien invencibles.
+… Si pogués, …<br><br> jo {{c1::hauria::…heure…}} cada dia amb energia.
+… Si tinguessis temps, …<br><br> tu {{c1::hauries::…heure…}} amb força.
+… Ell {{c1::hauria::…heure…}} cada dia, …<br><br>si tingués més temps.
+… Si fos necessari, …<br><br> nosaltres {{c1::hauríem::…heure…}} junts per assolir l’èxit.
+… Vosaltres {{c1::hauríeu::…heure…}} amb determinació, …<br><br>si us hi comprometéssiu.
+… Si ho sabessin, …<br><br> ells {{c1::haurien::…heure…}} cada dia amb energia.
+! Ara mateix, !<br><br> tu {{c1::heu::…heure…}} cada pas amb força!
+! Si us plau, !<br><br> vostè {{c1::hegui::…heure…}} amb tota la seva energia!
+! Anem, !<br><br> nosaltres {{c1::haguem::…heure…}} junts cap a l’èxit!
+! Ara, !<br><br> vosaltres {{c1::haveu::…heure…}} amb determinació!
+! Immediatament, !<br><br> vostès {{c1::heguin::…heure…}} amb totes les seves forces!
+
+~ Mentre estic treballant, ~<br><br> jo estic {{c1::torcent::…tòrcer…}} els fils.
+♂ Després d'un dia llarg, ♂<br><br> ell ha {{c1::torçut::…tòrcer…}} els cabells.
+♀ Quan va arribar la pluja, ♀<br><br> ella ha {{c1::torçuda::…tòrcer…}} el vestit.
+♂♂ Després de la feina, ♂♂<br><br> ells han {{c1::torçuts::…tòrcer…}} els draps.
+♀♀ Després del passeig, ♀♀<br><br> elles han {{c1::torçudes::…tòrcer…}} els cabells.
+⊙ Actualment, ⊙<br><br> jo {{c1::torço::…tòrcer…}} la roba cada dia.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::torçes::…tòrcer…}} els draps després de rentar-los.
+⊙ Ara, ⊙<br><br> ell {{c1::torç::…tòrcer…}} els fils al taller.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::torcem::…tòrcer…}} junts per fer les cordes.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::torceu::…tòrcer…}} la roba després de rentar-la.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::torcen::…tòrcer…}} els cabells després del bany.
+⇠ Abans, ⇠<br><br> jo {{c1::torcia::…tòrcer…}} els draps per eixugar-los.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::torcies::…tòrcer…}} sempre la roba.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::torcia::…tòrcer…}} els fils per fer cordes.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::torcíem::…tòrcer…}} els fils junts.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::torcíeu::…tòrcer…}} sempre la roba.
+⇠ Molt abans, ⇠<br><br> ells {{c1::torcien::…tòrcer…}} els draps després de rentar-los.
+↧ Ahir, ↧<br><br> jo {{c1::torcí::…tòrcer…}} la roba a mà.
+↧ La setmana passada, ↧<br><br> tu {{c1::torceres::…tòrcer…}} els draps per eixugar-los.
+↧ El mes passat, ↧<br><br> ell {{c1::torcé::…tòrcer…}} els fils al taller.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::torcérem::…tòrcer…}} les cordes junts.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::torcéreu::…tòrcer…}} la roba després de rentar-la.
+↧ Fa poc, ↧<br><br> ells {{c1::torceren::…tòrcer…}} els draps després de la feina.
+→ Demà, →<br><br> jo {{c1::torceré::…tòrcer…}} la roba al taller.
+→ La setmana vinent, →<br><br> tu {{c1::torceràs::…tòrcer…}} els draps a mà.
+→ En un any, →<br><br> ell {{c1::torcerà::…tòrcer…}} els fils per a un nou projecte.
+→ En cinc anys, →<br><br> nosaltres {{c1::torcerem::…tòrcer…}} les cordes per a la navegació.
+→ Aviat, →<br><br> vosaltres {{c1::torcereu::…tòrcer…}} els draps després de rentar-los.
+→ En el futur, →<br><br> ells {{c1::torceran::…tòrcer…}} els cabells cada dia.
+〰 Espero que 〰<br><br> jo {{c1::torci::…tòrcer…}} la roba correctament.
+〰 Pot ser que 〰<br><br> tu {{c1::torcis::…tòrcer…}} els draps amb força.
+〰 És possible que 〰<br><br> ell {{c1::torci::…tòrcer…}} els fils per a la corda.
+〰 És necessari que 〰<br><br> nosaltres {{c1::torcem::…tòrcer…}} junts per fer-ho bé.
+〰 Dubto que 〰<br><br> vosaltres {{c1::torceu::…tòrcer…}} amb la mateixa força.
+〰 És probable que 〰<br><br> ells {{c1::torcin::…tòrcer…}} els cabells sovint.
+↫ Si fos possible, ↫<br><br> jo {{c1::torcés::…tòrcer…}} amb més força.
+↫ Si tu ↫<br><br> {{c1::torcessis::…tòrcer…}} més, t’aniria millor.
+↫ Si ell ↫<br><br> {{c1::torcés::…tòrcer…}} més sovint, li sortiria perfecte.
+↫ Si nosaltres ↫<br><br> {{c1::torcéssim::…tòrcer…}} junts, ens ajudaria molt.
+↫ Si vosaltres ↫<br><br> {{c1::torcéssiu::…tòrcer…}} més, en trauríeu profit.
+↫ Si ells ↫<br><br> {{c1::torcessin::…tòrcer…}} més sovint, ho farien millor.
+… Si pogués, …<br><br> jo {{c1::torceria::…tòrcer…}} la roba cada dia.
+… Si tinguessis temps, …<br><br> tu {{c1::torceries::…tòrcer…}} més draps a mà.
+… Ell {{c1::torceria::…tòrcer…}} cada dia, …<br><br>si tingués més força.
+… Si fos necessari, …<br><br> nosaltres {{c1::torceríem::…tòrcer…}} les cordes junts.
+… Vosaltres {{c1::torceríeu::…tòrcer…}} més sovint, …<br><br>si us hi poséssiu.
+… Si ho sabessin, …<br><br> ells {{c1::torcerien::…tòrcer…}} cada dia amb més energia.
+! Ara mateix, !<br><br> tu {{c1::torç::…tòrcer…}} la roba!
+! Si us plau, !<br><br> vostè {{c1::torci::…tòrcer…}} amb força!
+! Anem, !<br><br> nosaltres {{c1::torcem::…tòrcer…}} junts per fer-ho bé!
+! Ara, !<br><br> vosaltres {{c1::torceu::…tòrcer…}} amb cura!
+! Immediatament, !<br><br> vostès {{c1::torcin::…tòrcer…}} els draps ara!
+
+~ Mentre estic ajudant, ~<br><br> jo estic {{c1::remeiant::…remeiar…}} una situació complicada.
+♂ Després de l'incident, ♂<br><br> ell ha {{c1::remeiat::…remeiar…}} el problema.
+♀ Quan va arribar el conflicte, ♀<br><br> ella ha {{c1::remeiada::…remeiar…}} la situació.
+♂♂ Després del debat, ♂♂<br><br> ells han {{c1::remeiats::…remeiar…}} les diferències.
+♀♀ Després de la crisi, ♀♀<br><br> elles han {{c1::remeiades::…remeiar…}} els conflictes.
+⊙ Actualment, ⊙<br><br> jo {{c1::remeio::…remeiar…}} les dificultats al treball.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::remeies::…remeiar…}} els problemes a casa.
+⊙ Ara, ⊙<br><br> ell {{c1::remeia::…remeiar…}} les tensions al grup.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::remeiem::…remeiar…}} les diferències junts.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::remeieu::…remeiar…}} les dificultats al treball.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::remeien::…remeiar…}} les crisis a casa.
+⇠ Abans, ⇠<br><br> jo {{c1::remeiava::…remeiar…}} sempre les situacions difícils.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::remeiaves::…remeiar…}} els conflictes a l'escola.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::remeiava::…remeiar…}} els problemes a la feina.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::remeiàvem::…remeiar…}} les disputes junts.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::remeiàveu::…remeiar…}} les tensions al grup.
+⇠ Molt abans, ⇠<br><br> ells {{c1::remeiaven::…remeiar…}} les diferències al treball.
+↧ Ahir, ↧<br><br> jo {{c1::remeií::…remeiar…}} una situació complexa.
+↧ La setmana passada, ↧<br><br> tu {{c1::remeiares::…remeiar…}} un conflicte familiar.
+↧ El mes passat, ↧<br><br> ell {{c1::remeià::…remeiar…}} una crisi laboral.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::remeiàrem::…remeiar…}} les tensions entre amics.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::remeiàreu::…remeiar…}} les disputes al grup.
+↧ Fa poc, ↧<br><br> ells {{c1::remeiaren::…remeiar…}} els problemes a casa.
+→ Demà, →<br><br> jo {{c1::remeiaré::…remeiar…}} les situacions difícils.
+→ La setmana vinent, →<br><br> tu {{c1::remeiaràs::…remeiar…}} els problemes a la feina.
+→ En un any, →<br><br> ell {{c1::remeiarà::…remeiar…}} les tensions al grup.
+→ En cinc anys, →<br><br> nosaltres {{c1::remeiarem::…remeiar…}} les diferències junts.
+→ Aviat, →<br><br> vosaltres {{c1::remeiareu::…remeiar…}} les dificultats al treball.
+→ En el futur, →<br><br> ells {{c1::remeiaran::…remeiar…}} les crisis a casa.
+〰 Espero que 〰<br><br> jo {{c1::remeiï::…remeiar…}} totes les dificultats.
+〰 Pot ser que 〰<br><br> tu {{c1::remeiïs::…remeiar…}} els problemes familiars.
+〰 És possible que 〰<br><br> ell {{c1::remeiï::…remeiar…}} les tensions al grup.
+〰 És necessari que 〰<br><br> nosaltres {{c1::remeiem::…remeiar…}} les disputes junts.
+〰 Dubto que 〰<br><br> vosaltres {{c1::remeieu::…remeiar…}} tots els conflictes.
+〰 És probable que 〰<br><br> ells {{c1::remeiïn::…remeiar…}} les diferències al treball.
+↫ Si fos possible, ↫<br><br> jo {{c1::remeiés::…remeiar…}} tots els problemes.
+↫ Si tu ↫<br><br> {{c1::remeiessis::…remeiar…}} més, solucionaries més situacions.
+↫ Si ell ↫<br><br> {{c1::remeiés::…remeiar…}} més sovint, seria més resolutiu.
+↫ Si nosaltres ↫<br><br> {{c1::remeiéssim::…remeiar…}} junts, resoldríem més problemes.
+↫ Si vosaltres ↫<br><br> {{c1::remeiéssiu::…remeiar…}} més sovint, ajudaríeu més.
+↫ Si ells ↫<br><br> {{c1::remeiessin::…remeiar…}} cada dia, serien més eficaços.
+… Si pogués, …<br><br> jo {{c1::remeiaria::…remeiar…}} totes les dificultats.
+… Si tinguessis temps, …<br><br> tu {{c1::remeiaries::…remeiar…}} els problemes més sovint.
+… Ell {{c1::remeiaria::…remeiar…}} cada dia, …<br><br>si tingués més oportunitats.
+… Si fos necessari, …<br><br> nosaltres {{c1::remeiaríem::…remeiar…}} junts cada dia.
+… Vosaltres {{c1::remeiaríeu::…remeiar…}} més sovint, …<br><br>si us comprometéssiu més.
+… Si ho sabessin, …<br><br> ells {{c1::remeiarien::…remeiar…}} totes les dificultats.
+! Ara mateix, !<br><br> tu {{c1::remeia::…remeiar…}} aquesta situació!
+! Si us plau, !<br><br> vostè {{c1::remeiï::…remeiar…}} el problema!
+! Anem, !<br><br> nosaltres {{c1::remeiem::…remeiar…}} junts ara!
+! Ara, !<br><br> vosaltres {{c1::remeieu::…remeiar…}} aquesta dificultat!
+! Immediatament, !<br><br> vostès {{c1::remeiïn::…remeiar…}} les tensions!
+~ Mentre estic pensant, ~<br><br> jo estic {{c1::raent::…raure…}} en la veritat dels fets.
+♂ Després d'un llarg debat, ♂<br><br> ell ha {{c1::ragut::…raure…}} en la solució.
+♀ Quan va arribar la decisió, ♀<br><br> ella ha {{c1::raguda::…raure…}} en el que és just.
+♂♂ Després de la discussió, ♂♂<br><br> ells han {{c1::raguts::…raure…}} en l'acord.
+♀♀ Després de la reunió, ♀♀<br><br> elles han {{c1::ragudes::…raure…}} en la conclusió.
+⊙ Actualment, ⊙<br><br> jo {{c1::rac::…raure…}} en la justícia de les accions.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::raus::…raure…}} en la veritat dels fets.
+⊙ Ara, ⊙<br><br> ell {{c1::rau::…raure…}} en el que és correcte.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::raem::…raure…}} junts en l’acord.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::raeu::…raure…}} en la justícia de les accions.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::rauen::…raure…}} en la veritat.
+⇠ Abans, ⇠<br><br> jo {{c1::raïa::…raure…}} en la rectitud de les meves accions.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::raïes::…raure…}} sempre en la veritat.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::raïa::…raure…}} en les seves decisions.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::raíem::…raure…}} junts en la justícia.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::raíeu::…raure…}} en el que és correcte.
+⇠ Molt abans, ⇠<br><br> ells {{c1::raïen::…raure…}} sempre en la veritat.
+↧ Ahir, ↧<br><br> jo {{c1::raguí::…raure…}} en el que és just.
+↧ La setmana passada, ↧<br><br> tu {{c1::ragueres::…raure…}} en la veritat dels fets.
+↧ El mes passat, ↧<br><br> ell {{c1::ragué::…raure…}} en la solució justa.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::raguérem::…raure…}} junts en la rectitud.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::raguéreu::…raure…}} en el que és correcte.
+↧ Fa poc, ↧<br><br> ells {{c1::ragueren::…raure…}} en la veritat.
+→ Demà, →<br><br> jo {{c1::rauré::…raure…}} en la justícia.
+→ La setmana vinent, →<br><br> tu {{c1::rauràs::…raure…}} en la veritat.
+→ En un any, →<br><br> ell {{c1::raurà::…raure…}} en el que és correcte.
+→ En cinc anys, →<br><br> nosaltres {{c1::raurem::…raure…}} junts en la justícia.
+→ Aviat, →<br><br> vosaltres {{c1::raureu::…raure…}} en la veritat.
+→ En el futur, →<br><br> ells {{c1::rauran::…raure…}} en la solució justa.
+〰 Espero que 〰<br><br> jo {{c1::ragui::…raure…}} sempre en la justícia.
+〰 Pot ser que 〰<br><br> tu {{c1::raguis::…raure…}} en la veritat.
+〰 És possible que 〰<br><br> ell {{c1::ragui::…raure…}} en el que és correcte.
+〰 És necessari que 〰<br><br> nosaltres {{c1::raguem::…raure…}} junts en la rectitud.
+〰 Dubto que 〰<br><br> vosaltres {{c1::ragueu::…raure…}} en la justícia de les accions.
+〰 És probable que 〰<br><br> ells {{c1::raguin::…raure…}} en la veritat.
+↫ Si fos possible, ↫<br><br> jo {{c1::ragués::…raure…}} sempre en la justícia.
+↫ Si tu ↫<br><br> {{c1::raguessis::…raure…}} més, faries decisions més justes.
+↫ Si ell ↫<br><br> {{c1::ragués::…raure…}} més sovint, seria més correcte.
+↫ Si nosaltres ↫<br><br> {{c1::raguéssim::…raure…}} junts, seríem imparcials.
+↫ Si vosaltres ↫<br><br> {{c1::raguéssiu::…raure…}} més, faríeu decisions més justes.
+↫ Si ells ↫<br><br> {{c1::raguessin::…raure…}} més sovint, serien més justos.
+… Si pogués, …<br><br> jo {{c1::rauria::…raure…}} sempre en la justícia.
+… Si tinguessis temps, …<br><br> tu {{c1::rauries::…raure…}} més en la veritat.
+… Ell {{c1::rauria::…raure…}} sempre, …<br><br>si tingués més temps.
+… Si fos necessari, …<br><br> nosaltres {{c1::rauríem::…raure…}} junts en la justícia.
+… Vosaltres {{c1::rauríeu::…raure…}} més sovint, …<br><br>si us hi comprometéssiu més.
+… Si ho sabessin, …<br><br> ells {{c1::raurien::…raure…}} sempre en la veritat.
+! Ara mateix, !<br><br> tu {{c1::rau::…raure…}} en el que és correcte!
+! Si us plau, !<br><br> vostè {{c1::ragui::…raure…}} sempre en la justícia!
+! Anem, !<br><br> nosaltres {{c1::raguem::…raure…}} junts ara!
+! Ara, !<br><br> vosaltres {{c1::raeu::…raure…}} en la veritat!
+! Immediatament, !<br><br> vostès {{c1::raguin::…raure…}} en la justícia!
+~ Mentre estic netejant, ~<br><br> jo estic {{c1::pudint::…pudir…}} les deixalles.
+♂ Després de l'excursió, ♂<br><br> ell ha {{c1::pudit::…pudir…}} les sabates.
+♀ Quan va fer calor, ♀<br><br> ella ha {{c1::pudida::…pudir…}} la roba.
+♂♂ Després de l'exercici, ♂♂<br><br> ells han {{c1::pudits::…pudir…}} les motxilles.
+♀♀ Després de la pluja, ♀♀<br><br> elles han {{c1::pudides::…pudir…}} les sabates.
+⊙ Actualment, ⊙<br><br> jo {{c1::pudo::…pudir…}} les sabates després de córrer.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::puts::…pudir…}} la roba després de la pluja.
+⊙ Ara, ⊙<br><br> ell {{c1::put::…pudir…}} les deixalles després de la festa.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::pudim::…pudir…}} junts les sabates.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::pudiu::…pudir…}} les sabates després de córrer.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::puden::…pudir…}} les motxilles després de l’excursió.
+⇠ Abans, ⇠<br><br> jo {{c1::pudia::…pudir…}} les deixalles cada setmana.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::pudies::…pudir…}} sempre la roba.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::pudia::…pudir…}} les sabates després de jugar.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::pudíem::…pudir…}} les sabates després de córrer.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::pudíeu::…pudir…}} les deixalles després de cada festa.
+⇠ Molt abans, ⇠<br><br> ells {{c1::pudien::…pudir…}} les motxilles després de les excursions.
+↧ Ahir, ↧<br><br> jo {{c1::pudí::…pudir…}} les sabates després de l'entrenament.
+↧ La setmana passada, ↧<br><br> tu {{c1::pudires::…pudir…}} la roba després de la pluja.
+↧ El mes passat, ↧<br><br> ell {{c1::pudí::…pudir…}} les deixalles després del sopar.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::pudírem::…pudir…}} junts les sabates després de l'excursió.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::pudíreu::…pudir…}} les motxilles després de l'entrenament.
+↧ Fa poc, ↧<br><br> ells {{c1::pudiren::…pudir…}} les deixalles després del dinar.
+→ Demà, →<br><br> jo {{c1::pudiré::…pudir…}} les sabates després de córrer.
+→ La setmana vinent, →<br><br> tu {{c1::pudiràs::…pudir…}} la roba després de la pluja.
+→ En un any, →<br><br> ell {{c1::pudirà::…pudir…}} les deixalles després de la festa.
+→ En cinc anys, →<br><br> nosaltres {{c1::pudirem::…pudir…}} junts les motxilles després de l'excursió.
+→ Aviat, →<br><br> vosaltres {{c1::pudireu::…pudir…}} les sabates després de l'exercici.
+→ En el futur, →<br><br> ells {{c1::pudiran::…pudir…}} les deixalles després del sopar.
+〰 Espero que 〰<br><br> jo {{c1::pudi::…pudir…}} menys la roba.
+〰 Pot ser que 〰<br><br> tu {{c1::pudis::…pudir…}} menys les sabates.
+〰 És possible que 〰<br><br> ell {{c1::pudi::…pudir…}} menys les deixalles.
+〰 És necessari que 〰<br><br> nosaltres {{c1::pudim::…pudir…}} junts per acabar aviat.
+〰 Dubto que 〰<br><br> vosaltres {{c1::pudiu::…pudir…}} tant com cal.
+〰 És probable que 〰<br><br> ells {{c1::pudin::…pudir…}} menys les motxilles.
+↫ Si fos possible, ↫<br><br> jo {{c1::pudís::…pudir…}} menys les deixalles.
+↫ Si tu ↫<br><br> {{c1::pudissis::…pudir…}} més sovint, estaria més net.
+↫ Si ell ↫<br><br> {{c1::pudís::…pudir…}} més sovint, tindria menys problemes.
+↫ Si nosaltres ↫<br><br> {{c1::pudíssim::…pudir…}} junts, acabariem abans.
+↫ Si vosaltres ↫<br><br> {{c1::pudíssiu::…pudir…}} més sovint, seria més fàcil.
+↫ Si ells ↫<br><br> {{c1::pudissin::…pudir…}} menys, estarien més còmodes.
+… Si pogués, …<br><br> jo {{c1::pudiria::…pudir…}} menys la roba.
+… Si tinguessis temps, …<br><br> tu {{c1::pudiries::…pudir…}} menys sovint.
+… Ell {{c1::pudiria::…pudir…}} menys sovint, …<br><br>si tingués més ajuda.
+… Si fos necessari, …<br><br> nosaltres {{c1::pudiríem::…pudir…}} junts per acabar aviat.
+… Vosaltres {{c1::pudiríeu::…pudir…}} menys, …<br><br>si us ajudéssiu.
+… Si ho sabessin, …<br><br> ells {{c1::pudirien::…pudir…}} menys les motxilles.
+! Ara mateix, !<br><br> tu {{c1::put::…pudir…}} aquestes deixalles!
+! Si us plau, !<br><br> vostè {{c1::pudi::…pudir…}} les sabates!
+! Anem, !<br><br> nosaltres {{c1::pudim::…pudir…}} junts ara!
+! Ara, !<br><br> vosaltres {{c1::pudiu::…pudir…}} menys sovint!
+! Immediatament, !<br><br> vostès {{c1::pudin::…pudir…}} menys les deixalles!
+~ Mentre estic escrivint, ~<br><br> jo estic {{c1::encloent::…encloure…}} un document en el correu.
+♂ Després de preparar-ho tot, ♂<br><br> ell ha {{c1::enclòs::…encloure…}} els annexos en l'informe.
+♀ Quan va enviar la carta, ♀<br><br> ella ha {{c1::enclosa::…encloure…}} tota la documentació necessària.
+♂♂ Després de la reunió, ♂♂<br><br> ells han {{c1::enclosos::…encloure…}} tots els informes en el dossier.
+♀♀ Després de la sessió, ♀♀<br><br> elles han {{c1::encloses::…encloure…}} les notes en el fitxer.
+⊙ Actualment, ⊙<br><br> jo {{c1::encloc::…encloure…}} tota la informació en els documents.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::enclous::…encloure…}} les dades en el formulari.
+⊙ Ara, ⊙<br><br> ell {{c1::enclou::…encloure…}} els detalls en el correu.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::encloem::…encloure…}} junts tota la informació en el dossier.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::encloeu::…encloure…}} els documents en el correu.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::enclouen::…encloure…}} els annexos en l'informe.
+⇠ Abans, ⇠<br><br> jo {{c1::encloïa::…encloure…}} sempre els documents en els arxius.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::encloïes::…encloure…}} els deures en el quadern.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::encloïa::…encloure…}} tots els informes en el dossier.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::encloíem::…encloure…}} totes les tasques en el llibre.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::encloíeu::…encloure…}} les notes en els quaderns.
+⇠ Molt abans, ⇠<br><br> ells {{c1::encloïen::…encloure…}} les proves en el dossier.
+↧ Ahir, ↧<br><br> jo {{c1::encloguí::…encloure…}} tota la informació en el correu.
+↧ La setmana passada, ↧<br><br> tu {{c1::enclogueres::…encloure…}} els annexos en l'informe.
+↧ El mes passat, ↧<br><br> ell {{c1::enclogué::…encloure…}} tota la documentació en el dossier.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::encloguérem::…encloure…}} junts tots els informes en el fitxer.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::encloguéreu::…encloure…}} els documents en l'arxiu.
+↧ Fa poc, ↧<br><br> ells {{c1::enclogueren::…encloure…}} els annexos en el dossier.
+→ Demà, →<br><br> jo {{c1::enclouré::…encloure…}} tots els documents en el correu.
+→ La setmana vinent, →<br><br> tu {{c1::enclouràs::…encloure…}} les dades en el formulari.
+→ En un any, →<br><br> ell {{c1::enclourà::…encloure…}} tota la informació en l'informe.
+→ En cinc anys, →<br><br> nosaltres {{c1::enclourem::…encloure…}} junts els informes en el dossier.
+→ Aviat, →<br><br> vosaltres {{c1::encloureu::…encloure…}} tots els documents en l'arxiu.
+→ En el futur, →<br><br> ells {{c1::enclouran::…encloure…}} tota la documentació en l'informe.
+〰 Espero que 〰<br><br> jo {{c1::enclogui::…encloure…}} tota la informació en els documents.
+〰 Pot ser que 〰<br><br> tu {{c1::encloguis::…encloure…}} els annexos en el correu.
+〰 És possible que 〰<br><br> ell {{c1::enclogui::…encloure…}} els detalls en l'informe.
+〰 És necessari que 〰<br><br> nosaltres {{c1::encloguem::…encloure…}} junts tots els documents en el dossier.
+〰 Dubto que 〰<br><br> vosaltres {{c1::enclogueu::…encloure…}} totes les dades en el correu.
+〰 És probable que 〰<br><br> ells {{c1::encloguin::…encloure…}} tota la informació en l'informe.
+↫ Si fos possible, ↫<br><br> jo {{c1::enclogués::…encloure…}} sempre tota la documentació en els arxius.
+↫ Si tu ↫<br><br> {{c1::encloguessis::…encloure…}} més sovint els documents, estaries més organitzat.
+↫ Si ell ↫<br><br> {{c1::enclogués::…encloure…}} més informació, seria més precís.
+↫ Si nosaltres ↫<br><br> {{c1::encloguéssim::…encloure…}} junts tots els informes, serien més complets.
+↫ Si vosaltres ↫<br><br> {{c1::encloguéssiu::…encloure…}} sempre tota la documentació, tindríeu menys problemes.
+↫ Si ells ↫<br><br> {{c1::encloguessin::…encloure…}} tots els annexos, serien més organitzats.
+… Si pogués, …<br><br> jo {{c1::enclouria::…encloure…}} sempre tota la informació en els documents.
+… Si tinguessis temps, …<br><br> tu {{c1::enclouries::…encloure…}} més dades en el formulari.
+… Ell {{c1::enclouria::…encloure…}} sempre més informació, …<br><br>si tingués més temps.
+… Si fos necessari, …<br><br> nosaltres {{c1::enclouríem::…encloure…}} junts tots els informes en el dossier.
+… Vosaltres {{c1::enclouríeu::…encloure…}} més annexos, …<br><br>si us hi poséssiu.
+… Si ho sabessin, …<br><br> ells {{c1::enclourien::…encloure…}} sempre tota la documentació en l'informe.
+! Ara mateix, !<br><br> tu {{c1::enclou::…encloure…}} aquest document en el correu!
+! Si us plau, !<br><br> vostè {{c1::enclogui::…encloure…}} tota la informació en l'informe!
+! Anem, !<br><br> nosaltres {{c1::encloguem::…encloure…}} junts ara!
+! Ara, !<br><br> vosaltres {{c1::encloeu::…encloure…}} tots els documents en el correu!
+! Immediatament, !<br><br> vostès {{c1::encloguin::…encloure…}} tota la documentació en l'informe!
+~ Mentre estic treballant, ~<br><br> jo estic {{c1::enaiguant::…enaiguar…}} les plantes del jardí.
+♂ Després de la pluja, ♂<br><br> ell ha {{c1::enaiguat::…enaiguar…}} el camp.
+♀ Quan va regar el jardí, ♀<br><br> ella ha {{c1::enaiguada::…enaiguar…}} les flors.
+♂♂ Després del temporal, ♂♂<br><br> ells han {{c1::enaiguats::…enaiguar…}} els camps.
+♀♀ Després de la sequera, ♀♀<br><br> elles han {{c1::enaiguades::…enaiguar…}} el jardí.
+⊙ Actualment, ⊙<br><br> jo {{c1::enaiguo::…enaiguar…}} les plantes cada dia.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::enaigües::…enaiguar…}} les flors del balcó.
+⊙ Ara, ⊙<br><br> ell {{c1::enaigua::…enaiguar…}} el jardí.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::enaigüem::…enaiguar…}} junts el camp.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::enaigüeu::…enaiguar…}} les plantes cada matí.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::enaigüen::…enaiguar…}} el jardí després del temporal.
+⇠ Abans, ⇠<br><br> jo {{c1::enaiguava::…enaiguar…}} les plantes cada setmana.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::enaiguaves::…enaiguar…}} les flors del jardí.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::enaiguava::…enaiguar…}} el camp després de la pluja.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::enaiguàvem::…enaiguar…}} junts el jardí de l'escola.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::enaiguàveu::…enaiguar…}} les plantes cada estiu.
+⇠ Molt abans, ⇠<br><br> ells {{c1::enaiguaven::…enaiguar…}} el camp després de la pluja.
+↧ Ahir, ↧<br><br> jo {{c1::enaigüí::…enaiguar…}} les plantes del balcó.
+↧ La setmana passada, ↧<br><br> tu {{c1::enaiguares::…enaiguar…}} les flors del jardí.
+↧ El mes passat, ↧<br><br> ell {{c1::enaiguà::…enaiguar…}} el camp després de la sequera.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::enaiguàrem::…enaiguar…}} junts el jardí després de la pluja.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::enaiguàreu::…enaiguar…}} les plantes del jardí.
+↧ Fa poc, ↧<br><br> ells {{c1::enaiguaren::…enaiguar…}} el camp després del temporal.
+→ Demà, →<br><br> jo {{c1::enaiguaré::…enaiguar…}} les plantes al matí.
+→ La setmana vinent, →<br><br> tu {{c1::enaiguaràs::…enaiguar…}} el jardí després de la pluja.
+→ En un any, →<br><br> ell {{c1::enaiguarà::…enaiguar…}} el camp després de la sequera.
+→ En cinc anys, →<br><br> nosaltres {{c1::enaiguarem::…enaiguar…}} junts el jardí de l'escola.
+→ Aviat, →<br><br> vosaltres {{c1::enaiguareu::…enaiguar…}} les flors del jardí.
+→ En el futur, →<br><br> ells {{c1::enaiguaran::…enaiguar…}} el camp després de la pluja.
+〰 Espero que 〰<br><br> jo {{c1::enaigüi::…enaiguar…}} sempre les plantes cada matí.
+〰 Pot ser que 〰<br><br> tu {{c1::enaigüis::…enaiguar…}} més sovint el jardí.
+〰 És possible que 〰<br><br> ell {{c1::enaigüi::…enaiguar…}} més després del temporal.
+〰 És necessari que 〰<br><br> nosaltres {{c1::enaigüem::…enaiguar…}} junts després de la pluja.
+〰 Dubto que 〰<br><br> vosaltres {{c1::enaigüeu::…enaiguar…}} prou sovint les plantes.
+〰 És probable que 〰<br><br> ells {{c1::enaigüin::…enaiguar…}} més després de la sequera.
+↫ Si fos possible, ↫<br><br> jo {{c1::enaigüés::…enaiguar…}} sempre les plantes cada matí.
+↫ Si tu ↫<br><br> {{c1::enaigüessis::…enaiguar…}} més sovint, tindries un jardí millor.
+↫ Si ell ↫<br><br> {{c1::enaigüés::…enaiguar…}} més després de la pluja, el camp seria més fèrtil.
+↫ Si nosaltres ↫<br><br> {{c1::enaigüéssim::…enaiguar…}} junts cada dia, el jardí estaria sempre verd.
+↫ Si vosaltres ↫<br><br> {{c1::enaigüéssiu::…enaiguar…}} més sovint, el jardí estaria sempre en flor.
+↫ Si ells ↫<br><br> {{c1::enaigüessin::…enaiguar…}} més després de la sequera, el camp seria més fèrtil.
+… Si pogués, …<br><br> jo {{c1::enaiguaria::…enaiguar…}} sempre les plantes cada dia.
+… Si tinguessis temps, …<br><br> tu {{c1::enaiguaries::…enaiguar…}} el jardí més sovint.
+… Ell {{c1::enaiguaria::…enaiguar…}} sempre, …<br><br>si tingués més ajuda.
+… Si fos necessari, …<br><br> nosaltres {{c1::enaiguaríem::…enaiguar…}} junts el camp després de la sequera.
+… Vosaltres {{c1::enaiguaríeu::…enaiguar…}} més sovint, …<br><br>si us comprometéssiu.
+… Si ho sabessin, …<br><br> ells {{c1::enaiguarien::…enaiguar…}} sempre el jardí després de la pluja.
+! Ara mateix, !<br><br> tu {{c1::enaigua::…enaiguar…}} aquestes plantes!
+! Si us plau, !<br><br> vostè {{c1::enaigüi::…enaiguar…}} el jardí!
+! Anem, !<br><br> nosaltres {{c1::enaigüem::…enaiguar…}} junts ara!
+! Ara, !<br><br> vosaltres {{c1::enaigüeu::…enaiguar…}} les plantes!
+! Immediatament, !<br><br> vostès {{c1::enaigüin::…enaiguar…}} el camp!
+
+~ Mentre estic ajustant, ~<br><br> jo estic {{c1::adequant::…adequar…}} els paràmetres del programa.
+♂ Després de la modificació, ♂<br><br> ell ha {{c1::adequat::…adequar…}} el sistema.
+♀ Quan va fer els ajustos, ♀<br><br> ella ha {{c1::adequada::…adequar…}} la configuració.
+♂♂ Després de l'actualització, ♂♂<br><br> ells han {{c1::adequats::…adequar…}} el programari.
+♀♀ Després del canvi, ♀♀<br><br> elles han {{c1::adequades::…adequar…}} els paràmetres.
+⊙ Actualment, ⊙<br><br> jo {{c1::adequo::…adequar…}} el sistema a les noves necessitats.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::adeqües::…adequar…}} els paràmetres per al projecte.
+⊙ Ara, ⊙<br><br> ell {{c1::adequa::…adequar…}} el sistema.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::adeqüem::…adequar…}} junts el sistema.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::adeqüeu::…adequar…}} el programari a les noves condicions.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::adeqüen::…adequar…}} el sistema per a la presentació.
+⇠ Abans, ⇠<br><br> jo {{c1::adequava::…adequar…}} sempre el sistema a les noves condicions.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::adequaves::…adequar…}} els paràmetres per a cada projecte.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::adequava::…adequar…}} el sistema a cada necessitat.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::adequàvem::…adequar…}} junts el sistema per a cada assignatura.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::adequàveu::…adequar…}} el programari a cada situació.
+⇠ Molt abans, ⇠<br><br> ells {{c1::adequaven::…adequar…}} el sistema per a cada canvi.
+↧ Ahir, ↧<br><br> jo {{c1::adeqüí::…adequar…}} el sistema a les noves especificacions.
+↧ La setmana passada, ↧<br><br> tu {{c1::adequares::…adequar…}} els paràmetres per al projecte.
+↧ El mes passat, ↧<br><br> ell {{c1::adequà::…adequar…}} el sistema a les noves necessitats.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::adequàrem::…adequar…}} junts el programari.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::adequàreu::…adequar…}} el sistema a les noves condicions.
+↧ Fa poc, ↧<br><br> ells {{c1::adequaren::…adequar…}} el programari a les noves especificacions.
+→ Demà, →<br><br> jo {{c1::adequaré::…adequar…}} el sistema a les noves necessitats.
+→ La setmana vinent, →<br><br> tu {{c1::adequaràs::…adequar…}} els paràmetres per al projecte.
+→ En un any, →<br><br> ell {{c1::adequarà::…adequar…}} el sistema a les noves condicions.
+→ En cinc anys, →<br><br> nosaltres {{c1::adequarem::…adequar…}} junts el programari a les noves necessitats.
+→ Aviat, →<br><br> vosaltres {{c1::adequareu::…adequar…}} el sistema per a la presentació.
+→ En el futur, →<br><br> ells {{c1::adequaran::…adequar…}} el programari a les noves condicions.
+〰 Espero que 〰<br><br> jo {{c1::adequï::…adequar…}} sempre el sistema a les noves especificacions.
+〰 Pot ser que 〰<br><br> tu {{c1::adequïs::…adequar…}} els paràmetres per a cada situació.
+〰 És possible que 〰<br><br> ell {{c1::adequï::…adequar…}} el sistema a les noves condicions.
+〰 És necessari que 〰<br><br> nosaltres {{c1::adeqüem::…adequar…}} junts el programari a cada canvi.
+〰 Dubto que 〰<br><br> vosaltres {{c1::adeqüeu::…adequar…}} prou sovint el sistema.
+〰 És probable que 〰<br><br> ells {{c1::adequïn::…adequar…}} el programari a les noves condicions.
+↫ Si fos possible, ↫<br><br> jo {{c1::adeqüés::…adequar…}} sempre el sistema a les noves condicions.
+↫ Si tu ↫<br><br> {{c1::adeqüessiss::…adequar…}} més sovint, tindries un sistema millor.
+↫ Si ell ↫<br><br> {{c1::adeqüés::…adequar…}} més sovint, el sistema seria més eficient.
+↫ Si nosaltres ↫<br><br> {{c1::adeqüéssim::…adequar…}} junts, el programari seria millor.
+↫ Si vosaltres ↫<br><br> {{c1::adeqüéssiu::…adequar…}} més sovint, tindríeu millors resultats.
+↫ Si ells ↫<br><br> {{c1::adeqüessin::…adequar…}} més sovint, el sistema seria més eficient.
+… Si pogués, …<br><br> jo {{c1::adequaria::…adequar…}} sempre el sistema a les noves necessitats.
+… Si tinguessis temps, …<br><br> tu {{c1::adequaries::…adequar…}} més sovint per obtenir millors resultats.
+… Ell {{c1::adequaria::…adequar…}} sempre, …<br><br>si tingués més ajuda.
+… Si fos necessari, …<br><br> nosaltres {{c1::adequaríem::…adequar…}} junts el programari per a cada situació.
+… Vosaltres {{c1::adequaríeu::…adequar…}} més sovint, …<br><br>si us hi poséssiu.
+… Si ho sabessin, …<br><br> ells {{c1::adequarien::…adequar…}} el sistema a les noves necessitats.
+! Ara mateix, !<br><br> tu {{c1::adequa::…adequar…}} el sistema!
+! Si us plau, !<br><br> vostè {{c1::adeqüi::…adequar…}} els paràmetres per a la nova situació!
+! Anem, !<br><br> nosaltres {{c1::adeqüem::…adequar…}} junts ara!
+! Ara, !<br><br> vosaltres {{c1::adeqüeu::…adequar…}} el programari!
+! Immediatament, !<br><br> vostès {{c1::adeqüin::…adequar…}} el sistema!
+

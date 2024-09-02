@@ -49,7 +49,6 @@ confondre 36
 empènyer 28
 ploure 24
 cosir 22
-fondre 20
 valer 17
 coure 16
 plaure 14
@@ -66,7 +65,6 @@ moldre 2
 lleure 1
 heure 1
 tòrcer
-toldre
 remeiar
 raure
 pudir
