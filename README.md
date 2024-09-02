@@ -7,7 +7,6 @@ This deck will initially focus on Central Catalan, leaving open the future possi
 The sentences in the deck are generated with ChatGPT 4o, but are verified against the conjugation tables found at [Verbs.cat](https://www.verbs.cat/). So, I can guarantee the correctness of the conjugations found in this deck, but at this early stage in my journey as a Catalan student, I cannot guarantee that the sentences are sensical.
 
 # Progress
-
 - [x] Complete the below KOFI taxonomy of Catalan verbs, by describing the pattern and choosing a representative infinitive.
   - [x] Complete the taxonomy, excluding defective verbs and verbs with alternatives.
   - [x] Integrate defective verbs and/or verbs with alternatives if transformations in their conjugation tables are not described elsewhere.
@@ -16,6 +15,13 @@ The sentences in the deck are generated with ChatGPT 4o, but are verified agains
 - [x] Order the verbs in the deck according to a frequency dictionary. It is ideal to show the most common patterns first. The frequency of the representative verbs are compared against the frequencies (in lemma form) in [FrequencyWords](https://github.com/hermitdave/FrequencyWords/)' full Catalan frequency list. This ordering could be improved by summing over all conjugations of all verbs sharing a certain conjugation pattern, but if you complete the deck diligently it won't matter >:D
 - [ ] In the "Notes" field, state the type of conjugation (i.e, third-conjugation inchoative regular). Acknowledge any orthographic changes or defectiveness, and if needed, show the theoretical regular conjugation noting its incorrectness. Quantify the relative (ranked out of all verbs in deck) and total irregularity (the percentage of cards which show an irregularity) of the verb.
 - [ ] Tag cards according to their subject, tense, and categories.
+
+# Notes on Defectives, Alternative Forms, and Participle-Only Irregularities
+In Catalan, defective verbs are verbs that do not have a conjugation for all subjects. There are around ten such verbs in Catalan; of these, three (**ploure**, **lleure**, and **caldre**) follow conjugation patterns unique to them. For these verbs, their nonexistant conjugations are obviously omitted here, which explains why some verbs omit many forms and tenses.
+
+In the instances where alternative conjugations are otherwise described in the deck, such as form III regular verbs accepting either pure or inchoative conjugations, this is considered covered under the regular forms. For genuine cases of alternative conjugation, which cannot be attributed to regional difference, the existence of the alternative conjugations are considered as a unit as there is no fair way to splice these cards into separate patterns. All alternative forms are presented as options on a single card, which since there are two or rarely three options on these cards, is scarce enough not to turn the memorizing of these conjugations into a matter of rhythm.
+
+A number of verbs contain unique conjugation patterns only in their participles, with non-unique patterning otherwise. For these cases, example sentences for only the participles are given.
 
 ## Auxiliaries
 - [x] **Ser/Ésser**
@@ -51,7 +57,6 @@ The sentences in the deck are generated with ChatGPT 4o, but are verified agains
   - [x] **Irregularity: -viure(9)**: **Viure** is the chosen representative.
   - [x] **Irregularity: -creure/-seure(10)**: **Seure** is the chosen representative.
   - [x] **Spelling Change: -rebre/-cebre(11)**: **Rebre** is the chosen representative.
-  - [ ] **Irregularity: -fendre/-fondre/prendre/tondre(12)**: **Fondre** is the chosen representative.
   - [x] **Irregularity: -caure(13)**: **Caure** is the chosen representative.
   - [ ] **Irregularity: -plaure(14)**: **Plaure** is the chosen representative.
   - [x] **Irregularity: -vendre(15)**: **Vendre** is the chosen representative.
@@ -84,7 +89,7 @@ The sentences in the deck are generated with ChatGPT 4o, but are verified agains
   - [x] **Irregularity: Dur** (with its compound in **en-**)
   - [x] **Irregularity: Fer** (with its compounds in **contra-**, **des-**, **estra-**, **per-**, **re-**, **satis-**)
 - [ ] (iv)  **Infinitive in stressed -er**:
-  - [ ] **Irregularity: -valer/-soler(1)**: **Valer** is the chosen representative.
+  - [x] **Irregularity: -valer/-soler(1)**: **Valer** is the chosen representative.
   - [x] **Irregularity: -voler(2)**: **Voler** is the chosen representative.
   - [x] **Irregularity: Poder(3)**
   - [x] **Irregularity: Saber(4)**
