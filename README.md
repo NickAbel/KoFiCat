@@ -58,14 +58,14 @@ A number of verbs contain unique conjugation patterns only in their participles,
   - [x] **Irregularity: -creure/-seure(10)**: **Seure** is the chosen representative.
   - [x] **Spelling Change: -rebre/-cebre(11)**: **Rebre** is the chosen representative.
   - [x] **Irregularity: -caure(13)**: **Caure** is the chosen representative.
-  - [ ] **Irregularity: -plaure(14)**: **Plaure** is the chosen representative.
+  - [x] **Irregularity: -plaure(14)**: **Plaure** is the chosen representative.
   - [x] **Irregularity: -vendre(15)**: **Vendre** is the chosen representative.
   - [ ] **Irregularity: -moldre(16)**: **Moldre** is the chosen representative.
-  - [ ] **Irregularity: -jeure(17)**: **Jeure** is the chosen representative.
+  - [x] **Irregularity: -jeure(17)**: **Jeure** is the chosen representative.
   - [x] **Irregularity: -riure(18)**: **Riure** is the chosen representative.
   - [ ] **Irregularity: Heure(19)**
   - [ ] **Irregularity: Cerndre(20)**
-  - [ ] **Irregularity: Coure(21)**
+  - [x] **Irregularity: Coure(21)**
   - [x] **Irregularity: Romandre(22)**
   - [x] **Irregularity (defective): Ploure(23)**
   - [ ] **Irregularity (defective): Lleure(24)**

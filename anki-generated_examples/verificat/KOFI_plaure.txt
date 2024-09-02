@@ -1,0 +1,52 @@
+~ Mentre estic pensant, ~<br><br> jo estic {{c1::plaent::…plaure…}} a la gent amb les meves idees.
+♂ Després de la reunió, ♂<br><br> ell ha {{c1::plagut::…plaure…}} als seus col·legues amb la seva presentació.
+♀ Quan va explicar el projecte, ♀<br><br> ella ha {{c1::plaguda::…plaure…}} als seus clients.
+♂♂ Després de l'exposició, ♂♂<br><br> ells han {{c1::plaguts::…plaure…}} a tots amb les seves obres.
+♀♀ Després del debat, ♀♀<br><br> elles han {{c1::plagudes::…plaure…}} al públic amb els seus arguments.
+⊙ Actualment, ⊙<br><br> jo {{c1::plac::…plaure…}} a molta gent.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::plaus::…plaure…}} a tots els que et coneixen.
+⊙ Ara, ⊙<br><br> ell {{c1::plau::…plaure…}} més que mai.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::plaem::…plaure…}} junts en aquest projecte.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::plaeu::…plaure…}} a molta gent.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::plauen::…plaure…}} a tots els assistents.
+⇠ Abans, ⇠<br><br> jo {{c1::plaïa::…plaure…}} a la meva família amb les meves decisions.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::plaïes::…plaure…}} als teus pares.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::plaïa::…plaure…}} als seus amics.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::plaíem::…plaure…}} als nostres mestres.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::plaíeu::…plaure…}} als vostres companys.
+⇠ Molt abans, ⇠<br><br> ells {{c1::plaïen::…plaure…}} a tothom.
+↧ Ahir, ↧<br><br> jo {{c1::plaguí::…plaure…}} als meus amics amb les meves paraules.
+↧ La setmana passada, ↧<br><br> tu {{c1::plagueres::…plaure…}} als teus col·legues.
+↧ El mes passat, ↧<br><br> ell {{c1::plagué::…plaure…}} als seus familiars.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::plaguérem::…plaure…}} als nostres veïns.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::plaguéreu::…plaure…}} als vostres professors.
+↧ Fa poc, ↧<br><br> ells {{c1::plagueren::…plaure…}} a la seva audiència.
+→ Demà, →<br><br> jo {{c1::plauré::…plaure…}} a tots els meus amics.
+→ La setmana vinent, →<br><br> tu {{c1::plauràs::…plaure…}} a tothom que coneguis.
+→ En un any, →<br><br> ell {{c1::plaurà::…plaure…}} als seus col·legues.
+→ En cinc anys, →<br><br> nosaltres {{c1::plaurem::…plaure…}} als nostres seguidors.
+→ Aviat, →<br><br> vosaltres {{c1::plaureu::…plaure…}} a tots els que us coneguin.
+→ En el futur, →<br><br> ells {{c1::plauran::…plaure…}} a la seva audiència.
+〰 Espero que 〰<br><br> jo {{c1::plagui::…plaure…}} a molta gent.
+〰 Pot ser que 〰<br><br> tu {{c1::plaguis::…plaure…}} als teus col·legues.
+〰 És possible que 〰<br><br> ell {{c1::plagui::…plaure…}} a la seva audiència.
+〰 És necessari que 〰<br><br> nosaltres {{c1::plaguem::…plaure…}} als nostres amics.
+〰 Dubto que 〰<br><br> vosaltres {{c1::plagueu::…plaure…}} a tothom.
+〰 És probable que 〰<br><br> ells {{c1::plaguin::…plaure…}} a tothom que coneguin.
+↫ Si fos possible, ↫<br><br> jo {{c1::plagués::…plaure…}} més sovint.
+↫ Si tu ↫<br><br> {{c1::plaguessis::…plaure…}} a tothom, tindries molts amics.
+↫ Si ell ↫<br><br> {{c1::plagués::…plaure…}} més sovint, tothom el seguiria.
+↫ Si nosaltres ↫<br><br> {{c1::plaguéssim::…plaure…}} més, tindríem més seguidors.
+↫ Si vosaltres ↫<br><br> {{c1::plaguéssiu::…plaure…}} a més gent, us respectarien més.
+↫ Si ells ↫<br><br> {{c1::plaguessin::…plaure…}} a tothom, serien molt populars.
+… Si pogués, …<br><br> jo {{c1::plauria::…plaure…}} més sovint.
+… Si tinguessis temps, …<br><br> tu {{c1::plauries::…plaure…}} a més gent.
+… Ell {{c1::plauria::…plaure…}} més sovint, …<br><br>si tingués més temps.
+… Si fos necessari, …<br><br> nosaltres {{c1::plauríem::…plaure…}} més a tothom.
+… Vosaltres {{c1::plauríeu::…plaure…}} a més persones, …<br><br>si us hi poséssiu més.
+… Si ho sabessin, …<br><br> ells {{c1::plaurien::…plaure…}} més a tothom.
+! Ara mateix, !<br><br> tu {{c1::plau::…plaure…}} a tothom que coneguis!
+! Si us plau, !<br><br> vostè {{c1::plagui::…plaure…}} als seus clients!
+! Anem, !<br><br> nosaltres {{c1::plaguem::…plaure…}} a tots els que ens coneguin!
+! Ara, !<br><br> vosaltres {{c1::plaeu::…plaure…}} més sovint!
+! Immediatament, !<br><br> vostès {{c1::plaguin::…plaure…}} a la seva audiència!

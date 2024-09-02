@@ -1,0 +1,52 @@
+~ Mentre estic pensant, ~<br><br> jo estic {{c1::cocent::…coure…}} les verdures per al sopar.
+♂ Després de la classe de cuina, ♂<br><br> ell ha {{c1::cuit/cogut::…coure…}} el pollastre perfectament.
+♀ Quan va arribar l'hora de dinar, ♀<br><br> ella ha {{c1::cuita/coguda::…coure…}} el peix al punt.
+♂♂ Després de l'entrenament, ♂♂<br><br> ells han {{c1::cuits/coguts::…coure…}} les patates al forn.
+♀♀ Després del sopar, ♀♀<br><br> elles han {{c1::cuites/cogudes::…coure…}} les verdures al vapor.
+⊙ Actualment, ⊙<br><br> jo {{c1::coc::…coure…}} el menjar cada dia.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::cous::…coure…}} el pa per al dinar.
+⊙ Ara, ⊙<br><br> ell {{c1::cou::…coure…}} la carn a la graella.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::coem::…coure…}} junts per al sopar.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::coeu::…coure…}} el menjar tradicional.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::couen::…coure…}} les verdures a foc lent.
+⇠ Abans, ⇠<br><br> jo {{c1::coïa::…coure…}} cada dia per a la família.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::coïes::…coure…}} sempre amb la teva àvia.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::coïa::…coure…}} a la casa de camp.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::coíem::…coure…}} en les classes de cuina.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::coíeu::…coure…}} cada setmana.
+⇠ Molt abans, ⇠<br><br> ells {{c1::coïen::…coure…}} a casa seva.
+↧ Ahir, ↧<br><br> jo {{c1::coguí::…coure…}} un bon àpat.
+↧ La setmana passada, ↧<br><br> tu {{c1::cogueres::…coure…}} un pastís de xocolata.
+↧ El mes passat, ↧<br><br> ell {{c1::cogué::…coure…}} el menjar per a tota la família.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::coguérem::…coure…}} junts al càmping.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::coguéreu::…coure…}} a l'escola.
+↧ Fa poc, ↧<br><br> ells {{c1::cogueren::…coure…}} un bon sopar.
+→ Demà, →<br><br> jo {{c1::couré::…coure…}} per a una festa.
+→ La setmana vinent, →<br><br> tu {{c1::couràs::…coure…}} un gran pastís.
+→ En un any, →<br><br> ell {{c1::courà::…coure…}} per a una celebració especial.
+→ En cinc anys, →<br><br> nosaltres {{c1::courem::…coure…}} junts en un esdeveniment.
+→ Aviat, →<br><br> vosaltres {{c1::coureu::…coure…}} alguna cosa especial.
+→ En el futur, →<br><br> ells {{c1::couran::…coure…}} a la cuina d'un restaurant.
+〰 Espero que 〰<br><br> jo {{c1::cogui::…coure…}} un bon plat.
+〰 Pot ser que 〰<br><br> tu {{c1::coguis::…coure…}} alguna cosa deliciosa.
+〰 És possible que 〰<br><br> ell {{c1::cogui::…coure…}} a la perfecció.
+〰 És necessari que 〰<br><br> nosaltres {{c1::coguem::…coure…}} junts per a la família.
+〰 Dubto que 〰<br><br> vosaltres {{c1::cogueu::…coure…}} tan sovint.
+〰 És probable que 〰<br><br> ells {{c1::coguin::…coure…}} alguna cosa diferent.
+↫ Si fos possible, ↫<br><br> jo {{c1::cogués::…coure…}} cada dia.
+↫ Si tu ↫<br><br> {{c1::coguessis::…coure…}} més sovint, milloraríes en cuina.
+↫ Si ell ↫<br><br> {{c1::cogués::…coure…}} més, faria plats deliciosos.
+↫ Si nosaltres ↫<br><br> {{c1::coguéssim::…coure…}} junts, gaudiríem més del menjar.
+↫ Si vosaltres ↫<br><br> {{c1::coguéssiu::…coure…}} més sovint, sorprenríeu a tothom.
+↫ Si ells ↫<br><br> {{c1::coguessin::…coure…}} més, serien millors cuiners.
+… Si pogués, …<br><br> jo {{c1::couria::…coure…}} tots els dies.
+… Si tinguessis temps, …<br><br> tu {{c1::couries::…coure…}} més plats.
+… Ell {{c1::couria::…coure…}} més sovint, …<br><br>si tingués més temps.
+… Si fos necessari, …<br><br> nosaltres {{c1::couríem::…coure…}} junts a casa.
+… Vosaltres {{c1::couríeu::…coure…}} més sovint, …<br><br>si practiquessiu més.
+… Si ho sabessin, …<br><br> ells {{c1::courien::…coure…}} més plats exquisits.
+! Ara mateix, !<br><br> tu {{c1::cou::…coure…}} el menjar amb cura!
+! Si us plau, !<br><br> vostè {{c1::cogui::…coure…}} amb dedicació!
+! Anem, !<br><br> nosaltres {{c1::coguem::…coure…}} junts a la cuina!
+! Ara, !<br><br> vosaltres {{c1::coeu::…coure…}} amb entusiasme!
+! Immediatament, !<br><br> vostès {{c1::coguin::…coure…}} un bon plat!

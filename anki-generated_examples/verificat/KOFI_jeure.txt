@@ -1,0 +1,53 @@
+~ Mentre estic pensant, ~<br><br> jo estic {{c1::jaient::…jeure…}} al llit després d'un llarg dia.
+♂ Després de l'entrenament, ♂<br><br> ell ha {{c1::jagut::…jeure…}} al sofà a descansar.
+♀ Quan va arribar a casa, ♀<br><br> ella ha {{c1::jaguda::…jeure…}} al llit.
+♂♂ Després de l'excursió, ♂♂<br><br> ells han {{c1::jaguts::…jeure…}} al terra.
+♀♀ Després del passeig, ♀♀<br><br> elles han {{c1::jagudes::…jeure…}} a l'ombra.
+⊙ Actualment, ⊙<br><br> jo {{c1::jec::…jeure…}} al sofà cada nit.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::jeus::…jeure…}} després de dinar.
+⊙ Ara, ⊙<br><br> ell {{c1::jeu::…jeure…}} al llit.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::jaiem::…jeure…}} al jardí.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::jaieu::…jeure…}} després de sopar.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::jeuen::…jeure…}} sota el sol.
+⇠ Abans, ⇠<br><br> jo {{c1::jeia::…jeure…}} a la platja durant les vacances.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::jeies::…jeure…}} a la gespa a l'estiu.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::jeia::…jeure…}} al sol després de treballar.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::jèiem::…jeure…}} al pati.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::jèieu::…jeure…}} al parc cada cap de setmana.
+⇠ Molt abans, ⇠<br><br> ells {{c1::jeien::…jeure…}} a la platja tot l'estiu.
+↧ Ahir, ↧<br><br> jo {{c1::jaguí::…jeure…}} a l'herba després de caminar.
+↧ La setmana passada, ↧<br><br> tu {{c1::jagueres::…jeure…}} al sofà després de sopar.
+↧ El mes passat, ↧<br><br> ell {{c1::jagué::…jeure…}} al sol durant les vacances.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::jaguérem::…jeure…}} al parc.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::jaguéreu::…jeure…}} al pati després de classe.
+↧ Fa poc, ↧<br><br> ells {{c1::jagueren::…jeure…}} al llit després d'un llarg dia.
+→ Demà, →<br><br> jo {{c1::jauré::…jeure…}} al llit fins tard.
+→ La setmana vinent, →<br><br> tu {{c1::jauràs::…jeure…}} al sofà després de dinar.
+→ En un any, →<br><br> ell {{c1::jaurà::…jeure…}} sota el sol durant les vacances.
+→ En cinc anys, →<br><br> nosaltres {{c1::jaurem::…jeure…}} al parc cada cap de setmana.
+→ Aviat, →<br><br> vosaltres {{c1::jaureu::…jeure…}} al jardí.
+→ En el futur, →<br><br> ells {{c1::jauran::…jeure…}} sota un arbre.
+〰 Espero que 〰<br><br> jo {{c1::jegui::…jeure…}} més sovint.
+〰 Pot ser que 〰<br><br> tu {{c1::jeguis::…jeure…}} sota el sol aquest estiu.
+〰 És possible que 〰<br><br> ell {{c1::jegui::…jeure…}} al llit tot el dia.
+〰 És necessari que 〰<br><br> nosaltres {{c1::jaguem::…jeure…}} més sovint per descansar.
+〰 Dubto que 〰<br><br> vosaltres {{c1::jagueu::…jeure…}} tant com cal.
+〰 És probable que 〰<br><br> ells {{c1::jaguin::…jeure…}} a l'ombra a la tarda.
+↫ Si fos possible, ↫<br><br> jo {{c1::jagués::…jeure…}} més temps al llit.
+↫ Si tu ↫<br><br> {{c1::jaguessis::…jeure…}} més sovint, et sentiries millor.
+↫ Si ell ↫<br><br> {{c1::jagués::…jeure…}} més temps, estaria més descansat.
+↫ Si nosaltres ↫<br><br> {{c1::jaguéssim::…jeure…}} junts, gaudiríem més del temps lliure.
+↫ Si vosaltres ↫<br><br> {{c1::jaguéssiu::…jeure…}} més, estaríeu més tranquils.
+↫ Si ells ↫<br><br> {{c1::jaguessin::…jeure…}} més sovint, estarien més relaxats.
+… Si pogués, …<br><br> jo {{c1::jauria::…jeure…}} més sovint.
+… Si tinguessis temps, …<br><br> tu {{c1::jauries::…jeure…}} més temps al sofà.
+… Ell {{c1::jauria::…jeure…}} més sovint, …<br><br>si tingués més vacances.
+… Si fos necessari, …<br><br> nosaltres {{c1::jauríem::…jeure…}} junts després de treballar.
+… Vosaltres {{c1::jauríeu::…jeure…}} més sovint, …<br><br>si tinguéssiu més temps lliure.
+… Si ho sabessin, …<br><br> ells {{c1::jaurien::…jeure…}} més sota el sol.
+! Ara mateix, !<br><br> tu {{c1::jeu::…jeure…}} al llit i descansa!
+! Si us plau, !<br><br> vostè {{c1::jegui::…jeure…}} al sofà!
+! Anem, !<br><br> nosaltres {{c1::jaguem::…jeure…}} junts al jardí!
+! Ara, !<br><br> vosaltres {{c1::jaieu::…jeure…}} a l'ombra!
+! Immediatament, !<br><br> vostès {{c1::jeguin::…jeure…}} més temps per descansar!
+
