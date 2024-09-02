@@ -1,0 +1,52 @@
+~ Mentre estic pensant, ~<br><br> jo estic {{c1::eixint::…eixir…}} de casa.
+♂ Després de l'anunci, ♂<br><br> ell ha {{c1::eixit::…eixir…}} de l'edifici.
+♀ Quan va sonar l'alarma, ♀<br><br> ella ha {{c1::eixida::…eixir…}} corrents.
+♂♂ Després de la classe, ♂♂<br><br> ells han {{c1::eixits::…eixir…}} junts.
+♀♀ Després de la reunió, ♀♀<br><br> elles han {{c1::eixides::…eixir…}} a prendre l'aire.
+⊙ Actualment, ⊙<br><br> jo {{c1::ixo/isc::…eixir…}} cada matí.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::ixes::…eixir…}} sovint amb els amics.
+⊙ Ara, ⊙<br><br> ell {{c1::ix::…eixir…}} a fer un volt.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::eixim::…eixir…}} junts a passejar.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::eixiu::…eixir…}} després de classe.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::ixen::…eixir…}} a comprar.
+⇠ Abans, ⇠<br><br> jo {{c1::eixia::…eixir…}} sempre a la mateixa hora.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::eixies::…eixir…}} sempre amb els amics.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::eixia::…eixir…}} de casa cada dia.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::eixíem::…eixir…}} junts després de classe.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::eixíeu::…eixir…}} sovint.
+⇠ Molt abans, ⇠<br><br> ells {{c1::eixien::…eixir…}} cada dia.
+↧ Ahir, ↧<br><br> jo {{c1::eixí::…eixir…}} de casa d'hora.
+↧ La setmana passada, ↧<br><br> tu {{c1::eixires::…eixir…}} amb pressa.
+↧ El mes passat, ↧<br><br> ell {{c1::eixí::…eixir…}} tard.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::eixírem::…eixir…}} junts.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::eixíreu::…eixir…}} cada matí.
+↧ Fa poc, ↧<br><br> ells {{c1::eixiren::…eixir…}} a comprar.
+→ Demà, →<br><br> jo {{c1::eixiré::…eixir…}} a la mateixa hora.
+→ La setmana vinent, →<br><br> tu {{c1::eixiràs::…eixir…}} sovint amb els amics.
+→ En un any, →<br><br> ell {{c1::eixirà::…eixir…}} de casa.
+→ En cinc anys, →<br><br> nosaltres {{c1::eixirem::…eixir…}} junts.
+→ Aviat, →<br><br> vosaltres {{c1::eixireu::…eixir…}} a passejar.
+→ En el futur, →<br><br> ells {{c1::eixiran::…eixir…}} cada dia.
+〰 Espero que 〰<br><br> jo {{c1::ixi::…eixir…}} cada dia a la mateixa hora.
+〰 Pot ser que 〰<br><br> tu {{c1::ixis::…eixir…}} sovint amb els amics.
+〰 És possible que 〰<br><br> ell {{c1::ixi::…eixir…}} de casa.
+〰 És necessari que 〰<br><br> nosaltres {{c1::eixim::…eixir…}} junts.
+〰 Dubto que 〰<br><br> vosaltres {{c1::eixiu::…eixir…}} tan sovint.
+〰 És probable que 〰<br><br> ells {{c1::ixin::…eixir…}} cada dia.
+↫ Si fos possible, ↫<br><br> jo {{c1::eixís::…eixir…}} més sovint.
+↫ Si tu ↫<br><br> {{c1::eixíssis::…eixir…}} més, gaudiries més.
+↫ Si ell ↫<br><br> {{c1::eixís::…eixir…}} més sovint, seria més actiu.
+↫ Si nosaltres ↫<br><br> {{c1::eixíssim::…eixir…}} junts, tindríem més moments junts.
+↫ Si vosaltres ↫<br><br> {{c1::eixíssiu::…eixir…}} més, us sentiríeu millor.
+↫ Si ells ↫<br><br> {{c1::eixissin::…eixir…}} més sovint, estarien més en forma.
+… Si pogués, …<br><br> jo {{c1::eixiria::…eixir…}} més sovint.
+… Si tinguessis temps, …<br><br> tu {{c1::eixiries::…eixir…}} cada dia.
+… Ell {{c1::eixiria::…eixir…}} més sovint, …<br><br>si tingués una rutina.
+… Si fos necessari, …<br><br> nosaltres {{c1::eixiríem::…eixir…}} junts.
+… Vosaltres {{c1::eixiríeu::…eixir…}} més, …<br><br>si us organitzéssiu millor.
+… Si ho sabessin, …<br><br> ells {{c1::eixirien::…eixir…}} cada dia.
+! Ara mateix, !<br><br> tu {{c1::ix::…eixir…}} de casa!
+! Si us plau, !<br><br> vostè {{c1::ixi::…eixir…}} sovint!
+! Anem, !<br><br> nosaltres {{c1::eixim::…eixir…}} junts!
+! Ara, !<br><br> vosaltres {{c1::eixiu::…eixir…}} més sovint!
+! Immediatament, !<br><br> vostès {{c1::ixin::…eixir…}} ara!

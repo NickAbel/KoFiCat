@@ -1,0 +1,53 @@
+~ Mentre estic pensant, ~<br><br> jo estic {{c1::cosint::…cosir…}} un botó a la camisa.
+♂ Després de l'accident, ♂<br><br> ell ha {{c1::cosit::…cosir…}} una ferida.
+♀ Quan va trencar el vestit, ♀<br><br> ella ha {{c1::cosida::…cosir…}} el forat.
+♂♂ Després de l'entrenament, ♂♂<br><br> ells han {{c1::cosits::…cosir…}} les seves samarretes.
+♀♀ Després de la festa, ♀♀<br><br> elles han {{c1::cosides::…cosir…}} les faldilles.
+⊙ Actualment, ⊙<br><br> jo {{c1::cuso::…cosir…}} amb una màquina de cosir.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::cuses::…cosir…}} a mà.
+⊙ Ara, ⊙<br><br> ell {{c1::cus::…cosir…}} una samarreta.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::cosim::…cosir…}} juntes.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::cosiu::…cosir…}} cada cap de setmana.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::cusen::…cosir…}} unes cortines.
+⇠ Abans, ⇠<br><br> jo {{c1::cosia::…cosir…}} tota la meva roba.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::cosies::…cosir…}} els botons de la camisa.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::cosia::…cosir…}} cada dia després de treballar.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::cosíem::…cosir…}} les nostres coses.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::cosíeu::…cosir…}} les vostres pròpies peces de roba.
+⇠ Molt abans, ⇠<br><br> ells {{c1::cosien::…cosir…}} per tothom.
+↧ Ahir, ↧<br><br> jo {{c1::cosí::…cosir…}} una samarreta.
+↧ La setmana passada, ↧<br><br> tu {{c1::cosíres::…cosir…}} un botó.
+↧ El mes passat, ↧<br><br> ell {{c1::cosí::…cosir…}} la roba.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::cosírem::…cosir…}} una cortina.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::cosíreu::…cosir…}} cada cap de setmana.
+↧ Fa poc, ↧<br><br> ells {{c1::cosiren::…cosir…}} una jaqueta.
+→ Demà, →<br><br> jo {{c1::cosiré::…cosir…}} uns pantalons.
+→ La setmana vinent, →<br><br> tu {{c1::cosiràs::…cosir…}} una camisa.
+→ En un any, →<br><br> ell {{c1::cosirà::…cosir…}} una samarreta.
+→ En cinc anys, →<br><br> nosaltres {{c1::cosirem::…cosir…}} una faldilla.
+→ Aviat, →<br><br> vosaltres {{c1::cosireu::…cosir…}} tota la roba.
+→ En el futur, →<br><br> ells {{c1::cosiran::…cosir…}} qualsevol cosa.
+〰 Espero que 〰<br><br> jo {{c1::cusi::…cosir…}} millor la pròxima vegada.
+〰 Pot ser que 〰<br><br> tu {{c1::cusis::…cosir…}} la teva pròpia roba.
+〰 És possible que 〰<br><br> ell {{c1::cusi::…cosir…}} més sovint en el futur.
+〰 És necessari que 〰<br><br> nosaltres {{c1::cosim::…cosir…}} més sovint per estalviar.
+〰 Dubto que 〰<br><br> vosaltres {{c1::cosiu::…cosir…}} sempre a mà.
+〰 És probable que 〰<br><br> ells {{c1::cusin::…cosir…}} per a la família.
+↫ Si fos possible, ↫<br><br> jo {{c1::cosís::…cosir…}} més sovint.
+↫ Si tu ↫<br><br> {{c1::cosissis::…cosir…}} més sovint, estalviaries diners.
+↫ Si ell ↫<br><br> {{c1::cosís::…cosir…}} més, tindria més roba feta a mà.
+↫ Si nosaltres ↫<br><br> {{c1::cosíssim::…cosir…}} més, tindríem més peces úniques.
+↫ Si vosaltres ↫<br><br> {{c1::cosíssiu::…cosir…}} més sovint, seríeu més hàbils.
+↫ Si ells ↫<br><br> {{c1::cosissin::…cosir…}} més, podrien vendre més.
+… Si pogués, …<br><br> jo {{c1::cosiria::…cosir…}} més roba.
+… Si tinguessis temps, …<br><br> tu {{c1::cosiries::…cosir…}} més sovint.
+… Ell {{c1::cosiria::…cosir…}} més sovint, …<br><br>si tingués més temps.
+… Si fos necessari, …<br><br> nosaltres {{c1::cosiríem::…cosir…}} més.
+… Vosaltres {{c1::cosiríeu::…cosir…}} més, …<br><br>si tinguéssiu més roba.
+… Si ho sabessin, …<br><br> ells {{c1::cosirien::…cosir…}} tot el que poguessin.
+! Ara mateix, !<br><br> tu {{c1::cus::…cosir…}} una jaqueta!
+! Si us plau, !<br><br> vostè {{c1::cusi::…cosir…}} la faldilla!
+! Anem, !<br><br> nosaltres {{c1::cosim::…cosir…}} més sovint junts!
+! Ara, !<br><br> vosaltres {{c1::cosiu::…cosir…}} tota la roba!
+! Immediatament, !<br><br> vostès {{c1::cusin::…cosir…}} la camisa!
+

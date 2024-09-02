@@ -1,0 +1,5 @@
+~ Mentre estic pensant, ~<br><br> jo estic {{c1::cobrint::…cobrir…}} els mobles amb llençols.
+♂ Després de la tempesta, ♂<br><br> ell ha {{c1::cobert::…cobrir…}} el sostre amb una lona.
+♀ Quan va començar a ploure, ♀<br><br> ella ha {{c1::coberta::…cobrir…}} el seu cap amb un paraigua.
+♂♂ Després del partit, ♂♂<br><br> ells han {{c1::coberts::…cobrir…}} el camp amb una lona.
+♀♀ Després de la festa, ♀♀<br><br> elles han {{c1::cobertes::…cobrir…}} les taules amb estovalles.

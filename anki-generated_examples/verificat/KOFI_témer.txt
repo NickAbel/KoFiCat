@@ -1,0 +1,53 @@
+~ Mentre estic pensant, ~<br><br> jo estic {{c1::tement::…témer…}} les conseqüències.
+♂ Després de la notícia, ♂<br><br> ell ha {{c1::temut::…témer…}} el pitjor.
+♀ Quan va sentir el soroll, ♀<br><br> ella ha {{c1::temuda::…témer…}} pel que podia passar.
+♂♂ Després de l'avís, ♂♂<br><br> ells han {{c1::temuts::…témer…}} els resultats.
+♀♀ Després de l'experiència, ♀♀<br><br> elles han {{c1::temudes::…témer…}} repetir-ho.
+⊙ Actualment, ⊙<br><br> jo {{c1::temo::…témer…}} per la meva seguretat.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::tems::…témer…}} el que pugui passar.
+⊙ Ara, ⊙<br><br> ell {{c1::tem::…témer…}} les conseqüències.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::temem::…témer…}} per la nostra salut.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::temeu::…témer…}} les repercussions.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::temen::…témer…}} pel futur.
+⇠ Abans, ⇠<br><br> jo {{c1::temia::…témer…}} que tot sortís malament.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::temies::…témer…}} la foscor.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::temia::…témer…}} perdre el seu lloc de treball.
+⇠ Durant la tempesta, ⇠<br><br> nosaltres {{c1::temíem::…témer…}} pel nostre benestar.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::temíeu::…témer…}} les conseqüències de les vostres accions.
+⇠ Molt abans, ⇠<br><br> ells {{c1::temien::…témer…}} que el futur fos incert.
+↧ Ahir, ↧<br><br> jo {{c1::temí::…témer…}} per la meva salut.
+↧ La setmana passada, ↧<br><br> tu {{c1::temeres::…témer…}} que alguna cosa anés malament.
+↧ El mes passat, ↧<br><br> ell {{c1::temé::…témer…}} perdre la seva feina.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::temérem::…témer…}} que la situació empitjorés.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::teméreu::…témer…}} que no hi hagués solució.
+↧ Fa poc, ↧<br><br> ells {{c1::temeren::…témer…}} que el temps esgotés.
+→ Demà, →<br><br> jo {{c1::temeré::…témer…}} per la meva seguretat.
+→ La setmana vinent, →<br><br> tu {{c1::temeràs::…témer…}} el que pugui passar.
+→ En un any, →<br><br> ell {{c1::temerà::…témer…}} que tot canviï.
+→ En cinc anys, →<br><br> nosaltres {{c1::temerem::…témer…}} pel nostre futur.
+→ Aviat, →<br><br> vosaltres {{c1::temereu::…témer…}} les conseqüències.
+→ En el futur, →<br><br> ells {{c1::temeran::…témer…}} pel destí de la humanitat.
+〰 Espero que 〰<br><br> jo {{c1::temi::…témer…}} menys en el futur.
+〰 Pot ser que 〰<br><br> tu {{c1::temis::…témer…}} les repercussions.
+〰 És possible que 〰<br><br> ell {{c1::temi::…témer…}} el pitjor.
+〰 És necessari que 〰<br><br> nosaltres {{c1::temem::…témer…}} les possibles conseqüències.
+〰 Dubto que 〰<br><br> vosaltres {{c1::temeu::…témer…}} tan sovint.
+〰 És probable que 〰<br><br> ells {{c1::temin::…témer…}} per tot.
+↫ Si fos possible, ↫<br><br> jo {{c1::temés::…témer…}} menys i actuaria més.
+↫ Si tu ↫<br><br> {{c1::temessis::…témer…}} menys, et relaxaries més.
+↫ Si ell ↫<br><br> {{c1::temés::…témer…}} menys, seria més feliç.
+↫ Si nosaltres ↫<br><br> {{c1::teméssim::…témer…}} menys, gaudiríem més.
+↫ Si vosaltres ↫<br><br> {{c1::teméssiu::…témer…}} menys, viuríeu millor.
+↫ Si ells ↫<br><br> {{c1::temessin::…témer…}} menys, estarien més tranquils.
+… Si pogués, …<br><br> jo {{c1::temeria::…témer…}} menys i faria més.
+… Si tinguessis temps, …<br><br> tu {{c1::temeries::…témer…}} menys.
+… Ell {{c1::temeria::…témer…}} menys sovint, …<br><br>si tingués més confiança.
+… Si fos necessari, …<br><br> nosaltres {{c1::temeríem::…témer…}} menys pel futur.
+… Vosaltres {{c1::temeríeu::…témer…}} menys, …<br><br>si tinguéssiu més seguretat.
+… Si ho sabessin, …<br><br> ells {{c1::temerien::…témer…}} menys pel destí.
+! Ara mateix, !<br><br> tu {{c1::tem::…témer…}} menys i actua més!
+! Si us plau, !<br><br> vostè {{c1::temi::…témer…}} menys!
+! Anem, !<br><br> nosaltres {{c1::temem::…témer…}} junts!
+! Ara, !<br><br> vosaltres {{c1::temeu::…témer…}} menys i confieu més!
+! Immediatament, !<br><br> vostès {{c1::temin::…témer…}} menys pel futur!
+

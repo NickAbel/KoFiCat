@@ -1,0 +1,16 @@
+~ Mentre estic pensant, ~<br><br> jo estic {{c1::plovent::…ploure…}} suposadament.
+♂ Després de la tempesta, ♂<br><br> ell ha {{c1::plogut::…ploure…}} sense parar.
+⊙ Ara, ⊙<br><br> ell {{c1::plou::…ploure…}} sense parar.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::plouen::…ploure…}} durant el temporal.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::plovia::…ploure…}} sempre a la primavera.
+⇠ Molt abans, ⇠<br><br> ells {{c1::plovien::…ploure…}} sense parar durant les tempestes.
+↧ El mes passat, ↧<br><br> ell {{c1::plogué::…ploure…}} en plena tempesta.
+↧ Fa poc, ↧<br><br> ells {{c1::plogueren::…ploure…}} sense treva.
+→ En un any, →<br><br> ell {{c1::plourà::…ploure…}} durant la primavera.
+→ En el futur, →<br><br> ells {{c1::plouran::…ploure…}} sempre que plogui.
+〰 És possible que 〰<br><br> ell {{c1::plogui::…ploure…}} sense parar.
+〰 És probable que 〰<br><br> ells {{c1::ploguin::…ploure…}} durant la tempesta.
+↫ Si ell ↫<br><br> {{c1::plogués::…ploure…}} més, els camps estarien plens.
+↫ Si ells ↫<br><br> {{c1::ploguessin::…ploure…}} més sovint, estarien més feliços.
+… Ell {{c1::plouria::…ploure…}} més sovint, …<br><br>si tingués més oportunitats.
+… Si ho sabessin, …<br><br> ells {{c1::plourien::…ploure…}} més sovint.

@@ -1,0 +1,5 @@
+~ Mentre estic pensant, ~<br><br> jo estic {{c1::establint::…establir…}} noves regles.
+♂ Després de la reunió, ♂<br><br> ell ha {{c1::establert/establit::…establir…}} els nous protocols.
+♀ Quan va assumir el càrrec, ♀<br><br> ella ha {{c1::establerta/establida::…establir…}} les seves prioritats.
+♂♂ Després de la trobada, ♂♂<br><br> ells han {{c1::establerts/establits::…establir…}} els acords necessaris.
+♀♀ Després de la conferència, ♀♀<br><br> elles han {{c1::establertes/establides::…establir…}} nous vincles.

@@ -45,7 +45,7 @@ The sentences in the deck are generated with ChatGPT 4o, but are verified agains
   - [x] **Irregularity: -tendre/-cendre(3)**: **Entendre** is the chosen representative.
   - [x] **Irregularity: -ure(4)**: **Beure** is the chosen representative.
   - [x] **Irregularity: -treure(5)**: Appearing in **treure/traure** and the compound verbs in which they end. **Treure** is the chosen representative.
-  - [ ] **Irregularity: -fondre(6)**: **Confondre** is the chosen representative.
+  - [x] **Irregularity: -fondre(6)**: **Confondre** is the chosen representative.
   - [ ] **Irregularity: -toldre/-soldre(7)**: **Toldre** is the chosen representative.
   - [ ] **Irregularity: -cloure(8)**: **Encloure** is the chosen representative.
   - [x] **Irregularity: -viure(9)**: **Viure** is the chosen representative.
@@ -62,7 +62,7 @@ The sentences in the deck are generated with ChatGPT 4o, but are verified agains
   - [ ] **Irregularity: Cerndre(20)**
   - [ ] **Irregularity: Coure(21)**
   - [x] **Irregularity: Romandre(22)**
-  - [ ] **Irregularity (defective): Ploure(23)**
+  - [x] **Irregularity (defective): Ploure(23)**
   - [ ] **Irregularity (defective): Lleure(24)**
   - [ ] **Irregularity (defective): Caldre(25)**
   - [ ] **Irregularity: Cabre(26)**
@@ -71,12 +71,12 @@ The sentences in the deck are generated with ChatGPT 4o, but are verified agains
   - [x] **Irregularity: -scriure(29)**: **Escriure** is the chosen representative.
   - [x] **Irregularity: -veure(29)**: **Veure** is the chosen representative.
 - [ ] (ii)  **Infinitive in unstressed -er**:
-  - [ ] **Regular, No Spelling Changes**: **Témer** is the chosen representative.
+  - [x] **Regular, No Spelling Changes**: **Témer** is the chosen representative.
   - [ ] **Spelling Change: -tòrcer(1)**: **Tòrcer** is the chosen representative.
   - [ ] **Irregularity in Participle Only: -strènyer(2)**: **Constrènyer** is the chosen representative.
   - [x] **Irregularity: -conèixer(3)**: **Conèixer** is the chosen representative.
   - [x] **Spelling Change: -vèncer(4)**: **Vèncer** is the chosen representative.
-  - [ ] **Irregularity in Participle Only: -empènyer(5)**: **Empènyer** is the chosen representative.
+  - [x] **Irregularity in Participle Only: -empènyer(5)**: **Empènyer** is the chosen representative.
   - [x] **Irregularity: Córrer(6)**
   - [x] **Irregularity: Néixer, péixer(7)**: **Néixer** is the chosen representative.
 - [ ] (iii) **Infinitive in -r**:
@@ -93,7 +93,7 @@ The sentences in the deck are generated with ChatGPT 4o, but are verified agains
 - [ ] (a) **Inchoative**
   - [x] **Regular, No Spelling Changes**: The verb **unir** is the chosen representative.
   - [ ] **Spelling Change: -uir/-eir/-air/-oir(1)**: This orthographic change covers the vast majority of verbs ending in -uir, all verbs ending in -eir/-air, **oir**, and **corroir**. **Construir** is the chosen representative.
-  - [ ] **Irregularity in Participles Only: -rir(2)**: **Cobrir** is the chosen representative.
+  - [x] **Irregularity in Participles Only: -rir(2)**: **Cobrir** is the chosen representative.
   - [ ] **Irregularity in Participles Only: -imprimir(3)**: **Imprimir** is the chosen representative.
 
 - [ ] (b) **Pure**
@@ -101,15 +101,15 @@ The sentences in the deck are generated with ChatGPT 4o, but are verified agains
   - [x] **Irregularity: sortir/collir(1)**: This pattern occurs in **sortir**, **collir** and its compounds. **Sortir** is the chosen representative.
   - [x] **Irregularity: -obrir(2)**: For **obrir** and its compounds in which **obrir** means ``to open'', so **cobrir**, for instance, is not covered by this. **Obrir** is the chosen representative.
   - [x] **Irregularity: -fugir(3)**: **Fugir** is the chosen representative.
-  - [ ] **Irregularity: -cosir(4)**: **Cosir** is the chosen representative.
+  - [x] **Irregularity: -cosir(4)**: **Cosir** is the chosen representative.
   - [x] **Irregularity in Participles Only: -morir(5)**: **Morir** is the chosen representative.
   - [ ] **Irregularity: Escopir(6)**
   - [ ] **Irregularity: Tossir(7)**
   - [ ] **Irregularity: Pudir(8)**
-  - [ ] **Irregularity in Participles Only: -lir(9)**: **Establir** is the chosen representative.
+  - [x] **Irregularity in Participles Only: -lir(9)**: **Establir** is the chosen representative.
   - [x] **Irregularity: Venir(10)**
 
-- [ ] **Irregularity: -eixir(1)**: **Eixir** is the chosen representative.
+- [x] **Irregularity: -eixir(1)**: **Eixir** is the chosen representative.
 - [ ] **Irregularity: -lluir(2)**: **Lluir** is the chosen representative.
  
 # References Used

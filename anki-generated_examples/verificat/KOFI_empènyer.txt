@@ -1,0 +1,5 @@
+~ Mentre estic pensant, ~<br><br> jo estic {{c1::empenyent::…empènyer…}} la porta amb força.
+♂ Després de la discussió, ♂<br><br> ell ha {{c1::empès::…empènyer…}} la taula cap a la paret.
+♀ Quan va veure el gos, ♀<br><br> ella ha {{c1::empesa::…empènyer…}} la cadira cap enrere.
+♂♂ Després de l'accident, ♂♂<br><br> ells han {{c1::empesos::…empènyer…}} el cotxe fora de la carretera.
+♀♀ Després de la tempesta, ♀♀<br><br> elles han {{c1::empeses::…empènyer…}} els mobles cap a dins.

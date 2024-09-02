@@ -1,0 +1,53 @@
+~ Mentre estic pensant, ~<br><br> jo estic {{c1::confonent::…confondre…}} les paraules.
+♂ Després de l'explicació, ♂<br><br> ell ha {{c1::confós::…confondre…}} el significat.
+♀ Quan va escoltar la resposta, ♀<br><br> ella ha {{c1::confosa::…confondre…}} el missatge.
+♂♂ Després de la classe, ♂♂<br><br> ells han {{c1::confosos::…confondre…}} els conceptes.
+♀♀ Després de l'examen, ♀♀<br><br> elles han {{c1::confoses::…confondre…}} les instruccions.
+⊙ Actualment, ⊙<br><br> jo {{c1::confonc::…confondre…}} sovint els noms.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::confons::…confondre…}} els detalls.
+⊙ Ara, ⊙<br><br> ell {{c1::confon::…confondre…}} les dates.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::confonem::…confondre…}} les opcions.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::confoneu::…confondre…}} els termes.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::confonen::…confondre…}} les instruccions.
+⇠ Abans, ⇠<br><br> jo {{c1::confonia::…confondre…}} sempre les paraules.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::confonies::…confondre…}} els conceptes a classe.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::confonia::…confondre…}} sovint les dades.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::confoníem::…confondre…}} els noms dels companys.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::confoníeu::…confondre…}} sovint els plans.
+⇠ Molt abans, ⇠<br><br> ells {{c1::confonien::…confondre…}} les dates importants.
+↧ Ahir, ↧<br><br> jo {{c1::confonguí::…confondre…}} les instruccions.
+↧ La setmana passada, ↧<br><br> tu {{c1::confongueres::…confondre…}} els noms.
+↧ El mes passat, ↧<br><br> ell {{c1::confongué::…confondre…}} els detalls.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::confonguérem::…confondre…}} les dates.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::confonguéreu::…confondre…}} les idees.
+↧ Fa poc, ↧<br><br> ells {{c1::confongueren::…confondre…}} els conceptes.
+→ Demà, →<br><br> jo {{c1::confondré::…confondre…}} les paraules.
+→ La setmana vinent, →<br><br> tu {{c1::confondràs::…confondre…}} els detalls.
+→ En un any, →<br><br> ell {{c1::confondrà::…confondre…}} els conceptes.
+→ En cinc anys, →<br><br> nosaltres {{c1::confondrem::…confondre…}} les opcions.
+→ Aviat, →<br><br> vosaltres {{c1::confondreu::…confondre…}} els termes.
+→ En el futur, →<br><br> ells {{c1::confondran::…confondre…}} les instruccions.
+〰 Espero que 〰<br><br> jo {{c1::confongui::…confondre…}} menys sovint.
+〰 Pot ser que 〰<br><br> tu {{c1::confonguis::…confondre…}} els detalls.
+〰 És possible que 〰<br><br> ell {{c1::confongui::…confondre…}} els noms.
+〰 És necessari que 〰<br><br> nosaltres {{c1::confonguem::…confondre…}} les idees.
+〰 Dubto que 〰<br><br> vosaltres {{c1::confongueu::…confondre…}} menys.
+〰 És probable que 〰<br><br> ells {{c1::confonguin::…confondre…}} les instruccions.
+↫ Si fos possible, ↫<br><br> jo {{c1::confongués::…confondre…}} menys sovint.
+↫ Si tu ↫<br><br> {{c1::confonguessis::…confondre…}} menys els noms, t'entendrien millor.
+↫ Si ell ↫<br><br> {{c1::confongués::…confondre…}} menys les dates, seria més puntual.
+↫ Si nosaltres ↫<br><br> {{c1::confonguéssim::…confondre…}} menys, seríem més clars.
+↫ Si vosaltres ↫<br><br> {{c1::confonguéssiu::…confondre…}} menys, tot aniria millor.
+↫ Si ells ↫<br><br> {{c1::confonguessin::…confondre…}} menys, no hi hauria problemes.
+… Si pogués, …<br><br> jo {{c1::confondria::…confondre…}} menys.
+… Si tinguessis temps, …<br><br> tu {{c1::confondries::…confondre…}} menys.
+… Ell {{c1::confondria::…confondre…}} menys sovint, …<br><br>si s'organitzés millor.
+… Si fos necessari, …<br><br> nosaltres {{c1::confondríem::…confondre…}} menys.
+… Vosaltres {{c1::confondríeu::…confondre…}} menys, …<br><br>si fóssiu més atents.
+… Si ho sabessin, …<br><br> ells {{c1::confondrien::…confondre…}} menys.
+! Ara mateix, !<br><br> tu {{c1::confon::…confondre…}} els detalls menys sovint!
+! Si us plau, !<br><br> vostè {{c1::confongui::…confondre…}} amb més cura!
+! Anem, !<br><br> nosaltres {{c1::confonguem::…confondre…}} menys sovint!
+! Ara, !<br><br> vosaltres {{c1::confoneu::…confondre…}} amb més atenció!
+! Immediatament, !<br><br> vostès {{c1::confonguin::…confondre…}} menys les instruccions!
+
