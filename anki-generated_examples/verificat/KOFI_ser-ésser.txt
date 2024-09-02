@@ -11,7 +11,7 @@
 ⊙ Actualment, ⊙<br><br>jo {{c1::sóc::…ser/ésser…}} metge.			
 ⊙ En aquest moment, ⊙<br><br>tu {{c1::ets::…ser/ésser…}} estudiant.			
 ⊙ Ara, ⊙<br><br>ell {{c1::és::…ser/ésser…}} professor.			
-⊙ I ara amb mi, ⊙<br>ja en {{c1::som::…ser/ésser…}} un més."			
+⊙ Ara, ⊙<br><br>nosaltres {{c1::som::…ser/ésser…}} bons amics.
 ⊙ Jo sóc de dalt, ⊙<br><br>vosaltres {{c1::sou::…ser/ésser…}} d'aquest món.			
 ⊙ Els rics ⊙<br><br>sovint {{c1::són::…ser/ésser…}} miserables.		
 ⇠ En aquella època. ⇠<br><br>jo {{c1::era::…ser/ésser…}} un estudiant.			

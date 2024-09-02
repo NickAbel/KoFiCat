@@ -1,0 +1,52 @@
+~ Mentre estic escrivint, ~<br><br> jo estic {{c1::encloent::…encloure…}} un document en el correu.
+♂ Després de preparar-ho tot, ♂<br><br> ell ha {{c1::enclòs::…encloure…}} els annexos en l'informe.
+♀ Quan va enviar la carta, ♀<br><br> ella ha {{c1::enclosa::…encloure…}} tota la documentació necessària.
+♂♂ Després de la reunió, ♂♂<br><br> ells han {{c1::enclosos::…encloure…}} tots els informes en el dossier.
+♀♀ Després de la sessió, ♀♀<br><br> elles han {{c1::encloses::…encloure…}} les notes en el fitxer.
+⊙ Actualment, ⊙<br><br> jo {{c1::encloc::…encloure…}} tota la informació en els documents.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::enclous::…encloure…}} les dades en el formulari.
+⊙ Ara, ⊙<br><br> ell {{c1::enclou::…encloure…}} els detalls en el correu.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::encloem::…encloure…}} junts tota la informació en el dossier.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::encloeu::…encloure…}} els documents en el correu.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::enclouen::…encloure…}} els annexos en l'informe.
+⇠ Abans, ⇠<br><br> jo {{c1::encloïa::…encloure…}} sempre els documents en els arxius.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::encloïes::…encloure…}} els deures en el quadern.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::encloïa::…encloure…}} tots els informes en el dossier.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::encloíem::…encloure…}} totes les tasques en el llibre.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::encloíeu::…encloure…}} les notes en els quaderns.
+⇠ Molt abans, ⇠<br><br> ells {{c1::encloïen::…encloure…}} les proves en el dossier.
+↧ Ahir, ↧<br><br> jo {{c1::encloguí::…encloure…}} tota la informació en el correu.
+↧ La setmana passada, ↧<br><br> tu {{c1::enclogueres::…encloure…}} els annexos en l'informe.
+↧ El mes passat, ↧<br><br> ell {{c1::enclogué::…encloure…}} tota la documentació en el dossier.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::encloguérem::…encloure…}} junts tots els informes en el fitxer.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::encloguéreu::…encloure…}} els documents en l'arxiu.
+↧ Fa poc, ↧<br><br> ells {{c1::enclogueren::…encloure…}} els annexos en el dossier.
+→ Demà, →<br><br> jo {{c1::enclouré::…encloure…}} tots els documents en el correu.
+→ La setmana vinent, →<br><br> tu {{c1::enclouràs::…encloure…}} les dades en el formulari.
+→ En un any, →<br><br> ell {{c1::enclourà::…encloure…}} tota la informació en l'informe.
+→ En cinc anys, →<br><br> nosaltres {{c1::enclourem::…encloure…}} junts els informes en el dossier.
+→ Aviat, →<br><br> vosaltres {{c1::encloureu::…encloure…}} tots els documents en l'arxiu.
+→ En el futur, →<br><br> ells {{c1::enclouran::…encloure…}} tota la documentació en l'informe.
+〰 Espero que 〰<br><br> jo {{c1::enclogui::…encloure…}} tota la informació en els documents.
+〰 Pot ser que 〰<br><br> tu {{c1::encloguis::…encloure…}} els annexos en el correu.
+〰 És possible que 〰<br><br> ell {{c1::enclogui::…encloure…}} els detalls en l'informe.
+〰 És necessari que 〰<br><br> nosaltres {{c1::encloguem::…encloure…}} junts tots els documents en el dossier.
+〰 Dubto que 〰<br><br> vosaltres {{c1::enclogueu::…encloure…}} totes les dades en el correu.
+〰 És probable que 〰<br><br> ells {{c1::encloguin::…encloure…}} tota la informació en l'informe.
+↫ Si fos possible, ↫<br><br> jo {{c1::enclogués::…encloure…}} sempre tota la documentació en els arxius.
+↫ Si tu ↫<br><br> {{c1::encloguessis::…encloure…}} més sovint els documents, estaries més organitzat.
+↫ Si ell ↫<br><br> {{c1::enclogués::…encloure…}} més informació, seria més precís.
+↫ Si nosaltres ↫<br><br> {{c1::encloguéssim::…encloure…}} junts tots els informes, serien més complets.
+↫ Si vosaltres ↫<br><br> {{c1::encloguéssiu::…encloure…}} sempre tota la documentació, tindríeu menys problemes.
+↫ Si ells ↫<br><br> {{c1::encloguessin::…encloure…}} tots els annexos, serien més organitzats.
+… Si pogués, …<br><br> jo {{c1::enclouria::…encloure…}} sempre tota la informació en els documents.
+… Si tinguessis temps, …<br><br> tu {{c1::enclouries::…encloure…}} més dades en el formulari.
+… Ell {{c1::enclouria::…encloure…}} sempre més informació, …<br><br>si tingués més temps.
+… Si fos necessari, …<br><br> nosaltres {{c1::enclouríem::…encloure…}} junts tots els informes en el dossier.
+… Vosaltres {{c1::enclouríeu::…encloure…}} més annexos, …<br><br>si us hi poséssiu.
+… Si ho sabessin, …<br><br> ells {{c1::enclourien::…encloure…}} sempre tota la documentació en l'informe.
+! Ara mateix, !<br><br> tu {{c1::enclou::…encloure…}} aquest document en el correu!
+! Si us plau, !<br><br> vostè {{c1::enclogui::…encloure…}} tota la informació en l'informe!
+! Anem, !<br><br> nosaltres {{c1::encloguem::…encloure…}} junts ara!
+! Ara, !<br><br> vosaltres {{c1::encloeu::…encloure…}} tots els documents en el correu!
+! Immediatament, !<br><br> vostès {{c1::encloguin::…encloure…}} tota la documentació en l'informe!

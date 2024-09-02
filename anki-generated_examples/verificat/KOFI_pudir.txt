@@ -1,0 +1,52 @@
+~ Mentre estic netejant, ~<br><br> jo estic {{c1::pudint::…pudir…}} les deixalles.
+♂ Després de l'excursió, ♂<br><br> ell ha {{c1::pudit::…pudir…}} les sabates.
+♀ Quan va fer calor, ♀<br><br> ella ha {{c1::pudida::…pudir…}} la roba.
+♂♂ Després de l'exercici, ♂♂<br><br> ells han {{c1::pudits::…pudir…}} les motxilles.
+♀♀ Després de la pluja, ♀♀<br><br> elles han {{c1::pudides::…pudir…}} les sabates.
+⊙ Actualment, ⊙<br><br> jo {{c1::pudo::…pudir…}} les sabates després de córrer.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::puts::…pudir…}} la roba després de la pluja.
+⊙ Ara, ⊙<br><br> ell {{c1::put::…pudir…}} les deixalles després de la festa.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::pudim::…pudir…}} junts les sabates.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::pudiu::…pudir…}} les sabates després de córrer.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::puden::…pudir…}} les motxilles després de l’excursió.
+⇠ Abans, ⇠<br><br> jo {{c1::pudia::…pudir…}} les deixalles cada setmana.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::pudies::…pudir…}} sempre la roba.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::pudia::…pudir…}} les sabates després de jugar.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::pudíem::…pudir…}} les sabates després de córrer.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::pudíeu::…pudir…}} les deixalles després de cada festa.
+⇠ Molt abans, ⇠<br><br> ells {{c1::pudien::…pudir…}} les motxilles després de les excursions.
+↧ Ahir, ↧<br><br> jo {{c1::pudí::…pudir…}} les sabates després de l'entrenament.
+↧ La setmana passada, ↧<br><br> tu {{c1::pudires::…pudir…}} la roba després de la pluja.
+↧ El mes passat, ↧<br><br> ell {{c1::pudí::…pudir…}} les deixalles després del sopar.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::pudírem::…pudir…}} junts les sabates després de l'excursió.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::pudíreu::…pudir…}} les motxilles després de l'entrenament.
+↧ Fa poc, ↧<br><br> ells {{c1::pudiren::…pudir…}} les deixalles després del dinar.
+→ Demà, →<br><br> jo {{c1::pudiré::…pudir…}} les sabates després de córrer.
+→ La setmana vinent, →<br><br> tu {{c1::pudiràs::…pudir…}} la roba després de la pluja.
+→ En un any, →<br><br> ell {{c1::pudirà::…pudir…}} les deixalles després de la festa.
+→ En cinc anys, →<br><br> nosaltres {{c1::pudirem::…pudir…}} junts les motxilles després de l'excursió.
+→ Aviat, →<br><br> vosaltres {{c1::pudireu::…pudir…}} les sabates després de l'exercici.
+→ En el futur, →<br><br> ells {{c1::pudiran::…pudir…}} les deixalles després del sopar.
+〰 Espero que 〰<br><br> jo {{c1::pudi::…pudir…}} menys la roba.
+〰 Pot ser que 〰<br><br> tu {{c1::pudis::…pudir…}} menys les sabates.
+〰 És possible que 〰<br><br> ell {{c1::pudi::…pudir…}} menys les deixalles.
+〰 És necessari que 〰<br><br> nosaltres {{c1::pudim::…pudir…}} junts per acabar aviat.
+〰 Dubto que 〰<br><br> vosaltres {{c1::pudiu::…pudir…}} tant com cal.
+〰 És probable que 〰<br><br> ells {{c1::pudin::…pudir…}} menys les motxilles.
+↫ Si fos possible, ↫<br><br> jo {{c1::pudís::…pudir…}} menys les deixalles.
+↫ Si tu ↫<br><br> {{c1::pudissis::…pudir…}} més sovint, estaria més net.
+↫ Si ell ↫<br><br> {{c1::pudís::…pudir…}} més sovint, tindria menys problemes.
+↫ Si nosaltres ↫<br><br> {{c1::pudíssim::…pudir…}} junts, acabariem abans.
+↫ Si vosaltres ↫<br><br> {{c1::pudíssiu::…pudir…}} més sovint, seria més fàcil.
+↫ Si ells ↫<br><br> {{c1::pudissin::…pudir…}} menys, estarien més còmodes.
+… Si pogués, …<br><br> jo {{c1::pudiria::…pudir…}} menys la roba.
+… Si tinguessis temps, …<br><br> tu {{c1::pudiries::…pudir…}} menys sovint.
+… Ell {{c1::pudiria::…pudir…}} menys sovint, …<br><br>si tingués més ajuda.
+… Si fos necessari, …<br><br> nosaltres {{c1::pudiríem::…pudir…}} junts per acabar aviat.
+… Vosaltres {{c1::pudiríeu::…pudir…}} menys, …<br><br>si us ajudéssiu.
+… Si ho sabessin, …<br><br> ells {{c1::pudirien::…pudir…}} menys les motxilles.
+! Ara mateix, !<br><br> tu {{c1::put::…pudir…}} aquestes deixalles!
+! Si us plau, !<br><br> vostè {{c1::pudi::…pudir…}} les sabates!
+! Anem, !<br><br> nosaltres {{c1::pudim::…pudir…}} junts ara!
+! Ara, !<br><br> vosaltres {{c1::pudiu::…pudir…}} menys sovint!
+! Immediatament, !<br><br> vostès {{c1::pudin::…pudir…}} menys les deixalles!

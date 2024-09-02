@@ -1,0 +1,5 @@
+~ Mentre estic pensant, ~<br><br> jo estic {{c1::ponent::…pondre…}} les bases per al projecte.
+♂ Després de molt treball, ♂<br><br> ell ha {{c1::post::…pondre…}} en marxa el seu pla.
+♀ Quan va arribar l'oportunitat, ♀<br><br> ella ha {{c1::posta::…pondre…}} tot en ordre.
+♂♂ Després de la discussió, ♂♂<br><br> ells han {{c1::postos::…pondre…}} en clar els seus objectius.
+♀♀ Després de la reunió, ♀♀<br><br> elles han {{c1::postes::…pondre…}} sobre la taula totes les opcions.

@@ -1,0 +1,53 @@
+~ Mentre estic treballant, ~<br><br> jo estic {{c1::torcent::…tòrcer…}} els fils.
+♂ Després d'un dia llarg, ♂<br><br> ell ha {{c1::torçut::…tòrcer…}} els cabells.
+♀ Quan va arribar la pluja, ♀<br><br> ella ha {{c1::torçuda::…tòrcer…}} el vestit.
+♂♂ Després de la feina, ♂♂<br><br> ells han {{c1::torçuts::…tòrcer…}} els draps.
+♀♀ Després del passeig, ♀♀<br><br> elles han {{c1::torçudes::…tòrcer…}} els cabells.
+⊙ Actualment, ⊙<br><br> jo {{c1::torço::…tòrcer…}} la roba cada dia.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::torçes::…tòrcer…}} els draps després de rentar-los.
+⊙ Ara, ⊙<br><br> ell {{c1::torç::…tòrcer…}} els fils al taller.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::torcem::…tòrcer…}} junts per fer les cordes.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::torceu::…tòrcer…}} la roba després de rentar-la.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::torcen::…tòrcer…}} els cabells després del bany.
+⇠ Abans, ⇠<br><br> jo {{c1::torcia::…tòrcer…}} els draps per eixugar-los.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::torcies::…tòrcer…}} sempre la roba.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::torcia::…tòrcer…}} els fils per fer cordes.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::torcíem::…tòrcer…}} els fils junts.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::torcíeu::…tòrcer…}} sempre la roba.
+⇠ Molt abans, ⇠<br><br> ells {{c1::torcien::…tòrcer…}} els draps després de rentar-los.
+↧ Ahir, ↧<br><br> jo {{c1::torcí::…tòrcer…}} la roba a mà.
+↧ La setmana passada, ↧<br><br> tu {{c1::torceres::…tòrcer…}} els draps per eixugar-los.
+↧ El mes passat, ↧<br><br> ell {{c1::torcé::…tòrcer…}} els fils al taller.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::torcérem::…tòrcer…}} les cordes junts.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::torcéreu::…tòrcer…}} la roba després de rentar-la.
+↧ Fa poc, ↧<br><br> ells {{c1::torceren::…tòrcer…}} els draps després de la feina.
+→ Demà, →<br><br> jo {{c1::torceré::…tòrcer…}} la roba al taller.
+→ La setmana vinent, →<br><br> tu {{c1::torceràs::…tòrcer…}} els draps a mà.
+→ En un any, →<br><br> ell {{c1::torcerà::…tòrcer…}} els fils per a un nou projecte.
+→ En cinc anys, →<br><br> nosaltres {{c1::torcerem::…tòrcer…}} les cordes per a la navegació.
+→ Aviat, →<br><br> vosaltres {{c1::torcereu::…tòrcer…}} els draps després de rentar-los.
+→ En el futur, →<br><br> ells {{c1::torceran::…tòrcer…}} els cabells cada dia.
+〰 Espero que 〰<br><br> jo {{c1::torci::…tòrcer…}} la roba correctament.
+〰 Pot ser que 〰<br><br> tu {{c1::torcis::…tòrcer…}} els draps amb força.
+〰 És possible que 〰<br><br> ell {{c1::torci::…tòrcer…}} els fils per a la corda.
+〰 És necessari que 〰<br><br> nosaltres {{c1::torcem::…tòrcer…}} junts per fer-ho bé.
+〰 Dubto que 〰<br><br> vosaltres {{c1::torceu::…tòrcer…}} amb la mateixa força.
+〰 És probable que 〰<br><br> ells {{c1::torcin::…tòrcer…}} els cabells sovint.
+↫ Si fos possible, ↫<br><br> jo {{c1::torcés::…tòrcer…}} amb més força.
+↫ Si tu ↫<br><br> {{c1::torcessis::…tòrcer…}} més, t’aniria millor.
+↫ Si ell ↫<br><br> {{c1::torcés::…tòrcer…}} més sovint, li sortiria perfecte.
+↫ Si nosaltres ↫<br><br> {{c1::torcéssim::…tòrcer…}} junts, ens ajudaria molt.
+↫ Si vosaltres ↫<br><br> {{c1::torcéssiu::…tòrcer…}} més, en trauríeu profit.
+↫ Si ells ↫<br><br> {{c1::torcessin::…tòrcer…}} més sovint, ho farien millor.
+… Si pogués, …<br><br> jo {{c1::torceria::…tòrcer…}} la roba cada dia.
+… Si tinguessis temps, …<br><br> tu {{c1::torceries::…tòrcer…}} més draps a mà.
+… Ell {{c1::torceria::…tòrcer…}} cada dia, …<br><br>si tingués més força.
+… Si fos necessari, …<br><br> nosaltres {{c1::torceríem::…tòrcer…}} les cordes junts.
+… Vosaltres {{c1::torceríeu::…tòrcer…}} més sovint, …<br><br>si us hi poséssiu.
+… Si ho sabessin, …<br><br> ells {{c1::torcerien::…tòrcer…}} cada dia amb més energia.
+! Ara mateix, !<br><br> tu {{c1::torç::…tòrcer…}} la roba!
+! Si us plau, !<br><br> vostè {{c1::torci::…tòrcer…}} amb força!
+! Anem, !<br><br> nosaltres {{c1::torcem::…tòrcer…}} junts per fer-ho bé!
+! Ara, !<br><br> vosaltres {{c1::torceu::…tòrcer…}} amb cura!
+! Immediatament, !<br><br> vostès {{c1::torcin::…tòrcer…}} els draps ara!
+

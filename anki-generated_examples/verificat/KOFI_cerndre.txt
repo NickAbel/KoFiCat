@@ -1,0 +1,53 @@
+~ Mentre estic preparant el menjar, ~<br><br> jo estic {{c1::cernent::…cerndre…}} la farina per al pa.
+♂ Després de collir el blat, ♂<br><br> ell ha {{c1::cernut::…cerndre…}} la farina per al pa.
+♀ Quan va fer la massa, ♀<br><br> ella ha {{c1::cernuda::…cerndre…}} la farina amb cura.
+♂♂ Després de la collita, ♂♂<br><br> ells han {{c1::cernuts::…cerndre…}} la farina per a la cocció.
+♀♀ Després del batut, ♀♀<br><br> elles han {{c1::cernudes::…cerndre…}} el sucre en pols.
+⊙ Actualment, ⊙<br><br> jo {{c1::cerno::…cerndre…}} la farina cada vegada que faig pa.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::cerns::…cerndre…}} la farina per a la cocció.
+⊙ Ara, ⊙<br><br> ell {{c1::cern::…cerndre…}} la farina per preparar la massa.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::cernem::…cerndre…}} junts la farina per a la festa.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::cerneu::…cerndre…}} la farina abans de coure-la.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::cernen::…cerndre…}} el sucre en pols per a la recepta.
+⇠ Abans, ⇠<br><br> jo {{c1::cernia::…cerndre…}} la farina cada setmana.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::cernies::…cerndre…}} sempre la farina per a la massa.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::cernia::…cerndre…}} la farina per a totes les receptes.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::cerníem::…cerndre…}} la farina junts a la cuina.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::cerníeu::…cerndre…}} la farina per a la festa.
+⇠ Molt abans, ⇠<br><br> ells {{c1::cernien::…cerndre…}} el sucre per a la rebosteria.
+↧ Ahir, ↧<br><br> jo {{c1::cerní::…cerndre…}} la farina per al sopar.
+↧ La setmana passada, ↧<br><br> tu {{c1::cerneres::…cerndre…}} la farina per a la celebració.
+↧ El mes passat, ↧<br><br> ell {{c1::cerné::…cerndre…}} la farina per a la massa de pa.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::cernérem::…cerndre…}} junts la farina per a la festa.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::cernéreu::…cerndre…}} el sucre per a les postres.
+↧ Fa poc, ↧<br><br> ells {{c1::cerneren::…cerndre…}} la farina per a la cocció.
+→ Demà, →<br><br> jo {{c1::cerndré::…cerndre…}} la farina al matí.
+→ La setmana vinent, →<br><br> tu {{c1::cerndaràs::…cerndre…}} la farina per a la festa.
+→ En un any, →<br><br> ell {{c1::cerndrà::…cerndre…}} la farina per a les postres.
+→ En cinc anys, →<br><br> nosaltres {{c1::cerndrem::…cerndre…}} junts la farina per a la cocció.
+→ Aviat, →<br><br> vosaltres {{c1::cerndreu::…cerndre…}} la farina per a la massa.
+→ En el futur, →<br><br> ells {{c1::cerndran::…cerndre…}} el sucre per a la cuina.
+〰 Espero que 〰<br><br> jo {{c1::cerni::…cerndre…}} sempre la farina per a les meves receptes.
+〰 Pot ser que 〰<br><br> tu {{c1::cernis::…cerndre…}} més sovint la farina per a la cocció.
+〰 És possible que 〰<br><br> ell {{c1::cerni::…cerndre…}} més sucre per a les postres.
+〰 És necessari que 〰<br><br> nosaltres {{c1::cernem::…cerndre…}} junts cada vegada que cuinem.
+〰 Dubto que 〰<br><br> vosaltres {{c1::cerneu::…cerndre…}} prou la farina per a la cocció.
+〰 És probable que 〰<br><br> ells {{c1::cernin::…cerndre…}} més sovint per a les seves receptes.
+↫ Si fos possible, ↫<br><br> jo {{c1::cernés::…cerndre…}} sempre la farina per a la cocció.
+↫ Si tu ↫<br><br> {{c1::cernessis::…cerndre…}} més sovint, tindries una massa millor.
+↫ Si ell ↫<br><br> {{c1::cernés::…cerndre…}} més sovint, tindria més sucre en pols.
+↫ Si nosaltres ↫<br><br> {{c1::cernéssim::…cerndre…}} junts, sempre estaríem preparats.
+↫ Si vosaltres ↫<br><br> {{c1::cernéssiu::…cerndre…}} més sovint, el menjar seria més bo.
+↫ Si ells ↫<br><br> {{c1::cernessin::…cerndre…}} sempre, tindrien millors resultats.
+… Si pogués, …<br><br> jo {{c1::cerndria::…cerndre…}} sempre la farina cada dia.
+… Si tinguessis temps, …<br><br> tu {{c1::cerndries::…cerndre…}} més sovint per a la cocció.
+… Ell {{c1::cerndria::…cerndre…}} més sovint, …<br><br>si tingués més ingredients.
+… Si fos necessari, …<br><br> nosaltres {{c1::cerndríem::…cerndre…}} junts sempre per a la festa.
+… Vosaltres {{c1::cerndríeu::…cerndre…}} més sovint, …<br><br>si us hi poséssiu.
+… Si ho sabessin, …<br><br> ells {{c1::cerndrien::…cerndre…}} sempre el sucre per a la cuina.
+! Ara mateix, !<br><br> tu {{c1::cern::…cerndre…}} la farina per al sopar!
+! Si us plau, !<br><br> vostè {{c1::cerni::…cerndre…}} el sucre per a les postres!
+! Anem, !<br><br> nosaltres {{c1::cernem::…cerndre…}} junts ara!
+! Ara, !<br><br> vosaltres {{c1::cerneu::…cerndre…}} la farina per a la cocció!
+! Immediatament, !<br><br> vostès {{c1::cernin::…cerndre…}} el sucre per a les postres!
+

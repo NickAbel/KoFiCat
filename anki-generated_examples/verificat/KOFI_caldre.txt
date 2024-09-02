@@ -1,0 +1,19 @@
+~ Mentre estic pensant, ~<br><br> jo {{c1::calent::…caldre…}} sobre la necessitat de la situació.
+♂ Després de la reunió, ♂<br><br> ell ha {{c1::calgut::…caldre…}} per solucionar el problema.
+⊙ Ara, ⊙<br><br> ell {{c1::cal::…caldre…}} per prendre decisions.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::calen::…caldre…}} per coordinar l'equip.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::cal::…caldre…}} per gestionar la situació.
+⇠ Molt abans, ⇠<br><br> ells {{c1::calien::…caldre…}} per liderar grups.
+↧ El mes passat, ↧<br><br> ell {{c1::calgué::…caldre…}} per prendre decisions ràpides.
+↧ Fa poc, ↧<br><br> ells {{c1::calgueren::…caldre…}} per mantenir l'equilibri.
+→ En un any, →<br><br> ell {{c1::caldrà::…caldre…}} per liderar el projecte.
+→ En el futur, →<br><br> ells {{c1::caldran::…caldre…}} per superar nous reptes.
+〰 És possible que 〰<br><br> ell {{c1::calgui::…caldre…}} per prendre decisions crítiques.
+〰 És probable que 〰<br><br> ells {{c1::calguin::…caldre…}} en moltes situacions.
+↫ Si ell ↫<br><br> {{c1::calgués::…caldre…}} més sovint, seria més competent.
+↫ Si ells ↫<br><br> {{c1::calguessin::…caldre…}} regularment, serien més forts.
+… Ell {{c1::caldria::…caldre…}} més sovint, …<br><br>si tingués més responsabilitats.
+… Si ho sabessin, …<br><br> ells {{c1::caldrien::…caldre…}} en moltes més situacions.
+! Si us plau, !<br><br> vostè {{c1::calgui::…caldre…}} per mantenir l'ordre!
+! Immediatament, !<br><br> vostès {{c1::calguin::…caldre…}} per fer front a aquest repte!
+

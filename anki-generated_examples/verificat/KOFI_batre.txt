@@ -1,0 +1,52 @@
+~ Mentre estic pensant, ~<br><br> jo estic {{c1::batet::…batre…}} els ous per a una truita.
+♂ Després de l'exercici, ♂<br><br> ell ha {{c1::batut::…batre…}} el rècord de velocitat.
+♀ Quan va fer el pastís, ♀<br><br> ella ha {{c1::batuda::…batre…}} les clares d'ou a punt de neu.
+♂♂ Després de l'entrenament, ♂♂<br><br> ells han {{c1::batuts::…batre…}} el seu millor temps.
+♀♀ Després de la competició, ♀♀<br><br> elles han {{c1::batudes::…batre…}} la marca anterior.
+⊙ Actualment, ⊙<br><br> jo {{c1::bato::…batre…}} cada matí al gimnàs.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::bats::…batre…}} els teus rècords.
+⊙ Ara, ⊙<br><br> ell {{c1::bat::…batre…}} les teves pròpies marques.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::batem::…batre…}} els rècords del grup.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::bateu::…batre…}} el vostre rècord personal.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::baten::…batre…}} el millor temps del grup.
+⇠ Abans, ⇠<br><br> jo {{c1::batia::…batre…}} els ous cada diumenge.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::baties::…batre…}} les clares per a les postres.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::batia::…batre…}} el seu millor temps.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::batíem::…batre…}} rècords en les curses.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::batíeu::…batre…}} els rècords de natació.
+⇠ Molt abans, ⇠<br><br> ells {{c1::batien::…batre…}} el millor temps del curs.
+↧ Ahir, ↧<br><br> jo {{c1::batí::…batre…}} un ou per al meu dinar.
+↧ La setmana passada, ↧<br><br> tu {{c1::bateres::…batre…}} el teu millor temps.
+↧ El mes passat, ↧<br><br> ell {{c1::baté::…batre…}} les clares d'ou per al pastís.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::batérem::…batre…}} rècords a la cursa escolar.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::batéreu::…batre…}} rècords en totes les competicions.
+↧ Fa poc, ↧<br><br> ells {{c1::bateren::…batre…}} les seves pròpies marques.
+→ Demà, →<br><br> jo {{c1::batré::…batre…}} un rècord personal.
+→ La setmana vinent, →<br><br> tu {{c1::batràs::…batre…}} el teu temps anterior.
+→ En un any, →<br><br> ell {{c1::batrà::…batre…}} el rècord mundial.
+→ En cinc anys, →<br><br> nosaltres {{c1::batrem::…batre…}} totes les marques.
+→ Aviat, →<br><br> vosaltres {{c1::batreu::…batre…}} els rècords del vostre equip.
+→ En el futur, →<br><br> ells {{c1::batran::…batre…}} els millors temps del món.
+〰 Espero que 〰<br><br> jo {{c1::bati::…batre…}} el meu propi rècord.
+〰 Pot ser que 〰<br><br> tu {{c1::batis::…batre…}} els teus objectius.
+〰 És possible que 〰<br><br> ell {{c1::bati::…batre…}} les seves pròpies marques.
+〰 És necessari que 〰<br><br> nosaltres {{c1::batem::…batre…}} junts per assolir la victòria.
+〰 Dubto que 〰<br><br> vosaltres {{c1::bateu::…batre…}} tots els rècords.
+〰 És probable que 〰<br><br> ells {{c1::batin::…batre…}} les marques anteriors.
+↫ Si fos possible, ↫<br><br> jo {{c1::batés::…batre…}} tots els dies.
+↫ Si tu ↫<br><br> {{c1::batessis::…batre…}} més sovint, milloraries molt.
+↫ Si ell ↫<br><br> {{c1::batés::…batre…}} amb més freqüència, seria imbatible.
+↫ Si nosaltres ↫<br><br> {{c1::batéssim::…batre…}} junts, seríem invencibles.
+↫ Si vosaltres ↫<br><br> {{c1::batéssiu::…batre…}} més sovint, superaríeu tots els límits.
+↫ Si ells ↫<br><br> {{c1::batessin::…batre…}} regularment, serien campions.
+… Si pogués, …<br><br> jo {{c1::batria::…batre…}} tots els rècords cada dia.
+… Si tinguessis temps, …<br><br> tu {{c1::batries::…batre…}} totes les teves marques.
+… Ell {{c1::batria::…batre…}} més sovint, …<br><br>si tingués més oportunitats.
+… Si fos necessari, …<br><br> nosaltres {{c1::batríem::…batre…}} junts per guanyar.
+… Vosaltres {{c1::batríeu::…batre…}} tots els rècords, …<br><br>si us hi poséssiu.
+… Si ho sabessin, …<br><br> ells {{c1::batrien::…batre…}} totes les marques.
+! Ara mateix, !<br><br> tu {{c1::bat::…batre…}} aquest rècord!
+! Si us plau, !<br><br> vostè {{c1::bati::…batre…}} amb tota la seva força!
+! Anem, !<br><br> nosaltres {{c1::batem::…batre…}} aquest rècord junts!
+! Ara, !<br><br> vosaltres {{c1::bateu::…batre…}} les vostres pròpies marques!
+! Immediatament, !<br><br> vostès {{c1::batin::…batre…}} totes les expectatives!

@@ -1,0 +1,53 @@
+~ Mentre estic treballant, ~<br><br> jo estic {{c1::enaiguant::…enaiguar…}} les plantes del jardí.
+♂ Després de la pluja, ♂<br><br> ell ha {{c1::enaiguat::…enaiguar…}} el camp.
+♀ Quan va regar el jardí, ♀<br><br> ella ha {{c1::enaiguada::…enaiguar…}} les flors.
+♂♂ Després del temporal, ♂♂<br><br> ells han {{c1::enaiguats::…enaiguar…}} els camps.
+♀♀ Després de la sequera, ♀♀<br><br> elles han {{c1::enaiguades::…enaiguar…}} el jardí.
+⊙ Actualment, ⊙<br><br> jo {{c1::enaiguo::…enaiguar…}} les plantes cada dia.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::enaigües::…enaiguar…}} les flors del balcó.
+⊙ Ara, ⊙<br><br> ell {{c1::enaigua::…enaiguar…}} el jardí.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::enaigüem::…enaiguar…}} junts el camp.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::enaigüeu::…enaiguar…}} les plantes cada matí.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::enaigüen::…enaiguar…}} el jardí després del temporal.
+⇠ Abans, ⇠<br><br> jo {{c1::enaiguava::…enaiguar…}} les plantes cada setmana.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::enaiguaves::…enaiguar…}} les flors del jardí.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::enaiguava::…enaiguar…}} el camp després de la pluja.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::enaiguàvem::…enaiguar…}} junts el jardí de l'escola.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::enaiguàveu::…enaiguar…}} les plantes cada estiu.
+⇠ Molt abans, ⇠<br><br> ells {{c1::enaiguaven::…enaiguar…}} el camp després de la pluja.
+↧ Ahir, ↧<br><br> jo {{c1::enaigüí::…enaiguar…}} les plantes del balcó.
+↧ La setmana passada, ↧<br><br> tu {{c1::enaiguares::…enaiguar…}} les flors del jardí.
+↧ El mes passat, ↧<br><br> ell {{c1::enaiguà::…enaiguar…}} el camp després de la sequera.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::enaiguàrem::…enaiguar…}} junts el jardí després de la pluja.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::enaiguàreu::…enaiguar…}} les plantes del jardí.
+↧ Fa poc, ↧<br><br> ells {{c1::enaiguaren::…enaiguar…}} el camp després del temporal.
+→ Demà, →<br><br> jo {{c1::enaiguaré::…enaiguar…}} les plantes al matí.
+→ La setmana vinent, →<br><br> tu {{c1::enaiguaràs::…enaiguar…}} el jardí després de la pluja.
+→ En un any, →<br><br> ell {{c1::enaiguarà::…enaiguar…}} el camp després de la sequera.
+→ En cinc anys, →<br><br> nosaltres {{c1::enaiguarem::…enaiguar…}} junts el jardí de l'escola.
+→ Aviat, →<br><br> vosaltres {{c1::enaiguareu::…enaiguar…}} les flors del jardí.
+→ En el futur, →<br><br> ells {{c1::enaiguaran::…enaiguar…}} el camp després de la pluja.
+〰 Espero que 〰<br><br> jo {{c1::enaigüi::…enaiguar…}} sempre les plantes cada matí.
+〰 Pot ser que 〰<br><br> tu {{c1::enaigüis::…enaiguar…}} més sovint el jardí.
+〰 És possible que 〰<br><br> ell {{c1::enaigüi::…enaiguar…}} més després del temporal.
+〰 És necessari que 〰<br><br> nosaltres {{c1::enaigüem::…enaiguar…}} junts després de la pluja.
+〰 Dubto que 〰<br><br> vosaltres {{c1::enaigüeu::…enaiguar…}} prou sovint les plantes.
+〰 És probable que 〰<br><br> ells {{c1::enaigüin::…enaiguar…}} més després de la sequera.
+↫ Si fos possible, ↫<br><br> jo {{c1::enaigüés::…enaiguar…}} sempre les plantes cada matí.
+↫ Si tu ↫<br><br> {{c1::enaigüessis::…enaiguar…}} més sovint, tindries un jardí millor.
+↫ Si ell ↫<br><br> {{c1::enaigüés::…enaiguar…}} més després de la pluja, el camp seria més fèrtil.
+↫ Si nosaltres ↫<br><br> {{c1::enaigüéssim::…enaiguar…}} junts cada dia, el jardí estaria sempre verd.
+↫ Si vosaltres ↫<br><br> {{c1::enaigüéssiu::…enaiguar…}} més sovint, el jardí estaria sempre en flor.
+↫ Si ells ↫<br><br> {{c1::enaigüessin::…enaiguar…}} més després de la sequera, el camp seria més fèrtil.
+… Si pogués, …<br><br> jo {{c1::enaiguaria::…enaiguar…}} sempre les plantes cada dia.
+… Si tinguessis temps, …<br><br> tu {{c1::enaiguaries::…enaiguar…}} el jardí més sovint.
+… Ell {{c1::enaiguaria::…enaiguar…}} sempre, …<br><br>si tingués més ajuda.
+… Si fos necessari, …<br><br> nosaltres {{c1::enaiguaríem::…enaiguar…}} junts el camp després de la sequera.
+… Vosaltres {{c1::enaiguaríeu::…enaiguar…}} més sovint, …<br><br>si us comprometéssiu.
+… Si ho sabessin, …<br><br> ells {{c1::enaiguarien::…enaiguar…}} sempre el jardí després de la pluja.
+! Ara mateix, !<br><br> tu {{c1::enaigua::…enaiguar…}} aquestes plantes!
+! Si us plau, !<br><br> vostè {{c1::enaigüi::…enaiguar…}} el jardí!
+! Anem, !<br><br> nosaltres {{c1::enaigüem::…enaiguar…}} junts ara!
+! Ara, !<br><br> vosaltres {{c1::enaigüeu::…enaiguar…}} les plantes!
+! Immediatament, !<br><br> vostès {{c1::enaigüin::…enaiguar…}} el camp!
+

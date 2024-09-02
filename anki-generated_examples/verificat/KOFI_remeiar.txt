@@ -1,0 +1,52 @@
+~ Mentre estic ajudant, ~<br><br> jo estic {{c1::remeiant::…remeiar…}} una situació complicada.
+♂ Després de l'incident, ♂<br><br> ell ha {{c1::remeiat::…remeiar…}} el problema.
+♀ Quan va arribar el conflicte, ♀<br><br> ella ha {{c1::remeiada::…remeiar…}} la situació.
+♂♂ Després del debat, ♂♂<br><br> ells han {{c1::remeiats::…remeiar…}} les diferències.
+♀♀ Després de la crisi, ♀♀<br><br> elles han {{c1::remeiades::…remeiar…}} els conflictes.
+⊙ Actualment, ⊙<br><br> jo {{c1::remeio::…remeiar…}} les dificultats al treball.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::remeies::…remeiar…}} els problemes a casa.
+⊙ Ara, ⊙<br><br> ell {{c1::remeia::…remeiar…}} les tensions al grup.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::remeiem::…remeiar…}} les diferències junts.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::remeieu::…remeiar…}} les dificultats al treball.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::remeien::…remeiar…}} les crisis a casa.
+⇠ Abans, ⇠<br><br> jo {{c1::remeiava::…remeiar…}} sempre les situacions difícils.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::remeiaves::…remeiar…}} els conflictes a l'escola.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::remeiava::…remeiar…}} els problemes a la feina.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::remeiàvem::…remeiar…}} les disputes junts.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::remeiàveu::…remeiar…}} les tensions al grup.
+⇠ Molt abans, ⇠<br><br> ells {{c1::remeiaven::…remeiar…}} les diferències al treball.
+↧ Ahir, ↧<br><br> jo {{c1::remeií::…remeiar…}} una situació complexa.
+↧ La setmana passada, ↧<br><br> tu {{c1::remeiares::…remeiar…}} un conflicte familiar.
+↧ El mes passat, ↧<br><br> ell {{c1::remeià::…remeiar…}} una crisi laboral.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::remeiàrem::…remeiar…}} les tensions entre amics.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::remeiàreu::…remeiar…}} les disputes al grup.
+↧ Fa poc, ↧<br><br> ells {{c1::remeiaren::…remeiar…}} els problemes a casa.
+→ Demà, →<br><br> jo {{c1::remeiaré::…remeiar…}} les situacions difícils.
+→ La setmana vinent, →<br><br> tu {{c1::remeiaràs::…remeiar…}} els problemes a la feina.
+→ En un any, →<br><br> ell {{c1::remeiarà::…remeiar…}} les tensions al grup.
+→ En cinc anys, →<br><br> nosaltres {{c1::remeiarem::…remeiar…}} les diferències junts.
+→ Aviat, →<br><br> vosaltres {{c1::remeiareu::…remeiar…}} les dificultats al treball.
+→ En el futur, →<br><br> ells {{c1::remeiaran::…remeiar…}} les crisis a casa.
+〰 Espero que 〰<br><br> jo {{c1::remeiï::…remeiar…}} totes les dificultats.
+〰 Pot ser que 〰<br><br> tu {{c1::remeiïs::…remeiar…}} els problemes familiars.
+〰 És possible que 〰<br><br> ell {{c1::remeiï::…remeiar…}} les tensions al grup.
+〰 És necessari que 〰<br><br> nosaltres {{c1::remeiem::…remeiar…}} les disputes junts.
+〰 Dubto que 〰<br><br> vosaltres {{c1::remeieu::…remeiar…}} tots els conflictes.
+〰 És probable que 〰<br><br> ells {{c1::remeiïn::…remeiar…}} les diferències al treball.
+↫ Si fos possible, ↫<br><br> jo {{c1::remeiés::…remeiar…}} tots els problemes.
+↫ Si tu ↫<br><br> {{c1::remeiessis::…remeiar…}} més, solucionaries més situacions.
+↫ Si ell ↫<br><br> {{c1::remeiés::…remeiar…}} més sovint, seria més resolutiu.
+↫ Si nosaltres ↫<br><br> {{c1::remeiéssim::…remeiar…}} junts, resoldríem més problemes.
+↫ Si vosaltres ↫<br><br> {{c1::remeiéssiu::…remeiar…}} més sovint, ajudaríeu més.
+↫ Si ells ↫<br><br> {{c1::remeiessin::…remeiar…}} cada dia, serien més eficaços.
+… Si pogués, …<br><br> jo {{c1::remeiaria::…remeiar…}} totes les dificultats.
+… Si tinguessis temps, …<br><br> tu {{c1::remeiaries::…remeiar…}} els problemes més sovint.
+… Ell {{c1::remeiaria::…remeiar…}} cada dia, …<br><br>si tingués més oportunitats.
+… Si fos necessari, …<br><br> nosaltres {{c1::remeiaríem::…remeiar…}} junts cada dia.
+… Vosaltres {{c1::remeiaríeu::…remeiar…}} més sovint, …<br><br>si us comprometéssiu més.
+… Si ho sabessin, …<br><br> ells {{c1::remeiarien::…remeiar…}} totes les dificultats.
+! Ara mateix, !<br><br> tu {{c1::remeia::…remeiar…}} aquesta situació!
+! Si us plau, !<br><br> vostè {{c1::remeiï::…remeiar…}} el problema!
+! Anem, !<br><br> nosaltres {{c1::remeiem::…remeiar…}} junts ara!
+! Ara, !<br><br> vosaltres {{c1::remeieu::…remeiar…}} aquesta dificultat!
+! Immediatament, !<br><br> vostès {{c1::remeiïn::…remeiar…}} les tensions!

@@ -1,0 +1,52 @@
+~ Mentre estic pensant, ~<br><br> jo estic {{c1::molent::…moldre…}} cafè per al matí.
+♂ Després de collir-lo, ♂<br><br> ell ha {{c1::molt::…moldre…}} el gra de blat.
+♀ Quan va preparar l'esmorzar, ♀<br><br> ella ha {{c1::molta::…moldre…}} el cafè fresc.
+♂♂ Després de la collita, ♂♂<br><br> ells han {{c1::molts::…moldre…}} els grans.
+♀♀ Després de la recol·lecció, ♀♀<br><br> elles han {{c1::moltes::…moldre…}} el blat.
+⊙ Actualment, ⊙<br><br> jo {{c1::molc::…moldre…}} el cafè cada matí.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::mols::…moldre…}} els grans de cafè.
+⊙ Ara, ⊙<br><br> ell {{c1::mol::…moldre…}} el blat per fer farina.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::molem::…moldre…}} el gra per preparar-lo.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::moleu::…moldre…}} el cafè fresc.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::molen::…moldre…}} el blat per al pa.
+⇠ Abans, ⇠<br><br> jo {{c1::molia::…moldre…}} els grans de cafè a mà.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::molies::…moldre…}} el gra amb un molí manual.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::molia::…moldre…}} el blat al molí del poble.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::molíem::…moldre…}} el cafè al laboratori.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::molíeu::…moldre…}} el gra per fer pa.
+⇠ Molt abans, ⇠<br><br> ells {{c1::molien::…moldre…}} el gra per a la farina.
+↧ Ahir, ↧<br><br> jo {{c1::molguí::…moldre…}} el cafè per al matí.
+↧ La setmana passada, ↧<br><br> tu {{c1::molgueres::…moldre…}} el gra per a la farina.
+↧ El mes passat, ↧<br><br> ell {{c1::molgué::…moldre…}} el blat per al pa.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::molguérem::…moldre…}} el cafè per a la festa.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::molguéreu::…moldre…}} el gra al molí.
+↧ Fa poc, ↧<br><br> ells {{c1::molgueren::…moldre…}} el blat per a la collita.
+→ Demà, →<br><br> jo {{c1::moldré::…moldre…}} el cafè per a l’esmorzar.
+→ La setmana vinent, →<br><br> tu {{c1::moldràs::…moldre…}} el blat per fer farina.
+→ En un any, →<br><br> ell {{c1::moldrà::…moldre…}} el gra per preparar el pa.
+→ En cinc anys, →<br><br> nosaltres {{c1::moldrem::…moldre…}} el blat per al nostre ús.
+→ Aviat, →<br><br> vosaltres {{c1::moldreu::…moldre…}} el cafè fresc per al mercat.
+→ En el futur, →<br><br> ells {{c1::moldran::…moldre…}} grans per a la farina.
+〰 Espero que 〰<br><br> jo {{c1::molgui::…moldre…}} el cafè cada matí.
+〰 Pot ser que 〰<br><br> tu {{c1::molguis::…moldre…}} el blat per a la farina.
+〰 És possible que 〰<br><br> ell {{c1::molgui::…moldre…}} el gra per a la collita.
+〰 És necessari que 〰<br><br> nosaltres {{c1::molguem::…moldre…}} el cafè fresc.
+〰 Dubto que 〰<br><br> vosaltres {{c1::molgueu::…moldre…}} tant com nosaltres.
+〰 És probable que 〰<br><br> ells {{c1::molguin::…moldre…}} el blat per a l’hivern.
+↫ Si fos possible, ↫<br><br> jo {{c1::molgués::…moldre…}} tot el cafè.
+↫ Si tu ↫<br><br> {{c1::molguessis::…moldre…}} més gra, tindries farina per a tot l’any.
+↫ Si ell ↫<br><br> {{c1::molgués::…moldre…}} més sovint, tindria farina fresca.
+↫ Si nosaltres ↫<br><br> {{c1::molguéssim::…moldre…}} més gra, tindríem pa fresc cada dia.
+↫ Si vosaltres ↫<br><br> {{c1::molguéssiu::…moldre…}} més, en faríeu molt més profit.
+↫ Si ells ↫<br><br> {{c1::molguessin::…moldre…}} més, tindrien més farina.
+… Si pogués, …<br><br> jo {{c1::moldria::…moldre…}} tot el gra per a la farina.
+… Si tinguessis temps, …<br><br> tu {{c1::moldries::…moldre…}} tot el cafè fresc.
+… Ell {{c1::moldria::…moldre…}} més sovint, …<br><br>si tingués més blat.
+… Si fos necessari, …<br><br> nosaltres {{c1::moldríem::…moldre…}} junts per tenir farina fresca.
+… Vosaltres {{c1::moldríeu::…moldre…}} més gra, …<br><br>si us hi poséssiu.
+… Si ho sabessin, …<br><br> ells {{c1::moldrien::…moldre…}} més blat.
+! Ara mateix, !<br><br> tu {{c1::mol::…moldre…}} tot el gra!
+! Si us plau, !<br><br> vostè {{c1::molgui::…moldre…}} tot el cafè!
+! Anem, !<br><br> nosaltres {{c1::molguem::…moldre…}} junts ara!
+! Ara, !<br><br> vosaltres {{c1::moleu::…moldre…}} tot el blat!
+! Immediatament, !<br><br> vostès {{c1::molguin::…moldre…}} tot el que poden!

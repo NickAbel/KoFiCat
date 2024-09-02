@@ -1,0 +1,52 @@
+~ Mentre estic pensant, ~<br><br> jo estic {{c1::destacant::…destacar…}} el que és més important.
+♂ Després de l'examen, ♂<br><br> ell ha {{c1::destacat::…destacar…}} en tots els aspectes.
+♀ Quan va fer la seva presentació, ♀<br><br> ella ha {{c1::destacada::…destacar…}} en la seva argumentació.
+♂♂ Després del projecte, ♂♂<br><br> ells han {{c1::destacats::…destacar…}} per la seva creativitat.
+♀♀ Després de l'exposició, ♀♀<br><br> elles han {{c1::destacades::…destacar…}} pel seu treball.
+⊙ Actualment, ⊙<br><br> jo {{c1::destaco::…destacar…}} en el meu camp de treball.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::destaques::…destacar…}} per la teva dedicació.
+⊙ Ara, ⊙<br><br> ell {{c1::destaca::…destacar…}} en la seva feina.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::destaquem::…destacar…}} en el nostre projecte.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::destaqueu::…destacar…}} pel vostre compromís.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::destaquen::…destacar…}} en el seu rendiment.
+⇠ Abans, ⇠<br><br> jo {{c1::destacava::…destacar…}} en diverses àrees.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::destacaves::…destacar…}} en les teves activitats.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::destacava::…destacar…}} per la seva intel·ligència.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::destacàvem::…destacar…}} en esports i estudis.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::destacàveu::…destacar…}} en el que fèieu.
+⇠ Molt abans, ⇠<br><br> ells {{c1::destacaven::…destacar…}} per la seva energia.
+↧ Ahir, ↧<br><br> jo {{c1::destaquí::…destacar…}} en la reunió.
+↧ La setmana passada, ↧<br><br> tu {{c1::destacares::…destacar…}} en el concurs.
+↧ El mes passat, ↧<br><br> ell {{c1::destacà::…destacar…}} per la seva aportació.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::destacàrem::…destacar…}} en el projecte de grup.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::destacàreu::…destacar…}} per les vostres idees.
+↧ Fa poc, ↧<br><br> ells {{c1::destacaren::…destacar…}} per la seva originalitat.
+→ Demà, →<br><br> jo {{c1::destacaré::…destacar…}} en la presentació.
+→ La setmana vinent, →<br><br> tu {{c1::destacaràs::…destacar…}} en l'examen.
+→ En un any, →<br><br> ell {{c1::destacarà::…destacar…}} en la seva carrera.
+→ En cinc anys, →<br><br> nosaltres {{c1::destacarem::…destacar…}} en el mercat.
+→ Aviat, →<br><br> vosaltres {{c1::destacareu::…destacar…}} pel vostre treball.
+→ En el futur, →<br><br> ells {{c1::destacaran::…destacar…}} per la seva innovació.
+〰 Espero que 〰<br><br> jo {{c1::destaqui::…destacar…}} en cada projecte.
+〰 Pot ser que 〰<br><br> tu {{c1::destaquis::…destacar…}} en la teva feina.
+〰 És possible que 〰<br><br> ell {{c1::destaqui::…destacar…}} en la seva àrea.
+〰 És necessari que 〰<br><br> nosaltres {{c1::destaquem::…destacar…}} per aconseguir l'èxit.
+〰 Dubto que 〰<br><br> vosaltres {{c1::destaqueu::…destacar…}} tant com cal.
+〰 És probable que 〰<br><br> ells {{c1::destaquin::…destacar…}} en les seves tasques.
+↫ Si fos possible, ↫<br><br> jo {{c1::destaqués::…destacar…}} en tot el que faig.
+↫ Si tu ↫<br><br> {{c1::destaquessis::…destacar…}} més, destacaries encara més.
+↫ Si ell ↫<br><br> {{c1::destaqués::…destacar…}} més sovint, seria reconegut.
+↫ Si nosaltres ↫<br><br> {{c1::destaquéssim::…destacar…}} junts, seríem invencibles.
+↫ Si vosaltres ↫<br><br> {{c1::destaquéssiu::…destacar…}} més, us admirarien més.
+↫ Si ells ↫<br><br> {{c1::destaquessin::…destacar…}} regularment, serien inoblidables.
+… Si pogués, …<br><br> jo {{c1::destacaria::…destacar…}} en tot el que faig.
+… Si tinguessis temps, …<br><br> tu {{c1::destacaries::…destacar…}} en cada tasca.
+… Ell {{c1::destacaria::…destacar…}} més sovint, …<br><br>si tingués més oportunitats.
+… Si fos necessari, …<br><br> nosaltres {{c1::destacaríem::…destacar…}} junts per tenir èxit.
+… Vosaltres {{c1::destacaríeu::…destacar…}} més, …<br><br>si us comprometéssiu més.
+… Si ho sabessin, …<br><br> ells {{c1::destacarien::…destacar…}} en tot el que fessin.
+! Ara mateix, !<br><br> tu {{c1::destaca::…destacar…}} per ser el millor!
+! Si us plau, !<br><br> vostè {{c1::destaqui::…destacar…}} en tot el que fa!
+! Anem, !<br><br> nosaltres {{c1::destaquem::…destacar…}} junts ara!
+! Ara, !<br><br> vosaltres {{c1::destaqueu::…destacar…}} amb determinació!
+! Immediatament, !<br><br> vostès {{c1::destaquin::…destacar…}} en tot el que fan!

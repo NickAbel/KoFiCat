@@ -1,0 +1,52 @@
+~ Mentre estic pensant, ~<br><br> jo estic {{c1::raent::…raure…}} en la veritat dels fets.
+♂ Després d'un llarg debat, ♂<br><br> ell ha {{c1::ragut::…raure…}} en la solució.
+♀ Quan va arribar la decisió, ♀<br><br> ella ha {{c1::raguda::…raure…}} en el que és just.
+♂♂ Després de la discussió, ♂♂<br><br> ells han {{c1::raguts::…raure…}} en l'acord.
+♀♀ Després de la reunió, ♀♀<br><br> elles han {{c1::ragudes::…raure…}} en la conclusió.
+⊙ Actualment, ⊙<br><br> jo {{c1::rac::…raure…}} en la justícia de les accions.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::raus::…raure…}} en la veritat dels fets.
+⊙ Ara, ⊙<br><br> ell {{c1::rau::…raure…}} en el que és correcte.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::raem::…raure…}} junts en l’acord.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::raeu::…raure…}} en la justícia de les accions.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::rauen::…raure…}} en la veritat.
+⇠ Abans, ⇠<br><br> jo {{c1::raïa::…raure…}} en la rectitud de les meves accions.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::raïes::…raure…}} sempre en la veritat.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::raïa::…raure…}} en les seves decisions.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::raíem::…raure…}} junts en la justícia.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::raíeu::…raure…}} en el que és correcte.
+⇠ Molt abans, ⇠<br><br> ells {{c1::raïen::…raure…}} sempre en la veritat.
+↧ Ahir, ↧<br><br> jo {{c1::raguí::…raure…}} en el que és just.
+↧ La setmana passada, ↧<br><br> tu {{c1::ragueres::…raure…}} en la veritat dels fets.
+↧ El mes passat, ↧<br><br> ell {{c1::ragué::…raure…}} en la solució justa.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::raguérem::…raure…}} junts en la rectitud.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::raguéreu::…raure…}} en el que és correcte.
+↧ Fa poc, ↧<br><br> ells {{c1::ragueren::…raure…}} en la veritat.
+→ Demà, →<br><br> jo {{c1::rauré::…raure…}} en la justícia.
+→ La setmana vinent, →<br><br> tu {{c1::rauràs::…raure…}} en la veritat.
+→ En un any, →<br><br> ell {{c1::raurà::…raure…}} en el que és correcte.
+→ En cinc anys, →<br><br> nosaltres {{c1::raurem::…raure…}} junts en la justícia.
+→ Aviat, →<br><br> vosaltres {{c1::raureu::…raure…}} en la veritat.
+→ En el futur, →<br><br> ells {{c1::rauran::…raure…}} en la solució justa.
+〰 Espero que 〰<br><br> jo {{c1::ragui::…raure…}} sempre en la justícia.
+〰 Pot ser que 〰<br><br> tu {{c1::raguis::…raure…}} en la veritat.
+〰 És possible que 〰<br><br> ell {{c1::ragui::…raure…}} en el que és correcte.
+〰 És necessari que 〰<br><br> nosaltres {{c1::raguem::…raure…}} junts en la rectitud.
+〰 Dubto que 〰<br><br> vosaltres {{c1::ragueu::…raure…}} en la justícia de les accions.
+〰 És probable que 〰<br><br> ells {{c1::raguin::…raure…}} en la veritat.
+↫ Si fos possible, ↫<br><br> jo {{c1::ragués::…raure…}} sempre en la justícia.
+↫ Si tu ↫<br><br> {{c1::raguessis::…raure…}} més, faries decisions més justes.
+↫ Si ell ↫<br><br> {{c1::ragués::…raure…}} més sovint, seria més correcte.
+↫ Si nosaltres ↫<br><br> {{c1::raguéssim::…raure…}} junts, seríem imparcials.
+↫ Si vosaltres ↫<br><br> {{c1::raguéssiu::…raure…}} més, faríeu decisions més justes.
+↫ Si ells ↫<br><br> {{c1::raguessin::…raure…}} més sovint, serien més justos.
+… Si pogués, …<br><br> jo {{c1::rauria::…raure…}} sempre en la justícia.
+… Si tinguessis temps, …<br><br> tu {{c1::rauries::…raure…}} més en la veritat.
+… Ell {{c1::rauria::…raure…}} sempre, …<br><br>si tingués més temps.
+… Si fos necessari, …<br><br> nosaltres {{c1::rauríem::…raure…}} junts en la justícia.
+… Vosaltres {{c1::rauríeu::…raure…}} més sovint, …<br><br>si us hi comprometéssiu més.
+… Si ho sabessin, …<br><br> ells {{c1::raurien::…raure…}} sempre en la veritat.
+! Ara mateix, !<br><br> tu {{c1::rau::…raure…}} en el que és correcte!
+! Si us plau, !<br><br> vostè {{c1::ragui::…raure…}} sempre en la justícia!
+! Anem, !<br><br> nosaltres {{c1::raguem::…raure…}} junts ara!
+! Ara, !<br><br> vosaltres {{c1::raeu::…raure…}} en la veritat!
+! Immediatament, !<br><br> vostès {{c1::raguin::…raure…}} en la justícia!

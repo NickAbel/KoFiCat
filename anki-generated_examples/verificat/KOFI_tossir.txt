@@ -1,0 +1,53 @@
+~ Mentre estic pensant, ~<br><br> jo estic {{c1::tossint::…tossir…}} lleugerament.
+♂ Després de la caminada, ♂<br><br> ell ha {{c1::tossit::…tossir…}} molt per la pols.
+♀ Quan va entrar a l'habitació, ♀<br><br> ella ha {{c1::tossida::…tossir…}} a causa del fum.
+♂♂ Després de l'exercici, ♂♂<br><br> ells han {{c1::tossits::…tossir…}} a causa del fred.
+♀♀ Després del passeig, ♀♀<br><br> elles han {{c1::tossides::…tossir…}} per la contaminació.
+⊙ Actualment, ⊙<br><br> jo {{c1::tusso::…tossir…}} molt sovint a l’hivern.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::tusses::…tossir…}} quan l’aire és sec.
+⊙ Ara, ⊙<br><br> ell {{c1::tus::…tossir…}} a causa de l’al·lèrgia.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::tossim::…tossir…}} tots junts després del passeig.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::tossiu::…tossir…}} més a l’hivern.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::tussen::…tossir…}} a causa del fred.
+⇠ Abans, ⇠<br><br> jo {{c1::tossia::…tossir…}} només quan feia fred.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::tossies::…tossir…}} sovint a l’escola.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::tossia::…tossir…}} molt durant l’hivern.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::tossíem::…tossir…}} a l'hivern a causa del fred.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::tossíeu::…tossir…}} sempre quan l'aire era sec.
+⇠ Molt abans, ⇠<br><br> ells {{c1::tossien::…tossir…}} cada hivern.
+↧ Ahir, ↧<br><br> jo {{c1::tossí::…tossir…}} molt durant el passeig.
+↧ La setmana passada, ↧<br><br> tu {{c1::tossires::…tossir…}} durant la caminada.
+↧ El mes passat, ↧<br><br> ell {{c1::tossí::…tossir…}} molt per la pols.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::tossírem::…tossir…}} tots junts a l'exterior.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::tossíreu::…tossir…}} sovint quan feia fred.
+↧ Fa poc, ↧<br><br> ells {{c1::tossiren::…tossir…}} durant una tempesta de neu.
+→ Demà, →<br><br> jo {{c1::tossiré::…tossir…}} si l'aire és molt sec.
+→ La setmana vinent, →<br><br> tu {{c1::tossiràs::…tossir…}} a causa de les al·lèrgies.
+→ En un any, →<br><br> ell {{c1::tossirà::…tossir…}} més sovint.
+→ En cinc anys, →<br><br> nosaltres {{c1::tossirem::…tossir…}} junts durant l’hivern.
+→ Aviat, →<br><br> vosaltres {{c1::tossireu::…tossir…}} per la contaminació.
+→ En el futur, →<br><br> ells {{c1::tossiran::…tossir…}} més sovint.
+〰 Espero que 〰<br><br> jo {{c1::tussi::…tossir…}} menys aquest any.
+〰 Pot ser que 〰<br><br> tu {{c1::tussis::…tossir…}} sovint si tens al·lèrgia.
+〰 És possible que 〰<br><br> ell {{c1::tussi::…tossir…}} molt si l’aire és sec.
+〰 És necessari que 〰<br><br> nosaltres {{c1::tossim::…tossir…}} si ens sentim malament.
+〰 Dubto que 〰<br><br> vosaltres {{c1::tossiu::…tossir…}} menys aquest hivern.
+〰 És probable que 〰<br><br> ells {{c1::tussin::…tossir…}} més sovint si fa fred.
+↫ Si fos possible, ↫<br><br> jo {{c1::tossís::…tossir…}} menys a l’hivern.
+↫ Si tu ↫<br><br> {{c1::tossíssis::…tossir…}} més, hauries d’anar al metge.
+↫ Si ell ↫<br><br> {{c1::tossís::…tossir…}} menys, es sentiria millor.
+↫ Si nosaltres ↫<br><br> {{c1::tossíssim::…tossir…}} junts, seria més fàcil de controlar.
+↫ Si vosaltres ↫<br><br> {{c1::tossíssiu::…tossir…}} menys sovint, estaríeu més saludables.
+↫ Si ells ↫<br><br> {{c1::tossissin::…tossir…}} menys sovint, estarien millor.
+… Si pogués, …<br><br> jo {{c1::tossiria::…tossir…}} menys sovint.
+… Si tinguessis temps, …<br><br> tu {{c1::tossiries::…tossir…}} menys a causa de les al·lèrgies.
+… Ell {{c1::tossiria::…tossir…}} menys sovint, …<br><br>si tingués menys al·lèrgies.
+… Si fos necessari, …<br><br> nosaltres {{c1::tossiríem::…tossir…}} menys sovint.
+… Vosaltres {{c1::tossiríeu::…tossir…}} menys, …<br><br>si prenguéssiu cura.
+… Si ho sabessin, …<br><br> ells {{c1::tossirien::…tossir…}} menys sovint.
+! Ara mateix, !<br><br> tu {{c1::tus::…tossir…}} si cal!
+! Si us plau, !<br><br> vostè {{c1::tussi::…tossir…}} menys si pot!
+! Anem, !<br><br> nosaltres {{c1::tossim::…tossir…}} junts per a millorar!
+! Ara, !<br><br> vosaltres {{c1::tossiu::…tossir…}} menys sovint!
+! Immediatament, !<br><br> vostès {{c1::tussin::…tossir…}} menys!
+

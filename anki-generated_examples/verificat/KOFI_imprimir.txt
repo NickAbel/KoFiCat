@@ -1,0 +1,5 @@
+~ Mentre estic pensant, ~<br><br> jo estic {{c1::imprimint::…imprimir…}} els documents per a la reunió.
+♂ Després de l'escriptura, ♂<br><br> ell ha {{c1::imprès::…imprimir…}} el llibre.
+♀ Quan va acabar l'informe, ♀<br><br> ella ha {{c1::impresa::…imprimir…}} totes les còpies.
+♂♂ Després de la reunió, ♂♂<br><br> ells han {{c1::impresos::…imprimir…}} els informes per a la distribució.
+♀♀ Després del treball, ♀♀<br><br> elles han {{c1::impreses::…imprimir…}} les cartes per enviar.

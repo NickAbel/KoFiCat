@@ -1,0 +1,16 @@
+♂ Després de treballar, ♂<br><br> ell ha {{c1::llegut::…lleure…}} tota la tarda.
+⊙ Ara, ⊙<br><br> ell {{c1::lleu::…lleure…}} al jardí. {{c1::llesqueu::…lleure…}} cada cap de setmana.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::lleuren::…lleure…}} després de l'escola.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::llevia::…lleure…}} sempre després d’un dia llarg.
+⇠ Molt abans, ⇠<br><br> ells {{c1::llevien::…lleure…}} durant els caps de setmana.
+↧ El mes passat, ↧<br><br> ell {{c1::llegué::…lleure…}} al parc durant el cap de setmana.
+↧ Fa poc, ↧<br><br> ells {{c1::llegueren::…lleure…}} després de l’exercici.
+→ En un any, →<br><br> ell {{c1::lleurà::…lleure…}} cada tarda.
+→ En el futur, →<br><br> ells {{c1::lleuran::…lleure…}} cada cap de setmana.
+〰 És possible que 〰<br><br> ell {{c1::llegui::…lleure…}} cada dia després de treballar.
+〰 És probable que 〰<br><br> ells {{c1::lleguin::…lleure…}} més durant les vacances.
+↫ Si ell ↫<br><br> {{c1::llegués::…lleure…}} més sovint, estaria més relaxat.
+↫ Si ells ↫<br><br> {{c1::lleguessin::…lleure…}} més sovint, estarien més descansats.
+… Ell {{c1::lleuria::…lleure…}} més sovint, …<br><br>si tingués més temps lliure.
+… Si ho sabessin, …<br><br> ells {{c1::lleurien::…lleure…}} més cada any.
+

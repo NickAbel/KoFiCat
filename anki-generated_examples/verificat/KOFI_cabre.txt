@@ -1,0 +1,53 @@
+~ Mentre estic calculant, ~<br><br> jo estic {{c1::cabent::…cabre…}} més informació en el document.
+♂ Després de recopilar dades, ♂<br><br> ell ha {{c1::cabut::…cabre…}} tot en el fitxer.
+♀ Quan va fer la presentació, ♀<br><br> ella ha {{c1::cabuda::…cabre…}} tota la informació en les diapositives.
+♂♂ Després de l'estudi, ♂♂<br><br> ells han {{c1::cabuts::…cabre…}} totes les dades en l'informe.
+♀♀ Després de la revisió, ♀♀<br><br> elles han {{c1::cabudes::…cabre…}} les notes en el resum.
+⊙ Actualment, ⊙<br><br> jo {{c1::cabo::…cabre…}} tota la informació en el document.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::caps::…cabre…}} més dades en el gràfic.
+⊙ Ara, ⊙<br><br> ell {{c1::cap::…cabre…}} tota la informació en l'informe.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::cabem::…cabre…}} junts totes les dades en el projecte.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::cabeu::…cabre…}} més informació en el gràfic.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::caben::…cabre…}} totes les dades en el resum.
+⇠ Abans, ⇠<br><br> jo {{c1::cabia::…cabre…}} més informació en el document.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::cabies::…cabre…}} sempre les dades en les diapositives.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::cabia::…cabre…}} més informació en l'informe.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::cabíem::…cabre…}} més dades en el projecte.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::cabíeu::…cabre…}} sempre més informació en el document.
+⇠ Molt abans, ⇠<br><br> ells {{c1::cabien::…cabre…}} més notes en el resum.
+↧ Ahir, ↧<br><br> jo {{c1::cabí::…cabre…}} més informació en el gràfic.
+↧ La setmana passada, ↧<br><br> tu {{c1::caberes::…cabre…}} més dades en el fitxer.
+↧ El mes passat, ↧<br><br> ell {{c1::cabé::…cabre…}} més informació en el document.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::cabérem::…cabre…}} junts més dades en l'informe.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::cabéreu::…cabre…}} més informació en el projecte.
+↧ Fa poc, ↧<br><br> ells {{c1::caberen::…cabre…}} més dades en el resum.
+→ Demà, →<br><br> jo {{c1::cabré::…cabre…}} més informació en el document.
+→ La setmana vinent, →<br><br> tu {{c1::cabràs::…cabre…}} més dades en el gràfic.
+→ En un any, →<br><br> ell {{c1::cabrà::…cabre…}} més informació en l'informe.
+→ En cinc anys, →<br><br> nosaltres {{c1::cabrem::…cabre…}} junts més dades en el projecte.
+→ Aviat, →<br><br> vosaltres {{c1::cabreu::…cabre…}} més informació en el document.
+→ En el futur, →<br><br> ells {{c1::cabran::…cabre…}} més dades en el resum.
+〰 Espero que 〰<br><br> jo {{c1::càpiga::…cabre…}} sempre més informació en el gràfic.
+〰 Pot ser que 〰<br><br> tu {{c1::càpigues::…cabre…}} més dades en el document.
+〰 És possible que 〰<br><br> ell {{c1::càpiga::…cabre…}} més informació en l'informe.
+〰 És necessari que 〰<br><br> nosaltres {{c1::capiguem::…cabre…}} junts totes les dades en el projecte.
+〰 Dubto que 〰<br><br> vosaltres {{c1::capigueu::…cabre…}} prou informació en el document.
+〰 És probable que 〰<br><br> ells {{c1::càpiguen::…cabre…}} més dades en el resum.
+↫ Si fos possible, ↫<br><br> jo {{c1::cabés::…cabre…}} sempre més informació en el document.
+↫ Si tu ↫<br><br> {{c1::cabessis::…cabre…}} més sovint, tindries un informe més complet.
+↫ Si ell ↫<br><br> {{c1::cabés::…cabre…}} més sovint, tindria més dades.
+↫ Si nosaltres ↫<br><br> {{c1::cabéssim::…cabre…}} junts, el projecte seria més complet.
+↫ Si vosaltres ↫<br><br> {{c1::cabéssiu::…cabre…}} més sovint, tindríeu un informe més complet.
+↫ Si ells ↫<br><br> {{c1::cabessin::…cabre…}} més sovint, tindrien un resum més clar.
+… Si pogués, …<br><br> jo {{c1::cabria::…cabre…}} més informació en el document.
+… Si tinguessis temps, …<br><br> tu {{c1::cabries::…cabre…}} més dades en el fitxer.
+… Ell {{c1::cabria::…cabre…}} més sovint, …<br><br>si tingués més ajuda.
+… Si fos necessari, …<br><br> nosaltres {{c1::cabríem::…cabre…}} junts més dades en el projecte.
+… Vosaltres {{c1::cabríeu::…cabre…}} més informació, …<br><br>si us hi poséssiu.
+… Si ho sabessin, …<br><br> ells {{c1::cabrien::…cabre…}} més dades en el resum.
+! Ara mateix, !<br><br> tu {{c1::cap::…cabre…}} més informació en el document!
+! Si us plau, !<br><br> vostè {{c1::càpiga::…cabre…}} les dades en el resum!
+! Anem, !<br><br> nosaltres {{c1::càpiguem::…cabre…}} junts ara!
+! Ara, !<br><br> vosaltres {{c1::cabeu::…cabre…}} més informació en el document!
+! Immediatament, !<br><br> vostès {{c1::càpiguen::…cabre…}} totes les dades en el resum!
+

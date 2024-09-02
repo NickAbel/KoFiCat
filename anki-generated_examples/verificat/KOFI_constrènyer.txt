@@ -1,0 +1,5 @@
+~ Mentre estic pensant, ~<br><br> jo estic {{c1::constrenyent::…constrènyer…}} les idees en paraules.
+♂ Després de la discussió, ♂<br><br> ell ha {{c1::constret::…constrènyer…}} els seus pensaments en un resum.
+♀ Quan va fer l'informe, ♀<br><br> ella ha {{c1::constreta::…constrènyer…}} tota la informació en un document.
+♂♂ Després del debat, ♂♂<br><br> ells han {{c1::constrets::…constrènyer…}} els arguments en una conclusió.
+♀♀ Després de la reunió, ♀♀<br><br> elles han {{c1::constretes::…constrènyer…}} les opinions en un acord.

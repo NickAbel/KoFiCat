@@ -1,0 +1,52 @@
+~ Mentre estic pensant, ~<br><br> jo estic {{c1::lluint::…lluir…}} el meu nou vestit.
+♂ Després de comprar-lo, ♂<br><br> ell ha {{c1::lluït::…lluir…}} el seu nou cotxe.
+♀ Quan va arribar a la festa, ♀<br><br> ella ha {{c1::lluïda::…lluir…}} el seu vestit elegant.
+♂♂ Després del triomf, ♂♂<br><br> ells han {{c1::lluïts::…lluir…}} els seus trofeus amb orgull.
+♀♀ Després de l'actuació, ♀♀<br><br> elles han {{c1::lluïdes::…lluir…}} els seus vestits brillants.
+⊙ Actualment, ⊙<br><br> jo {{c1::llueixo/lluo/lluu::…lluir…}} la meva nova joia.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::llueixes/llus/lluus::…lluir…}} amb elegància el teu vestit.
+⊙ Ara, ⊙<br><br> ell {{c1::llueix/llu/lluu::…lluir…}} els seus nous accessoris.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::lluïm::…lluir…}} la nostra nova col·lecció.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::lluïu::…lluir…}} els vostres nous vestits.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::llueixen/lluen::…lluir…}} els seus trofeus.
+⇠ Abans, ⇠<br><br> jo {{c1::lluïa::…lluir…}} amb orgull les meves joies.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::lluïes::…lluir…}} les teves medalles a l'escola.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::lluïa::…lluir…}} el seu nou rellotge.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::lluíem::…lluir…}} les nostres noves samarretes.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::lluíeu::…lluir…}} els vostres vestits de gala.
+⇠ Molt abans, ⇠<br><br> ells {{c1::lluïen::…lluir…}} els seus premis amb orgull.
+↧ Ahir, ↧<br><br> jo {{c1::lluí::…lluir…}} la meva nova roba.
+↧ La setmana passada, ↧<br><br> tu {{c1::lluíres::…lluir…}} el teu vestit de festa.
+↧ El mes passat, ↧<br><br> ell {{c1::lluí::…lluir…}} els seus accessoris.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::lluírem::…lluir…}} els nostres trofeus.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::lluíreu::…lluir…}} els vostres vestits elegants.
+↧ Fa poc, ↧<br><br> ells {{c1::lluïren::…lluir…}} les seves medalles.
+→ Demà, →<br><br> jo {{c1::lluiré::…lluir…}} el meu nou vestit.
+→ La setmana vinent, →<br><br> tu {{c1::lluiràs::…lluir…}} el teu cotxe nou.
+→ En un any, →<br><br> ell {{c1::lluirà::…lluir…}} els seus trofeus.
+→ En cinc anys, →<br><br> nosaltres {{c1::lluirem::…lluir…}} la nostra col·lecció.
+→ Aviat, →<br><br> vosaltres {{c1::lluireu::…lluir…}} els vostres nous vestits.
+→ En el futur, →<br><br> ells {{c1::lluiran::…lluir…}} els seus accessoris amb orgull.
+〰 Espero que 〰<br><br> jo {{c1::llueixi/lluï::…lluir…}} més sovint.
+〰 Pot ser que 〰<br><br> tu {{c1::llueixis/lluïs::…lluir…}} els teus nous vestits.
+〰 És possible que 〰<br><br> ell {{c1::llueixi/lluï::…lluir…}} la seva nova col·lecció.
+〰 És necessari que 〰<br><br> nosaltres {{c1::lluïm::…lluir…}} junts en l'exposició.
+〰 Dubto que 〰<br><br> vosaltres {{c1::lluïu::…lluir…}} tant com cal.
+〰 És probable que 〰<br><br> ells {{c1::llueixin/lluïn::…lluir…}} les seves noves compres.
+↫ Si fos possible, ↫<br><br> jo {{c1::lluís::…lluir…}} tots els dies.
+↫ Si tu ↫<br><br> {{c1::lluïssis/lluïsses::…lluir…}} més, impressionaries a tothom.
+↫ Si ell ↫<br><br> {{c1::lluís::…lluir…}} amb més freqüència, seria molt admirat.
+↫ Si nosaltres ↫<br><br> {{c1::lluíssim/lluíssem::…lluir…}} junts, seríem el centre d'atenció.
+↫ Si vosaltres ↫<br><br> {{c1::lluíssiu/lluísseu::…lluir…}} més sovint, us elogiarien més.
+↫ Si ells ↫<br><br> {{c1::lluïssin/lluïssen::…lluir…}} regularment, serien molt admirats.
+… Si pogués, …<br><br> jo {{c1::lluïria::…lluir…}} sempre les meves millors robes.
+… Si tinguessis temps, …<br><br> tu {{c1::lluïries::…lluir…}} sempre el teu millor vestit.
+… Ell {{c1::lluïria::…lluir…}} més sovint, …<br><br>si tingués més oportunitats.
+… Si fos necessari, …<br><br> nosaltres {{c1::lluïríem::…lluir…}} junts per destacar.
+… Vosaltres {{c1::lluïríeu::…lluir…}} més, …<br><br>si us hi poséssiu.
+… Si ho sabessin, …<br><br> ells {{c1::lluïrien::…lluir…}} tots els dies.
+! Ara mateix, !<br><br> tu {{c1::llueix/lluu::…lluir…}} el teu millor vestit!
+! Si us plau, !<br><br> vostè {{c1::llueixi/lluï::…lluir…}} amb tot el seu orgull!
+! Anem, !<br><br> nosaltres {{c1::lluïm::…lluir…}} junts ara!
+! Ara, !<br><br> vosaltres {{c1::lluïu::…lluir…}} amb elegància!
+! Immediatament, !<br><br> vostès {{c1::llueixin/lluïn::…lluir…}} amb tot el seu esplendor!

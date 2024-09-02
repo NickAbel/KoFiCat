@@ -1,0 +1,52 @@
+~ Mentre estic pensant, ~<br><br> jo estic {{c1::escopint::…escopir…}} la pinyola de la fruita.
+♂ Després de tastar el vi, ♂<br><br> ell ha {{c1::escopit::…escopir…}} el que no li ha agradat.
+♀ Quan va tastar el menjar, ♀<br><br> ella ha {{c1::escopida::…escopir…}} el que no li va agradar.
+♂♂ Després del tast, ♂♂<br><br> ells han {{c1::escopits::…escopir…}} el que no volien.
+♀♀ Després de la prova, ♀♀<br><br> elles han {{c1::escopides::…escopir…}} el que no els va agradar.
+⊙ Actualment, ⊙<br><br> jo {{c1::escupo::…escopir…}} el que no em sap bé.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::escups::…escopir…}} quan no t'agrada alguna cosa.
+⊙ Ara, ⊙<br><br> ell {{c1::escup::…escopir…}} el que no li agrada.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::escopim::…escopir…}} les llavors de fruita.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::escopiu::…escopir…}} després de tastar el menjar.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::escupen::…escopir…}} el que no volen menjar.
+⇠ Abans, ⇠<br><br> jo {{c1::escopia::…escopir…}} sovint quan alguna cosa no em gustava.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::escopies::…escopir…}} les llavors a la gespa.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::escopia::…escopir…}} el menjar que no li agradava.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::escopíem::…escopir…}} en el pati després de dinar.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::escopíeu::…escopir…}} sempre quan no us agradava alguna cosa.
+⇠ Molt abans, ⇠<br><br> ells {{c1::escopien::…escopir…}} després de tastar alguna cosa nova.
+↧ Ahir, ↧<br><br> jo {{c1::escopí::…escopir…}} una pinyola de cirera.
+↧ La setmana passada, ↧<br><br> tu {{c1::escopires::…escopir…}} el menjar que no et va agradar.
+↧ El mes passat, ↧<br><br> ell {{c1::escopí::…escopir…}} una pinyola mentre menjava.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::escopírem::…escopir…}} les llavors de fruita en un jardí.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::escopíreu::…escopir…}} sempre després de menjar.
+↧ Fa poc, ↧<br><br> ells {{c1::escopiren::…escopir…}} una llavor de síndria.
+→ Demà, →<br><br> jo {{c1::escopiré::…escopir…}} el que no em vol agradar.
+→ La setmana vinent, →<br><br> tu {{c1::escopiràs::…escopir…}} alguna cosa que no t’agrada.
+→ En un any, →<br><br> ell {{c1::escopirà::…escopir…}} alguna cosa estranya.
+→ En cinc anys, →<br><br> nosaltres {{c1::escopirem::…escopir…}} junts mentre mengem.
+→ Aviat, →<br><br> vosaltres {{c1::escopireu::…escopir…}} el que no voleu menjar.
+→ En el futur, →<br><br> ells {{c1::escopiran::…escopir…}} el que no els agrada.
+〰 Espero que 〰<br><br> jo {{c1::escupi::…escopir…}} només si és necessari.
+〰 Pot ser que 〰<br><br> tu {{c1::escupis::…escopir…}} en cas que no t’agradi.
+〰 És possible que 〰<br><br> ell {{c1::escupi::…escopir…}} quan tastarà alguna cosa nova.
+〰 És necessari que 〰<br><br> nosaltres {{c1::escopim::…escopir…}} les llavors quan mengem fruita.
+〰 Dubto que 〰<br><br> vosaltres {{c1::escopiu::…escopir…}} només quan és necessari.
+〰 És probable que 〰<br><br> ells {{c1::escupin::…escopir…}} alguna cosa si no els agrada.
+↫ Si fos possible, ↫<br><br> jo {{c1::escopís::…escopir…}} menys sovint.
+↫ Si tu ↫<br><br> {{c1::escopíssis::…escopir…}} més, t’hauries d’acostumar.
+↫ Si ell ↫<br><br> {{c1::escopís::…escopir…}} menys sovint, hauria après a menjar de tot.
+↫ Si nosaltres ↫<br><br> {{c1::escopíssim::…escopir…}} menys, estaríem més saludables.
+↫ Si vosaltres ↫<br><br> {{c1::escopíssiu::…escopir…}} menys sovint, no tindríeu tantes llavors al voltant.
+↫ Si ells ↫<br><br> {{c1::escopissin::…escopir…}} menys, aprendre a menjar de tot.
+… Si pogués, …<br><br> jo {{c1::escopiria::…escopir…}} menys sovint.
+… Si tinguessis temps, …<br><br> tu {{c1::escopiries::…escopir…}} menys sovint.
+… Ell {{c1::escopiria::…escopir…}} menys sovint, …<br><br>si tingués més paciència.
+… Si fos necessari, …<br><br> nosaltres {{c1::escopiríem::…escopir…}} només en ocasions necessàries.
+… Vosaltres {{c1::escopiríeu::…escopir…}} menys, …<br><br>si us hi poséssiu.
+… Si ho sabessin, …<br><br> ells {{c1::escopirien::…escopir…}} menys sovint.
+! Ara mateix, !<br><br> tu {{c1::escup::…escopir…}} si cal!
+! Si us plau, !<br><br> vostè {{c1::escupi::…escopir…}} només si no li agrada!
+! Anem, !<br><br> nosaltres {{c1::escopim::…escopir…}} junts si és necessari!
+! Ara, !<br><br> vosaltres {{c1::escopiu::…escopir…}} quan no us agradi alguna cosa!
+! Immediatament, !<br><br> vostès {{c1::escupin::…escopir…}} si ho consideren necessari!

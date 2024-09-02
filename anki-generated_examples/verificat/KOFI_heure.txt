@@ -1,0 +1,53 @@
+~ Mentre estic caminant, ~<br><br> jo {{c1::havent::…heure…}} un pas ferm.
+♂ Després de caminar molt, ♂<br><br> ell ha {{c1::hagut::…heure…}} en cada pas.
+♀ Quan va arribar a la meta, ♀<br><br> ella ha {{c1::haguda::…heure…}} amb constància.
+♂♂ Després del marató, ♂♂<br><br> ells han {{c1::haguts::…heure…}} en tot el recorregut.
+♀♀ Després de la cursa, ♀♀<br><br> elles han {{c1::hagudes::…heure…}} amb energia.
+⊙ Actualment, ⊙<br><br> jo {{c1::hec::…heure…}} cada dia en la meva rutina.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::heus::…heure…}} en cada pas.
+⊙ Ara, ⊙<br><br> ell {{c1::heu::…heure…}} amb determinació.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::havem::…heure…}} junts cap a la meta.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::haveu::…heure…}} amb determinació.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::heuen::…heure…}} cada vegada més ràpid.
+⇠ Abans, ⇠<br><br> jo {{c1::havia::…heure…}} sempre en la meva rutina.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::havias::…heure…}} cada dia.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::havia::…heure…}} sempre amb determinació.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::havíem::…heure…}} cap a l'èxit.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::havíeu::…heure…}} cada dia amb esforç.
+⇠ Molt abans, ⇠<br><br> ells {{c1::havien::…heure…}} amb constància.
+↧ Ahir, ↧<br><br> jo {{c1::haguí::…heure…}} cada pas amb força.
+↧ La setmana passada, ↧<br><br> tu {{c1::hagueres::…heure…}} amb determinació.
+↧ El mes passat, ↧<br><br> ell {{c1::hagué::…heure…}} amb constància.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::haguérem::…heure…}} junts cada dia.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::haguéreu::…heure…}} cada pas amb força.
+↧ Fa poc, ↧<br><br> ells {{c1::hagueren::…heure…}} cap a la meta.
+→ Demà, →<br><br> jo {{c1::hauré::…heure…}} cada dia.
+→ La setmana vinent, →<br><br> tu {{c1::hauràs::…heure…}} amb constància.
+→ En un any, →<br><br> ell {{c1::haurà::…heure…}} en cada pas.
+→ En cinc anys, →<br><br> nosaltres {{c1::haurem::…heure…}} cap a l'èxit.
+→ Aviat, →<br><br> vosaltres {{c1::haureu::…heure…}} amb determinació.
+→ En el futur, →<br><br> ells {{c1::hauran::…heure…}} cada pas amb força.
+〰 Espero que 〰<br><br> jo {{c1::hegui::…heure…}} cada dia amb energia.
+〰 Pot ser que 〰<br><br> tu {{c1::heguis::…heure…}} amb força.
+〰 És possible que 〰<br><br> ell {{c1::hegui::…heure…}} amb determinació.
+〰 És necessari que 〰<br><br> nosaltres {{c1::haguem::…heure…}} cada dia.
+〰 Dubto que 〰<br><br> vosaltres {{c1::hagueu::…heure…}} amb la mateixa força.
+〰 És probable que 〰<br><br> ells {{c1::heguin::…heure…}} cada pas amb energia.
+↫ Si fos possible, ↫<br><br> jo {{c1::hagués::…heure…}} cada dia amb més força.
+↫ Si tu ↫<br><br> {{c1::haguessis::…heure…}} més, series imparable.
+↫ Si ell ↫<br><br> {{c1::hagués::…heure…}} més sovint, arribaria més lluny.
+↫ Si nosaltres ↫<br><br> {{c1::haguéssim::…heure…}} més junts, arribaríem a tot arreu.
+↫ Si vosaltres ↫<br><br> {{c1::haguéssiu::…heure…}} més, arribaríeu més lluny.
+↫ Si ells ↫<br><br> {{c1::haguessin::…heure…}} més, serien invencibles.
+… Si pogués, …<br><br> jo {{c1::hauria::…heure…}} cada dia amb energia.
+… Si tinguessis temps, …<br><br> tu {{c1::hauries::…heure…}} amb força.
+… Ell {{c1::hauria::…heure…}} cada dia, …<br><br>si tingués més temps.
+… Si fos necessari, …<br><br> nosaltres {{c1::hauríem::…heure…}} junts per assolir l’èxit.
+… Vosaltres {{c1::hauríeu::…heure…}} amb determinació, …<br><br>si us hi comprometéssiu.
+… Si ho sabessin, …<br><br> ells {{c1::haurien::…heure…}} cada dia amb energia.
+! Ara mateix, !<br><br> tu {{c1::heu::…heure…}} cada pas amb força!
+! Si us plau, !<br><br> vostè {{c1::hegui::…heure…}} amb tota la seva energia!
+! Anem, !<br><br> nosaltres {{c1::haguem::…heure…}} junts cap a l’èxit!
+! Ara, !<br><br> vosaltres {{c1::haveu::…heure…}} amb determinació!
+! Immediatament, !<br><br> vostès {{c1::heguin::…heure…}} amb totes les seves forces!
+
