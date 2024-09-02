@@ -1,0 +1,52 @@
+~ Mentre estic pensant, ~<br><br> jo estic {{c1::valent::…valer…}} totes les meves decisions.
+♂ Després de la discussió, ♂<br><br> ell ha {{c1::valgut::…valer…}} el seu punt de vista.
+♀ Quan va prendre la decisió, ♀<br><br> ella ha {{c1::valguda::…valer…}} la seva paraula.
+♂♂ Després del judici, ♂♂<br><br> ells han {{c1::valguts::…valer…}} els seus drets.
+♀♀ Després del debat, ♀♀<br><br> elles han {{c1::valgudes::…valer…}} les seves opinions.
+⊙ Actualment, ⊙<br><br> jo {{c1::valc::…valer…}} cada dia.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::vals::…valer…}} molt per a la teva família.
+⊙ Ara, ⊙<br><br> ell {{c1::val::…valer…}} més que mai.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::valem::…valer…}} la pena.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::valeu::…valer…}} molt per a nosaltres.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::valen::…valer…}} pel seu treball.
+⇠ Abans, ⇠<br><br> jo {{c1::valia::…valer…}} molt més.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::valies::…valer…}} poc.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::valia::…valer…}} cada vegada més.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::valíem::…valer…}} més del que pensàvem.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::valíeu::…valer…}} molt per als vostres amics.
+⇠ Molt abans, ⇠<br><br> ells {{c1::valien::…valer…}} pel que feien.
+↧ Ahir, ↧<br><br> jo {{c1::valguí::…valer…}} més que mai.
+↧ La setmana passada, ↧<br><br> tu {{c1::valgueres::…valer…}} molt pel teu treball.
+↧ El mes passat, ↧<br><br> ell {{c1::valgué::…valer…}} pel que va aconseguir.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::valguérem::…valer…}} la pena de ser-hi.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::valguéreu::…valer…}} pel que vau fer.
+↧ Fa poc, ↧<br><br> ells {{c1::valgueren::…valer…}} molt pel que han fet.
+→ Demà, →<br><br> jo {{c1::valdré::…valer…}} més que mai.
+→ La setmana vinent, →<br><br> tu {{c1::valdràs::…valer…}} més pel que facis.
+→ En un any, →<br><br> ell {{c1::valdrà::…valer…}} molt pel seu treball.
+→ En cinc anys, →<br><br> nosaltres {{c1::valdrem::…valer…}} molt per al futur.
+→ Aviat, →<br><br> vosaltres {{c1::valdreu::…valer…}} més per al vostre treball.
+→ En el futur, →<br><br> ells {{c1::valdran::…valer…}} més que mai.
+〰 Espero que 〰<br><br> jo {{c1::valgui::…valer…}} pel que faig.
+〰 Pot ser que 〰<br><br> tu {{c1::valguis::…valer…}} molt més.
+〰 És possible que 〰<br><br> ell {{c1::valgui::…valer…}} pel seu treball.
+〰 És necessari que 〰<br><br> nosaltres {{c1::valguem::…valer…}} per a la família.
+〰 Dubto que 〰<br><br> vosaltres {{c1::valgueu::…valer…}} més del que feu.
+〰 És probable que 〰<br><br> ells {{c1::valguin::…valer…}} molt per al futur.
+↫ Si fos possible, ↫<br><br> jo {{c1::valgués::…valer…}} més per a tothom.
+↫ Si tu ↫<br><br> {{c1::valguessis::…valer…}} més, tindries més èxit.
+↫ Si ell ↫<br><br> {{c1::valgués::…valer…}} pel que fa, aconseguiria més.
+↫ Si nosaltres ↫<br><br> {{c1::valguéssem::…valer…}} pel que fem, seria més.
+↫ Si vosaltres ↫<br><br> {{c1::valguésseu::…valer…}} més, obtindríeu més.
+↫ Si ells ↫<br><br> {{c1::valguessin::…valer…}} pel que han fet, tot aniria millor.
+… Si pogués, …<br><br> jo {{c1::valdria::…valer…}} més per a tothom.
+… Si tinguessis temps, …<br><br> tu {{c1::valdries::…valer…}} més pel teu treball.
+… Ell {{c1::valdria::…valer…}} més sovint, …<br><br>si tingués més temps.
+… Si fos necessari, …<br><br> nosaltres {{c1::valdríem::…valer…}} més per al futur.
+… Vosaltres {{c1::valdríeu::…valer…}} més pel vostre treball, …<br><br>si us hi poséssiu més.
+… Si ho sabessin, …<br><br> ells {{c1::valdrien::…valer…}} més pel que han fet.
+! Ara mateix, !<br><br> tu {{c1::val::…valer…}} més que mai!
+! Si us plau, !<br><br> vostè {{c1::valgui::…valer…}} pel que faci!
+! Anem, !<br><br> nosaltres {{c1::valguem::…valer…}} pel futur!
+! Ara, !<br><br> vosaltres {{c1::valgueu::…valer…}} pel vostre treball!
+! Immediatament, !<br><br> vostès {{c1::valguin::…valer…}} pel que han fet!
