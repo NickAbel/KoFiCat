@@ -29,18 +29,18 @@ The sentences in the deck are generated with ChatGPT 4o, but are verified agains
   - [x] **No Spelling Changes**: The verb **parlar** is the chosen representative.
   - [x] **Spelling Change: -jar(1)**: This orthographic change covers the vast majority of verbs ending in -jar. **Menjar** is the chosen representative.
   - [ ] **Spelling Change: -car(2)**: This orthographic change covers the vast majority of verbs ending in -car. **Destacar** is the chosen representative.
-  - [ ] **Spelling Change: -ear/-iar/-oar/-uar(3)**: This orthographic change covers the bulk of verbs ending in -ear/-iar/-oar/-uar. **Crear** is the chosen representative.
+  - [x] **Spelling Change: -ear/-iar/-oar/-uar(3)**: This orthographic change covers the bulk of verbs ending in -ear/-iar/-oar/-uar. **Crear** is the chosen representative.
   - [x] **Spelling Change: -gar(4)**: This orthographic change covers the vast majority of verbs ending in -ear/-iar/-oar/-uar. **Jugar** is the chosen representative.
   - [x] **Spelling Change: -çar(5)**: This orthographic change covers the vast majority of verbs ending in -çar. **Començar** is the chosen representative.
   - [ ] **Spelling Change: -aiar/-eiar/-oiar(6)**: This orthographic change covers a group of verbs ending in -aiar/-eiar/-oiar. **Remeiar** is the chosen representative.
-  - [ ] **Spelling Change: -[e,i,o,a]uar(7)**: This orthographic change covers a group of verbs ending in -[e,i,o,a]uar. **Creuar** is the chosen representative.
+  - [x] **Spelling Change: -[e,i,o,a]uar(7)**: This orthographic change covers a group of verbs ending in -[e,i,o,a]uar. **Creuar** is the chosen representative.
   - [ ] **Spelling Change: -aiguar(8)**: This orthographic change covers a group of verbs ending in -aiguar. **Enaiguar** is the chosen representative.
   - [ ] **Spelling Change: -quar(9)**: This orthographic change covers a group of verbs ending in -quar. **Adequar** is the chosen representative.
 
 ## Conjugation II
 - [ ] (i)   **Infinitive in -re**
   - [ ] **Regular, No Spelling Changes**: This conjugation pattern only covers a minority of the category II(i) verbs. **Batre** is the chosen representative.
-  - [ ] **Irregularity in Participle Only(1)**: This conjugation pattern is regular, except for irregularity in the participles. **Admetre** is the chosen representative.
+  - [x] **Irregularity in Participle Only(1)**: This conjugation pattern is regular, except for irregularity in the participles. **Admetre** is the chosen representative.
   - [x] **Irregularity: -endre(2)**: This irregularity appears in a group of verbs, all ending in -endre. **Aprendre** is the chosen representative.
   - [x] **Irregularity: -tendre/-cendre(3)**: **Entendre** is the chosen representative.
   - [x] **Irregularity: -ure(4)**: **Beure** is the chosen representative.
@@ -49,7 +49,7 @@ The sentences in the deck are generated with ChatGPT 4o, but are verified agains
   - [ ] **Irregularity: -toldre/-soldre(7)**: **Toldre** is the chosen representative.
   - [ ] **Irregularity: -cloure(8)**: **Encloure** is the chosen representative.
   - [x] **Irregularity: -viure(9)**: **Viure** is the chosen representative.
-  - [ ] **Irregularity: -creure/-seure(10)**: **Seure** is the chosen representative.
+  - [x] **Irregularity: -creure/-seure(10)**: **Seure** is the chosen representative.
   - [x] **Spelling Change: -rebre/-cebre(11)**: **Rebre** is the chosen representative.
   - [ ] **Irregularity: -fendre/-fondre/prendre/tondre(12)**: **Fondre** is the chosen representative.
   - [x] **Irregularity: -caure(13)**: **Caure** is the chosen representative.
@@ -57,11 +57,11 @@ The sentences in the deck are generated with ChatGPT 4o, but are verified agains
   - [x] **Irregularity: -vendre(15)**: **Vendre** is the chosen representative.
   - [ ] **Irregularity: -moldre(16)**: **Moldre** is the chosen representative.
   - [ ] **Irregularity: -jeure(17)**: **Jeure** is the chosen representative.
-  - [ ] **Irregularity: -riure(18)**: **Riure** is the chosen representative.
+  - [x] **Irregularity: -riure(18)**: **Riure** is the chosen representative.
   - [ ] **Irregularity: Heure(19)**
   - [ ] **Irregularity: Cerndre(20)**
   - [ ] **Irregularity: Coure(21)**
-  - [ ] **Irregularity: Romandre(22)**
+  - [x] **Irregularity: Romandre(22)**
   - [ ] **Irregularity (defective): Ploure(23)**
   - [ ] **Irregularity (defective): Lleure(24)**
   - [ ] **Irregularity (defective): Caldre(25)**
@@ -75,10 +75,10 @@ The sentences in the deck are generated with ChatGPT 4o, but are verified agains
   - [ ] **Spelling Change: -tòrcer(1)**: **Tòrcer** is the chosen representative.
   - [ ] **Irregularity in Participle Only: -strènyer(2)**: **Constrènyer** is the chosen representative.
   - [x] **Irregularity: -conèixer(3)**: **Conèixer** is the chosen representative.
-  - [ ] **Spelling Change: -vèncer(4)**: **Vèncer** is the chosen representative.
+  - [x] **Spelling Change: -vèncer(4)**: **Vèncer** is the chosen representative.
   - [ ] **Irregularity in Participle Only: -empènyer(5)**: **Empènyer** is the chosen representative.
   - [x] **Irregularity: Córrer(6)**
-  - [ ] **Irregularity: Néixer, péixer(7)**: **Néixer** is the chosen representative.
+  - [x] **Irregularity: Néixer, péixer(7)**: **Néixer** is the chosen representative.
 - [ ] (iii) **Infinitive in -r**:
   - [x] **Irregularity: Dir** (with its compounds in **a-**, **contra-**, **des-**, **inter-**, **mal-**, **pre-**, **re-**)
   - [x] **Irregularity: Dur** (with its compound in **en-**)
@@ -100,7 +100,7 @@ The sentences in the deck are generated with ChatGPT 4o, but are verified agains
   - [x] **Regular, No Spelling Changes**: The verb **dormir** is the chosen representative.
   - [x] **Irregularity: sortir/collir(1)**: This pattern occurs in **sortir**, **collir** and its compounds. **Sortir** is the chosen representative.
   - [x] **Irregularity: -obrir(2)**: For **obrir** and its compounds in which **obrir** means ``to open'', so **cobrir**, for instance, is not covered by this. **Obrir** is the chosen representative.
-  - [ ] **Irregularity: -fugir(3)**: **Fugir** is the chosen representative.
+  - [x] **Irregularity: -fugir(3)**: **Fugir** is the chosen representative.
   - [ ] **Irregularity: -cosir(4)**: **Cosir** is the chosen representative.
   - [x] **Irregularity in Participles Only: -morir(5)**: **Morir** is the chosen representative.
   - [ ] **Irregularity: Escopir(6)**
@@ -118,3 +118,5 @@ The sentences in the deck are generated with ChatGPT 4o, but are verified agains
 [Wiktionary's Catalan Frequency List](https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists/Catalan/)
 
 [Catalan: A Comprehensive Grammar - Wheeler, Yates, Dols](https://www.amazon.com/Catalan-Comprehensive-Grammar-Routledge-Grammars/dp/0415103428)
+
+[hermitdave/FrequencyWords](https://github.com/hermitdave/FrequencyWords/)

@@ -1,0 +1,52 @@
+~ Mentre estic pensant, ~<br><br> jo estic {{c1::admetent::…admetre…}} els meus errors.
+♂ Després de la discussió, ♂<br><br> ell ha {{c1::admès::…admetre…}} la seva part de culpa.
+♀ Quan va reflexionar, ♀<br><br> ella ha {{c1::admesa::…admetre…}} que s'havia equivocat.
+♂♂ Després de la reunió, ♂♂<br><br> ells han {{c1::admesos::…admetre…}} els errors comesos.
+♀♀ Després de parlar-ho, ♀♀<br><br> elles han {{c1::admeses::…admetre…}} les seves faltes.
+⊙ Actualment, ⊙<br><br> jo {{c1::admeto::…admetre…}} que no ho sé tot.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::admets::…admetre…}} els teus errors.
+⊙ Ara, ⊙<br><br> ell {{c1::admet::…admetre…}} la seva part de culpa.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::admetem::…admetre…}} que podríem haver fet millor.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::admeteu::…admetre…}} que no tot està clar.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::admeten::…admetre…}} que han de millorar.
+⇠ Abans, ⇠<br><br> jo {{c1::admetia::…admetre…}} els meus errors més ràpidament.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::admeties::…admetre…}} sempre la veritat.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::admetia::…admetre…}} les seves faltes sense problemes.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::admetíem::…admetre…}} els nostres errors junts.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::admetíeu::…admetre…}} sovint els vostres errors.
+⇠ Molt abans, ⇠<br><br> ells {{c1::admetien::…admetre…}} que s'havien equivocat.
+↧ Ahir, ↧<br><br> jo {{c1::admetí::…admetre…}} que no ho sabia tot.
+↧ La setmana passada, ↧<br><br> tu {{c1::admeteres::…admetre…}} que t'havies equivocat.
+↧ El mes passat, ↧<br><br> ell {{c1::admeté::…admetre…}} la seva part de culpa.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::admetérem::…admetre…}} que podríem haver fet millor.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::admetéreu::…admetre…}} que no tot era clar.
+↧ Fa poc, ↧<br><br> ells {{c1::admeteren::…admetre…}} que havien comès errors.
+→ Demà, →<br><br> jo {{c1::admetré::…admetre…}} les meves faltes.
+→ La setmana vinent, →<br><br> tu {{c1::admetràs::…admetre…}} que no ho sabies tot.
+→ En un any, →<br><br> ell {{c1::admetrà::…admetre…}} que podria haver fet millor.
+→ En cinc anys, →<br><br> nosaltres {{c1::admetrem::…admetre…}} que ens vam equivocar.
+→ Aviat, →<br><br> vosaltres {{c1::admetreu::…admetre…}} les vostres faltes.
+→ En el futur, →<br><br> ells {{c1::admetran::…admetre…}} els seus errors.
+〰 Espero que 〰<br><br> jo {{c1::admeti::…admetre…}} les meves equivocacions.
+〰 Pot ser que 〰<br><br> tu {{c1::admetis::…admetre…}} la teva part de culpa.
+〰 És possible que 〰<br><br> ell {{c1::admeti::…admetre…}} els seus errors.
+〰 És necessari que 〰<br><br> nosaltres {{c1::admetem::…admetre…}} les nostres faltes.
+〰 Dubto que 〰<br><br> vosaltres {{c1::admeteu::…admetre…}} tot el que passa.
+〰 És probable que 〰<br><br> ells {{c1::admetin::…admetre…}} els seus errors.
+↫ Si fos possible, ↫<br><br> jo {{c1::admetés::…admetre…}} els meus errors més aviat.
+↫ Si tu ↫<br><br> {{c1::admetessis::…admetre…}} que t'has equivocat, seria més fàcil.
+↫ Si ell ↫<br><br> {{c1::admetés::…admetre…}} les seves faltes, estaria més tranquil.
+↫ Si nosaltres ↫<br><br> {{c1::admetéssim::…admetre…}} que vam fallar, ho podríem arreglar.
+↫ Si vosaltres ↫<br><br> {{c1::admetéssiu::…admetre…}} la veritat, seria més senzill.
+↫ Si ells ↫<br><br> {{c1::admetessin::…admetre…}} els seus errors, aprendreien més ràpid.
+… Si pogués, …<br><br> jo {{c1::admetria::…admetre…}} que no ho sé tot.
+… Si tinguessis temps, …<br><br> tu {{c1::admetries::…admetre…}} més faltes.
+… Ell {{c1::admetria::…admetre…}} més sovint, …<br><br>si fos més sincer.
+… Si fos necessari, …<br><br> nosaltres {{c1::admetríem::…admetre…}} els nostres errors junts.
+… Vosaltres {{c1::admetríeu::…admetre…}} que us heu equivocat, …<br><br>si tinguéssiu temps per pensar-hi.
+… Si ho sabessin, …<br><br> ells {{c1::admetrien::…admetre…}} que es van equivocar.
+! Ara mateix, !<br><br> tu {{c1::admet::…admetre…}} els teus errors!
+! Si us plau, !<br><br> vostè {{c1::admeti::…admetre…}} la veritat!
+! Anem, !<br><br> nosaltres {{c1::admetem::…admetre…}} junts!
+! Ara, !<br><br> vosaltres {{c1::admeteu::…admetre…}} la realitat!
+! Immediatament, !<br><br> vostès {{c1::admetin::…admetre…}} els seus errors!

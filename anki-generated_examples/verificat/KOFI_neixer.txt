@@ -1,0 +1,52 @@
+~ Mentre estic pensant, ~<br><br> jo estic {{c1::naixent::…néixer…}} a una nova vida.
+♂ Després de molt d'espera, ♂<br><br> ell ha {{c1::nascut::…néixer…}} amb molta salut.
+♀ Quan va arribar el moment, ♀<br><br> ella ha {{c1::nascuda::…néixer…}} sense complicacions.
+♂♂ Després de molts mesos, ♂♂<br><br> ells han {{c1::nascuts::…néixer…}} en un dia de sol.
+♀♀ Després de la nit, ♀♀<br><br> elles han {{c1::nascudes::…néixer…}} a primera hora del matí.
+⊙ Actualment, ⊙<br><br> jo {{c1::neixo/naixo::…néixer…}} amb noves idees.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::neixes/naixes::…néixer…}} amb esperança.
+⊙ Ara, ⊙<br><br> ell {{c1::neix/naix::…néixer…}} amb força.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::naixem::…néixer…}} amb alegria.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::naixeu::…néixer…}} amb noves possibilitats.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::neixen/naixen::…néixer…}} amb confiança.
+⇠ Abans, ⇠<br><br> jo {{c1::naixia::…néixer…}} amb moltes esperances.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::naixies::…néixer…}} en una família gran.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::naixia::…néixer…}} amb alegria.
+⇠ Durant els primers dies, ⇠<br><br> nosaltres {{c1::naixíem::…néixer…}} amb molta força.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::naixíeu::…néixer…}} amb molta energia.
+⇠ Molt abans, ⇠<br><br> ells {{c1::naixien::…néixer…}} amb moltes expectatives.
+↧ Ahir, ↧<br><br> jo {{c1::naixí/nasquí::…néixer…}} a una nova idea.
+↧ La setmana passada, ↧<br><br> tu {{c1::naixeres/nasqueres::…néixer…}} amb una nova visió.
+↧ El mes passat, ↧<br><br> ell {{c1::naixé/nasqué::…néixer…}} amb força.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::naixérem/nasquérem::…néixer…}} amb moltes ganes.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::naixéreu/nasquéreu::…néixer…}} en un món diferent.
+↧ Fa poc, ↧<br><br> ells {{c1::naixeren/nasqueren::…néixer…}} amb noves oportunitats.
+→ Demà, →<br><br> jo {{c1::naixeré::…néixer…}} a una nova etapa.
+→ La setmana vinent, →<br><br> tu {{c1::naixeràs::…néixer…}} amb noves esperances.
+→ En un any, →<br><br> ell {{c1::naixerà::…néixer…}} amb molta energia.
+→ En cinc anys, →<br><br> nosaltres {{c1::naixerem::…néixer…}} amb noves idees.
+→ Aviat, →<br><br> vosaltres {{c1::naixereu::…néixer…}} en un món canviant.
+→ En el futur, →<br><br> ells {{c1::naixeran::…néixer…}} amb molta força.
+〰 Espero que 〰<br><br> jo {{c1::neixi/naixi::…néixer…}} amb esperances.
+〰 Pot ser que 〰<br><br> tu {{c1::neixis/naixis::…néixer…}} a una nova vida.
+〰 És possible que 〰<br><br> ell {{c1::neixi/naixi::…néixer…}} amb alegria.
+〰 És necessari que 〰<br><br> nosaltres {{c1::neixem/nasquem::…néixer…}} amb confiança.
+〰 Dubto que 〰<br><br> vosaltres {{c1::neixeu/nasqueu::…néixer…}} amb força.
+〰 És probable que 〰<br><br> ells {{c1::neixin/naixin::…néixer…}} amb determinació.
+↫ Si fos possible, ↫<br><br> jo {{c1::neixés/nasqués::…néixer…}} en un moment millor.
+↫ Si tu ↫<br><br> {{c1::neixessis/nasquessis::…néixer…}} amb esperança, tindries més èxit.
+↫ Si ell ↫<br><br> {{c1::neixés/nasqués::…néixer…}} amb alegria, estaria més content.
+↫ Si nosaltres ↫<br><br> {{c1::neixéssim/nasquéssim::…néixer…}} amb força, arribaríem més lluny.
+↫ Si vosaltres ↫<br><br> {{c1::neixéssiu/nasquéssiu::…néixer…}} amb ganes, tindríeu més èxit.
+↫ Si ells ↫<br><br> {{c1::neixessin/nasquessin::…néixer…}} amb determinació, aconseguirien més.
+… Si pogués, …<br><br> jo {{c1::naixeria::…néixer…}} en una altra època.
+… Si tinguessis temps, …<br><br> tu {{c1::naixeries::…néixer…}} amb força renovada.
+… Ell {{c1::naixeria::…néixer…}} en un món millor, …<br><br>si fos possible.
+… Si fos necessari, …<br><br> nosaltres {{c1::naixeríem::…néixer…}} amb energia.
+… Vosaltres {{c1::naixeríeu::…néixer…}} amb esperança, …<br><br>si tinguéssiu l'oportunitat.
+… Si ho sabessin, …<br><br> ells {{c1::naixerien::…néixer…}} amb noves perspectives.
+! Ara mateix, !<br><br> tu {{c1::neix/naix::…néixer…}} amb força!
+! Si us plau, !<br><br> vostè {{c1::neixi/naixi::…néixer…}} amb alegria!
+! Anem, !<br><br> nosaltres {{c1::neixem/nasquem::…néixer…}} junts a un futur millor!
+! Ara, !<br><br> vosaltres {{c1::naixeu::…néixer…}} amb determinació!
+! Immediatament, !<br><br> vostès {{c1::neixin/naixin::…néixer…}} a un nou començament!

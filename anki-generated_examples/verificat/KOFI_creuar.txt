@@ -1,0 +1,52 @@
+~ Mentre estic pensant, ~<br><br> jo estic {{c1::creuant::…creuar…}} el carrer.
+♂ Després de mirar, ♂<br><br> ell ha {{c1::creuat::…creuar…}} el riu.
+♀ Quan va veure la llum verda, ♀<br><br> ella ha {{c1::creuada::…creuar…}} l'avinguda.
+♂♂ Després de la pluja, ♂♂<br><br> ells han {{c1::creuats::…creuar…}} la carretera.
+♀♀ Després del temporal, ♀♀<br><br> elles han {{c1::creuades::…creuar…}} el pont.
+⊙ Actualment, ⊙<br><br> jo {{c1::creuo::…creuar…}} cada dia.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::creues::…creuar…}} el carrer principal.
+⊙ Ara, ⊙<br><br> ell {{c1::creua::…creuar…}} amb precaució.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::creuem::…creuar…}} junts.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::creueu::…creuar…}} el mateix pont.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::creuen::…creuar…}} el pas de zebra.
+⇠ Abans, ⇠<br><br> jo {{c1::creuava::…creuar…}} sense mirar.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::creuaves::…creuar…}} el carrer corrent.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::creuava::…creuar…}} el pont cada dia.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::creuàvem::…creuar…}} junts els carrers.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::creuàveu::…creuar…}} sempre el mateix camí.
+⇠ Molt abans, ⇠<br><br> ells {{c1::creuaven::…creuar…}} el parc jugant.
+↧ Ahir, ↧<br><br> jo {{c1::creuí::…creuar…}} un pont vell.
+↧ La setmana passada, ↧<br><br> tu {{c1::creuares::…creuar…}} una avinguda ampla.
+↧ El mes passat, ↧<br><br> ell {{c1::creuà::…creuar…}} el riu amb precaució.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::creuàrem::…creuar…}} molts carrers junts.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::creuàreu::…creuar…}} sempre el mateix camí.
+↧ Fa poc, ↧<br><br> ells {{c1::creuaren::…creuar…}} una carretera perillosa.
+→ Demà, →<br><br> jo {{c1::creuaré::…creuar…}} un nou pont.
+→ La setmana vinent, →<br><br> tu {{c1::creuaràs::…creuar…}} el carrer amb precaució.
+→ En un any, →<br><br> ell {{c1::creuarà::…creuar…}} moltes fronteres.
+→ En cinc anys, →<br><br> nosaltres {{c1::creuarem::…creuar…}} molts camins junts.
+→ Aviat, →<br><br> vosaltres {{c1::creuareu::…creuar…}} altres carrers.
+→ En el futur, →<br><br> ells {{c1::creuaran::…creuar…}} molts camins perillosos.
+〰 Espero que 〰<br><br> jo {{c1::creuï::…creuar…}} sempre amb precaució.
+〰 Pot ser que 〰<br><br> tu {{c1::creuïs::…creuar…}} el carrer amb cura.
+〰 És possible que 〰<br><br> ell {{c1::creuï::…creuar…}} una carretera ampla.
+〰 És necessari que 〰<br><br> nosaltres {{c1::creuem::…creuar…}} junts els ponts.
+〰 Dubto que 〰<br><br> vosaltres {{c1::creueu::…creuar…}} tan ràpidament.
+〰 És probable que 〰<br><br> ells {{c1::creuïn::…creuar…}} moltes fronteres.
+↫ Si fos possible, ↫<br><br> jo {{c1::creués::…creuar…}} un nou pont.
+↫ Si tu ↫<br><br> {{c1::creuessis::…creuar…}} amb més cura, evitaries accidents.
+↫ Si ell ↫<br><br> {{c1::creués::…creuar…}} més lentament, seria més segur.
+↫ Si nosaltres ↫<br><br> {{c1::creuéssim::…creuar…}} junts, estaríem més segurs.
+↫ Si vosaltres ↫<br><br> {{c1::creuéssiu::…creuar…}} amb atenció, us estalviaríeu problemes.
+↫ Si ells ↫<br><br> {{c1::creuessin::…creuar…}} amb calma, estarien més tranquils.
+… Si pogués, …<br><br> jo {{c1::creuaria::…creuar…}} molts ponts.
+… Si tinguessis temps, …<br><br> tu {{c1::creuaries::…creuar…}} amb més atenció.
+… Ell {{c1::creuaria::…creuar…}} moltes fronteres, …<br><br>si tingués l'oportunitat.
+… Si fos necessari, …<br><br> nosaltres {{c1::creuaríem::…creuar…}} junts molts camins.
+… Vosaltres {{c1::creuaríeu::…creuar…}} el carrer amb més precaució, …<br><br>si us hi fixéssiu.
+… Si ho sabessin, …<br><br> ells {{c1::creuarien::…creuar…}} molts camins perillosos.
+! Ara mateix, !<br><br> tu {{c1::creua::…creuar…}} el carrer ràpidament!
+! Si us plau, !<br><br> vostè {{c1::creuï::…creuar…}} el pont amb cura!
+! Anem, !<br><br> nosaltres {{c1::creuem::…creuar…}} junts aquest camí!
+! Ara, !<br><br> vosaltres {{c1::creueu::…creuar…}} el carrer amb precaució!
+! Immediatament, !<br><br> vostès {{c1::creuïn::…creuar…}} el pont!

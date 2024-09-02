@@ -1,0 +1,52 @@
+~ Mentre estic pensant, ~<br><br> jo {{c1::fugint::…fugir…}} de la situació.
+♂ Després del perill, ♂<br><br> ell ha {{c1::fugit::…fugir…}} ràpidament.
+♀ Quan va sentir el soroll, ♀<br><br> ella ha {{c1::fugida::…fugir…}} sense mirar enrere.
+♂♂ Després de la tempesta, ♂♂<br><br> ells han {{c1::fugits::…fugir…}} cap a un lloc segur.
+♀♀ Després del caos, ♀♀<br><br> elles han {{c1::fugides::…fugir…}} cap a una zona tranquil·la.
+⊙ Actualment, ⊙<br><br> jo {{c1::fujo::…fugir…}} de les meves preocupacions.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::fuges::…fugir…}} de les responsabilitats.
+⊙ Ara, ⊙<br><br> ell {{c1::fuig::…fugir…}} del perill.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::fugim::…fugir…}} cap a un lloc segur.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::fugiu::…fugir…}} de les discussions.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::fugen::…fugir…}} de la responsabilitat.
+⇠ Abans, ⇠<br><br> jo {{c1::fugia::…fugir…}} de qualsevol conflicte.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::fugies::…fugir…}} dels teus deures.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::fugia::…fugir…}} de les seves responsabilitats.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::fugíem::…fugir…}} de les activitats difícils.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::fugíeu::…fugir…}} de les obligacions.
+⇠ Molt abans, ⇠<br><br> ells {{c1::fugien::…fugir…}} de qualsevol responsabilitat.
+↧ Ahir, ↧<br><br> jo {{c1::fugí::…fugir…}} de la situació incòmoda.
+↧ La setmana passada, ↧<br><br> tu {{c1::fugires::…fugir…}} d'un problema.
+↧ El mes passat, ↧<br><br> ell {{c1::fugí::…fugir…}} de les seves responsabilitats.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::fugírem::…fugir…}} d'un lloc perillós.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::fugíreu::…fugir…}} de les vostres obligacions.
+↧ Fa poc, ↧<br><br> ells {{c1::fugiren::…fugir…}} d'una situació difícil.
+→ Demà, →<br><br> jo {{c1::fugiré::…fugir…}} de qualsevol problema.
+→ La setmana vinent, →<br><br> tu {{c1::fugiràs::…fugir…}} de les teves responsabilitats.
+→ En un any, →<br><br> ell {{c1::fugirà::…fugir…}} de qualsevol risc.
+→ En cinc anys, →<br><br> nosaltres {{c1::fugirem::…fugir…}} de situacions complicades.
+→ Aviat, →<br><br> vosaltres {{c1::fugireu::…fugir…}} de qualsevol conflicte.
+→ En el futur, →<br><br> ells {{c1::fugiran::…fugir…}} de les responsabilitats.
+〰 Espero que 〰<br><br> jo {{c1::fugi::…fugir…}} de qualsevol perill.
+〰 Pot ser que 〰<br><br> tu {{c1::fugis::…fugir…}} de les teves responsabilitats.
+〰 És possible que 〰<br><br> ell {{c1::fugi::…fugir…}} de les seves obligacions.
+〰 És necessari que 〰<br><br> nosaltres {{c1::fugim::…fugir…}} de situacions perilloses.
+〰 Dubto que 〰<br><br> vosaltres {{c1::fugiu::…fugir…}} de les vostres responsabilitats.
+〰 És probable que 〰<br><br> ells {{c1::fugin::…fugir…}} de qualsevol risc.
+↫ Si fos possible, ↫<br><br> jo {{c1::fugís::…fugir…}} de les complicacions.
+↫ Si tu ↫<br><br> {{c1::fugissis::…fugir…}} més sovint, tindries menys problemes.
+↫ Si ell ↫<br><br> {{c1::fugís::…fugir…}} de les seves responsabilitats, estaria més tranquil.
+↫ Si nosaltres ↫<br><br> {{c1::fugíssim::…fugir…}} junts, seria més fàcil.
+↫ Si vosaltres ↫<br><br> {{c1::fugíssiu::…fugir…}} més, evitaríeu molts problemes.
+↫ Si ells ↫<br><br> {{c1::fugissin::…fugir…}} de les seves obligacions, estarien més relaxats.
+… Si pogués, …<br><br> jo {{c1::fugiria::…fugir…}} de qualsevol problema.
+… Si tinguessis temps, …<br><br> tu {{c1::fugiries::…fugir…}} de les teves preocupacions.
+… Ell {{c1::fugiria::…fugir…}} més sovint, …<br><br>si tingués l'oportunitat.
+… Si fos necessari, …<br><br> nosaltres {{c1::fugiríem::…fugir…}} de qualsevol complicació.
+… Vosaltres {{c1::fugiríeu::…fugir…}} de les vostres responsabilitats, …<br><br>si us ho proposéssiu.
+… Si ho sabessin, …<br><br> ells {{c1::fugirien::…fugir…}} de qualsevol problema.
+! Ara mateix, !<br><br> tu {{c1::fuig::…fugir…}} ràpidament!
+! Si us plau, !<br><br> vostè {{c1::fugi::…fugir…}} de qualsevol risc!
+! Anem, !<br><br> nosaltres {{c1::fugim::…fugir…}} d'aquesta situació!
+! Ara, !<br><br> vosaltres {{c1::fugiu::…fugir…}} abans que sigui tard!
+! Immediatament, !<br><br> vostès {{c1::fugin::…fugir…}} de qualsevol problema!

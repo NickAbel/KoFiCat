@@ -1,0 +1,52 @@
+~ Mentre estic pensant, ~<br><br> jo estic {{c1::romanent::…romandre…}} en silenci.
+♂ Després de la reunió, ♂<br><br> ell ha {{c1::romàs::…romandre…}} a l'oficina.
+♀ Quan tothom va marxar, ♀<br><br> ella ha {{c1::romasa::…romandre…}} sola a la sala.
+♂♂ Després de la classe, ♂♂<br><br> ells han {{c1::romasos::…romandre…}} per parlar més.
+♀♀ Després de la festa, ♀♀<br><br> elles han {{c1::romases::…romandre…}} a la pista de ball.
+⊙ Actualment, ⊙<br><br> jo {{c1::romanc::…romandre…}} a casa.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::romans::…romandre…}} a la teva habitació.
+⊙ Ara, ⊙<br><br> ell {{c1::roman::…romandre…}} a l'oficina.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::romanem::…romandre…}} junts a la sala.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::romaneu::…romandre…}} a casa vostra.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::romanen::…romandre…}} a la ciutat.
+⇠ Abans, ⇠<br><br> jo {{c1::romania::…romandre…}} més temps amb els amics.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::romanies::…romandre…}} sempre a casa dels avis.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::romania::…romandre…}} a la seva habitació.
+⇠ Durant les vacances, ⇠<br><br> nosaltres {{c1::romaníem::…romandre…}} a la platja.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::romaníeu::…romandre…}} més temps junts.
+⇠ Molt abans, ⇠<br><br> ells {{c1::romanien::…romandre…}} més a casa.
+↧ Ahir, ↧<br><br> jo {{c1::romanguí::…romandre…}} més estona a la reunió.
+↧ La setmana passada, ↧<br><br> tu {{c1::romangueres::…romandre…}} a la festa més temps.
+↧ El mes passat, ↧<br><br> ell {{c1::romangué::…romandre…}} fins tard.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::romanguérem::…romandre…}} junts fins a la nit.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::romanguéreu::…romandre…}} més temps amb nosaltres.
+↧ Fa poc, ↧<br><br> ells {{c1::romangueren::…romandre…}} a la casa.
+→ Demà, →<br><br> jo {{c1::romandré::…romandre…}} més temps al lloc de feina.
+→ La setmana vinent, →<br><br> tu {{c1::romandràs::…romandre…}} més estona a la ciutat.
+→ En un any, →<br><br> ell {{c1::romandrà::…romandre…}} amb nosaltres.
+→ En cinc anys, →<br><br> nosaltres {{c1::romandrem::…romandre…}} junts en aquest lloc.
+→ Aviat, →<br><br> vosaltres {{c1::romandreu::…romandre…}} més a casa vostra.
+→ En el futur, →<br><br> ells {{c1::romandran::…romandre…}} més estona en aquest lloc.
+〰 Espero que 〰<br><br> jo {{c1::romangui::…romandre…}} més temps amb ells.
+〰 Pot ser que 〰<br><br> tu {{c1::romanguis::…romandre…}} més temps a la feina.
+〰 És possible que 〰<br><br> ell {{c1::romangui::…romandre…}} fins tard.
+〰 És necessari que 〰<br><br> nosaltres {{c1::romanguem::…romandre…}} junts en aquest lloc.
+〰 Dubto que 〰<br><br> vosaltres {{c1::romangueu::…romandre…}} més temps en aquesta ciutat.
+〰 És probable que 〰<br><br> ells {{c1::romanguin::…romandre…}} més a prop.
+↫ Si fos possible, ↫<br><br> jo {{c1::romangués::…romandre…}} més temps amb ells.
+↫ Si tu ↫<br><br> {{c1::romanguessis::…romandre…}} més temps, ho gaudiries més.
+↫ Si ell ↫<br><br> {{c1::romangués::…romandre…}} més temps, acabaria la feina.
+↫ Si nosaltres ↫<br><br> {{c1::romanguéssim::…romandre…}} junts, seria millor.
+↫ Si vosaltres ↫<br><br> {{c1::romanguéssiu::…romandre…}} més, tot aniria bé.
+↫ Si ells ↫<br><br> {{c1::romanguessin::…romandre…}} més temps, seria perfecte.
+… Si pogués, …<br><br> jo {{c1::romandria::…romandre…}} més temps.
+… Si tinguessis temps, …<br><br> tu {{c1::romandries::…romandre…}} més temps a la festa.
+… Ell {{c1::romandria::…romandre…}} més sovint, …<br><br>si fos necessari.
+… Si fos necessari, …<br><br> nosaltres {{c1::romandríem::…romandre…}} junts en aquest lloc.
+… Vosaltres {{c1::romandríeu::…romandre…}} més temps amb ells, …<br><br>si tinguéssiu temps.
+… Si ho sabessin, …<br><br> ells {{c1::romandrien::…romandre…}} més temps aquí.
+! Ara mateix, !<br><br> tu {{c1::roman::…romandre…}} més temps amb nosaltres!
+! Si us plau, !<br><br> vostè {{c1::romangui::…romandre…}} més temps a la ciutat!
+! Anem, !<br><br> nosaltres {{c1::romanguem::…romandre…}} junts fins tard!
+! Ara, !<br><br> vosaltres {{c1::romaneu::…romandre…}} més temps en aquest lloc!
+! Immediatament, !<br><br> vostès {{c1::romanguin::…romandre…}} junts fins al final!

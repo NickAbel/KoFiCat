@@ -1,0 +1,52 @@
+~ Mentre estic pensant, ~<br><br> jo estic {{c1::construint::…construir…}} un nou projecte.
+♂ Després de molta feina, ♂<br><br> ell ha {{c1::construït::…construir…}} una casa moderna.
+♀ Quan va veure l'oportunitat, ♀<br><br> ella ha {{c1::construïda::…construir…}} una empresa d'èxit.
+♂♂ Després del treball en equip, ♂♂<br><br> ells han {{c1::construïts::…construir…}} una infraestructura sòlida.
+♀♀ Després de la col·laboració, ♀♀<br><br> elles han {{c1::construïdes::…construir…}} una comunitat forta.
+⊙ Actualment, ⊙<br><br> jo {{c1::construeixo::…construir…}} una nova idea.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::construeixes::…construir…}} un nou pla.
+⊙ Ara, ⊙<br><br> ell {{c1::construeix::…construir…}} una nova estructura.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::construïm::…construir…}} un futur millor.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::construïu::…construir…}} una xarxa forta.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::construeixen::…construir…}} una nova societat.
+⇠ Abans, ⇠<br><br> jo {{c1::construïa::…construir…}} amb molta cura.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::construïes::…construir…}} castells de sorra.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::construïa::…construir…}} una empresa petita.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::construíem::…construir…}} maquetes.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::construíeu::…construir…}} projectes innovadors.
+⇠ Molt abans, ⇠<br><br> ells {{c1::construïen::…construir…}} ambiciosos plans.
+↧ Ahir, ↧<br><br> jo {{c1::construí::…construir…}} una petita estructura.
+↧ La setmana passada, ↧<br><br> tu {{c1::construïres::…construir…}} una maqueta.
+↧ El mes passat, ↧<br><br> ell {{c1::construí::…construir…}} una empresa.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::construírem::…construir…}} una xarxa forta.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::construíreu::…construir…}} molts projectes.
+↧ Fa poc, ↧<br><br> ells {{c1::construïren::…construir…}} una infraestructura sòlida.
+→ Demà, →<br><br> jo {{c1::construiré::…construir…}} una nova idea.
+→ La setmana vinent, →<br><br> tu {{c1::construiràs::…construir…}} una nova casa.
+→ En un any, →<br><br> ell {{c1::construirà::…construir…}} una empresa sòlida.
+→ En cinc anys, →<br><br> nosaltres {{c1::construirem::…construir…}} una nova societat.
+→ Aviat, →<br><br> vosaltres {{c1::construireu::…construir…}} un futur millor.
+→ En el futur, →<br><br> ells {{c1::construiran::…construir…}} una xarxa global.
+〰 Espero que 〰<br><br> jo {{c1::construeixi::…construir…}} una bona estructura.
+〰 Pot ser que 〰<br><br> tu {{c1::construeixis::…construir…}} amb molta cura.
+〰 És possible que 〰<br><br> ell {{c1::construeixi::…construir…}} una nova empresa.
+〰 És necessari que 〰<br><br> nosaltres {{c1::construïm::…construir…}} junts.
+〰 Dubto que 〰<br><br> vosaltres {{c1::construïu::…construir…}} tan ràpidament.
+〰 És probable que 〰<br><br> ells {{c1::construeixin::…construir…}} amb èxit.
+↫ Si fos possible, ↫<br><br> jo {{c1::construís::…construir…}} més sovint.
+↫ Si tu ↫<br><br> {{c1::construïssis::…construir…}} amb més atenció, aconseguiries més.
+↫ Si ell ↫<br><br> {{c1::construís::…construir…}} amb més dedicació, tindria més èxit.
+↫ Si nosaltres ↫<br><br> {{c1::construíssim::…construir…}} junts, seria més fàcil.
+↫ Si vosaltres ↫<br><br> {{c1::construíssiu::…construir…}} amb paciència, aconseguiríeu més.
+↫ Si ells ↫<br><br> {{c1::construïssin::…construir…}} amb passió, serien imbatibles.
+… Si pogués, …<br><br> jo {{c1::construiria::…construir…}} una nova estructura.
+… Si tinguessis temps, …<br><br> tu {{c1::construiries::…construir…}} més projectes.
+… Ell {{c1::construiria::…construir…}} més sovint, …<br><br>si tingués inspiració.
+… Si fos necessari, …<br><br> nosaltres {{c1::construiríem::…construir…}} una societat millor.
+… Vosaltres {{c1::construiríeu::…construir…}} més obres, …<br><br>si us hi poséssiu.
+… Si ho sabessin, …<br><br> ells {{c1::construirien::…construir…}} coses meravelloses.
+! Ara mateix, !<br><br> tu {{c1::construeix::…construir…}} alguna cosa nova!
+! Si us plau, !<br><br> vostè {{c1::construeixi::…construir…}} alguna cosa única!
+! Anem, !<br><br> nosaltres {{c1::construïm::…construir…}} alguna cosa junts!
+! Ara, !<br><br> vosaltres {{c1::construïu::…construir…}} una obra d'art!
+! Immediatament, !<br><br> vostès {{c1::construeixin::…construir…}} alguna cosa increïble!

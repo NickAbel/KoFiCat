@@ -1,0 +1,52 @@
+~ Mentre estic pensant, ~<br><br> jo estic {{c1::creant::…crear…}} una nova obra.
+♂ Després de molta inspiració, ♂<br><br> ell ha {{c1::creat::…crear…}} una peça única.
+♀ Quan va veure l'oportunitat, ♀<br><br> ella ha {{c1::creada::…crear…}} una obra mestra.
+♂♂ Després del treball en equip, ♂♂<br><br> ells han {{c1::creats::…crear…}} un projecte innovador.
+♀♀ Després de la col·laboració, ♀♀<br><br> elles han {{c1::creades::…crear…}} una nova col·lecció.
+⊙ Actualment, ⊙<br><br> jo {{c1::creo::…crear…}} contingut original.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::crees::…crear…}} noves idees.
+⊙ Ara, ⊙<br><br> ell {{c1::crea::…crear…}} un futur millor.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::creem::…crear…}} una nova empresa.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::creeu::…crear…}} un món millor.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::creen::…crear…}} una nova era.
+⇠ Abans, ⇠<br><br> jo {{c1::creava::…crear…}} obres d'art.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::creaves::…crear…}} històries fantàstiques.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::creava::…crear…}} dissenys innovadors.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::creàvem::…crear…}} projectes creatius.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::creàveu::…crear…}} esbossos interessants.
+⇠ Molt abans, ⇠<br><br> ells {{c1::creaven::…crear…}} coses meravelloses.
+↧ Ahir, ↧<br><br> jo {{c1::creí::…crear…}} una nova idea.
+↧ La setmana passada, ↧<br><br> tu {{c1::creares::…crear…}} un esbós.
+↧ El mes passat, ↧<br><br> ell {{c1::creà::…crear…}} un prototip.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::creàrem::…crear…}} un projecte innovador.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::creàreu::…crear…}} una obra única.
+↧ Fa poc, ↧<br><br> ells {{c1::crearen::…crear…}} una col·lecció nova.
+→ Demà, →<br><br> jo {{c1::crearé::…crear…}} una nova pintura.
+→ La setmana vinent, →<br><br> tu {{c1::crearàs::…crear…}} un disseny únic.
+→ En un any, →<br><br> ell {{c1::crearà::…crear…}} una obra mestra.
+→ En cinc anys, →<br><br> nosaltres {{c1::crearem::…crear…}} una empresa d'èxit.
+→ Aviat, →<br><br> vosaltres {{c1::creareu::…crear…}} una comunitat forta.
+→ En el futur, →<br><br> ells {{c1::crearan::…crear…}} un món millor.
+〰 Espero que 〰<br><br> jo {{c1::creï::…crear…}} una cosa única.
+〰 Pot ser que 〰<br><br> tu {{c1::creïs::…crear…}} una obra d'art.
+〰 És possible que 〰<br><br> ell {{c1::creï::…crear…}} un nou concepte.
+〰 És necessari que 〰<br><br> nosaltres {{c1::creem::…crear…}} alguna cosa nova.
+〰 Dubto que 〰<br><br> vosaltres {{c1::creeu::…crear…}} tan ràpidament.
+〰 És probable que 〰<br><br> ells {{c1::creïn::…crear…}} alguna cosa increïble.
+↫ Si fos possible, ↫<br><br> jo {{c1::creés::…crear…}} una obra d'art.
+↫ Si tu ↫<br><br> {{c1::creessis::…crear…}} més sovint, milloraries.
+↫ Si ell ↫<br><br> {{c1::creés::…crear…}} amb més inspiració, tindria èxit.
+↫ Si nosaltres ↫<br><br> {{c1::creéssim::…crear…}} junts, seria més fàcil.
+↫ Si vosaltres ↫<br><br> {{c1::creéssiu::…crear…}} més sovint, aconseguiríeu més coses.
+↫ Si ells ↫<br><br> {{c1::creessin::…crear…}} amb més passió, serien imbatibles.
+… Si pogués, …<br><br> jo {{c1::crearia::…crear…}} una nova obra.
+… Si tinguessis temps, …<br><br> tu {{c1::crearies::…crear…}} més projectes.
+… Ell {{c1::crearia::…crear…}} més sovint, …<br><br>si tingués inspiració.
+… Si fos necessari, …<br><br> nosaltres {{c1::crearíem::…crear…}} un futur millor.
+… Vosaltres {{c1::crearíeu::…crear…}} més obres, …<br><br>si us hi poséssiu.
+… Si ho sabessin, …<br><br> ells {{c1::crearien::…crear…}} coses meravelloses.
+! Ara mateix, !<br><br> tu {{c1::crea::…crear…}} alguna cosa nova!
+! Si us plau, !<br><br> vostè {{c1::creï::…crear…}} alguna cosa única!
+! Anem, !<br><br> nosaltres {{c1::creem::…crear…}} alguna cosa junts!
+! Ara, !<br><br> vosaltres {{c1::creeu::…crear…}} una obra d'art!
+! Immediatament, !<br><br> vostès {{c1::creïn::…crear…}} alguna cosa increïble!

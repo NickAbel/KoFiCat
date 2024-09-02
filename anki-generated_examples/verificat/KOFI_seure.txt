@@ -1,0 +1,52 @@
+~ Mentre estic pensant, ~<br><br> jo estic {{c1::seient::…seure…}} en una cadira còmoda.
+♂ Després d'un llarg dia, ♂<br><br> ell ha {{c1::segut::…seure…}} a descansar.
+♀ Quan va arribar, ♀<br><br> ella ha {{c1::seguda::…seure…}} al sofà.
+♂♂ Després de la reunió, ♂♂<br><br> ells han {{c1::seguts::…seure…}} a parlar.
+♀♀ Després de la classe, ♀♀<br><br> elles han {{c1::segudes::…seure…}} al parc.
+⊙ Actualment, ⊙<br><br> jo {{c1::sec::…seure…}} a la meva oficina.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::seus::…seure…}} al costat meu.
+⊙ Ara, ⊙<br><br> ell {{c1::seu::…seure…}} a la taula.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::seiem::…seure…}} junts a la cafeteria.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::seieu::…seure…}} a la sala d'espera.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::seuen::…seure…}} a la biblioteca.
+⇠ Abans, ⇠<br><br> jo {{c1::seia::…seure…}} a la vora del llac.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::seies::…seure…}} a la gespa.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::seia::…seure…}} a la seva cadira preferida.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::sèiem::…seure…}} a les taules del pati.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::sèieu::…seure…}} a les escales.
+⇠ Molt abans, ⇠<br><br> ells {{c1::seien::…seure…}} a la platja.
+↧ Ahir, ↧<br><br> jo {{c1::seguí::…seure…}} al parc.
+↧ La setmana passada, ↧<br><br> tu {{c1::segueres::…seure…}} al banc del jardí.
+↧ El mes passat, ↧<br><br> ell {{c1::seguè::…seure…}} a la seva oficina.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::seguèrem::…seure…}} al voltant d'una taula.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::seguèreu::…seure…}} a la vora del camí.
+↧ Fa poc, ↧<br><br> ells {{c1::segueren::…seure…}} a la sala de conferències.
+→ Demà, →<br><br> jo {{c1::seuré::…seure…}} a la meva cadira preferida.
+→ La setmana vinent, →<br><br> tu {{c1::seuràs::…seure…}} a la vora del llac.
+→ En un any, →<br><br> ell {{c1::seurà::…seure…}} a la seva nova oficina.
+→ En cinc anys, →<br><br> nosaltres {{c1::seurem::…seure…}} junts en una gran taula.
+→ Aviat, →<br><br> vosaltres {{c1::seureu::…seure…}} a la cafeteria.
+→ En el futur, →<br><br> ells {{c1::seuran::…seure…}} en una sala de reunions.
+〰 Espero que 〰<br><br> jo {{c1::segui::…seure…}} còmodament.
+〰 Pot ser que 〰<br><br> tu {{c1::seguis::…seure…}} al meu costat.
+〰 És possible que 〰<br><br> ell {{c1::segui::…seure…}} a la taula.
+〰 És necessari que 〰<br><br> nosaltres {{c1::seguem::…seure…}} junts.
+〰 Dubto que 〰<br><br> vosaltres {{c1::segeu::…seure…}} amb calma.
+〰 És probable que 〰<br><br> ells {{c1::seguin::…seure…}} a la reunió.
+↫ Si fos possible, ↫<br><br> jo {{c1::segués::…seure…}} amb més comoditat.
+↫ Si tu ↫<br><br> {{c1::seguessis::…seure…}} amb calma, et relaxaries més.
+↫ Si ell ↫<br><br> {{c1::segués::…seure…}} més sovint, estaria més tranquil.
+↫ Si nosaltres ↫<br><br> {{c1::seguéssim::…seure…}} junts, parlaríem més.
+↫ Si vosaltres ↫<br><br> {{c1::seguéssiu::…seure…}} amb tranquil·litat, us sentiríeu millor.
+↫ Si ells ↫<br><br> {{c1::seguessin::…seure…}} a la reunió, serien més productius.
+… Si pogués, …<br><br> jo {{c1::seuria::…seure…}} a la meva cadira preferida.
+… Si tinguessis temps, …<br><br> tu {{c1::seuries::…seure…}} al costat meu.
+… Ell {{c1::seuria::…seure…}} més sovint, …<br><br>si tingués l'oportunitat.
+… Si fos necessari, …<br><br> nosaltres {{c1::seuríem::…seure…}} junts a la taula.
+… Vosaltres {{c1::seuríeu::…seure…}} a la sala de conferències, …<br><br>si us ho proposéssiu.
+… Si ho sabessin, …<br><br> ells {{c1::seurien::…seure…}} més còmodes.
+! Ara mateix, !<br><br> tu {{c1::seu::…seure…}} al meu costat!
+! Si us plau, !<br><br> vostè {{c1::segui::…seure…}} còmodament!
+! Anem, !<br><br> nosaltres {{c1::seguem::…seure…}} junts a parlar!
+! Ara, !<br><br> vosaltres {{c1::seieu::…seure…}} a la taula!
+! Immediatament, !<br><br> vostès {{c1::seguin::…seure…}} a la reunió!

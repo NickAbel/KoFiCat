@@ -1,0 +1,52 @@
+~ Mentre estic pensant, ~<br><br> jo estic {{c1::vencent::…vèncer…}} els meus temors.
+♂ Després del partit, ♂<br><br> ell ha {{c1::vençut::…vèncer…}} el seu rival.
+♀ Quan va veure l'oportunitat, ♀<br><br> ella ha {{c1::vençuda::…vèncer…}} els seus dubtes.
+♂♂ Després de l'entrenament, ♂♂<br><br> ells han {{c1::vençuts::…vèncer…}} l'adversitat.
+♀♀ Després de la competició, ♀♀<br><br> elles han {{c1::vençudes::…vèncer…}} les seves pors.
+⊙ Actualment, ⊙<br><br> jo {{c1::venço::…vèncer…}} cada dia.
+⊙ En aquest moment, ⊙<br><br> tu {{c1::vences::…vèncer…}} els teus reptes.
+⊙ Ara, ⊙<br><br> ell {{c1::venç::…vèncer…}} amb determinació.
+⊙ En aquest instant, ⊙<br><br> nosaltres {{c1::vencem::…vèncer…}} junts.
+⊙ Actualment, ⊙<br><br> vosaltres {{c1::venceu::…vèncer…}} tots els obstacles.
+⊙ Aquesta tarda, ⊙<br><br> ells {{c1::vencen::…vèncer…}} amb força.
+⇠ Abans, ⇠<br><br> jo {{c1::vencia::…vèncer…}} els meus temors.
+⇠ Quan érem petits, ⇠<br><br> tu {{c1::vencies::…vèncer…}} sempre en els jocs.
+⇠ Fa uns anys, ⇠<br><br> ell {{c1::vencia::…vèncer…}} amb gran esforç.
+⇠ Durant l'escola, ⇠<br><br> nosaltres {{c1::vencíem::…vèncer…}} junts en cada competició.
+⇠ De joves, ⇠<br><br> vosaltres {{c1::vencíeu::…vèncer…}} sempre en els partits.
+⇠ Molt abans, ⇠<br><br> ells {{c1::vencien::…vèncer…}} totes les adversitats.
+↧ Ahir, ↧<br><br> jo {{c1::vencí::…vèncer…}} en una dura competició.
+↧ La setmana passada, ↧<br><br> tu {{c1::venceres::…vèncer…}} en un joc difícil.
+↧ El mes passat, ↧<br><br> ell {{c1::vencé::…vèncer…}} el seu rival més fort.
+↧ Fa un any, ↧<br><br> nosaltres {{c1::vencérem::…vèncer…}} una gran adversitat.
+↧ Els dies antics, ↧<br><br> vosaltres {{c1::vencéreu::…vèncer…}} tots els desafiaments.
+↧ Fa poc, ↧<br><br> ells {{c1::venceren::…vèncer…}} les seves pors.
+→ Demà, →<br><br> jo {{c1::venceré::…vèncer…}} un nou repte.
+→ La setmana vinent, →<br><br> tu {{c1::venceràs::…vèncer…}} tots els obstacles.
+→ En un any, →<br><br> ell {{c1::vencerà::…vèncer…}} en una gran competició.
+→ En cinc anys, →<br><br> nosaltres {{c1::vencerem::…vèncer…}} molts desafiaments junts.
+→ Aviat, →<br><br> vosaltres {{c1::vencereu::…vèncer…}} totes les dificultats.
+→ En el futur, →<br><br> ells {{c1::venceran::…vèncer…}} qualsevol adversitat.
+〰 Espero que 〰<br><br> jo {{c1::venci::…vèncer…}} totes les pors.
+〰 Pot ser que 〰<br><br> tu {{c1::vencis::…vèncer…}} els teus dubtes.
+〰 És possible que 〰<br><br> ell {{c1::venci::…vèncer…}} en la competició.
+〰 És necessari que 〰<br><br> nosaltres {{c1::vencem::…vèncer…}} junts.
+〰 Dubto que 〰<br><br> vosaltres {{c1::venceu::…vèncer…}} sempre.
+〰 És probable que 〰<br><br> ells {{c1::vencin::…vèncer…}} totes les dificultats.
+↫ Si fos possible, ↫<br><br> jo {{c1::vencés::…vèncer…}} cada dia.
+↫ Si tu ↫<br><br> {{c1::vencessis::…vèncer…}} més sovint, tindries més èxit.
+↫ Si ell ↫<br><br> {{c1::vencés::…vèncer…}} amb més determinació, guanyaria més.
+↫ Si nosaltres ↫<br><br> {{c1::vencéssim::…vèncer…}} junts, seria més fàcil.
+↫ Si vosaltres ↫<br><br> {{c1::vencéssiu::…vèncer…}} amb força, superaríeu tot.
+↫ Si ells ↫<br><br> {{c1::vencessin::…vèncer…}} totes les adversitats, serien invencibles.
+… Si pogués, …<br><br> jo {{c1::venceria::…vèncer…}} tots els reptes.
+… Si tinguessis temps, …<br><br> tu {{c1::venceries::…vèncer…}} més obstacles.
+… Ell {{c1::venceria::…vèncer…}} més sovint, …<br><br>si tingués oportunitats.
+… Si fos necessari, …<br><br> nosaltres {{c1::venceríem::…vèncer…}} qualsevol adversitat.
+… Vosaltres {{c1::venceríeu::…vèncer…}} més reptes, …<br><br>si tinguéssiu la força.
+… Si ho sabessin, …<br><br> ells {{c1::vencerien::…vèncer…}} tots els obstacles.
+! Ara mateix, !<br><br> tu {{c1::venç::…vèncer…}} els teus temors!
+! Si us plau, !<br><br> vostè {{c1::venci::…vèncer…}} tots els dubtes!
+! Anem, !<br><br> nosaltres {{c1::vencem::…vèncer…}} junts aquest repte!
+! Ara, !<br><br> vosaltres {{c1::venceu::…vèncer…}} qualsevol cosa!
+! Immediatament, !<br><br> vostès {{c1::vencin::…vèncer…}} totes les pors!
