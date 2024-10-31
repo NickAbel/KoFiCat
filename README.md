@@ -1,3 +1,8 @@
+# Disaster Relief for Those Affected by the Storms in Valencia
+
+[How to help those affected by the DANA in the Valencia Region](https://valenciasecreta.com/en/help-those-affected-by-dana/)
+[Cómo ayudar a los afectados por la dana](https://elpais.com/espana/comunidad-valenciana/2024-10-30/como-ayudar-a-los-afectados-por-la-dana-donaciones-y-recogida-de-comida-y-enseres.html)
+
 # KoFiCat
 
 This project aims to create a conjugation-first Anki deck for the Catalan language. For an introduction to the KOFI method, please refer to [the KOFI manual](https://www.asiteaboutnothing.net/w_ultimate_spanish_conjugation.php) for Spanish, written by the method's creator.
